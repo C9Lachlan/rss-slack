@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "id": "efea37e4-3672-425d-bb82-777e99da78ea",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Alpha Is Not LLM Monitoring via @sejournal, @Kevin_Indig",
+      "link": "https://www.searchenginejournal.com/the-alpha-is-not-llm-monitoring/561974/",
+      "summary": "Fresh data reveals where AI search value is actually accumulating, and which companies may face painful down rounds.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-alpha-is-not-llm-monitoring/561974/\">The Alpha Is Not LLM Monitoring</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2025-11-27T14:30:35+00:00",
+      "fetched": "2025-11-27T21:10:26.169694+00:00"
+    },
+    {
+      "id": "86506613-84a4-4b29-aa77-bb6cc75ceabd",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "From Organic Search To AI Answers: How To Redesign SEO Content Workflows via @sejournal, @rio_seo",
+      "link": "https://www.searchenginejournal.com/from-organic-search-to-ai-answers-how-to-redesign-seo-content-workflows/558790/",
+      "summary": "As engines favor synthesized answers over blue links, marketing leaders must rethink how content is built, validated, and measured.\n\nThe post <a href=\"https://www.searchenginejournal.com/from-organic-search-to-ai-answers-how-to-redesign-seo-content-workflows/558790/\">From Organic Search To AI Answers: How To Redesign SEO Content Workflows</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2025-11-27T14:00:10+00:00",
+      "fetched": "2025-11-27T21:10:26.169721+00:00"
+    },
+    {
       "id": "30f7d06f-0daf-4429-9758-f535ff8bcba9",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -307,29 +329,7 @@
       "summary": "This week\u2019s SEO Pulse examines the updates influencing how brands monitor demand, attribute growth, and navigate evolving AI-driven SERP experiences.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-gemini-3-arrives-adobe-buys-semrush/561556/\">SEO Pulse: Gemini 3 Arrives &#038; Adobe Buys Semrush</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2025-11-21T14:00:35+00:00",
       "fetched": "2025-11-27T04:12:29.312933+00:00"
-    },
-    {
-      "id": "07592b92-e30e-40b4-b860-b1504e3db676",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "PPC Pulse: Nano Banana Pro, Image Animation & The Top PPC Influencers via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/ppc-pulse-nano-banana-pro-image-animation-the-top-ppc-influencers/561560/",
-      "summary": "This week in PPC covers major creative model updates, new reporting capabilities, and the voices reshaping how practitioners think about impact.\n\nThe post <a href=\"https://www.searchenginejournal.com/ppc-pulse-nano-banana-pro-image-animation-the-top-ppc-influencers/561560/\">PPC Pulse: Nano Banana Pro, Image Animation &#038; The Top PPC Influencers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2025-11-21T13:30:15+00:00",
-      "fetched": "2025-11-27T04:12:29.312948+00:00"
-    },
-    {
-      "id": "eb266358-1edc-4cec-a39a-4ce2ee706a4f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "WordPress SEO Checklist: Get Ready For (Site) Launch via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/wordpress-seo/wordpress-seo-checklist-get-ready-for-site-launch/",
-      "summary": "Learn the WordPress SEO fundamentals that separate high-performing sites from those buried in search results.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-seo/wordpress-seo-checklist-get-ready-for-site-launch/\">WordPress SEO Checklist: Get Ready For (Site) Launch</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2025-11-21T13:00:22+00:00",
-      "fetched": "2025-11-27T04:12:29.312962+00:00"
     }
   ],
-  "last_updated": "2025-11-27T04:12:30.649642+00:00"
+  "last_updated": "2025-11-27T21:10:27.921102+00:00"
 }
