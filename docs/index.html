@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RSS Feed Manager</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .tab-content { display: none; }
+        .tab-content.active { display: block; }
+        .tab-button.active {
+            border-bottom: 2px solid #3b82f6;
+            color: #3b82f6;
+        }
+        .feed-card:hover { transform: translateY(-2px); transition: transform 0.2s; }
+        .article-item:hover { background-color: #f9fafb; }
+    </style>
+</head>
+<body class="bg-gray-50">
+    <!-- Header -->
+    <header class="bg-white shadow-sm border-b">
+        <div class="max-w-7xl mx-auto px-4 py-4 sm:px-6 lg:px-8">
+            <div class="flex items-center justify-between">
+                <div>
+                    <h1 class="text-2xl font-bold text-gray-900">RSS Feed Manager</h1>
+                    <p class="text-sm text-gray-500">Review and publish your daily news digest</p>
+                </div>
+                <div id="last-updated" class="text-sm text-gray-500"></div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Tabs Navigation -->
+    <nav class="bg-white border-b">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex space-x-8">
+                <button onclick="switchTab('feeds')" id="tab-feeds"
+                        class="tab-button active py-4 px-1 text-sm font-medium text-gray-500 hover:text-gray-700 border-b-2 border-transparent">
+                    Feeds
+                </button>
+                <button onclick="switchTab('articles')" id="tab-articles"
+                        class="tab-button py-4 px-1 text-sm font-medium text-gray-500 hover:text-gray-700 border-b-2 border-transparent">
+                    Articles
+                </button>
+                <button onclick="switchTab('settings')" id="tab-settings"
+                        class="tab-button py-4 px-1 text-sm font-medium text-gray-500 hover:text-gray-700 border-b-2 border-transparent">
+                    Settings
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="max-w-7xl mx-auto px-4 py-8 sm:px-6 lg:px-8">
+
+        <!-- Feeds Tab -->
+        <div id="content-feeds" class="tab-content active">
+            <div class="mb-6 flex justify-between items-center">
+                <h2 class="text-xl font-semibold text-gray-900">RSS Feeds</h2>
+                <button onclick="showAddFeedModal()"
+                        class="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg text-sm font-medium">
+                    + Add Feed
+                </button>
+            </div>
+            <div id="feeds-list" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+                <!-- Feeds will be loaded here -->
+            </div>
+        </div>
+
+        <!-- Articles Tab -->
+        <div id="content-articles" class="tab-content">
+            <div class="mb-6 flex justify-between items-center flex-wrap gap-4">
+                <h2 class="text-xl font-semibold text-gray-900">Articles</h2>
+                <div class="flex gap-2 items-center">
+                    <select id="time-filter" onchange="filterArticles()"
+                            class="border border-gray-300 rounded-lg px-3 py-2 text-sm">
+                        <option value="24">Last 24 hours</option>
+                        <option value="168">Last 7 days</option>
+                    </select>
+                    <button onclick="selectAllArticles()"
+                            class="border border-gray-300 px-4 py-2 rounded-lg text-sm hover:bg-gray-50">
+                        Select All
+                    </button>
+                    <button onclick="deselectAllArticles()"
+                            class="border border-gray-300 px-4 py-2 rounded-lg text-sm hover:bg-gray-50">
+                        Deselect All
+                    </button>
+                    <button onclick="publishSelected()"
+                            class="bg-green-600 hover:bg-green-700 text-white px-4 py-2 rounded-lg text-sm font-medium">
+                        Publish Selected
+                    </button>
+                </div>
+            </div>
+            <div id="articles-list" class="space-y-2">
+                <!-- Articles will be loaded here -->
+            </div>
+        </div>
+
+        <!-- Settings Tab -->
+        <div id="content-settings" class="tab-content">
+            <h2 class="text-xl font-semibold text-gray-900 mb-6">Settings</h2>
+            <div class="bg-white rounded-lg shadow-sm p-6 max-w-2xl">
+                <form id="settings-form" onsubmit="saveSettings(event)">
+                    <div class="space-y-6">
+                        <!-- Reminder Time -->
+                        <div>
+                            <label class="block text-sm font-medium text-gray-700 mb-2">
+                                Daily Reminder Time
+                            </label>
+                            <input type="time" id="reminder-time" required
+                                   class="w-full border border-gray-300 rounded-lg px-3 py-2">
+                        </div>
+
+                        <!-- Timezone -->
+                        <div>
+                            <label class="block text-sm font-medium text-gray-700 mb-2">
+                                Timezone
+                            </label>
+                            <select id="reminder-timezone" required
+                                    class="w-full border border-gray-300 rounded-lg px-3 py-2">
+                                <option value="Australia/Sydney">Australia/Sydney (AEST)</option>
+                                <option value="Australia/Melbourne">Australia/Melbourne (AEST)</option>
+                                <option value="Australia/Brisbane">Australia/Brisbane (AEST)</option>
+                                <option value="Australia/Perth">Australia/Perth (AWST)</option>
+                                <option value="America/New_York">America/New_York (EST)</option>
+                                <option value="America/Los_Angeles">America/Los_Angeles (PST)</option>
+                                <option value="Europe/London">Europe/London (GMT)</option>
+                                <option value="UTC">UTC</option>
+                            </select>
+                        </div>
+
+                        <!-- Slack User ID -->
+                        <div>
+                            <label class="block text-sm font-medium text-gray-700 mb-2">
+                                Slack User ID (for DM reminders)
+                            </label>
+                            <input type="text" id="slack-user-id" placeholder="U1234567890"
+                                   class="w-full border border-gray-300 rounded-lg px-3 py-2">
+                            <p class="text-xs text-gray-500 mt-1">Find your user ID in Slack profile settings</p>
+                        </div>
+
+                        <!-- News Channel ID -->
+                        <div>
+                            <label class="block text-sm font-medium text-gray-700 mb-2">
+                                News Channel ID (for published articles)
+                            </label>
+                            <input type="text" id="news-channel-id" placeholder="C9876543210"
+                                   class="w-full border border-gray-300 rounded-lg px-3 py-2">
+                            <p class="text-xs text-gray-500 mt-1">Find channel ID in Slack channel details</p>
+                        </div>
+
+                        <!-- Message Template -->
+                        <div>
+                            <label class="block text-sm font-medium text-gray-700 mb-2">
+                                Message Template
+                            </label>
+                            <textarea id="message-template" rows="4" required
+                                      class="w-full border border-gray-300 rounded-lg px-3 py-2 font-mono text-sm"
+                                      placeholder="📰 *Daily News Digest*&#10;&#10;{articles}&#10;&#10;_Curated from {feed_count} sources_"></textarea>
+                            <p class="text-xs text-gray-500 mt-1">
+                                Use <code>{articles}</code>, <code>{feed_count}</code>, <code>{count}</code> as placeholders
+                            </p>
+                        </div>
+
+                        <!-- Save Button -->
+                        <div class="pt-4">
+                            <button type="submit"
+                                    class="w-full bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg font-medium">
+                                Save Settings
+                            </button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </main>
+
+    <!-- Add/Edit Feed Modal -->
+    <div id="feed-modal" class="hidden fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center p-4">
+        <div class="bg-white rounded-lg shadow-xl max-w-md w-full p-6">
+            <h3 id="modal-title" class="text-lg font-semibold mb-4">Add Feed</h3>
+            <form id="feed-form" onsubmit="saveFeed(event)">
+                <input type="hidden" id="feed-id">
+                <div class="space-y-4">
+                    <div>
+                        <label class="block text-sm font-medium text-gray-700 mb-1">Name</label>
+                        <input type="text" id="feed-name" required
+                               class="w-full border border-gray-300 rounded px-3 py-2">
+                    </div>
+                    <div>
+                        <label class="block text-sm font-medium text-gray-700 mb-1">URL</label>
+                        <input type="url" id="feed-url" required
+                               class="w-full border border-gray-300 rounded px-3 py-2">
+                    </div>
+                    <div>
+                        <label class="block text-sm font-medium text-gray-700 mb-1">Description</label>
+                        <textarea id="feed-description" rows="2"
+                                  class="w-full border border-gray-300 rounded px-3 py-2"></textarea>
+                    </div>
+                    <div>
+                        <label class="block text-sm font-medium text-gray-700 mb-1">Keywords (comma-separated)</label>
+                        <input type="text" id="feed-keywords" placeholder="python, ai, security"
+                               class="w-full border border-gray-300 rounded px-3 py-2">
+                    </div>
+                    <div class="flex items-center">
+                        <input type="checkbox" id="feed-enabled" checked
+                               class="rounded border-gray-300 text-blue-600">
+                        <label for="feed-enabled" class="ml-2 text-sm text-gray-700">Enabled</label>
+                    </div>
+                </div>
+                <div class="mt-6 flex gap-2">
+                    <button type="button" onclick="closeFeedModal()"
+                            class="flex-1 border border-gray-300 px-4 py-2 rounded hover:bg-gray-50">
+                        Cancel
+                    </button>
+                    <button type="submit"
+                            class="flex-1 bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded">
+                        Save
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- Loading Spinner -->
+    <div id="loading" class="hidden fixed inset-0 bg-black bg-opacity-30 flex items-center justify-center">
+        <div class="bg-white rounded-lg p-6 shadow-xl">
+            <div class="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-600 mx-auto"></div>
+            <p class="mt-4 text-gray-700">Processing...</p>
+        </div>
+    </div>
+
+    <!-- Toast Notification -->
+    <div id="toast" class="hidden fixed top-4 right-4 bg-green-600 text-white px-6 py-3 rounded-lg shadow-lg">
+        <p id="toast-message"></p>
+    </div>
+
+    <script src="config.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

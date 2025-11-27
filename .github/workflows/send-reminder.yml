@@ -1,0 +1,35 @@
+name: Send Reminder
+
+on:
+  # Run daily at 8:30 AM AEST (10:30 PM UTC previous day)
+  # Note: This cron schedule can be updated via update-settings workflow
+  schedule:
+    - cron: '30 22 * * *'
+
+  # Allow manual triggers
+  workflow_dispatch:
+
+jobs:
+  remind:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Send reminder DM
+        env:
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+          SLACK_USER_ID: ${{ secrets.SLACK_USER_ID }}
+        run: |
+          python scripts/send_reminder.py

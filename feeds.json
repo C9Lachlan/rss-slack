@@ -1,28 +1,28 @@
 {
   "feeds": [
     {
+      "id": "550e8400-e29b-41d4-a716-446655440000",
       "name": "Python Insider",
       "url": "https://blog.python.org/feeds/posts/default",
+      "description": "Official Python blog with release announcements and community news",
       "enabled": true,
       "keywords": ["release", "security", "announcement"]
     },
     {
+      "id": "6ba7b810-9dad-11d1-80b4-00c04fd430c8",
       "name": "GitHub Blog",
       "url": "https://github.blog/feed/",
+      "description": "GitHub product updates, features, and engineering insights",
       "enabled": true,
       "keywords": ["features", "security", "api"]
     },
     {
+      "id": "7c9e6679-7425-40de-944b-e07fc1f90ae7",
       "name": "Hacker News (Best)",
       "url": "https://hnrss.org/best",
+      "description": "Top stories from Hacker News community",
       "enabled": false,
-      "keywords": ["python", "ai", "devops"],
-      "note": "Example disabled feed - enable by setting enabled: true"
+      "keywords": ["python", "ai", "devops"]
     }
-  ],
-  "settings": {
-    "min_relevance_score": 0.5,
-    "max_posts_per_run": 10,
-    "hours_lookback": 24
-  }
+  ]
 }

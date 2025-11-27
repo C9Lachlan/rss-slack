@@ -1,0 +1,8 @@
+{
+  "reminder_time": "08:30",
+  "reminder_timezone": "Australia/Sydney",
+  "slack_user_id": "",
+  "news_channel_id": "",
+  "message_template": "📰 *Daily News Digest*\n\n{articles}\n\n_Curated from {feed_count} sources_",
+  "github_pages_url": "https://lachlancowie.github.io/rss-slack-consolidator/"
+}
