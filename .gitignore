@@ -39,11 +39,14 @@ env/
 .env.local
 .env.*.local
 
-# Database
+# Database files (but NOT tracking.json - we want that committed!)
 data/*.db
 data/*.db-journal
 *.sqlite
 *.sqlite3
+
+# Note: data/tracking.json is intentionally NOT ignored
+# It must be committed for GitHub Actions to track posted items
 
 # Logs
 logs/*.log

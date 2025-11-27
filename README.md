@@ -1,20 +1,40 @@
 # RSS Slack Consolidator
 
-An automated system that consolidates multiple RSS feeds, reviews content for relevance, and publishes selected items to Slack channels.
+An automated system that consolidates multiple RSS feeds, reviews content for relevance, and publishes selected items to Slack channels. **Runs entirely on GitHub Actions** - zero infrastructure, zero cost!
 
 ## 🎯 Purpose
 
-Automate monitoring of multiple RSS feeds and surface relevant content to team Slack channels, eliminating manual feed checking and ensuring important updates reach your team.
+Automate monitoring of multiple RSS feeds and surface relevant content to team Slack channels, eliminating manual feed checking and ensuring important updates reach your team. Powered by GitHub Actions for hands-free, scheduled execution.
 
 ## 🚀 Quick Start
 
 ### Prerequisites
 
-- Python 3.11+
+- GitHub account (with Actions enabled)
 - Slack workspace with admin access
 - RSS feeds you want to monitor
+- Python 3.11+ (for local testing only)
 
 ### Installation
+
+**1. Fork or clone this repository**
+
+**2. Set up Slack Bot** (see section below)
+
+**3. Configure GitHub Secrets:**
+   - Go to: **Settings → Secrets and variables → Actions**
+   - Add two secrets:
+     - `SLACK_BOT_TOKEN` - Your bot token (starts with `xoxb-`)
+     - `SLACK_CHANNEL_ID` - Your channel ID (e.g., `C1234567890`)
+
+**4. Configure RSS feeds:**
+   - Edit `feeds.json`
+   - Add/modify feeds and keywords
+   - Commit and push
+
+**5. Done!** GitHub Actions will run hourly and post to Slack.
+
+### Local Testing (Optional)
 
 ```bash
 # Clone repository
@@ -31,6 +51,9 @@ pip install -r requirements.txt
 # Set up environment variables
 cp .env.example .env
 # Edit .env with your Slack tokens
+
+# Run once
+python main.py
 ```
 
 ### Slack Bot Setup
@@ -51,219 +74,319 @@ cp .env.example .env
 
 ### Configuration
 
-Edit `.env`:
-```bash
-SLACK_BOT_TOKEN=xoxb-your-token-here
-SLACK_CHANNEL_ID=C1234567890
-DATABASE_PATH=./data/feeds.db
-CHECK_INTERVAL=3600
-MIN_RELEVANCE_SCORE=0.5
+**feeds.json** - Configure RSS feeds and settings:
+```json
+{
+  "feeds": [
+    {
+      "name": "Python Insider",
+      "url": "https://blog.python.org/feeds/posts/default",
+      "enabled": true,
+      "keywords": ["release", "security"]
+    }
+  ],
+  "settings": {
+    "min_relevance_score": 0.5,
+    "max_posts_per_run": 10
+  }
+}
 ```
+
+**GitHub Secrets** (Settings → Secrets → Actions):
+- `SLACK_BOT_TOKEN` - Slack bot token
+- `SLACK_CHANNEL_ID` - Target Slack channel
 
 ### Usage
 
+**Automated (GitHub Actions):**
+- Runs every hour automatically
+- View logs: **Actions** tab → **RSS to Slack**
+- Manual trigger: **Actions** → **Run workflow**
+
+**Local testing:**
 ```bash
-# Run the consolidator
+# Test locally before pushing
 python main.py
 
-# Add a new RSS feed (when CLI is implemented)
-python cli.py add-feed "https://example.com/feed.xml"
+# Check what was tracked
+cat data/tracking.json
+```
 
-# List tracked feeds
-python cli.py list-feeds
-
-# Test feed parsing
-python cli.py test-feed "https://example.com/feed.xml"
+**Managing feeds:**
+```bash
+# Add new feed
+# Edit feeds.json, add entry, then:
+git add feeds.json
+git commit -m "feat: Add new RSS feed"
+git push
 ```
 
 ## 📁 Project Structure
 
 ```
 rss-slack-consolidator/
-├── main.py                 # Entry point
-├── requirements.txt        # Python dependencies
-├── README.md              # This file
-├── .env.example           # Environment variable template
-├── .env                   # Your local config (git-ignored)
-├── src/
-│   ├── __init__.py
-│   ├── feed_parser.py     # RSS parsing logic
-│   ├── slack_poster.py    # Slack integration
-│   ├── database.py        # SQLite operations
-│   ├── scheduler.py       # Periodic job management
-│   ├── filters.py         # Content relevance scoring
-│   └── config.py          # Configuration management
+├── main.py                      # Complete implementation (~200 lines)
+├── feeds.json                   # RSS feed configuration
+├── requirements.txt             # Python dependencies
+├── README.md                    # This file
+├── .env.example                 # Local testing env vars
+├── .github/
+│   └── workflows/
+│       └── rss-slack.yml        # GitHub Actions workflow (hourly cron)
 ├── data/
-│   └── feeds.db           # SQLite database (auto-created)
-├── tests/
-│   └── test_parser.py     # Unit tests
-├── logs/
-│   └── app.log            # Application logs
+│   └── tracking.json            # Posted items (auto-updated by Actions)
 └── .claude/
-    └── agents/            # Claude Code subagents
+    └── agents/                  # Claude Code subagents
 ```
+
+**Why single-file architecture:**
+- ✅ Easy to understand and modify
+- ✅ No complex module dependencies
+- ✅ Perfect for GitHub Actions execution
+- ✅ All logic in one place (~200 lines)
 
 ## 🤖 Claude Code Integration
 
 This project uses Claude Code with specialized subagents:
 
 - **general-assistant** - Day-to-day development
-- **database-specialist** - SQLite operations
-- **deployment-specialist** - Railway/Render deployments
+- **deployment-specialist** - GitHub Actions workflows
 
 See [CLAUDE.md](CLAUDE.md) for full configuration.
 
 ## 🛠️ Development
 
-### Running Tests
+### Adding a New Feed
 
-```bash
-pytest tests/ -v
-pytest tests/ --cov=src/
+1. Edit `feeds.json`
+2. Add feed entry with URL and optional keywords
+3. Test locally: `python main.py`
+4. Commit and push: GitHub Actions handles the rest
+
+**Example feed entry:**
+```json
+{
+  "name": "Django News",
+  "url": "https://django-news.com/issues.rss",
+  "enabled": true,
+  "keywords": ["release", "security", "tutorial"]
+}
 ```
 
-### Code Style
+### Testing Changes
 
 ```bash
-# Format code
-black src/ tests/
+# Test locally first
+python main.py
 
-# Lint
-flake8 src/ tests/
+# Check tracking works
+cat data/tracking.json
+
+# Push to test in Actions
+git commit -m "test: Try new feed"
+git push
+
+# View workflow logs
+gh run watch
+# Or check Actions tab in GitHub
 ```
-
-### Adding a New Feed Source
-
-1. Identify RSS feed URL
-2. Test parsing: `python cli.py test-feed <url>`
-3. Add to database: `python cli.py add-feed <url>`
-4. Monitor in logs for any parsing errors
 
 ## 🚀 Deployment
 
-### Railway (Recommended)
+**No deployment needed!** Everything runs on GitHub Actions automatically.
 
-```bash
-# Install Railway CLI
-npm install -g railway
+### How it works:
 
-# Login and initialize
-railway login
-railway init
+1. **GitHub Actions workflow** (`.github/workflows/rss-slack.yml`):
+   - Runs on cron schedule (default: hourly)
+   - Checks out your code
+   - Installs dependencies
+   - Runs `main.py`
+   - Commits updated `tracking.json`
 
-# Set environment variables
-railway variables set SLACK_BOT_TOKEN="xoxb-..."
-railway variables set SLACK_CHANNEL_ID="C..."
+2. **Secrets** stored in GitHub (Settings → Secrets)
+3. **Tracking data** committed back to repo
+4. **Zero infrastructure** - no servers, no containers, no bills
 
-# Deploy
-railway up
+### Customizing schedule:
 
-# Monitor
-railway logs
+Edit `.github/workflows/rss-slack.yml`:
+```yaml
+schedule:
+  - cron: '0 */2 * * *'  # Every 2 hours
+  - cron: '*/30 * * * *' # Every 30 minutes
 ```
 
-### Render
+### Monitoring:
 
-1. Connect GitHub repository
-2. Select "Background Worker" service type
-3. Set build command: `pip install -r requirements.txt`
-4. Set start command: `python main.py`
-5. Add environment variables
-6. Deploy
+- **GitHub Actions tab** - View all runs
+- **Workflow logs** - See what was posted
+- **tracking.json** - Git history shows all activity
 
-See [CLAUDE.md](CLAUDE.md) for detailed deployment instructions.
+## 📊 Data Storage
 
-## 📊 Database Schema
+**No database needed!** Uses simple JSON files:
 
-### feeds table
-Tracks configured RSS feed sources
-- URL, title, check frequency
-- Last check timestamp, error tracking
-- Active/inactive status
+### feeds.json
+```json
+{
+  "feeds": [...],
+  "settings": {
+    "min_relevance_score": 0.5,
+    "max_posts_per_run": 10
+  }
+}
+```
 
-### feed_items table
-Stores parsed feed items
-- GUID (for duplicate detection)
-- Title, link, description
-- Relevance score
-- Slack posting status
+### data/tracking.json (auto-managed)
+```json
+{
+  "posted_items": ["item-guid-1", "item-guid-2"],
+  "last_check": "2025-11-27T10:00:00+00:00",
+  "stats": {
+    "total_items_posted": 42,
+    "last_run_posted": 3
+  }
+}
+```
+
+**Benefits:**
+- ✅ Human-readable
+- ✅ Git history = audit trail
+- ✅ No database setup
+- ✅ Easy to debug
 
 ## 🔧 Configuration
 
-### Environment Variables
+### GitHub Secrets (Required)
 
-| Variable | Description | Default | Required |
-|----------|-------------|---------|----------|
-| `SLACK_BOT_TOKEN` | Slack Bot OAuth Token | - | Yes |
-| `SLACK_CHANNEL_ID` | Target Slack channel ID | - | Yes |
-| `DATABASE_PATH` | SQLite database path | `./data/feeds.db` | No |
-| `CHECK_INTERVAL` | Feed check interval (seconds) | `3600` | No |
-| `LOG_LEVEL` | Logging level | `INFO` | No |
-| `MIN_RELEVANCE_SCORE` | Minimum score to post | `0.5` | No |
-| `MAX_POSTS_PER_RUN` | Max items per cycle | `10` | No |
+Set these in **Settings → Secrets and variables → Actions**:
+
+| Secret | Description | Example |
+|--------|-------------|---------|
+| `SLACK_BOT_TOKEN` | Slack Bot OAuth Token | `xoxb-123...` |
+| `SLACK_CHANNEL_ID` | Target Slack channel ID | `C1234567890` |
+
+### feeds.json Settings
+
+| Setting | Description | Default |
+|---------|-------------|---------|
+| `min_relevance_score` | Minimum score to post (0.0-1.0) | `0.5` |
+| `max_posts_per_run` | Max items per run | `10` |
+| `hours_lookback` | How far back to check | `24` |
+
+### Per-feed Configuration
+
+| Field | Description | Required |
+|-------|-------------|----------|
+| `name` | Human-readable feed name | Yes |
+| `url` | RSS feed URL | Yes |
+| `enabled` | Whether to check this feed | Yes |
+| `keywords` | Keywords for relevance scoring | No (empty = post all) |
 
 ## 🎨 Customization
 
 ### Content Filtering
 
-Edit `src/filters.py` to customize relevance scoring:
-- Keyword matching
-- Source credibility
-- Recency weighting
-- Custom scoring logic
+The `calculate_relevance()` function in `main.py` (line 64) scores items:
+- Keyword matching (configurable in feeds.json)
+- Simple scoring: matches / total keywords
+- Easy to extend with custom logic
+
+**Example enhancement:**
+```python
+def calculate_relevance(entry, feed_config):
+    # Add date weighting, source reputation, etc.
+    score = keyword_score * 0.7 + recency_score * 0.3
+    return score
+```
 
 ### Slack Message Format
 
-Edit `src/slack_poster.py` to customize message appearance:
-- Use Slack Block Kit for rich formatting
-- Add custom buttons and actions
-- Include threading for conversations
+The `post_to_slack()` function (line 83) formats messages:
+- Currently uses simple markdown
+- Easily extend to Slack Block Kit
+- Add buttons, images, reactions
+
+**Example rich format:**
+```python
+blocks=[{
+    "type": "section",
+    "text": {"type": "mrkdwn", "text": f"*{title}*\n{summary}"},
+    "accessory": {
+        "type": "button",
+        "text": {"type": "plain_text", "text": "Read"},
+        "url": link
+    }
+}]
+```
 
 ## 📈 Monitoring
 
-### Check Logs
+### GitHub Actions
 
+**View runs:**
+- Go to **Actions** tab in GitHub
+- Click **RSS to Slack** workflow
+- See all runs with timestamps and status
+
+**View logs:**
 ```bash
-# Application logs
-tail -f logs/app.log
+# Using GitHub CLI
+gh run list --workflow=rss-slack.yml
+gh run view --log
 
-# Production logs (Railway)
-railway logs --tail 100
-
-# Production logs (Render)
-render logs <service-name>
+# Or in browser: Actions tab → Click run → View logs
 ```
 
-### Database Inspection
+### Tracking Data
 
 ```bash
-# Open database
-sqlite3 data/feeds.db
+# View what's been posted
+cat data/tracking.json
 
-# Check feed status
-SELECT * FROM feeds;
+# Check git history to see posting activity
+git log --oneline data/tracking.json
 
-# Check unposted items
-SELECT COUNT(*) FROM feed_items WHERE posted_to_slack = 0;
+# See stats
+cat data/tracking.json | jq '.stats'
 ```
 
 ## 🐛 Troubleshooting
 
-### Feeds Not Updating
-- Check `last_checked` timestamp in `feeds` table
-- Verify `CHECK_INTERVAL` setting
-- Look for errors in logs
+### Workflow Not Running
+- **Check Actions enabled:** Settings → Actions → Allow all actions
+- **Check cron schedule:** Verify syntax in `.github/workflows/rss-slack.yml`
+- **Note:** GitHub cron can delay up to 10 minutes
 
-### Slack Posts Not Appearing
-- Verify bot is invited to channel
-- Check `SLACK_CHANNEL_ID` is correct
-- Confirm bot has `chat:write` permission
-- Check Slack API rate limits
+### No Posts to Slack
+- **Check secrets:** Settings → Secrets → Verify `SLACK_BOT_TOKEN` and `SLACK_CHANNEL_ID`
+- **Invite bot:** Run `/invite @YourBot` in Slack channel
+- **Check bot permissions:** Needs `chat:write` and `chat:write.public`
+- **View logs:** Actions tab → Click run → Check error messages
 
-### Database Errors
-- Ensure `data/` directory exists
-- Check file permissions
-- Verify SQLite version compatibility
+### Duplicate Posts
+- **Check tracking.json commits:** Ensure workflow is committing changes
+- **Verify workflow permissions:** Actions need write access to repo
+- **Check git config:** Workflow should commit as github-actions[bot]
+
+### Items Not Posting
+- **Relevance score too high:** Lower `min_relevance_score` in feeds.json
+- **No keyword matches:** Remove or adjust keywords
+- **Max posts reached:** Increase `max_posts_per_run`
+- **Already posted:** Item GUID exists in tracking.json
+
+### Testing Issues
+```bash
+# Test locally first
+python main.py
+
+# Check for errors
+echo $?  # Should be 0
+
+# Verify tracking updates
+cat data/tracking.json
+```
 
 ## 📝 Contributing
 
@@ -290,6 +413,43 @@ For issues and questions:
 - Review logs for error details
 - Open GitHub issue with details
 
+## 💰 Cost & Limits
+
+**GitHub Actions Free Tier:**
+- ✅ 2,000 minutes/month (public repos: unlimited)
+- ✅ ~3 minutes per run = ~650 runs/month
+- ✅ Hourly schedule = ~720 runs/month
+- ✅ **Conclusion: Plenty for this use case!**
+
+**Scaling considerations:**
+- Each run takes 1-3 minutes (install deps, check feeds, post)
+- Hourly checks use ~50-90 minutes/month
+- Can run every 30 mins and still stay under limit
+
+## 🌟 Why GitHub Actions?
+
+**vs. Traditional deployment (Railway/Render/EC2):**
+- ❌ ~$5-20/month → ✅ $0/month
+- ❌ Server management → ✅ Zero infrastructure
+- ❌ Docker/containers → ✅ Simple Python script
+- ❌ Complex deployments → ✅ Git push = deployed
+- ❌ Separate monitoring → ✅ Built-in logs
+
+**Perfect for:**
+- ✅ Scheduled tasks (cron jobs)
+- ✅ Simple automation
+- ✅ RSS/feed processing
+- ✅ Periodic API calls
+- ✅ Notification bots
+
+**Not ideal for:**
+- ❌ Real-time processing
+- ❌ High-frequency tasks (< every 5 min)
+- ❌ Long-running processes (> 6 hours)
+- ❌ Stateful applications
+
 ---
 
-Built with Claude Code 🤖
+**Built with Claude Code** 🤖
+**Powered by GitHub Actions** ⚡
+**Zero infrastructure, zero cost!** 💰

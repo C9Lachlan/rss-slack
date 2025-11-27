@@ -4,9 +4,6 @@ feedparser==6.0.10
 # Slack Integration
 slack-sdk==3.23.0
 
-# Task Scheduling
-APScheduler==3.10.4
-
 # Environment Configuration
 python-dotenv==1.0.0
 

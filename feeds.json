@@ -1,0 +1,28 @@
+{
+  "feeds": [
+    {
+      "name": "Python Insider",
+      "url": "https://blog.python.org/feeds/posts/default",
+      "enabled": true,
+      "keywords": ["release", "security", "announcement"]
+    },
+    {
+      "name": "GitHub Blog",
+      "url": "https://github.blog/feed/",
+      "enabled": true,
+      "keywords": ["features", "security", "api"]
+    },
+    {
+      "name": "Hacker News (Best)",
+      "url": "https://hnrss.org/best",
+      "enabled": false,
+      "keywords": ["python", "ai", "devops"],
+      "note": "Example disabled feed - enable by setting enabled: true"
+    }
+  ],
+  "settings": {
+    "min_relevance_score": 0.5,
+    "max_posts_per_run": 10,
+    "hours_lookback": 24
+  }
+}
