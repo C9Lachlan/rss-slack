@@ -27,6 +27,7 @@ An automated system that consolidates multiple RSS feeds, intelligently reviews 
 - **Storage:** JSON files (feed config, tracking posted items)
 - **Scheduling:** GitHub Actions (cron-based periodic execution)
 - **Deployment:** GitHub Actions (runs directly in GitHub infrastructure)
+- **Dev Tools:** GitHub CLI (gh) v2.83.1 installed and ready
 
 ## 🤖 Subagents (Specialized AI Assistants)
 

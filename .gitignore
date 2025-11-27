@@ -69,3 +69,11 @@ htmlcov/
 # OS
 Thumbs.db
 .DS_Store
+
+# Node.js / React
+ui-src/node_modules/
+ui-src/dist/
+ui-src/.vite/
+docs-backup/
+*.lock
+package-lock.json
