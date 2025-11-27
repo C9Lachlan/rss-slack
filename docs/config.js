@@ -7,7 +7,7 @@
 // Create token at: https://github.com/settings/tokens?type=beta
 
 const CONFIG = {
-    owner: 'lachlancowie',
-    repo: 'rss-slack-consolidator',
-    githubToken: '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'  // ⚠️ Replace this with your actual token
+    owner: 'C9Lachlan',
+    repo: 'rss-slack',
+    githubToken: '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'
 };
