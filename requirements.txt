@@ -1,0 +1,17 @@
+# RSS Feed Parsing
+feedparser==6.0.10
+
+# Slack Integration
+slack-sdk==3.23.0
+
+# Task Scheduling
+APScheduler==3.10.4
+
+# Environment Configuration
+python-dotenv==1.0.0
+
+# Development Dependencies (optional)
+# pytest==7.4.3
+# pytest-cov==4.1.0
+# black==23.11.0
+# flake8==6.1.0
