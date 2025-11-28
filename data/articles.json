@@ -1,6 +1,50 @@
 {
   "articles": [
     {
+      "id": "b46962c9-14af-4196-ad13-a8e2de60defd",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Mueller Says Sites In A \u2018Bad State\u2019 May Need To Start Over via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/googles-mueller-says-sites-in-a-bad-state-may-need-to-start-over/562109/",
+      "summary": "Google's John Mueller says sites with low-quality AI content should rethink their purpose rather than manually rewrite pages. Starting fresh may be faster than recovering.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-mueller-says-sites-in-a-bad-state-may-need-to-start-over/562109/\">Google&#8217;s Mueller Says Sites In A \u2018Bad State\u2019 May Need To Start Over</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2025-11-28T17:15:35+00:00",
+      "fetched": "2025-11-28T21:09:41.521716+00:00"
+    },
+    {
+      "id": "e59a76b4-c42a-481e-935f-dc508642dcff",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "SEO Pulse: ChatGPT Gets Shopping & What Drives AI Citations via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/seo-pulse-chatgpt-gets-shopping-what-drives-ai-citations/562095/",
+      "summary": "This week\u2019s SEO Pulse examines new data what drives AI citations, plus ChatGPT launches shopping research. Your quick catch-up on what practitioners need to know.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-chatgpt-gets-shopping-what-drives-ai-citations/562095/\">SEO Pulse: ChatGPT Gets Shopping &#038; What Drives AI Citations</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2025-11-28T15:15:22+00:00",
+      "fetched": "2025-11-28T21:09:41.521743+00:00"
+    },
+    {
+      "id": "ec018635-bdcf-49b9-94ba-7f1c75f81519",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Impact AI Is Having On The Marketing Ecosystem",
+      "link": "https://www.searchenginejournal.com/the-impact-ai-is-having-on-the-marketing-ecosystem/562027/",
+      "summary": "Harry Clarkson-Bennett dismantles AI hype, revealing how real marketing power still lies in creators, communities, and cross-platform customer journeys.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-impact-ai-is-having-on-the-marketing-ecosystem/562027/\">The Impact AI Is Having On The Marketing Ecosystem</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2025-11-28T14:30:20+00:00",
+      "fetched": "2025-11-28T21:09:41.521762+00:00"
+    },
+    {
+      "id": "97c3ce36-6d9d-4afd-beed-1cd877f6fcd0",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Paid Ad Scheduling Across Time Zones That Actually Works via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/paid-ad-scheduling-across-time-zones-that-actually-works/560894/",
+      "summary": "Ad scheduling becomes a performance multiplier when campaigns align with regional time zones, local behavior, and data-driven delivery windows.\n\nThe post <a href=\"https://www.searchenginejournal.com/paid-ad-scheduling-across-time-zones-that-actually-works/560894/\">Paid Ad Scheduling Across Time Zones That Actually Works</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2025-11-28T13:00:55+00:00",
+      "fetched": "2025-11-28T21:09:41.521785+00:00"
+    },
+    {
       "id": "efea37e4-3672-425d-bb82-777e99da78ea",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -285,51 +329,7 @@
       "summary": "A strategic guide to building a measurable growth loop that connects authentic founder voices to full-funnel results.\n\nThe post <a href=\"https://www.searchenginejournal.com/founder-led-growth-loop-how-to-amplify-measure-executive-voice-real-roi/560585/\">The Founder-Led Growth Loop: How To Amplify And Measure Executive Voice For Real ROI</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2025-11-24T13:00:38+00:00",
       "fetched": "2025-11-27T04:12:29.312873+00:00"
-    },
-    {
-      "id": "b8b033c2-6e8a-44e0-93b7-3ac641d93cff",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why Web Hosting Is A Critical Factor To Maximize SEO Results via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/technical-seo/web-hosting/",
-      "summary": "Treat hosting as strategic SEO infrastructure, not a cost line, because no optimization can outrun a slow or unstable server.\n\nThe post <a href=\"https://www.searchenginejournal.com/technical-seo/web-hosting/\">Why Web Hosting Is A Critical Factor To Maximize SEO Results</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2025-11-22T01:31:30+00:00",
-      "fetched": "2025-11-27T04:12:29.312888+00:00"
-    },
-    {
-      "id": "9b2f9c06-a7e1-4241-92ec-cb9667cea0e5",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Pew: 84% Of Adults Use YouTube As Platform Growth Continues via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/pew-84-of-adults-use-youtube-as-platform-growth-continues/561633/",
-      "summary": "Pew\u2019s data shows YouTube and Facebook lead U.S. social media use, while TikTok, Instagram, WhatsApp and Reddit grow and newer platforms remain niche.\n\nThe post <a href=\"https://www.searchenginejournal.com/pew-84-of-adults-use-youtube-as-platform-growth-continues/561633/\">Pew: 84% Of Adults Use YouTube As Platform Growth Continues</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2025-11-21T20:50:01+00:00",
-      "fetched": "2025-11-27T04:12:29.312902+00:00"
-    },
-    {
-      "id": "46ab5262-158c-4447-8843-102eb5170620",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google CTR Trends In Q3: Branded Clicks Fan Out, Longer Queries Hold via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-ctr-trends-in-q3-branded-clicks-fan-out-longer-queries-hold/561622/",
-      "summary": "Advanced Web Ranking\u2019s Q3 2025 CTR report shows branded desktop clicks spreading across more results, while commercial and local SERPs keep tightening.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ctr-trends-in-q3-branded-clicks-fan-out-longer-queries-hold/561622/\">Google CTR Trends In Q3: Branded Clicks Fan Out, Longer Queries Hold</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2025-11-21T18:21:55+00:00",
-      "fetched": "2025-11-27T04:12:29.312917+00:00"
-    },
-    {
-      "id": "08b48b79-1bee-4a6e-ac85-9d8eeebf301a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "SEO Pulse: Gemini 3 Arrives & Adobe Buys Semrush via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-gemini-3-arrives-adobe-buys-semrush/561556/",
-      "summary": "This week\u2019s SEO Pulse examines the updates influencing how brands monitor demand, attribute growth, and navigate evolving AI-driven SERP experiences.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-gemini-3-arrives-adobe-buys-semrush/561556/\">SEO Pulse: Gemini 3 Arrives &#038; Adobe Buys Semrush</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2025-11-21T14:00:35+00:00",
-      "fetched": "2025-11-27T04:12:29.312933+00:00"
     }
   ],
-  "last_updated": "2025-11-27T21:10:27.921102+00:00"
+  "last_updated": "2025-11-28T21:09:42.852653+00:00"
 }
