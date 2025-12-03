@@ -1,6 +1,116 @@
 {
   "articles": [
     {
+      "id": "be5dce6a-9872-42c1-a43d-a083b2a33f05",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "Google AI Mode sends traffic on 69% of transactional queries: New data",
+      "link": "https://searchengineland.com/google-ai-mode-traffic-transactional-queries-data-465604",
+      "summary": "<div><img alt=\"AI-generated answer\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/ai-generated-answer.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>New UX testing shows AI Mode doesn\u2019t kill high-value clicks. Users still visit websites when choosing doctors, dentists, and other services.",
+      "published": "2025-12-03T17:49:41+00:00",
+      "fetched": "2025-12-03T21:11:06.566032+00:00"
+    },
+    {
+      "id": "c4684957-b53b-4042-9fa8-03ab5a435e10",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "Meta: Native Reels ads can lift purchase intent 5.3x",
+      "link": "https://searchengineland.com/meta-native-reels-ads-can-lift-purchase-intent-5-3x-465615",
+      "summary": "<div><img alt=\"Rethinking Meta Ads AI and best practices for better results\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/05/Rethinking-Meta-Ads-AI-and-best-practices-for-better-results.jpg\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>Meta\u2019s latest research shows that Reels ads designed natively for the platform can significantly boost purchase intent, and brand interest.",
+      "published": "2025-12-03T17:49:37+00:00",
+      "fetched": "2025-12-03T21:11:06.566057+00:00"
+    },
+    {
+      "id": "b0e2e663-b8ab-4b16-9315-1218c5e0f303",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "AI Max undermines match-type control",
+      "link": "https://searchengineland.com/ai-max-undermines-match-type-control-465612",
+      "summary": "<div><img alt=\"AI Max for Search: Everything you need to know\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/10/AI-Max-for-Search-Everything-you-need-to-know.jpg\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>AI Max quietly turns all keywords into broad match and blurs reporting, making it harder for advertisers to see what\u2019s really driving their results.",
+      "published": "2025-12-03T17:16:14+00:00",
+      "fetched": "2025-12-03T21:11:06.566074+00:00"
+    },
+    {
+      "id": "0f0ebbdc-ad34-4ab4-b2c2-c62d6461e671",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "Google home page search bar upload feature goes directly to AI Mode results",
+      "link": "https://searchengineland.com/google-home-page-search-bar-upload-feature-goes-directly-to-ai-mode-results-465599",
+      "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://searchengineland.com/wp-content/seloads/2019/12/google-search-bar-stock-1920-800x450.jpg\" style=\"margin-bottom: 15px;\" width=\"800\" /></div>It does feel like AI Mode will be Google's default search experience sometime in the future.",
+      "published": "2025-12-03T15:39:12+00:00",
+      "fetched": "2025-12-03T21:11:06.566090+00:00"
+    },
+    {
+      "id": "f0e4a3fe-8e2b-4616-9ecf-490d0b04b620",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "7 SEO, Marketing, And Tech Predictions For 2026 via @sejournal, @Kevin_Indig",
+      "link": "https://www.searchenginejournal.com/seo-marketing-and-tech-predictions-for-2026/562373/",
+      "summary": "Kevin Indig\u2019s 2026 predictions reveal the end of AI dashboards, the rise of agentic SEO, and a web divided between bots and verified humans.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-marketing-and-tech-predictions-for-2026/562373/\">7 SEO, Marketing, And Tech Predictions For 2026</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2025-12-03T14:30:56+00:00",
+      "fetched": "2025-12-03T21:11:06.257007+00:00"
+    },
+    {
+      "id": "e5acd245-5889-488d-9de7-260dbc223b83",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "Google Daily Hub: Anatomy of an overambitious system shaping the future of search",
+      "link": "https://searchengineland.com/google-daily-hub-anatomy-of-an-overambitious-system-shaping-the-future-of-search-465555",
+      "summary": "<div><img alt=\"Google Daily Hub- Anatomy of an overambitious system shaping the future of search\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/Google-Daily-Hub-Anatomy-of-an-overambitious-system-shaping-the-future-of-search.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>Daily Hub tried to merge embeddings, entities, and real-time context \u2013 and buckled under the system\u2019s complexity.",
+      "published": "2025-12-03T14:00:00+00:00",
+      "fetched": "2025-12-03T21:11:06.566111+00:00"
+    },
+    {
+      "id": "24203ac1-d1dc-4d03-a4f0-9820735ed859",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Search Equity Gap: Quantifying Lost Organic Market Share (And Winning It Back) via @sejournal, @billhunt",
+      "link": "https://www.searchenginejournal.com/search-equity-gap-quantifying-lost-organic-market-share/559581/",
+      "summary": "Bill Hunt outlines how leading brands close the search equity gap by linking discoverability, governance, and measurable financial impact.\n\nThe post <a href=\"https://www.searchenginejournal.com/search-equity-gap-quantifying-lost-organic-market-share/559581/\">The Search Equity Gap: Quantifying Lost Organic Market Share (And Winning It Back)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2025-12-03T13:30:02+00:00",
+      "fetched": "2025-12-03T21:11:06.257033+00:00"
+    },
+    {
+      "id": "4e049ed5-8773-404c-b7ac-5ea9fa9c2348",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "How to plan and manage paid media budgets in an AI-driven world",
+      "link": "https://searchengineland.com/plan-manage-paid-media-budgets-ai-465545",
+      "summary": "<div><img alt=\"How to plan and manage paid media budgets in an AI-driven world\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/How-to-plan-and-manage-paid-media-budgets-in-an-AI-driven-world.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>Plan smarter budgets across channels, adjust to sudden changes, and make confident choices about where and how you spend.",
+      "published": "2025-12-03T13:00:00+00:00",
+      "fetched": "2025-12-03T21:11:06.566127+00:00"
+    },
+    {
+      "id": "f78b5080-a4f4-42df-a175-c95792c9bbf9",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Maximize Paid Ads Profitability With A Strategic Landing Page Audit",
+      "link": "https://www.searchenginejournal.com/how-to-maximize-paid-ads-profitability-with-a-strategic-landing-page-audit/560166/",
+      "summary": "Turn your landing pages into revenue drivers that enhance conversion efficiency and campaign scalability.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-maximize-paid-ads-profitability-with-a-strategic-landing-page-audit/560166/\">How To Maximize Paid Ads Profitability With A Strategic Landing Page Audit</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2025-12-03T12:00:54+00:00",
+      "fetched": "2025-12-03T21:11:06.257053+00:00"
+    },
+    {
+      "id": "0e1d9c40-d4c3-41ea-a66b-1402e5d65d58",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "How AI Overviews are impacting ad position and the fight for top spot by Adthena",
+      "link": "https://searchengineland.com/how-ai-overviews-are-impacting-ad-position-and-the-fight-for-top-spot-465258",
+      "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"1152\" src=\"https://searchengineland.com/wp-content/seloads/2025/11/Adthena-20251203-header-scaled.jpg\" style=\"margin-bottom: 15px;\" width=\"2048\" /></div>Ad position is critical. New data reveals how Google AI Overviews affect paid search visibility and CTR.",
+      "published": "2025-12-03T12:00:00+00:00",
+      "fetched": "2025-12-03T21:11:06.566142+00:00"
+    },
+    {
       "id": "64b2dd64-7146-478c-ae67-3ba4d6f2d54e",
       "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
       "feed_name": "Search Engine Land",
@@ -34,28 +144,6 @@
       "fetched": "2025-12-02T21:11:17.222820+00:00"
     },
     {
-      "id": "e044877a-4ff4-4d82-83c7-4fa401114719",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "Google adds Search Partners segment to PMax reporting",
-      "link": "https://searchengineland.com/google-adds-search-partners-segment-to-pmax-reporting-465549",
-      "summary": "<div><img alt=\"Auditing the Performance Max black box: A strategic approach\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/07/Auditing-the-Performance-Max-black-box-A-strategic-approach.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>Google Ads reporting now reveals how much PMax spends on Search Partners and whether that traffic is actually driving value.",
-      "published": "2025-12-02T17:07:05+00:00",
-      "fetched": "2025-12-02T21:11:17.222850+00:00"
-    },
-    {
-      "id": "f99b3d1b-21c7-4c25-9a62-6b782ff82fa5",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "OpenAI hits pause on ChatGPT ads as CEO declares a \u2018code red\u2019",
-      "link": "https://searchengineland.com/openai-code-red-pause-chatgpt-ads-465542",
-      "summary": "<div><img alt=\"Code red\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/code-red.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>OpenAI CEO Sam Altman ordered an urgent ChatGPT quality overhaul and paused advertising plans to focus on strengthening the core product.",
-      "published": "2025-12-02T16:57:14+00:00",
-      "fetched": "2025-12-02T21:11:17.222877+00:00"
-    },
-    {
       "id": "5edc1d7a-238a-45e8-a067-b952c0a31289",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -65,39 +153,6 @@
       "summary": "YouTube launched its first annual Recap feature showing viewing stats, top channels, and personality types. North America first, global rollout this week.\n\nThe post <a href=\"https://www.searchenginejournal.com/youtube-launches-first-annual-recap-feature-for-all-users/562346/\">YouTube Launches First Annual Recap Feature For All Users</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2025-12-02T16:23:39+00:00",
       "fetched": "2025-12-02T21:11:16.957659+00:00"
-    },
-    {
-      "id": "7668d0b0-d08b-4dda-912c-10e9a3def9cd",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "Google to sunset ads developer support forums in 2026",
-      "link": "https://searchengineland.com/google-to-sunset-ads-developer-support-forums-in-2026-465541",
-      "summary": "<div><img alt=\"Google Ads B2B campaigns\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/11/Google-Ads-B2B-campaigns.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>Ad developers will need to move to ticket-based troubleshooting and deeper diagnostics to keep campaigns running smoothly.",
-      "published": "2025-12-02T16:20:29+00:00",
-      "fetched": "2025-12-02T21:11:17.222902+00:00"
-    },
-    {
-      "id": "92b23bd2-d004-4f07-8192-01477891c0c7",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "Why PPC tests in 2026 call for nuance, not winners",
-      "link": "https://searchengineland.com/ppc-tests-nuance-465494",
-      "summary": "<div><img alt=\"Why PPC tests in 2026 call for nuance, not winners\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/Why-PPC-tests-in-2026-call-for-nuance-not-winners.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>Today\u2019s PPC tests surface patterns and affinities rather than absolutes. Learn to read modern signals and communicate insights with clarity.",
-      "published": "2025-12-02T15:00:00+00:00",
-      "fetched": "2025-12-02T21:11:17.222927+00:00"
-    },
-    {
-      "id": "b96d674e-72dd-452f-b2c8-fdcd5ac27c56",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "Why every AI search study tells a different story",
-      "link": "https://searchengineland.com/why-every-ai-search-study-tells-a-different-story-465511",
-      "summary": "<div><img alt=\"Why every AI search study tells a different story\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/Why-every-AI-search-study-tells-a-different-story.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>Industry studies offer conflicting takes on AI search. See why the data diverges and how to evaluate the impact on your site and segment.",
-      "published": "2025-12-02T14:00:00+00:00",
-      "fetched": "2025-12-02T21:11:17.222952+00:00"
     },
     {
       "id": "cc1fcf51-da42-4494-829f-48791b894750",
@@ -122,17 +177,6 @@
       "fetched": "2025-12-02T21:11:16.957706+00:00"
     },
     {
-      "id": "22e4760c-19d6-4c94-a547-a86cef01bdbb",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "Why advanced semantic techniques still matter in PPC and SEO",
-      "link": "https://searchengineland.com/advanced-semantic-techniques-ppc-seo-465526",
-      "summary": "<div><img alt=\"Why advanced semantic techniques still matter in PPC and SEO\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/Why-advanced-semantic-techniques-still-matter-in-PPC-and-SEO.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>AI can generate keywords at scale, but semantic techniques provide the structure and signal quality needed to keep PPC and SEO on track.",
-      "published": "2025-12-02T13:00:00+00:00",
-      "fetched": "2025-12-02T21:11:17.222975+00:00"
-    },
-    {
       "id": "1ffddc1b-22f1-494d-96c9-2b85d965f00a",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -142,17 +186,6 @@
       "summary": "A strategic look at marketing measurement, bridging data, storytelling, and influence to turn performance reporting into organizational leverage.\n\nThe post <a href=\"https://www.searchenginejournal.com/signal-vs-noise-predicting-future-impact-of-content-marketing/560959/\">Signal Vs. Noise: Predicting Future Impact Of Content Marketing</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2025-12-02T12:30:14+00:00",
       "fetched": "2025-12-02T21:11:16.957729+00:00"
-    },
-    {
-      "id": "de7fdc24-6769-4fe8-99db-ef8257530d79",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "Google unveils \u2018Partner Match\u2019 for YouTube targeting",
-      "link": "https://searchengineland.com/google-unveils-partner-match-for-youtube-targeting-465535",
-      "summary": "<div><img alt=\"The Fujiwhara effect on YouTube: AI, Shorts, and the rise of duplicate content\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/08/The-Fujiwhara-effect-on-YouTube-AI-Shorts-and-the-rise-of-duplicate-content.jpg\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>Google\u2019s new Partner Match tool will let advertisers target YouTube audiences built from third-party hashed data once it launches.",
-      "published": "2025-12-01T22:31:01+00:00",
-      "fetched": "2025-12-02T21:11:17.223000+00:00"
     },
     {
       "id": "59194fa8-0b1c-4b9d-a65b-d38280f1bcf7",
@@ -285,51 +318,7 @@
       "summary": "Google's John Mueller says he doesn\u2019t expect a noticeable SEO impact from a 100MB video that loads in the background after page content and images.\n\nThe post <a href=\"https://www.searchenginejournal.com/mueller-background-video-loading-unlikely-to-affect-seo/561969/\">Mueller: Background Video Loading Unlikely To Affect SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2025-11-26T22:08:32+00:00",
       "fetched": "2025-11-27T04:12:29.312623+00:00"
-    },
-    {
-      "id": "cd6b9052-802d-4109-8c17-d0a10fd31022",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "New Data: Top Factors Influencing ChatGPT Citations via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/new-data-top-factors-influencing-chatgpt-citations/561954/",
-      "summary": "SE Ranking analyzed 129,000 domains to identify the top 20 factors driving ChatGPT citations. Backlinks, traffic, and trust scores ranked highest. \n\nThe post <a href=\"https://www.searchenginejournal.com/new-data-top-factors-influencing-chatgpt-citations/561954/\">New Data: Top Factors Influencing ChatGPT Citations</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2025-11-26T17:48:16+00:00",
-      "fetched": "2025-11-27T04:12:29.312650+00:00"
-    },
-    {
-      "id": "f72f36b8-1fb1-47bc-8248-ecda65e1e231",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "From Invisible to Influential: How Founder-Led Marketing Drives 3.7x Larger Deals via @sejournal, @itsduhnise",
-      "link": "https://www.searchenginejournal.com/linkedin-posts-into-larger-sales-deals/559430/",
-      "summary": "Unlock the power of LinkedIn posts to generate more leads and close bigger deals. Discover effective founder-led marketing strategies.\n\nThe post <a href=\"https://www.searchenginejournal.com/linkedin-posts-into-larger-sales-deals/559430/\">From Invisible to Influential: How Founder-Led Marketing Drives 3.7x Larger Deals</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2025-11-26T13:30:31+00:00",
-      "fetched": "2025-11-27T04:12:29.312669+00:00"
-    },
-    {
-      "id": "d3912357-5db8-468b-915c-53db8c4776db",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "ChatGPT Vs. Gemini Vs. Claude: What Are The Differences? via @sejournal, @makhyan",
-      "link": "https://www.searchenginejournal.com/chatgpt-vs-gemini-vs-claude-what-are-the-differences/561138/",
-      "summary": "A side-by-side review of ChatGPT, Gemini, and Claude based on real-world testing and the quality of their answers, recommendations, and usability.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-vs-gemini-vs-claude-what-are-the-differences/561138/\">ChatGPT Vs. Gemini Vs. Claude: What Are The Differences?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2025-11-26T13:15:36+00:00",
-      "fetched": "2025-11-27T04:12:29.312692+00:00"
-    },
-    {
-      "id": "6737dd9c-4b22-4e98-8602-3e9ab5c81c80",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How AI\u2019s Geo-Identification Failures Are Rewriting International SEO via @sejournal, @motokohunt",
-      "link": "https://www.searchenginejournal.com/how-ai-geo-identification-failures-are-rewriting-international-seo/559499/",
-      "summary": "AI search is overriding geographic signals, pushing global pages into local markets unless brands reinforce market-specific authority in ways LLMs can interpret.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-ai-geo-identification-failures-are-rewriting-international-seo/559499/\">How AI\u2019s Geo-Identification Failures Are Rewriting International SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2025-11-26T12:00:10+00:00",
-      "fetched": "2025-11-27T04:12:29.312711+00:00"
     }
   ],
-  "last_updated": "2025-12-02T21:11:18.080409+00:00"
+  "last_updated": "2025-12-03T21:11:07.342010+00:00"
 }
