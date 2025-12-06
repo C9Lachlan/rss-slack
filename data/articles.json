@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "id": "5662769c-4991-4c38-b99b-07eb14311cfd",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "ChatGPT Vs. Gemini Vs. Claude: What Are The Differences? via @sejournal, @makhyan",
+      "link": "https://www.searchenginejournal.com/chatgpt-vs-gemini-vs-claude/483690/",
+      "summary": "A side-by-side review of ChatGPT, Gemini, and Claude based on real-world testing and the quality of their answers, recommendations, and usability.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-vs-gemini-vs-claude/483690/\">ChatGPT Vs. Gemini Vs. Claude: What Are The Differences?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2025-12-06T01:16:05+00:00",
+      "fetched": "2025-12-06T21:09:49.323175+00:00"
+    },
+    {
+      "id": "23beed02-ead4-4dd0-9cca-c87da746a8fb",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "Nils Rooijmans speaks on when ignoring Google emails can cost you",
+      "link": "https://searchengineland.com/nils-rooijmans-speaks-on-when-ignoring-google-emails-can-cost-you-465739",
+      "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"900\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/PLTP-Image.png\" style=\"margin-bottom: 15px;\" width=\"1600\" /></div>PPC automation expert Nils Rooijmans shares how dismissing Google's consent mode warnings as routine noise led to zero conversions and plummeting traffic.",
+      "published": "2025-12-05T23:48:14+00:00",
+      "fetched": "2025-12-06T21:09:49.617031+00:00"
+    },
+    {
       "id": "1c406085-93d5-4725-9707-c8f49fe0cc38",
       "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
       "feed_name": "Search Engine Land",
@@ -232,17 +254,6 @@
       "fetched": "2025-12-04T21:11:10.957627+00:00"
     },
     {
-      "id": "c8fd5c6f-9871-4e54-9df8-b558cb1b5f65",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "Google Discover pushing users into AI Mode",
-      "link": "https://searchengineland.com/google-discover-pushing-users-into-ai-mode-465635",
-      "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"1097\" src=\"https://searchengineland.com/wp-content/seloads/2025/09/google-logo-discover-1920.jpg\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>When you are reading an article from Google Discover, Google wants you to use AI Mode. This works for any webpage you view in the Google Android app, not just from Discover.",
-      "published": "2025-12-04T13:09:39+00:00",
-      "fetched": "2025-12-04T21:11:11.289862+00:00"
-    },
-    {
       "id": "79afc3f0-209f-43c1-a5db-ed79ad185b21",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -318,18 +329,7 @@
       "summary": "YouTube launched its first annual Recap feature showing viewing stats, top channels, and personality types. North America first, global rollout this week.\n\nThe post <a href=\"https://www.searchenginejournal.com/youtube-launches-first-annual-recap-feature-for-all-users/562346/\">YouTube Launches First Annual Recap Feature For All Users</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2025-12-02T16:23:39+00:00",
       "fetched": "2025-12-02T21:11:16.957659+00:00"
-    },
-    {
-      "id": "cc1fcf51-da42-4494-829f-48791b894750",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "OpenAI Declares \u2018Code Red\u2019 To Improve ChatGPT Amid Google Competition via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/openai-declares-code-red-to-improve-chatgpt-amid-google-competition/562310/",
-      "summary": "OpenAI CEO Sam Altman has declared a \"code red\" to prioritize ChatGPT improvements, delaying advertising and AI agent initiatives as Google's Gemini gains ground.\n\nThe post <a href=\"https://www.searchenginejournal.com/openai-declares-code-red-to-improve-chatgpt-amid-google-competition/562310/\">OpenAI Declares &#8216;Code Red&#8217; To Improve ChatGPT Amid Google Competition</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2025-12-02T13:52:30+00:00",
-      "fetched": "2025-12-02T21:11:16.957686+00:00"
     }
   ],
-  "last_updated": "2025-12-05T21:10:43.771880+00:00"
+  "last_updated": "2025-12-06T21:09:50.712327+00:00"
 }
