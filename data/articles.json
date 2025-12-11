@@ -1,6 +1,160 @@
 {
   "articles": [
     {
+      "id": "d6d1659f-db12-4cfc-a60c-a8f1f18b93ab",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "Search Engine Land celebrates its 19th birthday",
+      "link": "https://searchengineland.com/search-engine-land-19-466087",
+      "summary": "<div><img alt=\"Search Engine Land turns 19\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/search-engine-land-19th-birthday.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>Search Engine Land launched Dec. 11, 2006. Today, we look back on a successful 2025 and look forward to an even greater 2026.",
+      "published": "2025-12-11T20:54:14+00:00",
+      "fetched": "2025-12-11T21:13:42.702846+00:00"
+    },
+    {
+      "id": "25699b91-0a33-4cc4-8db3-5db55eaa5c5a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Releases December 2025 Core Update via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-releases-december-2025-core-update/563134/",
+      "summary": "Google has released the December 2025 core update, its third of the year. The rollout began December 11 and may take up to three weeks. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-releases-december-2025-core-update/563134/\">Google Releases December 2025 Core Update</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2025-12-11T17:46:26+00:00",
+      "fetched": "2025-12-11T21:13:42.456503+00:00"
+    },
+    {
+      "id": "7fbcdd53-291f-476a-81fe-a4ef83a86af1",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "Google December 2025 core update rolling out now",
+      "link": "https://searchengineland.com/google-december-2025-core-update-rolling-out-now-465852",
+      "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"457\" src=\"https://searchengineland.com/wp-content/seloads/2024/11/google-core-update-header-1920-800x457.jpg\" style=\"margin-bottom: 15px;\" width=\"800\" /></div>This was the third core update of 2025 and fourth confirmed Google update in 2025.",
+      "published": "2025-12-11T17:29:42+00:00",
+      "fetched": "2025-12-11T21:13:42.702874+00:00"
+    },
+    {
+      "id": "7bd68d43-4ec6-4ec3-982c-8d2d8df8e8bf",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "Bing tests Google-style \u201cSponsored results\u201d grouping",
+      "link": "https://searchengineland.com/bing-tests-google-style-sponsored-results-grouping-466056",
+      "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"457\" src=\"https://searchengineland.com/wp-content/seloads/2025/03/bing-tech-background-1920-800x457.jpg\" style=\"margin-bottom: 15px;\" width=\"800\" /></div>Bing\u2019s new grouped \u201cSponsored results\u201d format could drive higher unintentional ad engagement by blending paid listings more seamlessly into search results.",
+      "published": "2025-12-11T16:36:40+00:00",
+      "fetched": "2025-12-11T21:13:42.702895+00:00"
+    },
+    {
+      "id": "873bb929-5ac6-41de-b04c-458feae810f2",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "LAST CALL: Want to write for Search Engine Land?",
+      "link": "https://searchengineland.com/want-to-write-for-search-engine-land-464099",
+      "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://searchengineland.com/wp-content/seloads/2022/08/SearchEngineLand_1920x1080-800x450-1.webp\" style=\"margin-bottom: 15px;\" width=\"800\" /></div>Join our 2026 contributor roster! We\u2019re seeking expert voices in SEO, PPC, AI, and analytics to share insights with millions of marketers.",
+      "published": "2025-12-11T16:19:42+00:00",
+      "fetched": "2025-12-11T21:13:42.702911+00:00"
+    },
+    {
+      "id": "6ecfbc9d-31bf-4c90-9ffd-596dcfc045ba",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "From SEO to algorithmic education: The roadmap for long-term brand authority",
+      "link": "https://searchengineland.com/seo-algorithmic-education-roadmap-brand-authority-465980",
+      "summary": "<div><img alt=\"From SEO to algorithmic education- The roadmap for long-term brand authority\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/From-SEO-to-algorithmic-education-The-roadmap-for-long-term-brand-authority.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>Learn the multi-speed approach that strengthens entity identity, builds algorithmic confidence, and boosts visibility in AI-powered results.",
+      "published": "2025-12-11T15:00:00+00:00",
+      "fetched": "2025-12-11T21:13:42.702927+00:00"
+    },
+    {
+      "id": "9a1bdd43-57e9-4b4b-bf1a-0ff69af559f4",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "14 Things Executives And SEOs Need To Focus On In 2026 via @sejournal, @DuaneForrester",
+      "link": "https://www.searchenginejournal.com/things-executives-and-seos-need-to-focus-on-in-2026/562753/",
+      "summary": "The next phase of search belongs to companies that treat AI systems as decision engines and redesign their content for retrieval, reliability, and trust.\n\nThe post <a href=\"https://www.searchenginejournal.com/things-executives-and-seos-need-to-focus-on-in-2026/562753/\">14 Things Executives And SEOs Need To Focus On In 2026</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2025-12-11T14:30:35+00:00",
+      "fetched": "2025-12-11T21:13:42.456529+00:00"
+    },
+    {
+      "id": "28e72516-57ac-4ad1-989e-35e182b761ec",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Well-Known SEO Explains Why AI Agents Are Coming For You & What To Do Now via @sejournal, @theshelleywalsh",
+      "link": "https://www.searchenginejournal.com/well-known-seo-explains-why-ai-agents-are-coming-for-you-what-to-do-now/562964/",
+      "summary": "This IMHO interview explores Marie Haynes\u2019 view of an agent-led future, and why the SEOs who master agentic systems early will hold a critical advantage.\n\nThe post <a href=\"https://www.searchenginejournal.com/well-known-seo-explains-why-ai-agents-are-coming-for-you-what-to-do-now/562964/\">Well-Known SEO Explains Why AI Agents Are Coming For You &#038; What To Do Now</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2025-12-11T14:00:23+00:00",
+      "fetched": "2025-12-11T21:13:42.456550+00:00"
+    },
+    {
+      "id": "5af49cef-e10a-470a-9b66-7708a12dab28",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "A dark landing page won our A/B test \u2013 here\u2019s why best practices got it wrong",
+      "link": "https://searchengineland.com/landing-page-best-practices-wrong-465988",
+      "summary": "<div><img alt=\"A dark landing page won our A/B test \u2013 here\u2019s why best practices got it wrong\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/A-dark-landing-page-won-our-AB-test-\u2013-heres-why-best-practices-got-it-wrong.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>Dark mode beat light in a B2B SaaS test even with lower CTR \u2013 showing how audience context and industry cues shape performance.",
+      "published": "2025-12-11T14:00:00+00:00",
+      "fetched": "2025-12-11T21:13:42.702943+00:00"
+    },
+    {
+      "id": "012f8b02-43aa-4b49-8cc3-7cce200ab57b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Ask A PPC: What Are Learning Periods In Digital Marketing? via @sejournal, @navahf",
+      "link": "https://www.searchenginejournal.com/ask-a-ppc-what-are-learning-periods-in-digital-marketing/562002/",
+      "summary": "This week's Ask a PPC digs into how learning periods influence auction dynamics, conversion modeling, and the predictability of performance shifts.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-a-ppc-what-are-learning-periods-in-digital-marketing/562002/\">Ask A PPC: What Are Learning Periods In Digital Marketing?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2025-12-11T13:30:38+00:00",
+      "fetched": "2025-12-11T21:13:42.456592+00:00"
+    },
+    {
+      "id": "c2a2a3ae-b040-40c5-a401-e5d3d48b4ba1",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "How to use LLMs to humanize your content and scale your research",
+      "link": "https://searchengineland.com/how-to-use-llms-to-humanize-your-content-and-scale-your-research-465880",
+      "summary": "<div><img alt=\"How to use LLMs to humanize your content and scale your research\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/How-to-use-LLMs-to-humanize-your-content-and-scale-your-research.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>See how working with LLMs can make your content more human by turning customer, expert, and competitor data into usable insights.",
+      "published": "2025-12-11T13:00:00+00:00",
+      "fetched": "2025-12-11T21:13:42.702958+00:00"
+    },
+    {
+      "id": "001a7aae-c865-48fc-bc22-47cec0234be8",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "Brand protection in PPC: How to protect your brand and prevent risks by Bluepear",
+      "link": "https://searchengineland.com/brand-protection-in-ppc-how-to-protect-your-brand-and-prevent-risks-465854",
+      "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/Bluepear-20251211-header.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>Read this PPC protection guide to learn how to build a strong brand-protection strategy in paid search \u2013 and how to stop brand bidding and prevent ad hijacking.",
+      "published": "2025-12-11T12:00:00+00:00",
+      "fetched": "2025-12-11T21:13:42.702974+00:00"
+    },
+    {
+      "id": "c12d5359-f378-4187-a61a-a0cef0e8d7e7",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "WordPress Meets Vibe Coding: White-Labeled Platform & API For Search-Ready AI Websites",
+      "link": "https://www.searchenginejournal.com/wordpress-as-white-label-website-platform-spa/562511/",
+      "summary": "Find out how WordPress & vibe coding can come together for rapid client website creation, under your agency's brand. \n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-as-white-label-website-platform-spa/562511/\">WordPress Meets Vibe Coding: White-Labeled Platform &#038; API For Search-Ready AI Websites</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2025-12-11T06:00:05+00:00",
+      "fetched": "2025-12-11T21:13:42.456613+00:00"
+    },
+    {
+      "id": "d323b8dd-613a-49f3-b089-cb3fa70dc008",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "YouTube Adds Comments To Shorts Ads, Expands To Mobile Web via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/youtube-adds-comments-to-shorts-ads-expands-to-mobile-web/563080/",
+      "summary": "YouTube adds comment sections to eligible Shorts ads, lets creators link to brand websites, and expands Shorts ads to mobile web browsers.\n\nThe post <a href=\"https://www.searchenginejournal.com/youtube-adds-comments-to-shorts-ads-expands-to-mobile-web/563080/\">YouTube Adds Comments To Shorts Ads, Expands To Mobile Web</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2025-12-10T22:21:04+00:00",
+      "fetched": "2025-12-11T21:13:42.456630+00:00"
+    },
+    {
       "id": "148aa4f7-e4d2-45c4-a645-34804deec311",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -34,83 +188,6 @@
       "fetched": "2025-12-10T21:13:18.052074+00:00"
     },
     {
-      "id": "1840a476-742b-413a-8552-8eb0f5849d84",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "LinkedIn introduces Reserved Ads, ad personalization, new AI tools",
-      "link": "https://searchengineland.com/linkedin-rolls-out-tools-to-make-b2b-brand-advertising-more-predictable-466019",
-      "summary": "<div><img alt=\"5 LinkedIn Ads mistakes that could be hurting your campaigns\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://searchengineland.com/wp-content/seloads/2025/02/5-LinkedIn-Ads-mistakes-that-could-be-hurting-your-campaigns-800x450.png\" style=\"margin-bottom: 15px;\" width=\"800\" /></div>LinkedIn\u2019s updates help B2B marketers reach buyers earlier with faster creative workflows, smarter targeting, and stronger feed visibility.",
-      "published": "2025-12-10T17:40:27+00:00",
-      "fetched": "2025-12-10T21:13:18.052097+00:00"
-    },
-    {
-      "id": "12226cb0-b30a-4743-a6ac-227be430b0bf",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "Google launches natural language Developer Assistant for Google Ads API",
-      "link": "https://searchengineland.com/google-launches-natural-language-developer-assistant-for-google-ads-api-466010",
-      "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"457\" src=\"https://searchengineland.com/wp-content/seloads/2025/04/google-api-data-1920-800x457.jpg\" style=\"margin-bottom: 15px;\" width=\"800\" /></div>Google\u2019s new Developer Assistant lets advertisers and developers use plain language to generate, run, and export Google Ads API queries.",
-      "published": "2025-12-10T17:34:32+00:00",
-      "fetched": "2025-12-10T21:13:18.052113+00:00"
-    },
-    {
-      "id": "6b9540e1-6134-4269-a01f-956345a32690",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "Instagram\u2019s new \u2018Your Algorithm\u2019 tool could boost discovery for brands",
-      "link": "https://searchengineland.com/instagram-your-algorithm-465987",
-      "summary": "<div><img alt=\"Instagram Your Algorithm\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/instagram-your-algorithm.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>The new Instagram feature reveals what the algorithm thinks you like and lets you adjust it, reshaping how content gets recommended on Reels.",
-      "published": "2025-12-10T17:13:53+00:00",
-      "fetched": "2025-12-10T21:13:18.052128+00:00"
-    },
-    {
-      "id": "90c59222-7558-48d0-945e-32e6fd6f4d93",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "Google rolling out Preferred Sources globally and announces Spotlighting subscriptions",
-      "link": "https://searchengineland.com/google-rolling-out-preferred-sources-globally-and-announces-spotlighting-subscriptions-465975",
-      "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://searchengineland.com/wp-content/seloads/2015/11/google-news-2015b-ss-1920-800x450.jpg\" style=\"margin-bottom: 15px;\" width=\"800\" /></div>Spotlighting subscriptions are coming to Gemini first and then AI Mode and AI Overviews within Google Search.",
-      "published": "2025-12-10T17:00:00+00:00",
-      "fetched": "2025-12-10T21:13:18.052144+00:00"
-    },
-    {
-      "id": "da0c72b0-7d36-4d85-9f54-c7337deb5aa9",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "Google updates links in AI Mode and expands Web Guide test in all tab",
-      "link": "https://searchengineland.com/google-updates-links-in-ai-mode-and-expands-web-guide-test-in-all-tab-465976",
-      "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"457\" src=\"https://searchengineland.com/wp-content/seloads/2025/03/google-ai-robot2-1920-800x457.jpg\" style=\"margin-bottom: 15px;\" width=\"800\" /></div>Google AI Mode now has more useful inline links while Google's expanded Web Guide is faster and surfaces smarter, deeper results.",
-      "published": "2025-12-10T17:00:00+00:00",
-      "fetched": "2025-12-10T21:13:18.052159+00:00"
-    },
-    {
-      "id": "87e93002-e392-4268-a272-a629e2211f4c",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "YouTube Shorts adds comments and creator links to ads",
-      "link": "https://searchengineland.com/youtube-shorts-adds-comments-and-creator-links-to-ads-465986",
-      "summary": "<div><img alt=\"How to use YouTube Ads to drive B2B conversions\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/10/ChatGPT-Image-How-to-use-YouTube-Ads-to-drive-B2B-conversions.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>YouTube\u2019s latest Shorts updates give advertisers more interactive, creator-driven tools to boost engagement and drive holiday conversions.",
-      "published": "2025-12-10T16:51:59+00:00",
-      "fetched": "2025-12-10T21:13:18.052173+00:00"
-    },
-    {
-      "id": "88962524-e148-4f65-834f-c603ddd47ad7",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "The truth about Google Ads recommendations (and auto-apply)",
-      "link": "https://searchengineland.com/google-ads-recommendations-auto-apply-465909",
-      "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/week-37-landscape-cover.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>Understand how to use Google Ads recommendations so you can spot what helps, ignore what doesn\u2019t, and keep your account safe.",
-      "published": "2025-12-10T15:00:00+00:00",
-      "fetched": "2025-12-10T21:13:18.052186+00:00"
-    },
-    {
       "id": "5a1508a0-20fb-4573-ae8f-54d31ee3a467",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -120,17 +197,6 @@
       "summary": "Kevin Indig reflects on his 2025 predictions, scoring the wins, misses, and lessons from AI\u2019s first year of true deployment.\n\nThe post <a href=\"https://www.searchenginejournal.com/scoring-my-2025-predictions/562959/\">Scoring My 2025 Predictions</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2025-12-10T14:30:44+00:00",
       "fetched": "2025-12-10T21:13:17.804574+00:00"
-    },
-    {
-      "id": "53b1a42c-7661-494c-9fe6-9c6ec5c0bb9c",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "How Pinterest\u2019s ad formats work and when to use each one",
-      "link": "https://searchengineland.com/pinterest-ad-formats-465889",
-      "summary": "<div><img alt=\"How Pinterest\u2019s ad formats work and when to use each one\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/How-Pinterests-ad-formats-work-and-when-to-use-each-one.jpg\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>Get a clear breakdown of Pinterest\u2019s ad lineup, what each format delivers, and how to align them with specific campaign goals in 2026.",
-      "published": "2025-12-10T14:00:00+00:00",
-      "fetched": "2025-12-10T21:13:18.052200+00:00"
     },
     {
       "id": "fbd1a7e3-b249-45f1-a079-f6452d9e74b3",
@@ -263,73 +329,7 @@
       "summary": "Google Search Console is testing a feature that shows how linked social channels perform in Google Search, including clicks, impressions, and queries.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-tests-social-channel-insights-in-search-console/562811/\">Google Tests Social Channel Insights In Search Console</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2025-12-08T15:42:51+00:00",
       "fetched": "2025-12-08T21:10:41.264685+00:00"
-    },
-    {
-      "id": "b3a725e9-9c9c-4330-ae00-dc84412f06da",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "LLM Payments To Publishers: The New Economics Of Search via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/llm-payments-to-publishers-the-new-economics-of-search/562124/",
-      "summary": "Publishers navigating the collapse of the search-to-traffic model need clarity on how emerging AI payment structures are reshaping value, leverage, and long-term strategy.\n\nThe post <a href=\"https://www.searchenginejournal.com/llm-payments-to-publishers-the-new-economics-of-search/562124/\">LLM Payments To Publishers: The New Economics Of Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2025-12-08T14:08:06+00:00",
-      "fetched": "2025-12-08T21:10:41.264706+00:00"
-    },
-    {
-      "id": "89a79d3a-f786-4e41-9d83-86f36ffadf7e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "13 Google Ads Settings To Check When Running International PPC Campaigns via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/google-ads-settings-when-running-international-ppc-campaigns/561019/",
-      "summary": "Strong international PPC strategy starts with precise control over location targeting, bidding, and conversion tracking so campaigns match how each market actually searches and buys.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ads-settings-when-running-international-ppc-campaigns/561019/\">13 Google Ads Settings To Check When Running International PPC Campaigns</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2025-12-08T13:15:45+00:00",
-      "fetched": "2025-12-08T21:10:41.264731+00:00"
-    },
-    {
-      "id": "885bffa3-0e72-4198-baa8-467e41d2f17b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Inside ChatGPT\u2019s Confidential Report Visibility Metrics [Part 1] via @sejournal, @VincentTerrasi",
-      "link": "https://www.searchenginejournal.com/inside-chatgpts-confidential-report-visibility-metrics-part-1/561608/",
-      "summary": "New evidence shows how LLM interfaces convert publisher authority into in-answer influence rather than measurable traffic.\n\nThe post <a href=\"https://www.searchenginejournal.com/inside-chatgpts-confidential-report-visibility-metrics-part-1/561608/\">Inside ChatGPT&#8217;s Confidential Report Visibility Metrics [Part 1]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2025-12-08T12:30:24+00:00",
-      "fetched": "2025-12-08T21:10:41.264749+00:00"
-    },
-    {
-      "id": "3eee67f0-c62b-43c7-af12-5e0bc3f4fe67",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google CEO Sundar Pichai Says Information Ecosystem Is Richer Than AI via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-ceo-sundar-pichai-says-information-ecosystem-is-richer-than-ai/562768/",
-      "summary": "Google CEO Sundar Pichai explained why understanding AI starts with seeing the bigger picture around it.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ceo-sundar-pichai-says-information-ecosystem-is-richer-than-ai/562768/\">Google CEO Sundar Pichai Says Information Ecosystem Is Richer Than AI</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2025-12-08T11:17:37+00:00",
-      "fetched": "2025-12-08T21:10:41.264766+00:00"
-    },
-    {
-      "id": "c9cd9ed7-5618-4da9-a816-ff57b7e7b4b2",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Paid Ad Scheduling Across Time Zones That Actually Works via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/scheduling-ads-for-maximum-impact/541114/",
-      "summary": "Ad scheduling becomes a performance multiplier when campaigns align with regional time zones, local behavior, and data-driven delivery windows.\n\nThe post <a href=\"https://www.searchenginejournal.com/scheduling-ads-for-maximum-impact/541114/\">Paid Ad Scheduling Across Time Zones That Actually Works</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2025-12-08T01:01:02+00:00",
-      "fetched": "2025-12-08T21:10:41.264784+00:00"
-    },
-    {
-      "id": "5662769c-4991-4c38-b99b-07eb14311cfd",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "ChatGPT Vs. Gemini Vs. Claude: What Are The Differences? via @sejournal, @makhyan",
-      "link": "https://www.searchenginejournal.com/chatgpt-vs-gemini-vs-claude/483690/",
-      "summary": "A side-by-side review of ChatGPT, Gemini, and Claude based on real-world testing and the quality of their answers, recommendations, and usability.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-vs-gemini-vs-claude/483690/\">ChatGPT Vs. Gemini Vs. Claude: What Are The Differences?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2025-12-06T01:16:05+00:00",
-      "fetched": "2025-12-06T21:09:49.323175+00:00"
     }
   ],
-  "last_updated": "2025-12-10T21:13:18.532518+00:00"
+  "last_updated": "2025-12-11T21:13:43.166940+00:00"
 }
