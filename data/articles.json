@@ -1,6 +1,127 @@
 {
   "articles": [
     {
+      "id": "d721feb2-095a-4049-85a8-1305b335ecd7",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "Doctor: Google\u2019s AI Overview made up career-damaging claims about me",
+      "link": "https://searchengineland.com/google-ai-doctor-defamation-466139",
+      "summary": "<div><img alt=\"Doctor in front of AI Overview\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/doctor-ai-overview.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>A UK doctor and YouTuber says Google AI falsely accused him of selling sick notes and being suspended. Is Google AI protected by Section 230?",
+      "published": "2025-12-12T20:43:48+00:00",
+      "fetched": "2025-12-12T21:10:27.531140+00:00"
+    },
+    {
+      "id": "3043cef5-fad2-44d6-ae00-64cb90d1f619",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "The latest jobs in search marketing",
+      "link": "https://searchengineland.com/latest-jobs-in-search-marketing-378959",
+      "summary": "<div><img alt=\"Search marketing jobs\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://searchengineland.com/wp-content/seloads/2021/10/hiring-in-search-marketing-800x450.jpg\" style=\"margin-bottom: 15px;\" width=\"800\" /></div>Land your next job in SEO or PPC. These brands and agencies are hiring to fill open search marketing positions right now.",
+      "published": "2025-12-12T20:27:55+00:00",
+      "fetched": "2025-12-12T21:10:27.531162+00:00"
+    },
+    {
+      "id": "56f2fc00-253d-4096-a5e6-fd4c4b70597f",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "Google Ads quietly unlocks Merchant Center videos for Performance Max",
+      "link": "https://searchengineland.com/google-ads-quietly-unlocks-merchant-center-videos-for-performance-max-466137",
+      "summary": "<div><img alt=\"Google\u2019s token auction: When LLMs write the ads in real time\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/06/Googles-token-auction-When-LLMs-write-the-ads-in-real-time.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>Google\u2019s new Merchant Center video integration gives PMax advertisers faster setup, stronger product relevance, and scalable video performance.",
+      "published": "2025-12-12T20:02:17+00:00",
+      "fetched": "2025-12-12T21:10:27.531178+00:00"
+    },
+    {
+      "id": "cd58d263-74b9-42c2-aa7a-6a7bad456924",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How People Use Copilot Depends On Device, Microsoft Says via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/how-people-use-copilot-depends-on-device-microsoft-says/563183/",
+      "summary": "Microsoft analyzed 37.5 million Copilot chats and found differences in how people use the assistant on mobile versus desktop.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-people-use-copilot-depends-on-device-microsoft-says/563183/\">How People Use Copilot Depends On Device, Microsoft Says</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2025-12-12T17:06:11+00:00",
+      "fetched": "2025-12-12T21:10:27.101096+00:00"
+    },
+    {
+      "id": "9d1d5212-5bf6-4deb-9889-b94b1fcee634",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "What 15 years in enterprise SEO taught me about people, power, and progress",
+      "link": "https://searchengineland.com/enterprise-seo-15-years-lessons-466061",
+      "summary": "<div><img alt=\"Enterprise SEO lessons\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/enterprise-seo-lessons-1920.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>SEO careers stall more from people and process than algorithms. Learn the skills that build influence and long-term enterprise success.",
+      "published": "2025-12-12T15:00:00+00:00",
+      "fetched": "2025-12-12T21:10:27.531196+00:00"
+    },
+    {
+      "id": "5ae1178e-af32-4f80-8a94-b46289408b0b",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "The AI gold rush is over: Why AI\u2019s next era belongs to orchestrators",
+      "link": "https://searchengineland.com/ai-next-era-orchestrators-466092",
+      "summary": "<div><img alt=\"orchestrators\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/orchestrators.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>Why the 'more is better' era of marketing technology is officially over, and what actually works instead.",
+      "published": "2025-12-12T14:00:00+00:00",
+      "fetched": "2025-12-12T21:10:27.531210+00:00"
+    },
+    {
+      "id": "658d49a2-1df6-4a13-9984-78efaeecf169",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "SEO Pulse: December Core Update, Preferred Sources & Social Data via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/seo-pulse-december-core-update-preferred-sources-social-data/563139/",
+      "summary": "Google's December 2025 core update leads this week's SEO Pulse, alongside Preferred Sources expansion and social insights in Search Console.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-december-core-update-preferred-sources-social-data/563139/\">SEO Pulse: December Core Update, Preferred Sources &#038; Social Data</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2025-12-12T13:04:45+00:00",
+      "fetched": "2025-12-12T21:10:27.101117+00:00"
+    },
+    {
+      "id": "271a969b-4862-43cc-a2a0-94e6975f6be7",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "What Black Friday reveals about how LLMs understand ecommerce",
+      "link": "https://searchengineland.com/black-friday-llms-ecommerce-466072",
+      "summary": "<div><img alt=\"Black Friday ecommerce AI\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/black-friday-ecommerce-ai.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>Analysis of 10,000 LLM responses reveals the domains and signals shaping AI-driven shopping \u2013 and what brands must do to stay visible.",
+      "published": "2025-12-12T13:00:00+00:00",
+      "fetched": "2025-12-12T21:10:27.531223+00:00"
+    },
+    {
+      "id": "819a988f-d051-4c9a-b269-82f8c343383a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "PPC Pulse: Google Data Manager API, YouTube Shorts, LinkedIn Reserved Ads via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/ppc-pulse-google-data-manager-api-youtube-shorts-linkedin-reserved-ads/563126/",
+      "summary": "This week\u2019s PPC Pulse covers Google\u2019s Data Manager API, new YouTube Shorts features, and LinkedIn\u2019s Reserved Ads for brand and performance teams.\n\nThe post <a href=\"https://www.searchenginejournal.com/ppc-pulse-google-data-manager-api-youtube-shorts-linkedin-reserved-ads/563126/\">PPC Pulse: Google Data Manager API, YouTube Shorts, LinkedIn Reserved Ads</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2025-12-12T12:18:24+00:00",
+      "fetched": "2025-12-12T21:10:27.101136+00:00"
+    },
+    {
+      "id": "af90815a-e0a0-43f4-917e-7173a8749f3d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "When To Say No To PMax: Strategic Use Cases For Standard Shopping Campaigns",
+      "link": "https://www.searchenginejournal.com/when-to-say-no-to-pmax-strategic-use-cases-for-standard-shopping-campaigns/561257/",
+      "summary": "Standard Shopping gives marketers dependable control and clear intent signals when Performance Max\u2019s automation doesn\u2019t align with complex sales needs.\n\nThe post <a href=\"https://www.searchenginejournal.com/when-to-say-no-to-pmax-strategic-use-cases-for-standard-shopping-campaigns/561257/\">When To Say No To PMax: Strategic Use Cases For Standard Shopping Campaigns</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2025-12-12T12:00:45+00:00",
+      "fetched": "2025-12-12T21:10:27.101156+00:00"
+    },
+    {
+      "id": "e03ca67c-1c56-49b4-a2f5-213c992aad2f",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "How breakthrough TV ads trigger search spikes and conversions",
+      "link": "https://searchengineland.com/breakthrough-tv-ads-trigger-search-spikes-conversions-466041",
+      "summary": "<div><img alt=\"Breakthrough TV ads\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/Breakthrough-TV-ads.jpeg\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>Breakthrough TV creative continues to spark search demand. Learn what top ads reveal about emotion, attention, and user behavior.",
+      "published": "2025-12-12T12:00:00+00:00",
+      "fetched": "2025-12-12T21:10:27.531235+00:00"
+    },
+    {
       "id": "d6d1659f-db12-4cfc-a60c-a8f1f18b93ab",
       "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
       "feed_name": "Search Engine Land",
@@ -45,28 +166,6 @@
       "fetched": "2025-12-11T21:13:42.702895+00:00"
     },
     {
-      "id": "873bb929-5ac6-41de-b04c-458feae810f2",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "LAST CALL: Want to write for Search Engine Land?",
-      "link": "https://searchengineland.com/want-to-write-for-search-engine-land-464099",
-      "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://searchengineland.com/wp-content/seloads/2022/08/SearchEngineLand_1920x1080-800x450-1.webp\" style=\"margin-bottom: 15px;\" width=\"800\" /></div>Join our 2026 contributor roster! We\u2019re seeking expert voices in SEO, PPC, AI, and analytics to share insights with millions of marketers.",
-      "published": "2025-12-11T16:19:42+00:00",
-      "fetched": "2025-12-11T21:13:42.702911+00:00"
-    },
-    {
-      "id": "6ecfbc9d-31bf-4c90-9ffd-596dcfc045ba",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "From SEO to algorithmic education: The roadmap for long-term brand authority",
-      "link": "https://searchengineland.com/seo-algorithmic-education-roadmap-brand-authority-465980",
-      "summary": "<div><img alt=\"From SEO to algorithmic education- The roadmap for long-term brand authority\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/From-SEO-to-algorithmic-education-The-roadmap-for-long-term-brand-authority.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>Learn the multi-speed approach that strengthens entity identity, builds algorithmic confidence, and boosts visibility in AI-powered results.",
-      "published": "2025-12-11T15:00:00+00:00",
-      "fetched": "2025-12-11T21:13:42.702927+00:00"
-    },
-    {
       "id": "9a1bdd43-57e9-4b4b-bf1a-0ff69af559f4",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -89,17 +188,6 @@
       "fetched": "2025-12-11T21:13:42.456550+00:00"
     },
     {
-      "id": "5af49cef-e10a-470a-9b66-7708a12dab28",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "A dark landing page won our A/B test \u2013 here\u2019s why best practices got it wrong",
-      "link": "https://searchengineland.com/landing-page-best-practices-wrong-465988",
-      "summary": "<div><img alt=\"A dark landing page won our A/B test \u2013 here\u2019s why best practices got it wrong\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/A-dark-landing-page-won-our-AB-test-\u2013-heres-why-best-practices-got-it-wrong.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>Dark mode beat light in a B2B SaaS test even with lower CTR \u2013 showing how audience context and industry cues shape performance.",
-      "published": "2025-12-11T14:00:00+00:00",
-      "fetched": "2025-12-11T21:13:42.702943+00:00"
-    },
-    {
       "id": "012f8b02-43aa-4b49-8cc3-7cce200ab57b",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -109,28 +197,6 @@
       "summary": "This week's Ask a PPC digs into how learning periods influence auction dynamics, conversion modeling, and the predictability of performance shifts.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-a-ppc-what-are-learning-periods-in-digital-marketing/562002/\">Ask A PPC: What Are Learning Periods In Digital Marketing?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2025-12-11T13:30:38+00:00",
       "fetched": "2025-12-11T21:13:42.456592+00:00"
-    },
-    {
-      "id": "c2a2a3ae-b040-40c5-a401-e5d3d48b4ba1",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "How to use LLMs to humanize your content and scale your research",
-      "link": "https://searchengineland.com/how-to-use-llms-to-humanize-your-content-and-scale-your-research-465880",
-      "summary": "<div><img alt=\"How to use LLMs to humanize your content and scale your research\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/How-to-use-LLMs-to-humanize-your-content-and-scale-your-research.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>See how working with LLMs can make your content more human by turning customer, expert, and competitor data into usable insights.",
-      "published": "2025-12-11T13:00:00+00:00",
-      "fetched": "2025-12-11T21:13:42.702958+00:00"
-    },
-    {
-      "id": "001a7aae-c865-48fc-bc22-47cec0234be8",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "Brand protection in PPC: How to protect your brand and prevent risks by Bluepear",
-      "link": "https://searchengineland.com/brand-protection-in-ppc-how-to-protect-your-brand-and-prevent-risks-465854",
-      "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/Bluepear-20251211-header.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>Read this PPC protection guide to learn how to build a strong brand-protection strategy in paid search \u2013 and how to stop brand bidding and prevent ad hijacking.",
-      "published": "2025-12-11T12:00:00+00:00",
-      "fetched": "2025-12-11T21:13:42.702974+00:00"
     },
     {
       "id": "c12d5359-f378-4187-a61a-a0cef0e8d7e7",
@@ -164,28 +230,6 @@
       "summary": "Google expands Preferred Sources to English users worldwide and launches pilot AI partnerships with publishers. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-expands-preferred-sources-publisher-ai-partnerships/563062/\">Google Expands Preferred Sources &#038; Publisher AI Partnerships</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2025-12-10T18:42:55+00:00",
       "fetched": "2025-12-10T21:13:17.804547+00:00"
-    },
-    {
-      "id": "9cb4a03c-79eb-4469-95ab-668b90909a2e",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "Semify acquires Dragon Metrics to strengthen global SEO, AI reporting",
-      "link": "https://searchengineland.com/semify-acquires-dragon-metrics-466018",
-      "summary": "<div><img alt=\"Semify acquires Dragon Metrics\" class=\"attachment-large size-large wp-post-image\" height=\"1081\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/semify-dragon-metrics.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>Semify is a white-label digital marketing platform. Dragon Metrics is an international SEO and AI reporting provider.",
-      "published": "2025-12-10T17:52:27+00:00",
-      "fetched": "2025-12-10T21:13:18.052050+00:00"
-    },
-    {
-      "id": "3e49c1b5-29f1-4323-8540-5d5066c1773c",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "Shopify launches Product Network to blend items across merchants",
-      "link": "https://searchengineland.com/shopify-launches-product-network-to-blend-items-across-merchants-466022",
-      "summary": "<div><img alt=\"The ultimate Shopify SEO and AI readiness playbook\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/08/The-ultimate-Shopify-SEO-and-AI-readiness-playbook.jpg\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>Shopify\u2019s Product Network lets advertisers reach shoppers across multiple merchant sites with contextually relevant products.",
-      "published": "2025-12-10T17:50:51+00:00",
-      "fetched": "2025-12-10T21:13:18.052074+00:00"
     },
     {
       "id": "5a1508a0-20fb-4573-ae8f-54d31ee3a467",
@@ -285,51 +329,7 @@
       "summary": "A strategic framework for diagnosing organic traffic drops by separating tracking, brand, and SEO issues through smart data segmentation.\n\nThe post <a href=\"https://www.searchenginejournal.com/segment-organic-traffic-data/561082/\">Why Is Organic Traffic Down? Here&#8217;s How To Segment The Data</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2025-12-09T14:00:44+00:00",
       "fetched": "2025-12-09T21:09:56.343417+00:00"
-    },
-    {
-      "id": "d3854dc8-e5e0-40a9-9582-5407c70b5533",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Ask An SEO: Digital PR Or Traditional Link Building, Which Is Better? via @sejournal, @rollerblader",
-      "link": "https://www.searchenginejournal.com/ask-an-seo-digital-pr-or-traditional-link-building-which-is-better/553879/",
-      "summary": "In this Ask an SEO, Adam Riemer examines why digital PR delivers a stronger business case than link-driven tactics built for ranking manipulation.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-an-seo-digital-pr-or-traditional-link-building-which-is-better/553879/\">Ask An SEO: Digital PR Or Traditional Link Building, Which Is Better?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2025-12-09T13:30:27+00:00",
-      "fetched": "2025-12-09T21:09:56.343436+00:00"
-    },
-    {
-      "id": "77f7970c-96f9-4eef-b07c-dd824c29f6fc",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Disputes Report Claiming Ads Are Coming To Gemini In 2026 via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-disputes-report-claiming-ads-are-coming-to-gemini-in-2026/562831/",
-      "summary": "Google disputes a report claiming ads will arrive in the Gemini app in 2026, saying there are no current plans to add them. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-disputes-report-claiming-ads-are-coming-to-gemini-in-2026/562831/\">Google Disputes Report Claiming Ads Are Coming To Gemini In 2026</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2025-12-08T21:48:23+00:00",
-      "fetched": "2025-12-09T21:09:56.343459+00:00"
-    },
-    {
-      "id": "9e87342f-a7b8-48c2-954e-e411b44392f4",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "What Google\u2019s 2025 Year in Review Tells Us About the Future of PPC via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/what-googles-2025-year-in-review-tells-us-about-the-future-of-ppc/562795/",
-      "summary": "A practical look at Google Ads\u2019 2025 releases, key takeaways for PPC managers, and what\u2019s likely to shape strategy in 2026.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-googles-2025-year-in-review-tells-us-about-the-future-of-ppc/562795/\">What Google&#8217;s 2025 Year in Review Tells Us About the Future of PPC</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2025-12-08T17:01:45+00:00",
-      "fetched": "2025-12-08T21:10:41.264658+00:00"
-    },
-    {
-      "id": "46a1914a-ac79-484f-ac73-7d601874543f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Tests Social Channel Insights In Search Console via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-tests-social-channel-insights-in-search-console/562811/",
-      "summary": "Google Search Console is testing a feature that shows how linked social channels perform in Google Search, including clicks, impressions, and queries.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-tests-social-channel-insights-in-search-console/562811/\">Google Tests Social Channel Insights In Search Console</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2025-12-08T15:42:51+00:00",
-      "fetched": "2025-12-08T21:10:41.264685+00:00"
     }
   ],
-  "last_updated": "2025-12-11T21:13:43.166940+00:00"
+  "last_updated": "2025-12-12T21:10:28.704315+00:00"
 }
