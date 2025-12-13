@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "id": "368a49e2-3a39-44d6-873a-aa524bd22879",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "Sophie Fell talks why double-checking campaign settings matters",
+      "link": "https://searchengineland.com/sophie-fell-talks-why-double-checking-campaign-settings-matters-466153",
+      "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"900\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/PLTP-Image-2.png\" style=\"margin-bottom: 15px;\" width=\"1600\" /></div>Even experienced PPC pros can be caught out by defaults, making it essential to double-check campaign settings.",
+      "published": "2025-12-13T02:47:34+00:00",
+      "fetched": "2025-12-13T21:09:47.208269+00:00"
+    },
+    {
+      "id": "9695db6f-6703-4287-8396-7778ab3e2073",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Updates Search Live With Gemini Model Upgrade via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-updates-search-live-with-gemini-model-upgrade/563189/",
+      "summary": "Google continues evolution beyond text-first interactions with upgrades to Search Live Gemini model, possibly complicating SEO.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-updates-search-live-with-gemini-model-upgrade/563189/\">Google Updates Search Live With Gemini Model Upgrade</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2025-12-12T22:45:10+00:00",
+      "fetched": "2025-12-13T21:09:46.929403+00:00"
+    },
+    {
       "id": "d721feb2-095a-4049-85a8-1305b335ecd7",
       "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
       "feed_name": "Search Engine Land",
@@ -155,17 +177,6 @@
       "fetched": "2025-12-11T21:13:42.702874+00:00"
     },
     {
-      "id": "7bd68d43-4ec6-4ec3-982c-8d2d8df8e8bf",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "Bing tests Google-style \u201cSponsored results\u201d grouping",
-      "link": "https://searchengineland.com/bing-tests-google-style-sponsored-results-grouping-466056",
-      "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"457\" src=\"https://searchengineland.com/wp-content/seloads/2025/03/bing-tech-background-1920-800x457.jpg\" style=\"margin-bottom: 15px;\" width=\"800\" /></div>Bing\u2019s new grouped \u201cSponsored results\u201d format could drive higher unintentional ad engagement by blending paid listings more seamlessly into search results.",
-      "published": "2025-12-11T16:36:40+00:00",
-      "fetched": "2025-12-11T21:13:42.702895+00:00"
-    },
-    {
       "id": "9a1bdd43-57e9-4b4b-bf1a-0ff69af559f4",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -318,18 +329,7 @@
       "summary": "An evidence-driven look at how paywalls can stabilize revenue, strengthen owned audiences, and reduce long-term dependence on volatile platform traffic.\n\nThe post <a href=\"https://www.searchenginejournal.com/so-you-want-to-paywall/562878/\">So You Want To Paywall?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2025-12-09T14:30:06+00:00",
       "fetched": "2025-12-09T21:09:56.343390+00:00"
-    },
-    {
-      "id": "9fe898d9-3e23-47d0-920b-cda23b7aaee2",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why Is Organic Traffic Down? Here\u2019s How To Segment The Data via @sejournal, @torylynne",
-      "link": "https://www.searchenginejournal.com/segment-organic-traffic-data/561082/",
-      "summary": "A strategic framework for diagnosing organic traffic drops by separating tracking, brand, and SEO issues through smart data segmentation.\n\nThe post <a href=\"https://www.searchenginejournal.com/segment-organic-traffic-data/561082/\">Why Is Organic Traffic Down? Here&#8217;s How To Segment The Data</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2025-12-09T14:00:44+00:00",
-      "fetched": "2025-12-09T21:09:56.343417+00:00"
     }
   ],
-  "last_updated": "2025-12-12T21:10:28.704315+00:00"
+  "last_updated": "2025-12-13T21:09:47.971919+00:00"
 }
