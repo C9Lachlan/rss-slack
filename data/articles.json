@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": "fa2e684a-2d36-4b3d-a427-96626c3a101e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Files DMCA Suit Targeting SerpApi\u2019s SERP Scraping via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-files-dmca-suit-targeting-serpapis-serp-scraping/563847/",
+      "summary": "Google sued SerpApi under the DMCA, alleging it circumvented SearchGuard to scrape and resell licensed copyrighted content from Google Search results at scale.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-files-dmca-suit-targeting-serpapis-serp-scraping/563847/\">Google Files DMCA Suit Targeting SerpApi\u2019s SERP Scraping</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2025-12-20T16:08:38+00:00",
+      "fetched": "2025-12-20T21:09:45.555555+00:00"
+    },
+    {
       "id": "0f81c7df-1a26-430f-b6f2-d68a487c7e27",
       "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
       "feed_name": "Search Engine Land",
@@ -318,18 +329,7 @@
       "summary": "Google launches Gemini 3 Flash and makes it the default in the Gemini app. It\u2019s rolling out as AI Mode\u2019s default model. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-gemini-3-flash-becomes-default-in-gemini-app-ai-mode/563572/\">Google Gemini 3 Flash Becomes Default In Gemini App &#038; AI Mode</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2025-12-17T17:32:23+00:00",
       "fetched": "2025-12-17T21:11:46.679584+00:00"
-    },
-    {
-      "id": "8a893f38-d110-4996-a656-b08dd52109d7",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Updates JavaScript SEO Docs With Canonical Advice via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-updates-javascript-seo-docs-with-canonical-advice/563545/",
-      "summary": "Google updated its JavaScript SEO docs with new guidance on canonical URLs for JavaScript-rendered pages. Keep canonicals consistent before and after rendering.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-updates-javascript-seo-docs-with-canonical-advice/563545/\">Google Updates JavaScript SEO Docs With Canonical Advice</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2025-12-17T14:56:03+00:00",
-      "fetched": "2025-12-17T21:11:46.679610+00:00"
     }
   ],
-  "last_updated": "2025-12-19T21:11:11.090158+00:00"
+  "last_updated": "2025-12-20T21:09:46.483588+00:00"
 }
