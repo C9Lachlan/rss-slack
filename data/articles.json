@@ -1,6 +1,94 @@
 {
   "articles": [
     {
+      "id": "297bdccb-eb4f-4336-865d-b6f071510176",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "AI\u2019s impact on search isn\u2019t a secret (How to talk to execs about the new era of search)",
+      "link": "https://searchengineland.com/ai-impact-on-search-466727",
+      "summary": "<div><img alt=\"Don&#039;t Avoid Leadership \u2013 Featured image\" class=\"attachment-large size-large wp-post-image\" height=\"936\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/dont-avoid-leadership-featured-image.png\" style=\"margin-bottom: 15px;\" width=\"1663\" /></div>Organic traffic is falling as AI reshapes search. Here's how to brief leadership with data, reset expectations, and adapt your SEO strategy for AI visibility.",
+      "published": "2025-12-23T18:11:43+00:00",
+      "fetched": "2025-12-23T21:11:30.697052+00:00"
+    },
+    {
+      "id": "76e4052c-ab8f-4ab9-85c3-7323fd2b5d5f",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "Why ad approval is not legal protection",
+      "link": "https://searchengineland.com/why-ad-approval-is-not-legal-protection-466644",
+      "summary": "<div><img alt=\"Why ad approval is not legal protection\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/Why-ad-approval-is-not-legal-protection.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>Section 230 shields ad platforms from liability, while FTC enforcement holds advertisers strictly responsible for deceptive ad claims.",
+      "published": "2025-12-23T15:00:00+00:00",
+      "fetched": "2025-12-23T21:11:30.697078+00:00"
+    },
+    {
+      "id": "dcade4f7-20d2-45fa-af83-37f431fce96f",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "Google adds Maps to Demand Gen channel controls",
+      "link": "https://searchengineland.com/google-adds-maps-to-demand-gen-channel-controls-466722",
+      "summary": "<div><img alt=\"Google Ads logo on smartphone screen\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/06/Google-Ads-logo-on-smartphone-screen.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>Advertisers now have the option to run Demand Gen ads on Google Maps, either alongside other channels or as a standalone placement.",
+      "published": "2025-12-23T14:56:14+00:00",
+      "fetched": "2025-12-23T21:11:30.697096+00:00"
+    },
+    {
+      "id": "537e126f-9741-4f18-8bf7-473e7cec1319",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Reveals The Top Searches Of 2025 via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-reveals-the-top-searches-of-2025/563738/",
+      "summary": "Google's Year in Search reveals trending actors, movies, athletes, games, recipes, and travel destinations that captured attention throughout 2025.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-reveals-the-top-searches-of-2025/563738/\">Google Reveals The Top Searches Of 2025</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2025-12-23T14:00:25+00:00",
+      "fetched": "2025-12-23T21:11:30.167634+00:00"
+    },
+    {
+      "id": "505a2319-071a-4da9-a06f-870901454d1e",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "How vibe coding is changing search marketing workflows",
+      "link": "https://searchengineland.com/vibe-coding-search-marketing-workflows-466661",
+      "summary": "<div><img alt=\"Vibe coding for search marketers\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/Vibe-coding-for-search-marketers.jpg\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>As Google\u2019s AI Overviews answer more queries directly, vibe coding gives marketers a way to create interactive experiences AI can\u2019t replace.",
+      "published": "2025-12-23T14:00:00+00:00",
+      "fetched": "2025-12-23T21:11:30.697112+00:00"
+    },
+    {
+      "id": "0a04eee4-183a-419f-bba8-dc5fd7f8303e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why Every Google Ads Account Needs To Run Scripts",
+      "link": "https://www.searchenginejournal.com/why-every-google-ads-account-needs-to-run-scripts/562922/",
+      "summary": "PPC accounts without scripts rely on luck, manual checks, and late alerts. Here\u2019s why that\u2019s a risk serious advertisers shouldn\u2019t accept.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-every-google-ads-account-needs-to-run-scripts/562922/\">Why Every Google Ads Account Needs To Run Scripts</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2025-12-23T13:30:51+00:00",
+      "fetched": "2025-12-23T21:11:30.167664+00:00"
+    },
+    {
+      "id": "2474a50f-c085-42cb-ba43-06d5aa08c08e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Ask An SEO: What Is The Threshold Between Keyword Stuffing & Being Optimized? via @sejournal, @rollerblader",
+      "link": "https://www.searchenginejournal.com/ask-an-seo-threshold-between-keyword-stuffing-and-being-optimized/479096/",
+      "summary": "This week's Ask an SEO addresses where keyword optimization ends and keyword stuffing begins in modern search and AI-driven systems.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-an-seo-threshold-between-keyword-stuffing-and-being-optimized/479096/\">Ask An SEO: What Is The Threshold Between Keyword Stuffing &#038; Being Optimized?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2025-12-23T13:00:30+00:00",
+      "fetched": "2025-12-23T21:11:30.167684+00:00"
+    },
+    {
+      "id": "7dffdc44-b40b-4c0a-a399-bbf6a7c8de58",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "What successful brand-agency partnerships look like in 2026",
+      "link": "https://searchengineland.com/what-successful-brand-agency-partnerships-look-like-in-2026-466647",
+      "summary": "<div><img alt=\"What successful brand-agency partnerships look like in 2026\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/What-successful-brand-agency-partnerships-look-like-in-2026.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>Agency roles differ by company size, from execution-first to integrated partners. Here\u2019s how to align structure and accountability.",
+      "published": "2025-12-23T13:00:00+00:00",
+      "fetched": "2025-12-23T21:11:30.697131+00:00"
+    },
+    {
       "id": "050604d8-46e7-44ed-aef0-82aace3dd21a",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -111,39 +199,6 @@
       "fetched": "2025-12-20T21:09:45.555555+00:00"
     },
     {
-      "id": "0f81c7df-1a26-430f-b6f2-d68a487c7e27",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "Microsoft launches asset-level ad reviews",
-      "link": "https://searchengineland.com/microsoft-launches-asset-level-ad-reviews-466576",
-      "summary": "<div><img alt=\"Microsoft Ads\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://searchengineland.com/wp-content/seloads/2024/01/Microsoft-Ads-800x450.jpg\" style=\"margin-bottom: 15px;\" width=\"800\" /></div>Microsoft\u2019s new asset-level editorial review lets compliant ad components run even when others are disapproved reducing campaign disruption.",
-      "published": "2025-12-19T20:25:33+00:00",
-      "fetched": "2025-12-19T21:11:10.527395+00:00"
-    },
-    {
-      "id": "4d034033-0767-432a-9c22-b47a98a05fe2",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "Google to loosen pharma ad rules for AdMob authorized buyers",
-      "link": "https://searchengineland.com/google-to-loosen-pharma-ad-rules-for-admob-authorized-buyers-466513",
-      "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://searchengineland.com/wp-content/seloads/2015/09/google-mobile3-ss-1920-800x450.jpg\" style=\"margin-bottom: 15px;\" width=\"800\" /></div>Google\u2019s policy update expands pharmaceutical advertising access in programmatic channels and shifts greater compliance risk to advertisers.",
-      "published": "2025-12-19T19:36:54+00:00",
-      "fetched": "2025-12-19T21:11:10.527419+00:00"
-    },
-    {
-      "id": "5e896d90-014d-4803-9050-86d163d51e9c",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "Google sues SerpApi over scraping and reselling Search data",
-      "link": "https://searchengineland.com/google-sues-serpapi-466541",
-      "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"462\" src=\"https://searchengineland.com/wp-content/seloads/2023/04/google-ninja-robot-crawler-1920-800x462.jpg\" style=\"margin-bottom: 15px;\" width=\"800\" /></div>Google accused SerpApi of 'circumventing security measures protecting others\u2019 copyrighted content that appears in Google search results.'",
-      "published": "2025-12-19T19:19:59+00:00",
-      "fetched": "2025-12-19T21:11:10.527436+00:00"
-    },
-    {
       "id": "c951c78c-fe19-4500-b84b-0d991f238c6e",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -153,28 +208,6 @@
       "summary": "Microsoft published guidance on how duplicate content affects AI search visibility, explaining that AI systems cluster similar pages and may surface unintended versions.\n\nThe post <a href=\"https://www.searchenginejournal.com/microsoft-explains-how-duplicate-content-affects-ai-search-visibility/563823/\">Microsoft Explains How Duplicate Content Affects AI Search Visibility</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2025-12-19T17:40:48+00:00",
       "fetched": "2025-12-19T21:11:10.261963+00:00"
-    },
-    {
-      "id": "52ff8bb6-7c53-4911-9990-6c01c97c4d53",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "Microsoft Bing explains how duplicate content can hurt your visibility in AI Search",
-      "link": "https://searchengineland.com/microsoft-bing-explains-how-duplicate-content-can-hurt-your-visibility-in-ai-search-466491",
-      "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"1097\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/blue-bing-writing-1920.jpg\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>Duplicate or similar content on your site makes it hard for AI search engines to interpret your intent signals.",
-      "published": "2025-12-19T17:30:00+00:00",
-      "fetched": "2025-12-19T21:11:10.527452+00:00"
-    },
-    {
-      "id": "e8800736-70de-460a-8e2d-8c6327bd4fba",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "Your next customer might not be human: Designing journeys for people and AI agents",
-      "link": "https://searchengineland.com/your-next-customer-might-not-be-human-designing-journeys-for-people-and-ai-agents-466459",
-      "summary": "<div><img alt=\"Your next customer might not be human: Designing journeys for people and AI agents\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/Your-next-customer-might-not-be-human-Designing-journeys-for-people-and-AI-agents.jpg\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>AI agents increasingly filter options and shape shortlists before people ever engage, shifting where visibility and influence are earned.",
-      "published": "2025-12-19T15:00:00+00:00",
-      "fetched": "2025-12-19T21:11:10.527468+00:00"
     },
     {
       "id": "97070dae-f856-4024-b196-3745df8162c3",
@@ -296,40 +329,7 @@
       "summary": "Google's Robby Stein explains how AI Mode judges content quality and names five quality signals useful for SEO\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-robby-stein-names-5-seo-factors-for-ai-mode/563688/\">Google&#8217;s Robby Stein Names 5 SEO Factors For AI Mode</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2025-12-18T13:11:17+00:00",
       "fetched": "2025-12-18T21:11:09.765973+00:00"
-    },
-    {
-      "id": "e200b984-b7c3-4be9-9779-f5431ecb2acb",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Let\u2019s Be Honest About The Ranking Power Of Links via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/lets-be-honest-about-the-ranking-power-of-links/563662/",
-      "summary": "It's time to reset how we think about links and link building for SEO and AI search.\n\nThe post <a href=\"https://www.searchenginejournal.com/lets-be-honest-about-the-ranking-power-of-links/563662/\">Let&#8217;s Be Honest About The Ranking Power Of Links</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2025-12-18T11:17:30+00:00",
-      "fetched": "2025-12-18T21:11:09.765990+00:00"
-    },
-    {
-      "id": "fd44f814-975a-4f15-b715-bed061707efd",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How Will AI Mode Impact Local SEO? via @sejournal, @JRiddall",
-      "link": "https://www.searchenginejournal.com/how-will-ai-mode-impact-local-seo/561002/",
-      "summary": "Google\u2019s shift to AI Mode reshapes local SEO by elevating entity authority, verified data, and structured facts as the defining drivers of visibility.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-will-ai-mode-impact-local-seo/561002/\">How Will AI Mode Impact Local SEO?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2025-12-18T11:00:49+00:00",
-      "fetched": "2025-12-18T21:11:09.766008+00:00"
-    },
-    {
-      "id": "bd9440bd-d297-46b0-9256-a224bbd0a827",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Says What To Tell Clients Who Want SEO For AI via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-says-what-to-tell-clients-who-want-seo-for-ai/563652/",
-      "summary": "Google's Danny Sullivan provided advice on how SEOs can address client expectations around AI.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-says-what-to-tell-clients-who-want-seo-for-ai/563652/\">Google Says What To Tell Clients Who Want SEO For AI</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2025-12-18T10:45:01+00:00",
-      "fetched": "2025-12-18T21:11:09.766034+00:00"
     }
   ],
-  "last_updated": "2025-12-22T21:10:23.588529+00:00"
+  "last_updated": "2025-12-23T21:11:31.379465+00:00"
 }
