@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "d7649611-df32-49af-b752-0e66ecec70b4",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "OpenAI discusses an ad-driven strategy centered on ChatGPT scale and media partnerships",
+      "link": "https://searchengineland.com/openai-discusses-an-ad-driven-strategy-centered-on-chatgpt-scale-and-media-partnerships-466818",
+      "summary": "<div><img alt=\"OpenAI ChatGPT iOS app\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://searchengineland.com/wp-content/seloads/2023/05/openai-chatgpt-ios-app-800x450.jpg\" style=\"margin-bottom: 15px;\" width=\"800\" /></div>OpenAI\u2019s move toward ads in AI responses could create a new, highly contextual channel for advertisers while reshaping digital marketing.",
+      "published": "2025-12-24T16:18:02+00:00",
+      "fetched": "2025-12-24T21:10:28.502203+00:00"
+    },
+    {
+      "id": "76dd785a-817f-4b13-bb2a-1f1851c1e484",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "Google lowers audience size limits across Ads",
+      "link": "https://searchengineland.com/google-lowers-audience-size-limits-across-ads-466816",
+      "summary": "<div><img alt=\"Google Ads logo on smartphone screen\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/06/Google-Ads-logo-on-smartphone-screen.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>The audience list reduction to 100 users makes it easier for advertisers of all sizes to use remarketing and customer list.",
+      "published": "2025-12-24T15:31:37+00:00",
+      "fetched": "2025-12-24T21:10:28.502226+00:00"
+    },
+    {
+      "id": "bbb82674-2f74-4fb7-818d-6bfbb3dd1bcc",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Track Santa On Christmas Eve 2025 (Via NORAD & Google) via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/track-santa-on-christmas-eve-2025-via-norad-google/563552/",
+      "summary": "Real-time Santa tracking returns for 2025, with Google and NORAD offering interactive maps, games, and global arrival updates.\n\nThe post <a href=\"https://www.searchenginejournal.com/track-santa-on-christmas-eve-2025-via-norad-google/563552/\">Track Santa On Christmas Eve 2025 (Via NORAD &#038; Google)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2025-12-24T14:00:26+00:00",
+      "fetched": "2025-12-24T21:10:28.268290+00:00"
+    },
+    {
+      "id": "955bf6e3-422c-435e-b852-84a2ac5e5caa",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "2026 Forecast: 5 Expert Marketing Strategies You Need To Refine By Q2 via @sejournal, @lorenbaker",
+      "link": "https://www.searchenginejournal.com/2026-marketing-forecast-ppc-leaders/562567/",
+      "summary": "PPC Managers: Get the 2026 marketing forecast and discover how to optimize budgets and channels for effective campaigns before the new year!\n\nThe post <a href=\"https://www.searchenginejournal.com/2026-marketing-forecast-ppc-leaders/562567/\">2026 Forecast: 5 Expert Marketing Strategies You Need To Refine By Q2</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2025-12-24T13:30:44+00:00",
+      "fetched": "2025-12-24T21:10:28.268315+00:00"
+    },
+    {
+      "id": "0170964b-37ff-4446-b80a-12e5da27e21c",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Top 10 Emotionally-Engaging Holiday Ads Of 2025 (With A Bonus One) via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/top-emotionally-engaging-holiday-ads/562788/",
+      "summary": "An analysis of 2025\u2019s most emotionally effective holiday ads shows why nostalgia, warmth, and human storytelling still outperform spend.\n\nThe post <a href=\"https://www.searchenginejournal.com/top-emotionally-engaging-holiday-ads/562788/\">Top 10 Emotionally-Engaging Holiday Ads Of 2025 (With A Bonus One)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2025-12-24T12:00:47+00:00",
+      "fetched": "2025-12-24T21:10:28.268337+00:00"
+    },
+    {
       "id": "297bdccb-eb4f-4336-865d-b6f071510176",
       "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
       "feed_name": "Search Engine Land",
@@ -133,17 +188,6 @@
       "fetched": "2025-12-22T21:10:21.251523+00:00"
     },
     {
-      "id": "a0107bc8-8aa3-4297-b8a3-7aac54087de6",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "Image SEO for multimodal AI",
-      "link": "https://searchengineland.com/image-seo-multimodal-ai-466508",
-      "summary": "<div><img alt=\"Decoding the machine gaze- Image SEO for multimodal AI\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/Decoding-the-machine-gaze-Image-SEO-for-multimodal-AI.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>Images are now parsed like language. OCR, visual context and pixel-level quality shape how AI systems interpret and surface content.",
-      "published": "2025-12-22T14:00:00+00:00",
-      "fetched": "2025-12-22T21:10:21.251543+00:00"
-    },
-    {
       "id": "b9439521-28df-4685-91e6-3ecc285029b3",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -153,17 +197,6 @@
       "summary": "Learn why AI works best as a support tool, not a decision-maker, and why misplaced trust in autonomy is risky.\n\nThe post <a href=\"https://www.searchenginejournal.com/ironman-not-superman/563860/\">Ironman, Not Superman</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2025-12-22T13:00:45+00:00",
       "fetched": "2025-12-22T21:10:20.969645+00:00"
-    },
-    {
-      "id": "6dae3230-9b60-4d92-9e14-6203eca2e979",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "How to build search visibility before demand exists",
-      "link": "https://searchengineland.com/build-search-visibility-before-demand-exists-466516",
-      "summary": "<div><img alt=\"How to build search visibility before demand exists\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/How-to-build-search-visibility-before-demand-exists.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>Search demand forms before keywords appear. See how Exploding Topics, social search, and PR support early authority building.",
-      "published": "2025-12-22T13:00:00+00:00",
-      "fetched": "2025-12-22T21:10:21.251559+00:00"
     },
     {
       "id": "e5658a04-e4bc-4d8d-aa3a-35f4b46ce124",
@@ -296,40 +329,7 @@
       "summary": "Learn about the future of search AI and trust in information in an evolving digital landscape focused on transparency and authenticity.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-future-of-content-in-ai-world-provenance-trust-in-information/554593/\">The Future Of Content In An AI World: Provenance &#038; Trust In Information</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2025-12-18T14:00:25+00:00",
       "fetched": "2025-12-18T21:11:09.765911+00:00"
-    },
-    {
-      "id": "624723e7-e3e8-442c-975e-759fc15610bb",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Coursera Acquiring Udemy via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/coursera-acquiring-udemy/563699/",
-      "summary": "Coursera agrees to acquire Udemy in a stock-for-stock transaction.\n\nThe post <a href=\"https://www.searchenginejournal.com/coursera-acquiring-udemy/563699/\">Coursera Acquiring Udemy</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2025-12-18T13:42:16+00:00",
-      "fetched": "2025-12-18T21:11:09.765930+00:00"
-    },
-    {
-      "id": "f4086dee-3ee2-465b-9c23-9712fd2d778f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The User Journey Isn\u2019t Linear Anymore: It\u2019s Always On via @sejournal, @TaylorDanRW",
-      "link": "https://www.searchenginejournal.com/the-user-journey-isnt-linear-anymore-its-always-on/563142/",
-      "summary": "Dan Taylor explains why AI has broken the linear customer journey and what organizations must do to stay influential.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-user-journey-isnt-linear-anymore-its-always-on/563142/\">The User Journey Isn\u2019t Linear Anymore: It\u2019s Always On</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2025-12-18T13:30:36+00:00",
-      "fetched": "2025-12-18T21:11:09.765955+00:00"
-    },
-    {
-      "id": "7a1ddcb4-2fa3-4e51-aa14-ca3f36b90970",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Robby Stein Names 5 SEO Factors For AI Mode via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/googles-robby-stein-names-5-seo-factors-for-ai-mode/563688/",
-      "summary": "Google's Robby Stein explains how AI Mode judges content quality and names five quality signals useful for SEO\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-robby-stein-names-5-seo-factors-for-ai-mode/563688/\">Google&#8217;s Robby Stein Names 5 SEO Factors For AI Mode</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2025-12-18T13:11:17+00:00",
-      "fetched": "2025-12-18T21:11:09.765973+00:00"
     }
   ],
-  "last_updated": "2025-12-23T21:11:31.379465+00:00"
+  "last_updated": "2025-12-24T21:10:29.583824+00:00"
 }
