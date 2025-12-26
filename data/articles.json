@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": "dc188d31-5610-43ba-9c37-ebc44771c327",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The 7 Best Landing Page Builders For 2026 via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/the-7-best-landing-page-builders-for-2026/561935/",
+      "summary": "When conversions matter, these landing page builders give you the flexibility and optimization features to capture more customers.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-7-best-landing-page-builders-for-2026/561935/\">The 7 Best Landing Page Builders For 2026</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2025-12-26T13:00:39+00:00",
+      "fetched": "2025-12-26T21:10:15.235104+00:00"
+    },
+    {
       "id": "8e8ea628-4f03-4d85-8a29-8d89504b5463",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -241,84 +252,7 @@
       "summary": "Google sued SerpApi under the DMCA, alleging it circumvented SearchGuard to scrape and resell licensed copyrighted content from Google Search results at scale.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-files-dmca-suit-targeting-serpapis-serp-scraping/563847/\">Google Files DMCA Suit Targeting SerpApi\u2019s SERP Scraping</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2025-12-20T16:08:38+00:00",
       "fetched": "2025-12-20T21:09:45.555555+00:00"
-    },
-    {
-      "id": "c951c78c-fe19-4500-b84b-0d991f238c6e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Microsoft Explains How Duplicate Content Affects AI Search Visibility via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/microsoft-explains-how-duplicate-content-affects-ai-search-visibility/563823/",
-      "summary": "Microsoft published guidance on how duplicate content affects AI search visibility, explaining that AI systems cluster similar pages and may surface unintended versions.\n\nThe post <a href=\"https://www.searchenginejournal.com/microsoft-explains-how-duplicate-content-affects-ai-search-visibility/563823/\">Microsoft Explains How Duplicate Content Affects AI Search Visibility</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2025-12-19T17:40:48+00:00",
-      "fetched": "2025-12-19T21:11:10.261963+00:00"
-    },
-    {
-      "id": "97070dae-f856-4024-b196-3745df8162c3",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "SEO Pulse: AI Mode Hits 75M Users, Gemini 3 Flash Launches via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-ai-mode-hits-75m-users-gemini-3-flash-launches/563725/",
-      "summary": "This week\u2019s SEO Pulse covers the signals that matter most as AI search moves from experimentation to core infrastructure.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-ai-mode-hits-75m-users-gemini-3-flash-launches/563725/\">SEO Pulse: AI Mode Hits 75M Users, Gemini 3 Flash Launches</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2025-12-19T14:00:13+00:00",
-      "fetched": "2025-12-19T21:11:10.261992+00:00"
-    },
-    {
-      "id": "b2b85cf6-be7c-4d46-91bd-d82bee790ddb",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "PPC Pulse: More Apple Search Inventory, Exact Match Limits In AI Overviews via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/ppc-pulse-more-apple-search-inventory-exact-match-limits-in-ai-overviews/563733/",
-      "summary": "Apple Ads inventory growth and reduced keyword control in Google AI Overviews define this week\u2019s most notable PPC updates.\n\nThe post <a href=\"https://www.searchenginejournal.com/ppc-pulse-more-apple-search-inventory-exact-match-limits-in-ai-overviews/563733/\">PPC Pulse: More Apple Search Inventory, Exact Match Limits In AI Overviews</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2025-12-19T13:30:55+00:00",
-      "fetched": "2025-12-19T21:11:10.262012+00:00"
-    },
-    {
-      "id": "ae718b84-e40f-422a-b2b8-c177915a9c30",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Search & Social: How To Engineer Cross-Channel Synergy via @sejournal, @rio_seo",
-      "link": "https://www.searchenginejournal.com/search-social-how-to-engineer-cross-channel-synergy/561539/",
-      "summary": "Search and social now operate as a single ecosystem where shared signals, audience insights, and unified workflows drive stronger visibility and trust.\n\nThe post <a href=\"https://www.searchenginejournal.com/search-social-how-to-engineer-cross-channel-synergy/561539/\">Search &#038; Social: How To Engineer Cross-Channel Synergy</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2025-12-19T13:00:28+00:00",
-      "fetched": "2025-12-19T21:11:10.262039+00:00"
-    },
-    {
-      "id": "8da42c18-c702-412a-a700-aa32e26808fb",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Sam Altman Explains OpenAI\u2019s Bet On Profitability via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/sam-altman-explains-openais-bet-on-profitability/563804/",
-      "summary": "Sam Altman addresses questions about OpenAI's losses and path to profitability.\n\nThe post <a href=\"https://www.searchenginejournal.com/sam-altman-explains-openais-bet-on-profitability/563804/\">Sam Altman Explains OpenAI&#8217;s Bet On Profitability</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2025-12-19T12:38:30+00:00",
-      "fetched": "2025-12-19T21:11:10.262058+00:00"
-    },
-    {
-      "id": "58016ec6-badd-4811-a9d4-94826019faca",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Core Web Vitals Champ: Open Source Versus Proprietary Platforms via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/core-web-vitals-champ-open-source-versus-proprietary-platforms/563796/",
-      "summary": "Core Web Vitals measurements reveal a significant difference between open source and proprietary CMS platforms.\n\nThe post <a href=\"https://www.searchenginejournal.com/core-web-vitals-champ-open-source-versus-proprietary-platforms/563796/\">Core Web Vitals Champ: Open Source Versus Proprietary Platforms</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2025-12-19T11:29:46+00:00",
-      "fetched": "2025-12-19T21:11:10.262075+00:00"
-    },
-    {
-      "id": "a1b6f2ec-8cb1-4acd-9dac-4a398cd0bc9b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Says Ranking Systems Reward Content Made For Humans via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-says-ranking-systems-reward-content-made-for-humans/563774/",
-      "summary": "Google's Danny Sullivan says all of their ranking systems reward content that is made for humans\n\nThe post <a href=\"https://www.searchenginejournal.com/google-says-ranking-systems-reward-content-made-for-humans/563774/\">Google Says Ranking Systems Reward Content Made For Humans</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2025-12-19T10:17:01+00:00",
-      "fetched": "2025-12-19T21:11:10.262090+00:00"
     }
   ],
-  "last_updated": "2025-12-25T21:11:09.480300+00:00"
+  "last_updated": "2025-12-26T21:10:17.059023+00:00"
 }
