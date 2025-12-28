@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": "b839b456-6182-451f-8181-9ea9841cf94a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Ahrefs Tested AI Misinformation, But Proved Something Else via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/ahrefs-tested-ai-misinformation-but-proved-something-else/564124/",
+      "summary": "Ahrefs research showed that biased inputs can still produce actionable insight for Generative Engine Optimization (GEO).\n\nThe post <a href=\"https://www.searchenginejournal.com/ahrefs-tested-ai-misinformation-but-proved-something-else/564124/\">Ahrefs Tested AI Misinformation, But Proved Something Else</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2025-12-28T19:28:39+00:00",
+      "fetched": "2025-12-28T21:10:31.938225+00:00"
+    },
+    {
       "id": "dc188d31-5610-43ba-9c37-ebc44771c327",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -243,5 +254,5 @@
       "fetched": "2025-12-22T21:10:20.969688+00:00"
     }
   ],
-  "last_updated": "2025-12-27T21:10:04.480777+00:00"
+  "last_updated": "2025-12-28T21:10:33.921374+00:00"
 }
