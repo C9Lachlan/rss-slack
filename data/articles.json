@@ -1,6 +1,72 @@
 {
   "articles": [
     {
+      "id": "30663af0-1310-4767-8ed6-4983665b1856",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "Google December 2025 core update rollout is now complete",
+      "link": "https://searchengineland.com/google-december-2025-core-update-rollout-is-now-complete-466362",
+      "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"1097\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/google-core-update-ice-1920.jpg\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>This is the third core update of 2025 and it took over 18 days to complete.",
+      "published": "2025-12-29T19:10:55+00:00",
+      "fetched": "2025-12-29T21:11:03.656531+00:00"
+    },
+    {
+      "id": "e1136c14-0aad-4197-bf7c-c1da033ec8cc",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "Google algorithm updates 2025 in review: 3 core updates and 1 spam update",
+      "link": "https://searchengineland.com/google-algorithm-updates-2025-in-review-3-core-updates-and-1-spam-update-466450",
+      "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/algorithm-updates-2025-search-engine-land.jpg\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>Google is confirming fewer and fewer search algorithm updates, but that doesn't mean there is less ranking volatility.",
+      "published": "2025-12-29T15:32:43+00:00",
+      "fetched": "2025-12-29T21:11:03.656562+00:00"
+    },
+    {
+      "id": "b3348dca-824b-4531-b326-7b3f937f3539",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "Top 10 SEO expert columns of 2025 on Search Engine Land",
+      "link": "https://searchengineland.com/top-10-seo-expert-columns-2025-466636",
+      "summary": "<div><img alt=\"Top Search Engine Land SEO columns of 2025\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/seo-columns-2025-search-engine-land.jpg\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>AI optimization, llms.txt, the end of the web, and more! These 10 SEO columns got the most pageviews on Search Engine Land in 2025.",
+      "published": "2025-12-29T15:00:00+00:00",
+      "fetched": "2025-12-29T21:11:03.656582+00:00"
+    },
+    {
+      "id": "4d653bd4-0062-4712-9fca-62414a4e7208",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The New AI Marketplace: How ChatGPT\u2019s Native Shopping Could Rewrite Digital Commerce via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/how-chatgpts-native-shopping-could-rewrite-digital-commerce/563323/",
+      "summary": "OpenAI\u2019s native shopping in ChatGPT signals a major shift in discovery, attribution, and brand power, according to Viant CEO Tim Vanderhook.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-chatgpts-native-shopping-could-rewrite-digital-commerce/563323/\">The New AI Marketplace: How ChatGPT\u2019s Native Shopping Could Rewrite Digital Commerce</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2025-12-29T13:30:11+00:00",
+      "fetched": "2025-12-29T21:11:03.353290+00:00"
+    },
+    {
+      "id": "ab8b679c-6501-4810-b3ae-95c354cfa41a",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "Top 10 SEO news stories of 2025",
+      "link": "https://searchengineland.com/top-seo-news-stories-2025-466726",
+      "summary": "<div><img alt=\"Top Search Engine Land SEO news stories of 2025\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/seo-top-stories-2025-search-engine-land.jpg\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>SEO vs. GEO. AI Mode expands. AI Overviews kill clicks. Goodbye, num=100. These were among the most popular and biggest SEO stories of 2025.",
+      "published": "2025-12-29T13:00:00+00:00",
+      "fetched": "2025-12-29T21:11:03.656599+00:00"
+    },
+    {
+      "id": "0359d964-8bf6-4928-97cc-d508cc08f49f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Review Of 2025: Highlights & Lowlights For SEO (& WordPress) via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/year-review-highlights-and-lowlights-for-seo/562698/",
+      "summary": "2025 was notable for GEO, Google patents, and research papers. WordPress entered the year with uncertainty and ended it roaring into 2026.\n\nThe post <a href=\"https://www.searchenginejournal.com/year-review-highlights-and-lowlights-for-seo/562698/\">Review Of 2025: Highlights &#038; Lowlights For SEO (&#038; WordPress)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2025-12-29T12:00:34+00:00",
+      "fetched": "2025-12-29T21:11:03.353318+00:00"
+    },
+    {
       "id": "b839b456-6182-451f-8181-9ea9841cf94a",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -164,95 +230,7 @@
       "summary": "This week's Ask an SEO addresses where keyword optimization ends and keyword stuffing begins in modern search and AI-driven systems.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-an-seo-threshold-between-keyword-stuffing-and-being-optimized/479096/\">Ask An SEO: What Is The Threshold Between Keyword Stuffing &#038; Being Optimized?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2025-12-23T13:00:30+00:00",
       "fetched": "2025-12-23T21:11:30.167684+00:00"
-    },
-    {
-      "id": "7dffdc44-b40b-4c0a-a399-bbf6a7c8de58",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "What successful brand-agency partnerships look like in 2026",
-      "link": "https://searchengineland.com/what-successful-brand-agency-partnerships-look-like-in-2026-466647",
-      "summary": "<div><img alt=\"What successful brand-agency partnerships look like in 2026\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/What-successful-brand-agency-partnerships-look-like-in-2026.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>Agency roles differ by company size, from execution-first to integrated partners. Here\u2019s how to align structure and accountability.",
-      "published": "2025-12-23T13:00:00+00:00",
-      "fetched": "2025-12-23T21:11:30.697131+00:00"
-    },
-    {
-      "id": "050604d8-46e7-44ed-aef0-82aace3dd21a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Do Faces Help YouTube Thumbnails? Here\u2019s What The Data Says via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/do-faces-help-youtube-thumbnails-heres-what-the-data-says/563944/",
-      "summary": "A new dataset of 300K viral YouTube videos suggests that faces in thumbnails perform about the same as without them, with larger differences by niche. \n\nThe post <a href=\"https://www.searchenginejournal.com/do-faces-help-youtube-thumbnails-heres-what-the-data-says/563944/\">Do Faces Help YouTube Thumbnails? Here&#8217;s What The Data Says</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2025-12-22T19:10:19+00:00",
-      "fetched": "2025-12-22T21:10:20.969619+00:00"
-    },
-    {
-      "id": "580f9d63-6593-48f9-b8c2-501cb10e918b",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "AI search is growing, but SEO fundamentals still drive most traffic",
-      "link": "https://searchengineland.com/ai-search-is-growing-but-seo-fundamentals-still-drive-most-traffic-466620",
-      "summary": "<div><img alt=\"AI search is growing, but SEO fundamentals still drive most traffic\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/AI-search-is-growing-but-SEO-fundamentals-still-drive-most-traffic.jpg\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>AI is changing search, but traditional SEO still drives most traffic. Real-world data shows which tactics continue to perform.",
-      "published": "2025-12-22T18:13:04+00:00",
-      "fetched": "2025-12-22T21:10:21.251480+00:00"
-    },
-    {
-      "id": "c43502c9-1f8e-4956-847f-ec7b0f0fb21c",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "Google expands Performance Max channel reporting to MCCs",
-      "link": "https://searchengineland.com/google-expands-performance-max-channel-reporting-to-mccs-466634",
-      "summary": "<div><img alt=\"Google\u2019s token auction: When LLMs write the ads in real time\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/06/Googles-token-auction-When-LLMs-write-the-ads-in-real-time.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>Google's latest update gives large advertisers clearer, cross-account insight into how PMax allocates spend and performs across channels.",
-      "published": "2025-12-22T15:01:51+00:00",
-      "fetched": "2025-12-22T21:10:21.251506+00:00"
-    },
-    {
-      "id": "9916136f-1792-4fc0-9cdc-6797ea785103",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "Why Google is deleting reviews at record levels",
-      "link": "https://searchengineland.com/google-deleting-reviews-record-levels-466546",
-      "summary": "<div><img alt=\"Why Google is deleting reviews at record levels\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/Why-Google-is-deleting-reviews-at-record-levels.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>Reviews are disappearing faster as moderation systems, industry risk, and geography shape which reviews stay visible.",
-      "published": "2025-12-22T15:00:00+00:00",
-      "fetched": "2025-12-22T21:10:21.251523+00:00"
-    },
-    {
-      "id": "b9439521-28df-4685-91e6-3ecc285029b3",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Ironman, Not Superman via @sejournal, @DuaneForrester",
-      "link": "https://www.searchenginejournal.com/ironman-not-superman/563860/",
-      "summary": "Learn why AI works best as a support tool, not a decision-maker, and why misplaced trust in autonomy is risky.\n\nThe post <a href=\"https://www.searchenginejournal.com/ironman-not-superman/563860/\">Ironman, Not Superman</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2025-12-22T13:00:45+00:00",
-      "fetched": "2025-12-22T21:10:20.969645+00:00"
-    },
-    {
-      "id": "e5658a04-e4bc-4d8d-aa3a-35f4b46ce124",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Top 10 Digital Marketing Trends For 2026 via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/top-10-digital-marketing-trends/558503/",
-      "summary": "In 2026, success belongs to marketers who turn strategy into execution, integrating AI, creativity, and community to build authority.\n\nThe post <a href=\"https://www.searchenginejournal.com/top-10-digital-marketing-trends/558503/\">The Top 10 Digital Marketing Trends For 2026</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2025-12-22T12:00:14+00:00",
-      "fetched": "2025-12-22T21:10:20.969665+00:00"
-    },
-    {
-      "id": "092e2909-cf2f-4904-a824-08218737ec82",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Redirection For Contact Form 7 WordPress Plugin Vulnerability via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/redirection-for-contact-form-7-wordpress-plugin-vulnerability/563883/",
-      "summary": "Vulnerability in Redirection For Contact Form 7 WordPress Plugin affects up to 300,000 installations\n\nThe post <a href=\"https://www.searchenginejournal.com/redirection-for-contact-form-7-wordpress-plugin-vulnerability/563883/\">Redirection For Contact Form 7 WordPress Plugin Vulnerability</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2025-12-22T10:17:16+00:00",
-      "fetched": "2025-12-22T21:10:20.969688+00:00"
     }
   ],
-  "last_updated": "2025-12-28T21:10:33.921374+00:00"
+  "last_updated": "2025-12-29T21:11:04.682711+00:00"
 }
