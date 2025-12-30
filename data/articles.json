@@ -1,6 +1,50 @@
 {
   "articles": [
     {
+      "id": "c52fd8b6-2c2f-453a-adbe-99018ad40f28",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "Top 10 PPC expert columns of 2025 on Search Engine Land",
+      "link": "https://searchengineland.com/top-10-ppc-expert-columns-2025-466637",
+      "summary": "<div><img alt=\"Top 10 Search Engine Land PPC columns of 2025\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/ppc-columns-2025-search-engine-land.jpg\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>PPC vibe coding, CPC inflation, critical PPC tactics, and more! These 10 PPC columns got the most pageviews on Search Engine Land in 2025.",
+      "published": "2025-12-30T14:00:00+00:00",
+      "fetched": "2025-12-30T21:11:34.950437+00:00"
+    },
+    {
+      "id": "8a47c8f4-174c-49e6-8901-ac07e8cd1939",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Free AI WordPress Plugin To Automate Internal Linking For SEOs via @sejournal, @vahandev",
+      "link": "https://www.searchenginejournal.com/free-ai-wordpress-plugin-to-automate-internal-linking-for-seos/562162/",
+      "summary": "See how embeddings, Pinecone, OpenAI, and Vertex AI come together to automate internal linking at scale inside WordPress.\n\nThe post <a href=\"https://www.searchenginejournal.com/free-ai-wordpress-plugin-to-automate-internal-linking-for-seos/562162/\">Free AI WordPress Plugin To Automate Internal Linking For SEOs</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2025-12-30T13:00:45+00:00",
+      "fetched": "2025-12-30T21:11:34.665210+00:00"
+    },
+    {
+      "id": "fc0928e1-2cbd-4c0f-839b-be9bc7b524d1",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "Top 10 PPC news stories 2025 on Search Engine Land",
+      "link": "https://searchengineland.com/top-ppc-news-2025-466485",
+      "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/ppc-top-stories-2025-search-engine-land.jpg\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>AI Max, PMax Search Term visibility, Ads in AI Overviews. The news updates with the most pageviews on Search Engine Land in 2025.",
+      "published": "2025-12-30T13:00:00+00:00",
+      "fetched": "2025-12-30T21:11:34.950465+00:00"
+    },
+    {
+      "id": "c3ccdffb-da05-44b4-8654-dfa07015ea3a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "SEO Maintenance: A Checklist For Essential Year-Round Tasks via @sejournal, @coreydmorris",
+      "link": "https://www.searchenginejournal.com/seo-maintenance-a-checklist-for-essential-year-round-tasks/558501/",
+      "summary": "Build a disciplined yet agile SEO process with daily, monthly, quarterly, and annual planning that drives lasting performance. \n\nThe post <a href=\"https://www.searchenginejournal.com/seo-maintenance-a-checklist-for-essential-year-round-tasks/558501/\">SEO Maintenance: A Checklist For Essential Year-Round Tasks</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2025-12-30T12:00:04+00:00",
+      "fetched": "2025-12-30T21:11:34.665240+00:00"
+    },
+    {
       "id": "30663af0-1310-4767-8ed6-4983665b1856",
       "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
       "feed_name": "Search Engine Land",
@@ -153,84 +197,7 @@
       "summary": "An analysis of 2025\u2019s most emotionally effective holiday ads shows why nostalgia, warmth, and human storytelling still outperform spend.\n\nThe post <a href=\"https://www.searchenginejournal.com/top-emotionally-engaging-holiday-ads/562788/\">Top 10 Emotionally-Engaging Holiday Ads Of 2025 (With A Bonus One)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2025-12-24T12:00:47+00:00",
       "fetched": "2025-12-24T21:10:28.268337+00:00"
-    },
-    {
-      "id": "297bdccb-eb4f-4336-865d-b6f071510176",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "AI\u2019s impact on search isn\u2019t a secret (How to talk to execs about the new era of search)",
-      "link": "https://searchengineland.com/ai-impact-on-search-466727",
-      "summary": "<div><img alt=\"Don&#039;t Avoid Leadership \u2013 Featured image\" class=\"attachment-large size-large wp-post-image\" height=\"936\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/dont-avoid-leadership-featured-image.png\" style=\"margin-bottom: 15px;\" width=\"1663\" /></div>Organic traffic is falling as AI reshapes search. Here's how to brief leadership with data, reset expectations, and adapt your SEO strategy for AI visibility.",
-      "published": "2025-12-23T18:11:43+00:00",
-      "fetched": "2025-12-23T21:11:30.697052+00:00"
-    },
-    {
-      "id": "76e4052c-ab8f-4ab9-85c3-7323fd2b5d5f",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "Why ad approval is not legal protection",
-      "link": "https://searchengineland.com/why-ad-approval-is-not-legal-protection-466644",
-      "summary": "<div><img alt=\"Why ad approval is not legal protection\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/Why-ad-approval-is-not-legal-protection.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>Section 230 shields ad platforms from liability, while FTC enforcement holds advertisers strictly responsible for deceptive ad claims.",
-      "published": "2025-12-23T15:00:00+00:00",
-      "fetched": "2025-12-23T21:11:30.697078+00:00"
-    },
-    {
-      "id": "dcade4f7-20d2-45fa-af83-37f431fce96f",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "Google adds Maps to Demand Gen channel controls",
-      "link": "https://searchengineland.com/google-adds-maps-to-demand-gen-channel-controls-466722",
-      "summary": "<div><img alt=\"Google Ads logo on smartphone screen\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/06/Google-Ads-logo-on-smartphone-screen.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>Advertisers now have the option to run Demand Gen ads on Google Maps, either alongside other channels or as a standalone placement.",
-      "published": "2025-12-23T14:56:14+00:00",
-      "fetched": "2025-12-23T21:11:30.697096+00:00"
-    },
-    {
-      "id": "537e126f-9741-4f18-8bf7-473e7cec1319",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Reveals The Top Searches Of 2025 via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-reveals-the-top-searches-of-2025/563738/",
-      "summary": "Google's Year in Search reveals trending actors, movies, athletes, games, recipes, and travel destinations that captured attention throughout 2025.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-reveals-the-top-searches-of-2025/563738/\">Google Reveals The Top Searches Of 2025</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2025-12-23T14:00:25+00:00",
-      "fetched": "2025-12-23T21:11:30.167634+00:00"
-    },
-    {
-      "id": "505a2319-071a-4da9-a06f-870901454d1e",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "How vibe coding is changing search marketing workflows",
-      "link": "https://searchengineland.com/vibe-coding-search-marketing-workflows-466661",
-      "summary": "<div><img alt=\"Vibe coding for search marketers\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/Vibe-coding-for-search-marketers.jpg\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>As Google\u2019s AI Overviews answer more queries directly, vibe coding gives marketers a way to create interactive experiences AI can\u2019t replace.",
-      "published": "2025-12-23T14:00:00+00:00",
-      "fetched": "2025-12-23T21:11:30.697112+00:00"
-    },
-    {
-      "id": "0a04eee4-183a-419f-bba8-dc5fd7f8303e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why Every Google Ads Account Needs To Run Scripts",
-      "link": "https://www.searchenginejournal.com/why-every-google-ads-account-needs-to-run-scripts/562922/",
-      "summary": "PPC accounts without scripts rely on luck, manual checks, and late alerts. Here\u2019s why that\u2019s a risk serious advertisers shouldn\u2019t accept.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-every-google-ads-account-needs-to-run-scripts/562922/\">Why Every Google Ads Account Needs To Run Scripts</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2025-12-23T13:30:51+00:00",
-      "fetched": "2025-12-23T21:11:30.167664+00:00"
-    },
-    {
-      "id": "2474a50f-c085-42cb-ba43-06d5aa08c08e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Ask An SEO: What Is The Threshold Between Keyword Stuffing & Being Optimized? via @sejournal, @rollerblader",
-      "link": "https://www.searchenginejournal.com/ask-an-seo-threshold-between-keyword-stuffing-and-being-optimized/479096/",
-      "summary": "This week's Ask an SEO addresses where keyword optimization ends and keyword stuffing begins in modern search and AI-driven systems.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-an-seo-threshold-between-keyword-stuffing-and-being-optimized/479096/\">Ask An SEO: What Is The Threshold Between Keyword Stuffing &#038; Being Optimized?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2025-12-23T13:00:30+00:00",
-      "fetched": "2025-12-23T21:11:30.167684+00:00"
     }
   ],
-  "last_updated": "2025-12-29T21:11:04.682711+00:00"
+  "last_updated": "2025-12-30T21:11:36.634296+00:00"
 }
