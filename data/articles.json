@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "id": "f5f82fe1-0841-440d-a8cc-e6e1e759a8e8",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Marketing Calendar With Template To Plan Your Content In 2026 via @sejournal, @theshelleywalsh",
+      "link": "https://www.searchenginejournal.com/holiday-marketing/marketing-calendar-2026-with-template-to-plan-your-content/",
+      "summary": "Take the guesswork out of your marketing planning with our 2026 marketing calendar. Easily customize and reference key dates to create a successful content strategy.\n\nThe post <a href=\"https://www.searchenginejournal.com/holiday-marketing/marketing-calendar-2026-with-template-to-plan-your-content/\">Marketing Calendar With Template To Plan Your Content In 2026</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-01T13:30:09+00:00",
+      "fetched": "2026-01-01T21:11:19.596409+00:00"
+    },
+    {
+      "id": "f5dcdba7-8f11-429c-9e7c-1782abff93b1",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Top 10 Digital Marketing Trends For 2026 via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/digital-marketing-trends/478799/",
+      "summary": "In 2026, success belongs to marketers who turn strategy into execution, integrating AI, creativity, and community to build authority.\n\nThe post <a href=\"https://www.searchenginejournal.com/digital-marketing-trends/478799/\">The Top 10 Digital Marketing Trends For 2026</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-01T03:00:18+00:00",
+      "fetched": "2026-01-01T21:11:19.596454+00:00"
+    },
+    {
       "id": "0183f18c-2b99-45f6-b622-b29609b806d0",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -142,18 +164,7 @@
       "summary": "When conversions matter, these landing page builders give you the flexibility and optimization features to capture more customers.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-7-best-landing-page-builders-for-2026/561935/\">The 7 Best Landing Page Builders For 2026</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2025-12-26T13:00:39+00:00",
       "fetched": "2025-12-26T21:10:15.235104+00:00"
-    },
-    {
-      "id": "8e8ea628-4f03-4d85-8a29-8d89504b5463",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "20 SEO Experts Offer Their Advice For 2026 via @sejournal, @theshelleywalsh",
-      "link": "https://www.searchenginejournal.com/seo-experts-predictions/503049/",
-      "summary": "These expert insights show SEO marketers and decision-makers exactly where to focus in 2026 to protect organic visibility and turn discovery into real business impact.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-experts-predictions/503049/\">20 SEO Experts Offer Their Advice For 2026</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2025-12-25T02:00:47+00:00",
-      "fetched": "2025-12-25T21:11:08.220519+00:00"
     }
   ],
-  "last_updated": "2025-12-31T21:10:32.101797+00:00"
+  "last_updated": "2026-01-01T21:11:20.619224+00:00"
 }
