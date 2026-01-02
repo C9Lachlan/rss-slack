@@ -1,6 +1,50 @@
 {
   "articles": [
     {
+      "id": "a21523af-ad64-4b2a-a37c-48570cb633cb",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Top 10 Emotionally-Engaging Holiday Ads Of 2025 (With A Bonus One) via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/top-ten-emotional-holiday-ads/534349/",
+      "summary": "An analysis of 2025\u2019s most emotionally effective holiday ads shows why nostalgia, warmth, and human storytelling still outperform spend.\n\nThe post <a href=\"https://www.searchenginejournal.com/top-ten-emotional-holiday-ads/534349/\">Top 10 Emotionally-Engaging Holiday Ads Of 2025 (With A Bonus One)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-02T19:01:32+00:00",
+      "fetched": "2026-01-02T21:09:40.149991+00:00"
+    },
+    {
+      "id": "cf8b4aba-0d42-481d-85a4-285df3d2aecf",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Get The Perfect Budget Mix For SEO And PPC via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/the-perfect-budget-mix-for-seo-and-ppc/561016/",
+      "summary": "Choosing the right mix requires clear performance modeling, transparent forecasting, and alignment on how each channel contributes to pipeline, CAC, and strategic growth.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-perfect-budget-mix-for-seo-and-ppc/561016/\">How To Get The Perfect Budget Mix For SEO And PPC</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-02T13:00:05+00:00",
+      "fetched": "2026-01-02T21:09:40.150015+00:00"
+    },
+    {
+      "id": "7f5e08d3-6e3e-4078-99e2-ac913a4191ed",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "Google tests blue Send button that replaces AI Mode in the search box",
+      "link": "https://searchengineland.com/google-tests-blue-send-button-that-replaces-ai-mode-in-the-search-box-466976",
+      "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://searchengineland.com/wp-content/seloads/2020/12/search_google_1920-800x450.jpg\" style=\"margin-bottom: 15px;\" width=\"800\" /></div>As you type your query, the AI Mode may disappear and show you a blue Send button in the Google Search box.",
+      "published": "2026-01-02T12:37:32+00:00",
+      "fetched": "2026-01-02T21:09:40.458624+00:00"
+    },
+    {
+      "id": "dd9943e9-608a-4762-a7b5-73639d579ba5",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Technical Guide To Common Magento (Adobe Commerce) SEO Issues via @sejournal, @TaylorDanRW",
+      "link": "https://www.searchenginejournal.com/the-technical-guide-to-common-magento-adobe-commerce-seo-issues/546308/",
+      "summary": "Adobe Commerce/Magento\u2019s flexibility comes with technical complexity. Here\u2019s how to turn it into a search-optimized, AI-ready growth engine for 2026.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-technical-guide-to-common-magento-adobe-commerce-seo-issues/546308/\">The Technical Guide To Common Magento (Adobe Commerce) SEO Issues</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-02T12:30:08+00:00",
+      "fetched": "2026-01-02T21:09:40.150033+00:00"
+    },
+    {
       "id": "f5f82fe1-0841-440d-a8cc-e6e1e759a8e8",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -153,18 +197,7 @@
       "summary": "Ahrefs research showed that biased inputs can still produce actionable insight for Generative Engine Optimization (GEO).\n\nThe post <a href=\"https://www.searchenginejournal.com/ahrefs-tested-ai-misinformation-but-proved-something-else/564124/\">Ahrefs Tested AI Misinformation, But Proved Something Else</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2025-12-28T19:28:39+00:00",
       "fetched": "2025-12-28T21:10:31.938225+00:00"
-    },
-    {
-      "id": "dc188d31-5610-43ba-9c37-ebc44771c327",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The 7 Best Landing Page Builders For 2026 via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/the-7-best-landing-page-builders-for-2026/561935/",
-      "summary": "When conversions matter, these landing page builders give you the flexibility and optimization features to capture more customers.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-7-best-landing-page-builders-for-2026/561935/\">The 7 Best Landing Page Builders For 2026</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2025-12-26T13:00:39+00:00",
-      "fetched": "2025-12-26T21:10:15.235104+00:00"
     }
   ],
-  "last_updated": "2026-01-01T21:11:20.619224+00:00"
+  "last_updated": "2026-01-02T21:09:41.694923+00:00"
 }
