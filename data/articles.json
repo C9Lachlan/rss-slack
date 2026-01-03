@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": "417c67fd-0b78-4b71-bed6-8256ff440b4a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Track Santa On Christmas Eve 2025 (Via NORAD & Google) via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/santa-tracker/534804/",
+      "summary": "Real-time Santa tracking returns for 2025, with Google and NORAD offering interactive maps, games, and global arrival updates.\n\nThe post <a href=\"https://www.searchenginejournal.com/santa-tracker/534804/\">Track Santa On Christmas Eve 2025 (Via NORAD &amp; Google)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-03T05:01:21+00:00",
+      "fetched": "2026-01-03T21:10:17.990930+00:00"
+    },
+    {
       "id": "a21523af-ad64-4b2a-a37c-48570cb633cb",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -87,17 +98,6 @@
       "summary": "<div><img alt=\"Top 10 Search Engine Land PPC columns of 2025\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/12/ppc-columns-2025-search-engine-land.jpg\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>PPC vibe coding, CPC inflation, critical PPC tactics, and more! These 10 PPC columns got the most pageviews on Search Engine Land in 2025.",
       "published": "2025-12-30T14:00:00+00:00",
       "fetched": "2025-12-30T21:11:34.950437+00:00"
-    },
-    {
-      "id": "8a47c8f4-174c-49e6-8901-ac07e8cd1939",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Free AI WordPress Plugin To Automate Internal Linking For SEOs via @sejournal, @vahandev",
-      "link": "https://www.searchenginejournal.com/free-ai-wordpress-plugin-to-automate-internal-linking-for-seos/562162/",
-      "summary": "See how embeddings, Pinecone, OpenAI, and Vertex AI come together to automate internal linking at scale inside WordPress.\n\nThe post <a href=\"https://www.searchenginejournal.com/free-ai-wordpress-plugin-to-automate-internal-linking-for-seos/562162/\">Free AI WordPress Plugin To Automate Internal Linking For SEOs</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2025-12-30T13:00:45+00:00",
-      "fetched": "2025-12-30T21:11:34.665210+00:00"
     },
     {
       "id": "fc0928e1-2cbd-4c0f-839b-be9bc7b524d1",
@@ -199,5 +199,5 @@
       "fetched": "2025-12-28T21:10:31.938225+00:00"
     }
   ],
-  "last_updated": "2026-01-02T21:09:41.694923+00:00"
+  "last_updated": "2026-01-03T21:10:19.691924+00:00"
 }
