@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": "ebcd96f4-8040-4dc1-bdae-a02e5e137084",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "5 Key Enterprise SEO And AI Trends For 2026",
+      "link": "https://www.searchenginejournal.com/key-enterprise-seo-and-ai-trends/532337/",
+      "summary": "How enterprise brands can stay visible and credible as AI transforms search behavior and measurement in 2026.\n\nThe post <a href=\"https://www.searchenginejournal.com/key-enterprise-seo-and-ai-trends/532337/\">5 Key Enterprise SEO And AI Trends For 2026</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-09T23:00:58+00:00",
+      "fetched": "2026-01-10T21:10:18.222622+00:00"
+    },
+    {
       "id": "10430636-4ceb-438b-ac00-1ccc860fb149",
       "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
       "feed_name": "Search Engine Land",
@@ -318,18 +329,7 @@
       "summary": "AI search is replacing ranked results with single answers. This guide explains how brands earn retrieval, citations, and user trust.\n\nThe post <a href=\"https://www.searchenginejournal.com/state-of-ai-search-optimization-2026/564367/\">State Of AI Search Optimization 2026</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-01-06T14:30:58+00:00",
       "fetched": "2026-01-06T21:12:18.686048+00:00"
-    },
-    {
-      "id": "1ae57f62-a1ce-43f1-a25d-c4aca28ed02e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI-Generated Content Isn\u2019t The Problem, Your Strategy Is",
-      "link": "https://www.searchenginejournal.com/ai-generated-content-isnt-the-problem-your-strategy-is/563167/",
-      "summary": "AI can accelerate content production, but removing human expertise undermines the strategic infrastructure brands rely on to be found and trusted. \n\nThe post <a href=\"https://www.searchenginejournal.com/ai-generated-content-isnt-the-problem-your-strategy-is/563167/\">AI-Generated Content Isn&#8217;t The Problem, Your Strategy Is</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-06T12:00:49+00:00",
-      "fetched": "2026-01-06T21:12:18.686067+00:00"
     }
   ],
-  "last_updated": "2026-01-09T21:12:39.868307+00:00"
+  "last_updated": "2026-01-10T21:10:19.202734+00:00"
 }
