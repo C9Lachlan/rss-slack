@@ -1,6 +1,50 @@
 {
   "articles": [
     {
+      "id": "76caa720-844e-420a-b226-f6b125613960",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Get The Perfect Budget Mix For SEO And PPC via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/how-to-get-the-perfect-budget-mix-for-seo-and-ppc/548300/",
+      "summary": "Choosing the right mix requires clear performance modeling, transparent forecasting, and alignment on how each channel contributes to pipeline, CAC, and strategic growth.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-get-the-perfect-budget-mix-for-seo-and-ppc/548300/\">How To Get The Perfect Budget Mix For SEO And PPC</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-11T21:00:16+00:00",
+      "fetched": "2026-01-11T21:10:27.598442+00:00"
+    },
+    {
+      "id": "7e11f824-517e-4267-8bb1-3f1404e58a54",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Announces AI Mode Checkout Protocol, Business Agent via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-announces-ai-mode-checkout-protocol-business-agent/564764/",
+      "summary": "Google announced checkout capabilities in AI Mode and a new Business Agent feature that puts branded AI chat on Search results. Available to U.S. retailers.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-announces-ai-mode-checkout-protocol-business-agent/564764/\">Google Announces AI Mode Checkout Protocol, Business Agent</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-11T15:07:44+00:00",
+      "fetched": "2026-01-11T21:10:27.598469+00:00"
+    },
+    {
+      "id": "b23c23b8-fd8a-4ded-8fd6-eb6a09e663d4",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "Google launches Universal Commerce Protocol for agent-led shopping",
+      "link": "https://searchengineland.com/google-universal-commerce-protocol-467290",
+      "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"1098\" src=\"https://searchengineland.com/wp-content/seloads/2026/01/SEL-Blog-6.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>Google\u2019s new open commerce standard aims to reduce cart abandonment and enable agent-led buying across Search, Gemini, and retailer systems.",
+      "published": "2026-01-11T15:00:00+00:00",
+      "fetched": "2026-01-11T21:10:27.799101+00:00"
+    },
+    {
+      "id": "87ef7599-b2a3-403d-8bc8-b1e79f8c4cc7",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Marketing Calendar With Template To Plan Your Content In 2026 via @sejournal, @theshelleywalsh",
+      "link": "https://www.searchenginejournal.com/holiday-marketing/holiday-marketing-calendar-template/",
+      "summary": "Take the guesswork out of your marketing planning with our 2026 marketing calendar. Easily customize and reference key dates to create a successful content strategy.\n\nThe post <a href=\"https://www.searchenginejournal.com/holiday-marketing/holiday-marketing-calendar-template/\">Marketing Calendar With Template To Plan Your Content In 2026</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-11T03:30:39+00:00",
+      "fetched": "2026-01-11T21:10:27.598493+00:00"
+    },
+    {
       "id": "ebcd96f4-8040-4dc1-bdae-a02e5e137084",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -131,17 +175,6 @@
       "summary": "This week\u2019s SEO Pulse highlights the tensions emerging as search engines tighten quality standards for sites while defending their own AI outputs.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-core-update-favors-niche-expertise-aio-health-inaccuracies-ai-slop/564702/\">SEO Pulse: Core Update Favors Niche Expertise, AIO Health Inaccuracies &#038; AI Slop</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-01-09T13:30:56+00:00",
       "fetched": "2026-01-09T21:12:38.953133+00:00"
-    },
-    {
-      "id": "b097ee5e-99ca-4d4c-a801-d2526a34d535",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "Top 10 Google Ads mistakes to avoid in 2026",
-      "link": "https://searchengineland.com/google-ads-mistakes-avoid-449288",
-      "summary": "<div><img alt=\"Top 10 Google Ads mistakes to avoid in 2025\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://searchengineland.com/wp-content/seloads/2024/12/Top-10-Google-Ads-mistakes-to-avoid-in-2025-800x450.png\" style=\"margin-bottom: 15px;\" width=\"800\" /></div>Optimize your PPC campaigns by tackling issues like inconsistent tracking, old negative keywords, blind reliance on AI, and more.",
-      "published": "2026-01-09T13:00:00+00:00",
-      "fetched": "2026-01-09T21:12:39.242175+00:00"
     },
     {
       "id": "d437b823-0a90-400c-bde1-59d0b1d6d04c",
@@ -296,40 +329,7 @@
       "summary": "Google Ads quietly implements a powerful multimodal AI that improves Google's ability to catch fraudulent advertisers.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-alf-advertiser-large-foundation-model/564510/\">Google Ads Using New AI Model To Catch Fraudulent Advertisers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-01-07T10:17:32+00:00",
       "fetched": "2026-01-07T21:12:25.981425+00:00"
-    },
-    {
-      "id": "87fe6353-bdda-4c29-b9ed-43cc4abf3f72",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The State of AEO & GEO in 2026 [Webinar] via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/aeo-and-geo-in-2026/563856/",
-      "summary": "Uncover insights on the state of AEO as AI-driven discovery reshapes strategies for enterprise organizations in 2026.\n\nThe post <a href=\"https://www.searchenginejournal.com/aeo-and-geo-in-2026/563856/\">The State of AEO &#038; GEO in 2026 [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-07T06:00:08+00:00",
-      "fetched": "2026-01-07T21:12:25.981442+00:00"
-    },
-    {
-      "id": "76433a30-fa41-47c1-a846-ec614796b531",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Guardian: Google AI Overviews Gave Misleading Health Advice via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/the-guardian-google-ai-overviews-gave-misleading-health-advice/564476/",
-      "summary": "A Guardian investigation says health experts found misleading information in Google's AI Overviews for some medical searches. Google disputes the findings.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-guardian-google-ai-overviews-gave-misleading-health-advice/564476/\">The Guardian: Google AI Overviews Gave Misleading Health Advice</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-06T18:44:59+00:00",
-      "fetched": "2026-01-06T21:12:18.686022+00:00"
-    },
-    {
-      "id": "b9f020ad-6b7f-405a-a5eb-05aa336075f8",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "State Of AI Search Optimization 2026 via @sejournal, @Kevin_Indig",
-      "link": "https://www.searchenginejournal.com/state-of-ai-search-optimization-2026/564367/",
-      "summary": "AI search is replacing ranked results with single answers. This guide explains how brands earn retrieval, citations, and user trust.\n\nThe post <a href=\"https://www.searchenginejournal.com/state-of-ai-search-optimization-2026/564367/\">State Of AI Search Optimization 2026</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-06T14:30:58+00:00",
-      "fetched": "2026-01-06T21:12:18.686048+00:00"
     }
   ],
-  "last_updated": "2026-01-10T21:10:19.202734+00:00"
+  "last_updated": "2026-01-11T21:10:28.561396+00:00"
 }
