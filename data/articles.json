@@ -1,6 +1,94 @@
 {
   "articles": [
     {
+      "id": "2186c9a9-2f1a-4b20-be69-a0cc10a158ff",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "How brands can respond to misleading Google AI Overviews",
+      "link": "https://searchengineland.com/misleading-google-ai-overviews-brands-467477",
+      "summary": "<div><img alt=\"Misleading -Google AI Overview\" class=\"attachment-large size-large wp-post-image\" height=\"1079\" src=\"https://searchengineland.com/wp-content/seloads/2026/01/misleading-googleai-overview.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>AI-driven search can turn forum opinions into 'facts.' Here's your emerging ORM playbook for monitoring, response, and AI visibility",
+      "published": "2026-01-13T18:16:36+00:00",
+      "fetched": "2026-01-13T21:12:44.398046+00:00"
+    },
+    {
+      "id": "4a792e22-ffb6-4fee-b5c7-f5236c5506dd",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "What 107,000 pages reveal about Core Web Vitals and AI search",
+      "link": "https://searchengineland.com/core-web-vitals-ai-search-visibility-analysis-467456",
+      "summary": "<div><img alt=\"Core Web Vitals AI visibility\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2026/01/core-web-vitals-ai-visibility.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>Core Web Vitals don\u2019t boost AI rankings \u2014 except when performance fails badly enough to hurt trust and engagement, this analysis shows.",
+      "published": "2026-01-13T16:39:39+00:00",
+      "fetched": "2026-01-13T21:12:44.398070+00:00"
+    },
+    {
+      "id": "bb273a89-728a-4f48-8705-ae9f053a5dec",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How Much Can We Influence AI Responses? via @sejournal, @Kevin_Indig",
+      "link": "https://www.searchenginejournal.com/how-much-can-we-influence-ai-responses/564898/",
+      "summary": "LLM visibility is less about control and more about volatility, as studies reveal how easily AI answers can be influenced at scale.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-much-can-we-influence-ai-responses/564898/\">How Much Can We Influence AI Responses?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-13T14:30:41+00:00",
+      "fetched": "2026-01-13T21:12:44.095480+00:00"
+    },
+    {
+      "id": "a870137c-c680-492d-8af4-3ec32a4e3a06",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Search Marketing\u2019s Insight Gap: When Automation Replaces Understanding via @sejournal, @coreydmorris",
+      "link": "https://www.searchenginejournal.com/search-marketings-insight-gap-when-automation-replaces-understanding/563723/",
+      "summary": "Learn why automation without strategic interpretation creates an insight gap, and how marketing leaders can close it.\n\nThe post <a href=\"https://www.searchenginejournal.com/search-marketings-insight-gap-when-automation-replaces-understanding/563723/\">Search Marketing\u2019s Insight Gap: When Automation Replaces Understanding</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-13T13:00:48+00:00",
+      "fetched": "2026-01-13T21:12:44.095504+00:00"
+    },
+    {
+      "id": "da0203df-f799-4b65-9094-a4b82d9bf9b7",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "How to choose a link building agency in the AI SEO era by uSERP",
+      "link": "https://searchengineland.com/how-to-choose-a-link-building-agency-in-the-ai-seo-era-467238",
+      "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"413\" src=\"https://searchengineland.com/wp-content/seloads/2026/01/uSERP-article-20260113-Feature-image-SEL.jpg\" style=\"margin-bottom: 15px;\" width=\"737\" /></div>Traditional link building is changing. Here\u2019s how to vet a link building agency for AI visibility, ethical practices, and long-term staying power in 2026.",
+      "published": "2026-01-13T12:00:00+00:00",
+      "fetched": "2026-01-13T21:12:44.398091+00:00"
+    },
+    {
+      "id": "9f90b19b-104c-45ae-90be-b03c7c02afa6",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Downplays GEO \u2013 But Let\u2019s Talk About Garbage AI SERPs via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-downplays-geo-but-lets-talk-about-garbage-ai-serps/564901/",
+      "summary": "Google offers advice about chunking content for SEO but is that really the conversation we should be having right now?\n\nThe post <a href=\"https://www.searchenginejournal.com/google-downplays-geo-but-lets-talk-about-garbage-ai-serps/564901/\">Google Downplays GEO &#8211; But Let&#8217;s Talk About Garbage AI SERPs</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-13T10:17:25+00:00",
+      "fetched": "2026-01-13T21:12:44.095520+00:00"
+    },
+    {
+      "id": "b8e01780-b512-4a56-871e-168a7a88321e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "2026 Guide To Hiring A Link Building Agency In The AI Search Era via @sejournal, @jmoserr",
+      "link": "https://www.searchenginejournal.com/link-building-agency-red-flags-userp-spa/564424/",
+      "summary": "Link building strategies have changed in the age of AI. Find out how to effectively select a link building agency for modern marketing success.\n\nThe post <a href=\"https://www.searchenginejournal.com/link-building-agency-red-flags-userp-spa/564424/\">2026 Guide To Hiring A Link Building Agency In The AI Search Era</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-13T06:00:47+00:00",
+      "fetched": "2026-01-13T21:12:44.095540+00:00"
+    },
+    {
+      "id": "ff797d68-795e-4a84-9436-a38ca94c4087",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "WooCommerce WordPress Plugin Exploit Enables Fraudulent Charges via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/woocommerce-wordpress-plugin-exploit-enables-fraudulent-charges/564872/",
+      "summary": "80,000+ WooCommerce Square WordPress plugin installations vulnerable to fraudulent charges flaw\n\nThe post <a href=\"https://www.searchenginejournal.com/woocommerce-wordpress-plugin-exploit-enables-fraudulent-charges/564872/\">WooCommerce WordPress Plugin Exploit Enables Fraudulent Charges</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-12T22:04:25+00:00",
+      "fetched": "2026-01-13T21:12:44.095556+00:00"
+    },
+    {
       "id": "f3d6c1d9-5690-431e-b19c-cf104b6507fb",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -166,17 +254,6 @@
       "fetched": "2026-01-11T21:10:27.598469+00:00"
     },
     {
-      "id": "b23c23b8-fd8a-4ded-8fd6-eb6a09e663d4",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "Google launches Universal Commerce Protocol for agent-led shopping",
-      "link": "https://searchengineland.com/google-universal-commerce-protocol-467290",
-      "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"1098\" src=\"https://searchengineland.com/wp-content/seloads/2026/01/SEL-Blog-6.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>Google\u2019s new open commerce standard aims to reduce cart abandonment and enable agent-led buying across Search, Gemini, and retailer systems.",
-      "published": "2026-01-11T15:00:00+00:00",
-      "fetched": "2026-01-11T21:10:27.799101+00:00"
-    },
-    {
       "id": "87ef7599-b2a3-403d-8bc8-b1e79f8c4cc7",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -197,28 +274,6 @@
       "summary": "How enterprise brands can stay visible and credible as AI transforms search behavior and measurement in 2026.\n\nThe post <a href=\"https://www.searchenginejournal.com/key-enterprise-seo-and-ai-trends/532337/\">5 Key Enterprise SEO And AI Trends For 2026</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-01-09T23:00:58+00:00",
       "fetched": "2026-01-10T21:10:18.222622+00:00"
-    },
-    {
-      "id": "10430636-4ceb-438b-ac00-1ccc860fb149",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "Anthony Higman shares a PPC redemption story",
-      "link": "https://searchengineland.com/anthony-higman-shares-a-ppc-redemption-story-467307",
-      "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"900\" src=\"https://searchengineland.com/wp-content/seloads/2026/01/PLTP-Image-3.png\" style=\"margin-bottom: 15px;\" width=\"1600\" /></div>Anthony Higman\u2019s journey from a law firm mailroom to PPC CEO shows how learning from mistakes, can turn early missteps into lasting success.",
-      "published": "2026-01-09T20:10:59+00:00",
-      "fetched": "2026-01-09T21:12:39.242022+00:00"
-    },
-    {
-      "id": "a04a6b78-5132-4e03-ad79-56a255a4a54d",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "Google launches A/B testing for Performance Max assets (Beta)",
-      "link": "https://searchengineland.com/google-launches-a-b-testing-for-performance-max-assets-beta-467305",
-      "summary": "<div><img alt=\"7 Google Ads search term filters to cut wasted spend\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/07/7-Google-Ads-search-term-filters-to-cut-wasted-spend.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>Google\u2019s new Beta lets Performance Max advertisers A/B test asset sets, expanding last year\u2019s retail experiment to all campaigns.",
-      "published": "2026-01-09T19:43:12+00:00",
-      "fetched": "2026-01-09T21:12:39.242046+00:00"
     },
     {
       "id": "51e28de1-2f94-414e-a0c2-cf69282ac421",
@@ -274,62 +329,7 @@
       "summary": "Build a disciplined yet agile SEO process with daily, monthly, quarterly, and annual planning that drives lasting performance. \n\nThe post <a href=\"https://www.searchenginejournal.com/seo-maintenance-checklist-crucial-daily-monthly-quarterly-yearly-tasks/293759/\">SEO Maintenance: A Checklist For Essential Year-Round Tasks</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-01-09T02:00:13+00:00",
       "fetched": "2026-01-09T21:12:38.953202+00:00"
-    },
-    {
-      "id": "f547e37d-863b-4add-ac18-dd3ed72dd28c",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google: AI Overviews Show Less When Users Don\u2019t Engage via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-ai-overviews-show-less-when-users-dont-engage/564694/",
-      "summary": "Google's Robby Stein explains why AI Overviews appear for some searches but not others, describing an engagement-based system. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-ai-overviews-show-less-when-users-dont-engage/564694/\">Google: AI Overviews Show Less When Users Don&#8217;t Engage</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-08T17:49:43+00:00",
-      "fetched": "2026-01-08T21:12:33.181684+00:00"
-    },
-    {
-      "id": "687091bb-1bbb-45e5-85e4-e1cab1f31bfc",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Gemini Gains Share As ChatGPT Declines In Similarweb Data via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-gemini-gains-share-as-chatgpt-declines-in-similarweb-data/564690/",
-      "summary": "Similarweb\u2019s January Global AI Tracker shows ChatGPT at 64.5% of gen AI chatbot site visits, while Gemini reached 21.5% and writing tools fell.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-gemini-gains-share-as-chatgpt-declines-in-similarweb-data/564690/\">Google Gemini Gains Share As ChatGPT Declines In Similarweb Data</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-08T17:21:37+00:00",
-      "fetched": "2026-01-08T21:12:33.181711+00:00"
-    },
-    {
-      "id": "92e336b4-65f8-45ae-8086-b61468864322",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Being Right Isn\u2019t Enough For AI Visibility Today via @sejournal, @DuaneForrester",
-      "link": "https://www.searchenginejournal.com/being-right-isnt-enough-for-ai-visibility-today/564246/",
-      "summary": "AI answers aren\u2019t neutral by design, and this breakdown shows where preference forms and how it reshapes modern discovery.\n\nThe post <a href=\"https://www.searchenginejournal.com/being-right-isnt-enough-for-ai-visibility-today/564246/\">Being Right Isn\u2019t Enough For AI Visibility Today</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-08T14:00:48+00:00",
-      "fetched": "2026-01-08T21:12:33.181731+00:00"
-    },
-    {
-      "id": "bbbe3b1b-a4ce-4973-9dd9-7fe58eb7ad14",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Ask An SEO: Can AI Systems & LLMs Render JavaScript To Read \u2018Hidden\u2019 Content? via @sejournal, @HelenPollitt1",
-      "link": "https://www.searchenginejournal.com/ask-an-seo-can-ai-systems-llms-render-javascript-to-read-hidden-content/563731/",
-      "summary": "In this article, we find out if there're any differences between how AI systems handle JavaScript-rendered or interactively hidden content compared to traditional Google indexing.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-an-seo-can-ai-systems-llms-render-javascript-to-read-hidden-content/563731/\">Ask An SEO: Can AI Systems &#038; LLMs Render JavaScript To Read &#8216;Hidden&#8217; Content?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal",
-      "published": "2026-01-08T13:00:21+00:00",
-      "fetched": "2026-01-08T21:12:33.181753+00:00"
-    },
-    {
-      "id": "ecdf8c93-df00-4acb-adbb-8e0dba8f5123",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why Your Small Business\u2019s Google Visibility in 2026 Depends on AEO [Webinar] via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/google-visibility-in-2026-depends-on-aeo/564227/",
-      "summary": "Discover what visibility on Google means for small businesses as AI assistants control which options customers see and choose.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-visibility-in-2026-depends-on-aeo/564227/\">Why Your Small Business\u2019s Google Visibility in 2026 Depends on AEO [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-08T06:00:20+00:00",
-      "fetched": "2026-01-08T21:12:33.181771+00:00"
     }
   ],
-  "last_updated": "2026-01-12T21:12:16.907251+00:00"
+  "last_updated": "2026-01-13T21:12:44.983123+00:00"
 }
