@@ -1,6 +1,160 @@
 {
   "articles": [
     {
+      "id": "39c4cf65-5660-4664-97a0-843d244e02f6",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "Google adds new data transmission controls to Ads consent stack",
+      "link": "https://searchengineland.com/google-adds-new-data-transmission-controls-to-ads-consent-stack-467519",
+      "summary": "<div><img alt=\"How shifts in data privacy are forcing a return to marketing fundamentals\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://searchengineland.com/wp-content/seloads/2024/03/How-shifts-in-data-privacy-are-forcing-a-return-to-marketing-fundamentals-800x450.png\" style=\"margin-bottom: 15px;\" width=\"800\" /></div>Google\u2019s new data transmission controls let advertisers fine-tune how ad and analytics data flows when user consent is limited.",
+      "published": "2026-01-14T19:58:06+00:00",
+      "fetched": "2026-01-14T21:12:51.288037+00:00"
+    },
+    {
+      "id": "f4109a3c-0fc0-477f-9d3f-c7584fbc874f",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "Google tests faster account setup using pre-built campaigns",
+      "link": "https://searchengineland.com/google-tests-faster-account-setup-using-pre-built-campaigns-467526",
+      "summary": "<div><img alt=\"7 Google Ads search term filters to cut wasted spend\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/07/7-Google-Ads-search-term-filters-to-cut-wasted-spend.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>Google Ads' new campaign set-up flow  aims to reduce onboarding friction by letting advertisers get live with a campaign almost immediately.",
+      "published": "2026-01-14T19:56:12+00:00",
+      "fetched": "2026-01-14T21:12:51.288063+00:00"
+    },
+    {
+      "id": "2975432b-fe37-4f5c-89ca-8e07fe05e8db",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "YouTube Expands Monetization For Some Controversial Issues via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/youtube-expands-monetization-for-some-controversial-issues/565030/",
+      "summary": "YouTube is updating advertiser-friendly guidelines so some non-graphic videos on \"controversial issues\" may be eligible for full monetization.\n\nThe post <a href=\"https://www.searchenginejournal.com/youtube-expands-monetization-for-some-controversial-issues/565030/\">YouTube Expands Monetization For Some Controversial Issues</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-14T17:04:28+00:00",
+      "fetched": "2026-01-14T21:12:51.080158+00:00"
+    },
+    {
+      "id": "8b91461e-1c23-4057-a3da-f4261ebec703",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "Google Trends adds Gemini to Explorer page",
+      "link": "https://searchengineland.com/google-trends-adds-gemini-to-explorer-467515",
+      "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"1097\" src=\"https://searchengineland.com/wp-content/seloads/2026/01/google-trends-1920.jpg\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>Google Trends now uses \"Gemini capabilities to automatically identify and compare relevant trends for your area of interest,\" Google wrote.",
+      "published": "2026-01-14T17:00:00+00:00",
+      "fetched": "2026-01-14T21:12:51.288081+00:00"
+    },
+    {
+      "id": "1c6e80c3-1b67-4d5d-b96e-d6f297f752ae",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "Personal Intelligence with Gemini connect your searches, email, photos, and YouTube history",
+      "link": "https://searchengineland.com/personal-intelligence-with-gemini-connect-your-searches-email-photos-and-youtube-history-467521",
+      "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"480\" src=\"https://searchengineland.com/wp-content/seloads/2024/11/google-gemini-extensions-1920-800x480.jpg\" style=\"margin-bottom: 15px;\" width=\"800\" /></div>This is also coming to Google Search in AI Mode soon, Google added.",
+      "published": "2026-01-14T16:54:22+00:00",
+      "fetched": "2026-01-14T21:12:51.288096+00:00"
+    },
+    {
+      "id": "242770b7-29e3-4cc4-9123-b0277cb233f7",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "A quiet Google Ads setting could change your creative",
+      "link": "https://searchengineland.com/a-quiet-google-ads-setting-could-change-your-creative-467512",
+      "summary": "<div><img alt=\"When Google Ads automation hurts more than it helps and how to catch it\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/08/When-Google-Ads-automation-hurts-more-than-it-helps-and-how-to-catch-it.jpg\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>A little-known Google Ads setting can allow Google to add unapproved imagery to location-based ads, raising brand control concerns.",
+      "published": "2026-01-14T16:05:51+00:00",
+      "fetched": "2026-01-14T21:12:51.288111+00:00"
+    },
+    {
+      "id": "c7042c6f-dae4-47b3-9f2c-ba4d00099d93",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "Why 2026 is the year the SEO silo breaks and cross-channel execution starts",
+      "link": "https://searchengineland.com/seo-silo-breaks-cross-channel-execution-starts-467508",
+      "summary": "<div><img alt=\"Why 2026 is the year the SEO silo breaks and cross-channel execution starts\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2026/01/Why-2026-is-the-year-the-SEO-silo-breaks-and-cross-channel-execution-starts.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>AI search relies on consensus across owned, earned, and community sources. This framework shows how SEO can lead cross-functional execution.",
+      "published": "2026-01-14T14:45:00+00:00",
+      "fetched": "2026-01-14T21:12:51.288126+00:00"
+    },
+    {
+      "id": "0325553a-8329-45d9-b098-649087d7b6bc",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why Paid Search Foundations Still Matter In An AI-Focused World",
+      "link": "https://www.searchenginejournal.com/why-paid-search-foundations-still-matter-in-an-ai-focused-world/561416/",
+      "summary": "Foundational strategy remains the quiet force behind whether automated campaign models elevate results or compound inefficiencies.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-paid-search-foundations-still-matter-in-an-ai-focused-world/561416/\">Why Paid Search Foundations Still Matter In An AI-Focused World</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-14T13:45:50+00:00",
+      "fetched": "2026-01-14T21:12:51.080183+00:00"
+    },
+    {
+      "id": "97753b0b-d5d7-4357-9aa0-a3242550bcc4",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "10 keys to a successful PPC career in the AI age",
+      "link": "https://searchengineland.com/successful-ppc-career-ai-age-467506",
+      "summary": "<div><img alt=\"10 keys to a successful PPC career in the AI age\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2026/01/10-keys-to-a-successful-PPC-career-in-the-AI-age.jpg\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>The best PPC marketers use AI with intention, skepticism, and context. Here\u2019s what separates them from the rest.",
+      "published": "2026-01-14T13:30:00+00:00",
+      "fetched": "2026-01-14T21:12:51.288141+00:00"
+    },
+    {
+      "id": "b9256fc8-5cc6-450e-a512-0ac0030880ab",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Social Media Trust Is Breaking Down (And How You Can Rebuild It) via @sejournal, @donutcaramel13",
+      "link": "https://www.searchenginejournal.com/social-media-trust-is-breaking-down-how-you-can-rebuild-it/562849/",
+      "summary": "Bots, fake reviews, and undisclosed AI are eroding trust on social media, creating a competitive advantage for brands that prioritize authenticity and real human experience.\n\nThe post <a href=\"https://www.searchenginejournal.com/social-media-trust-is-breaking-down-how-you-can-rebuild-it/562849/\">Social Media Trust Is Breaking Down (And How You Can Rebuild It)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-14T13:00:17+00:00",
+      "fetched": "2026-01-14T21:12:51.080207+00:00"
+    },
+    {
+      "id": "7fbe9729-34b4-4c73-af37-6f9f3d7d76cc",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google: AI Mode Checkout Can\u2019t Raise Prices via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-ai-mode-checkout-cant-raise-prices/565016/",
+      "summary": "Google responds to \u201cpersonalized upselling\u201d criticism tied to its AI Mode checkout, saying upselling means premium options, not higher prices.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ai-mode-checkout-cant-raise-prices/565016/\">Google: AI Mode Checkout Can\u2019t Raise Prices</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-14T12:07:45+00:00",
+      "fetched": "2026-01-14T21:12:51.080232+00:00"
+    },
+    {
+      "id": "6766e3db-8c2c-4894-a315-109f72efe684",
+      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "feed_name": "Search Engine Land",
+      "feed_url": "https://searchengineland.com",
+      "title": "How to optimize content for AI search engines: A step-by-step guide",
+      "link": "https://searchengineland.com/how-to-optimize-content-for-ai-search-engines-a-step-by-step-guide-467272",
+      "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2026/01/Transkriptor-20260114-feature.jpg\" style=\"margin-bottom: 15px;\" width=\"1921\" /></div>Learn how AI content optimization helps your website get cited by ChatGPT, Perplexity, and Google AI Overviews.",
+      "published": "2026-01-14T12:00:00+00:00",
+      "fetched": "2026-01-14T21:12:51.288155+00:00"
+    },
+    {
+      "id": "018b1e81-cc87-4180-8b9f-9de0ba62301b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "What Google SERPs Will Reward in 2026 [Webinar] via @sejournal, @lorenbaker",
+      "link": "https://www.searchenginejournal.com/what-google-serps-will-reward/564500/",
+      "summary": "The Changes, Features & Signals Driving Organic Traffic Next Year Google\u2019s search results are evolving faster than most SEO strategies can adapt. AI Overviews are expanding into new keyword and intent types, AI Mode is reshaping how results are displayed, and ongoing experimentation with SERP layouts is changing how users interact with search altogether. For SEO leaders, the challenge is no longer keeping up with updates but understanding which changes actually impact organic traffic. Join Tom C",
+      "published": "2026-01-14T08:45:18+00:00",
+      "fetched": "2026-01-14T21:12:51.080253+00:00"
+    },
+    {
+      "id": "e4c9ed49-9311-4c01-9d25-36ce6cb43203",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "5 Ways To Reduce CPL, Improve Conversion Rates & Capture More Demand In 2026 via @sejournal, @CallRail",
+      "link": "https://www.searchenginejournal.com/2026-ppc-improve-conversions-callrail-spcs/564281/",
+      "summary": "Maximize your online ads with 5 expert PPC tips that will help you drive more traffic from and increase conversions across your ad sets.\n\nThe post <a href=\"https://www.searchenginejournal.com/2026-ppc-improve-conversions-callrail-spcs/564281/\">5 Ways To Reduce CPL, Improve Conversion Rates &#038; Capture More Demand In 2026</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-14T06:00:11+00:00",
+      "fetched": "2026-01-14T21:12:51.080271+00:00"
+    },
+    {
       "id": "2186c9a9-2f1a-4b20-be69-a0cc10a158ff",
       "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
       "feed_name": "Search Engine Land",
@@ -43,17 +197,6 @@
       "summary": "Learn why automation without strategic interpretation creates an insight gap, and how marketing leaders can close it.\n\nThe post <a href=\"https://www.searchenginejournal.com/search-marketings-insight-gap-when-automation-replaces-understanding/563723/\">Search Marketing\u2019s Insight Gap: When Automation Replaces Understanding</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-01-13T13:00:48+00:00",
       "fetched": "2026-01-13T21:12:44.095504+00:00"
-    },
-    {
-      "id": "da0203df-f799-4b65-9094-a4b82d9bf9b7",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "How to choose a link building agency in the AI SEO era by uSERP",
-      "link": "https://searchengineland.com/how-to-choose-a-link-building-agency-in-the-ai-seo-era-467238",
-      "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"413\" src=\"https://searchengineland.com/wp-content/seloads/2026/01/uSERP-article-20260113-Feature-image-SEL.jpg\" style=\"margin-bottom: 15px;\" width=\"737\" /></div>Traditional link building is changing. Here\u2019s how to vet a link building agency for AI visibility, ethical practices, and long-term staying power in 2026.",
-      "published": "2026-01-13T12:00:00+00:00",
-      "fetched": "2026-01-13T21:12:44.398091+00:00"
     },
     {
       "id": "9f90b19b-104c-45ae-90be-b03c7c02afa6",
@@ -100,17 +243,6 @@
       "fetched": "2026-01-12T21:12:15.861088+00:00"
     },
     {
-      "id": "88e6df7b-95f2-4888-97f3-44bd4948d728",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "News publishers expect search traffic to drop 43% by 2029: Report",
-      "link": "https://searchengineland.com/news-publishers-search-referrals-drop-report-467408",
-      "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"457\" src=\"https://searchengineland.com/wp-content/seloads/2024/05/google-news-fire-1920-800x457.jpg\" style=\"margin-bottom: 15px;\" width=\"800\" /></div>AI answers are taking clicks from publishers. Media companies warn that Google Overviews and chat experiences are speeding up traffic loss.",
-      "published": "2026-01-12T17:28:29+00:00",
-      "fetched": "2026-01-12T21:12:16.207718+00:00"
-    },
-    {
       "id": "f535ffe1-4168-4199-9222-6af82a57099b",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -120,61 +252,6 @@
       "summary": "Google's AI Mode checkout aims to reduce friction, but retailers question what it means for brand control, cross-sells, and customer data.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-ucp-checkout-brings-new-tradeoffs-for-retailers/564854/\">Google\u2019s UCP Checkout Brings New Tradeoffs For Retailers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-01-12T17:00:39+00:00",
       "fetched": "2026-01-12T21:12:15.861115+00:00"
-    },
-    {
-      "id": "e7528127-bb43-4aba-af16-6f63eb3eb712",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "Google opens Olympic live sports inventory to biddable CTV buys",
-      "link": "https://searchengineland.com/google-opens-olympic-live-sports-inventory-to-biddable-ctv-buys-467407",
-      "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://searchengineland.com/wp-content/seloads/2022/08/Shutterstock_1696894957-800x450.jpg\" style=\"margin-bottom: 15px;\" width=\"800\" /></div>Advertisers can now buy premium live sports inventory programmatically, combining massive reach with better frequency control and cross-device measurement.",
-      "published": "2026-01-12T16:54:54+00:00",
-      "fetched": "2026-01-12T21:12:16.207745+00:00"
-    },
-    {
-      "id": "7ac2ff2f-64ff-4bac-bcaa-7ff684289b8c",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "Google expands Shopping promotion rules ahead of 2026",
-      "link": "https://searchengineland.com/google-expands-shopping-promotion-rules-ahead-of-2026-467405",
-      "summary": "<div><img alt=\"Inside Google Ads\u2019 AI-powered Shopping ecosystem: Performance Max, AI Max and more\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2025/06/Inside-Google-Ads-AI-powered-Shopping-ecosystem-Performance-Max-AI-Max-and-more.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>Google\u2019s 2026 Shopping policy updates give advertisers more flexibility to promote subscriptions, modern offers, and localized payment incent",
-      "published": "2026-01-12T16:28:29+00:00",
-      "fetched": "2026-01-12T21:12:16.207765+00:00"
-    },
-    {
-      "id": "98ae7e10-7d41-4161-b71c-9e91691c61c1",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "Apple is finally upgrading Siri, and Google Gemini will power it",
-      "link": "https://searchengineland.com/apple-siri-google-gemini-deal-467404",
-      "summary": "<div><img alt=\"Apple\" class=\"attachment-large size-large wp-post-image\" height=\"457\" src=\"https://searchengineland.com/wp-content/seloads/2025/04/apple-logo-chip-algorithm-1920-800x457.jpg\" style=\"margin-bottom: 15px;\" width=\"800\" /></div>A multi-year Apple\u2013Google deal places Gemini at the core of Apple Intelligence and paves the way for a new Siri.",
-      "published": "2026-01-12T16:20:00+00:00",
-      "fetched": "2026-01-12T21:12:16.207782+00:00"
-    },
-    {
-      "id": "6e916822-be4d-4cc4-ae36-ccd2e3739fc7",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "3 PPC myths you can\u2019t afford to carry into 2026",
-      "link": "https://searchengineland.com/3-ppc-myths-you-cant-afford-to-carry-into-2026-467311",
-      "summary": "<div><img alt=\"SEO myths vs facts\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://searchengineland.com/wp-content/seloads/2022/04/myths-vs-facts-800x450.jpg\" style=\"margin-bottom: 15px;\" width=\"800\" /></div>AI targeting, creative scale, and MMM promised efficiency but often delivered waste. Here\u2019s how to reset PPC priorities for 2026.",
-      "published": "2026-01-12T15:00:00+00:00",
-      "fetched": "2026-01-12T21:12:16.207798+00:00"
-    },
-    {
-      "id": "edf50237-63fc-4404-8404-6cca08866036",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "Why copywriting is the new superpower in 2026",
-      "link": "https://searchengineland.com/why-copywriting-is-the-new-superpower-in-2026-467281",
-      "summary": "<div><img alt=\"Why copywriting is the new superpower in 2026\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2026/01/Why-copywriting-is-the-new-superpower-in-2026.jpg\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>AI didn\u2019t kill copywriting. It killed low-grade informational SEO. Persuasion, positioning, and clarity now matter more than traffic volume.",
-      "published": "2026-01-12T13:00:00+00:00",
-      "fetched": "2026-01-12T21:12:16.207813+00:00"
     },
     {
       "id": "b990d34d-ea20-4e9d-8722-2c3a130f2506",
@@ -197,17 +274,6 @@
       "summary": "Prepare for UCP & ACP adoption by tightening product feeds, schema, and governance before agent-led checkout becomes default behavior.\n\nThe post <a href=\"https://www.searchenginejournal.com/agentic-commerce-what-seos-need-to-consider-acp-ucp/563503/\">Agentic Commerce: What SEOs Need To Consider (ACP &#038; UCP)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-01-12T11:30:48+00:00",
       "fetched": "2026-01-12T21:12:15.861158+00:00"
-    },
-    {
-      "id": "e3eab1e3-3666-4623-88ed-9845330781a6",
-      "feed_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-      "feed_name": "Search Engine Land",
-      "feed_url": "https://searchengineland.com",
-      "title": "Not all MMM tools are equal: Meridian, Robyn, Orbit, and Prophet explained",
-      "link": "https://searchengineland.com/mmm-tools-explained-467284",
-      "summary": "<div><img alt=\"Not all MMM tools are equal: Meridian, Robyn, Orbit, and Prophet explained\" class=\"attachment-large size-large wp-post-image\" height=\"1080\" src=\"https://searchengineland.com/wp-content/seloads/2026/01/Not-all-MMM-tools-are-equal-Meridian-Robyn-Orbit-and-Prophet-explained.png\" style=\"margin-bottom: 15px;\" width=\"1920\" /></div>These open-source MMM tools solve different measurement problems, from budget optimization to forecasting and preprocessing.",
-      "published": "2026-01-12T11:00:00+00:00",
-      "fetched": "2026-01-12T21:12:16.207828+00:00"
     },
     {
       "id": "55737a3a-5c58-491f-b71c-a784174f85af",
@@ -263,73 +329,7 @@
       "summary": "Take the guesswork out of your marketing planning with our 2026 marketing calendar. Easily customize and reference key dates to create a successful content strategy.\n\nThe post <a href=\"https://www.searchenginejournal.com/holiday-marketing/holiday-marketing-calendar-template/\">Marketing Calendar With Template To Plan Your Content In 2026</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-01-11T03:30:39+00:00",
       "fetched": "2026-01-11T21:10:27.598493+00:00"
-    },
-    {
-      "id": "ebcd96f4-8040-4dc1-bdae-a02e5e137084",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "5 Key Enterprise SEO And AI Trends For 2026",
-      "link": "https://www.searchenginejournal.com/key-enterprise-seo-and-ai-trends/532337/",
-      "summary": "How enterprise brands can stay visible and credible as AI transforms search behavior and measurement in 2026.\n\nThe post <a href=\"https://www.searchenginejournal.com/key-enterprise-seo-and-ai-trends/532337/\">5 Key Enterprise SEO And AI Trends For 2026</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-09T23:00:58+00:00",
-      "fetched": "2026-01-10T21:10:18.222622+00:00"
-    },
-    {
-      "id": "51e28de1-2f94-414e-a0c2-cf69282ac421",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Paid Media Marketing: 8 Changes Marketers Should Make In 2026 via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/paid-media-marketing-changes-marketers-should-make-2026/561012/",
-      "summary": "Paid media in 2026 demands sharper focus. Learn which strategies matter now and where marketers should shift budgets for stronger, more reliable performance this year.\n\nThe post <a href=\"https://www.searchenginejournal.com/paid-media-marketing-changes-marketers-should-make-2026/561012/\">Paid Media Marketing: 8 Changes Marketers Should Make In 2026</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-09T14:00:42+00:00",
-      "fetched": "2026-01-09T21:12:38.953105+00:00"
-    },
-    {
-      "id": "04866883-4d7d-4d28-ac0c-e05e98a3e74e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "SEO Pulse: Core Update Favors Niche Expertise, AIO Health Inaccuracies & AI Slop via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-core-update-favors-niche-expertise-aio-health-inaccuracies-ai-slop/564702/",
-      "summary": "This week\u2019s SEO Pulse highlights the tensions emerging as search engines tighten quality standards for sites while defending their own AI outputs.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-core-update-favors-niche-expertise-aio-health-inaccuracies-ai-slop/564702/\">SEO Pulse: Core Update Favors Niche Expertise, AIO Health Inaccuracies &#038; AI Slop</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-09T13:30:56+00:00",
-      "fetched": "2026-01-09T21:12:38.953133+00:00"
-    },
-    {
-      "id": "d437b823-0a90-400c-bde1-59d0b1d6d04c",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "PPC Pulse: Reddit Max Campaigns, Google Creator & Microsoft Targeting Updates via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/ppc-pulse-reddit-max-campaigns-google-creator-microsoft-targeting-updates/564712/",
-      "summary": "Reddit simplifies campaign setup with Max Campaigns, Google enhances creator discovery inside Ads, and Microsoft expands audience targeting\n\nThe post <a href=\"https://www.searchenginejournal.com/ppc-pulse-reddit-max-campaigns-google-creator-microsoft-targeting-updates/564712/\">PPC Pulse: Reddit Max Campaigns, Google Creator &#038; Microsoft Targeting Updates</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-09T12:45:27+00:00",
-      "fetched": "2026-01-09T21:12:38.953157+00:00"
-    },
-    {
-      "id": "1b83c786-9d1a-40a7-93e7-8b36f0ee1d5b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "19 WordPress Alternatives: From Simple Builders To Enterprise CMS via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/wordpress-alternatives-from-simple-builders-to-enterprise-cms/559256/",
-      "summary": "WordPress no longer your default choice? Get a clear breakdown of when Wix, Squarespace, Webflow, Shopify, Ghost, Drupal, and others are the smarter move.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-alternatives-from-simple-builders-to-enterprise-cms/559256/\">19 WordPress Alternatives: From Simple Builders To Enterprise CMS</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-09T12:00:05+00:00",
-      "fetched": "2026-01-09T21:12:38.953180+00:00"
-    },
-    {
-      "id": "99c2e4c6-ce0c-446b-9cc6-da985f31aa9a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "SEO Maintenance: A Checklist For Essential Year-Round Tasks via @sejournal, @coreydmorris",
-      "link": "https://www.searchenginejournal.com/seo-maintenance-checklist-crucial-daily-monthly-quarterly-yearly-tasks/293759/",
-      "summary": "Build a disciplined yet agile SEO process with daily, monthly, quarterly, and annual planning that drives lasting performance. \n\nThe post <a href=\"https://www.searchenginejournal.com/seo-maintenance-checklist-crucial-daily-monthly-quarterly-yearly-tasks/293759/\">SEO Maintenance: A Checklist For Essential Year-Round Tasks</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-09T02:00:13+00:00",
-      "fetched": "2026-01-09T21:12:38.953202+00:00"
     }
   ],
-  "last_updated": "2026-01-13T21:12:44.983123+00:00"
+  "last_updated": "2026-01-14T21:12:51.834735+00:00"
 }
