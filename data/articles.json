@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": "abf5909d-ad31-4610-8224-59e892b2bbe0",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google On Phantom Noindex Errors In Search Console via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-on-phantom-noindex-errors-in-search-console/565225/",
+      "summary": "Google's John Mueller acknowledges phantom noindex errors in Search Console reflect hidden indexing signals surfaced during Googlebot access. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-on-phantom-noindex-errors-in-search-console/565225/\">Google On Phantom Noindex Errors In Search Console</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-17T23:14:07+00:00",
+      "fetched": "2026-01-18T21:10:47.412269+00:00"
+    },
+    {
       "id": "2d3ac595-c496-4e67-91a4-b36bc269fdc6",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -208,18 +219,7 @@
       "summary": "Learn why automation without strategic interpretation creates an insight gap, and how marketing leaders can close it.\n\nThe post <a href=\"https://www.searchenginejournal.com/search-marketings-insight-gap-when-automation-replaces-understanding/563723/\">Search Marketing\u2019s Insight Gap: When Automation Replaces Understanding</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-01-13T13:00:48+00:00",
       "fetched": "2026-01-13T21:12:44.095504+00:00"
-    },
-    {
-      "id": "9f90b19b-104c-45ae-90be-b03c7c02afa6",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Downplays GEO \u2013 But Let\u2019s Talk About Garbage AI SERPs via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-downplays-geo-but-lets-talk-about-garbage-ai-serps/564901/",
-      "summary": "Google offers advice about chunking content for SEO but is that really the conversation we should be having right now?\n\nThe post <a href=\"https://www.searchenginejournal.com/google-downplays-geo-but-lets-talk-about-garbage-ai-serps/564901/\">Google Downplays GEO &#8211; But Let&#8217;s Talk About Garbage AI SERPs</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-13T10:17:25+00:00",
-      "fetched": "2026-01-13T21:12:44.095520+00:00"
     }
   ],
-  "last_updated": "2026-01-17T21:09:59.037431+00:00"
+  "last_updated": "2026-01-18T21:10:48.381819+00:00"
 }
