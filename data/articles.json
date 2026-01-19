@@ -1,6 +1,72 @@
 {
   "articles": [
     {
+      "id": "860b4a3a-06cf-4974-a1d7-a54ad786f1cf",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Analyze Google Discover",
+      "link": "https://www.searchenginejournal.com/how-to-analyze-google-discover/565198/",
+      "summary": "Why Discover success depends on outperforming expected early performance, and how entities, headlines, and images shape long-term credibility.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-analyze-google-discover/565198/\">How To Analyze Google Discover</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-19T14:30:18+00:00",
+      "fetched": "2026-01-19T21:11:34.345195+00:00"
+    },
+    {
+      "id": "e18f0f93-cd7d-40b2-81a1-0c9c62164440",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How Much Of Your Paid Media Budget Should Be Allocated To Upper Funnel?",
+      "link": "https://www.searchenginejournal.com/how-much-of-your-paid-media-budget-should-be-allocated-to-upper-funnel/561581/",
+      "summary": "Learn how to balance upper and lower-funnel budgets across paid search and social, backed by research, frameworks, and practical strategies to drive long-term growth.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-much-of-your-paid-media-budget-should-be-allocated-to-upper-funnel/561581/\">How Much Of Your Paid Media Budget Should Be Allocated To Upper Funnel?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-19T13:00:39+00:00",
+      "fetched": "2026-01-19T21:11:34.345222+00:00"
+    },
+    {
+      "id": "3e1eb004-621b-43d0-865b-a4ead19a496f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Head Of WordPress AI Team Explains SEO For AI Agents via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/head-of-wordpress-ai-team-explains-seo-for-ai-agents/565301/",
+      "summary": "James LePage, co-lead of the WordPress AI team, explains how SEO applies to AI agent content consumption.\n\nThe post <a href=\"https://www.searchenginejournal.com/head-of-wordpress-ai-team-explains-seo-for-ai-agents/565301/\">Head Of WordPress AI Team Explains SEO For AI Agents</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-19T10:31:03+00:00",
+      "fetched": "2026-01-19T21:11:34.345242+00:00"
+    },
+    {
+      "id": "1ddeabcd-22d8-4fc6-a2c1-e65f29b90017",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Mueller: Free Subdomain Hosting Makes SEO Harder via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/googles-mueller-free-subdomain-hosting-makes-seo-harder/565249/",
+      "summary": "Google's John Mueller explains why free subdomain hosting services attract spam and make it harder for legitimate sites to gain search visibility.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-mueller-free-subdomain-hosting-makes-seo-harder/565249/\">Google&#8217;s Mueller: Free Subdomain Hosting Makes SEO Harder</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-19T07:25:47+00:00",
+      "fetched": "2026-01-19T21:11:34.345265+00:00"
+    },
+    {
+      "id": "3b4366d5-a047-4e9e-bffd-155dab215275",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Paid Media Marketing: 8 Changes Marketers Should Make In 2026 via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/paid-media-marketing-changes/389319/",
+      "summary": "Paid media in 2026 demands sharper focus. Learn which strategies matter now and where marketers should shift budgets for stronger, more reliable performance this year.\n\nThe post <a href=\"https://www.searchenginejournal.com/paid-media-marketing-changes/389319/\">Paid Media Marketing: 8 Changes Marketers Should Make In 2026</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-18T21:01:09+00:00",
+      "fetched": "2026-01-19T21:11:34.345282+00:00"
+    },
+    {
+      "id": "6d5ac215-cc8c-40f5-bcfa-2e3433b97e64",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "19 WordPress Alternatives: From Simple Builders To Enterprise CMS via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/best-seo-wordpress-alternatives/408022/",
+      "summary": "WordPress no longer your default choice? Get a clear breakdown of when Wix, Squarespace, Webflow, Shopify, Ghost, Drupal, and others are the smarter move.\n\nThe post <a href=\"https://www.searchenginejournal.com/best-seo-wordpress-alternatives/408022/\">19 WordPress Alternatives: From Simple Builders To Enterprise CMS</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-18T21:00:59+00:00",
+      "fetched": "2026-01-19T21:11:34.345299+00:00"
+    },
+    {
       "id": "abf5909d-ad31-4610-8224-59e892b2bbe0",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -153,73 +219,7 @@
       "summary": "Foundational strategy remains the quiet force behind whether automated campaign models elevate results or compound inefficiencies.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-paid-search-foundations-still-matter-in-an-ai-focused-world/561416/\">Why Paid Search Foundations Still Matter In An AI-Focused World</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-01-14T13:45:50+00:00",
       "fetched": "2026-01-14T21:12:51.080183+00:00"
-    },
-    {
-      "id": "b9256fc8-5cc6-450e-a512-0ac0030880ab",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Social Media Trust Is Breaking Down (And How You Can Rebuild It) via @sejournal, @donutcaramel13",
-      "link": "https://www.searchenginejournal.com/social-media-trust-is-breaking-down-how-you-can-rebuild-it/562849/",
-      "summary": "Bots, fake reviews, and undisclosed AI are eroding trust on social media, creating a competitive advantage for brands that prioritize authenticity and real human experience.\n\nThe post <a href=\"https://www.searchenginejournal.com/social-media-trust-is-breaking-down-how-you-can-rebuild-it/562849/\">Social Media Trust Is Breaking Down (And How You Can Rebuild It)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-14T13:00:17+00:00",
-      "fetched": "2026-01-14T21:12:51.080207+00:00"
-    },
-    {
-      "id": "7fbe9729-34b4-4c73-af37-6f9f3d7d76cc",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google: AI Mode Checkout Can\u2019t Raise Prices via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-ai-mode-checkout-cant-raise-prices/565016/",
-      "summary": "Google responds to \u201cpersonalized upselling\u201d criticism tied to its AI Mode checkout, saying upselling means premium options, not higher prices.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ai-mode-checkout-cant-raise-prices/565016/\">Google: AI Mode Checkout Can\u2019t Raise Prices</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-14T12:07:45+00:00",
-      "fetched": "2026-01-14T21:12:51.080232+00:00"
-    },
-    {
-      "id": "018b1e81-cc87-4180-8b9f-9de0ba62301b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "What Google SERPs Will Reward in 2026 [Webinar] via @sejournal, @lorenbaker",
-      "link": "https://www.searchenginejournal.com/what-google-serps-will-reward/564500/",
-      "summary": "The Changes, Features & Signals Driving Organic Traffic Next Year Google\u2019s search results are evolving faster than most SEO strategies can adapt. AI Overviews are expanding into new keyword and intent types, AI Mode is reshaping how results are displayed, and ongoing experimentation with SERP layouts is changing how users interact with search altogether. For SEO leaders, the challenge is no longer keeping up with updates but understanding which changes actually impact organic traffic. Join Tom C",
-      "published": "2026-01-14T08:45:18+00:00",
-      "fetched": "2026-01-14T21:12:51.080253+00:00"
-    },
-    {
-      "id": "e4c9ed49-9311-4c01-9d25-36ce6cb43203",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "5 Ways To Reduce CPL, Improve Conversion Rates & Capture More Demand In 2026 via @sejournal, @CallRail",
-      "link": "https://www.searchenginejournal.com/2026-ppc-improve-conversions-callrail-spcs/564281/",
-      "summary": "Maximize your online ads with 5 expert PPC tips that will help you drive more traffic from and increase conversions across your ad sets.\n\nThe post <a href=\"https://www.searchenginejournal.com/2026-ppc-improve-conversions-callrail-spcs/564281/\">5 Ways To Reduce CPL, Improve Conversion Rates &#038; Capture More Demand In 2026</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-14T06:00:11+00:00",
-      "fetched": "2026-01-14T21:12:51.080271+00:00"
-    },
-    {
-      "id": "bb273a89-728a-4f48-8705-ae9f053a5dec",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How Much Can We Influence AI Responses? via @sejournal, @Kevin_Indig",
-      "link": "https://www.searchenginejournal.com/how-much-can-we-influence-ai-responses/564898/",
-      "summary": "LLM visibility is less about control and more about volatility, as studies reveal how easily AI answers can be influenced at scale.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-much-can-we-influence-ai-responses/564898/\">How Much Can We Influence AI Responses?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-13T14:30:41+00:00",
-      "fetched": "2026-01-13T21:12:44.095480+00:00"
-    },
-    {
-      "id": "a870137c-c680-492d-8af4-3ec32a4e3a06",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Search Marketing\u2019s Insight Gap: When Automation Replaces Understanding via @sejournal, @coreydmorris",
-      "link": "https://www.searchenginejournal.com/search-marketings-insight-gap-when-automation-replaces-understanding/563723/",
-      "summary": "Learn why automation without strategic interpretation creates an insight gap, and how marketing leaders can close it.\n\nThe post <a href=\"https://www.searchenginejournal.com/search-marketings-insight-gap-when-automation-replaces-understanding/563723/\">Search Marketing\u2019s Insight Gap: When Automation Replaces Understanding</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-13T13:00:48+00:00",
-      "fetched": "2026-01-13T21:12:44.095504+00:00"
     }
   ],
-  "last_updated": "2026-01-18T21:10:48.381819+00:00"
+  "last_updated": "2026-01-19T21:11:35.064334+00:00"
 }
