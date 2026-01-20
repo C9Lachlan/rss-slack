@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "ac9a5877-0dd5-4ddc-8942-4dc9fa5c4c04",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Great Decoupling via @sejournal, @Kevin_Indig",
+      "link": "https://www.searchenginejournal.com/the-great-decoupling/565367/",
+      "summary": "AI search broke the link between traffic and revenue. This piece explains how SEO creates demand without page views.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-great-decoupling/565367/\">The Great Decoupling</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-20T14:30:15+00:00",
+      "fetched": "2026-01-20T21:13:02.154048+00:00"
+    },
+    {
+      "id": "ed838a54-bc97-43cb-b675-bc49704fd9ff",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Case Study: How Entity Linking Can Support Local Search Success via @sejournal, @marthavanberkel",
+      "link": "https://www.searchenginejournal.com/case-study-how-entity-linking-can-support-local-search-success/563074/",
+      "summary": "Understand why entity linking is becoming a strategic requirement for local SEO in AI search environments.\n\nThe post <a href=\"https://www.searchenginejournal.com/case-study-how-entity-linking-can-support-local-search-success/563074/\">Case Study: How Entity Linking Can Support Local Search Success</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-20T13:00:32+00:00",
+      "fetched": "2026-01-20T21:13:02.154074+00:00"
+    },
+    {
+      "id": "fcfa911d-0931-448d-91a9-92b1720ce38a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Perplexity AI Interview Explains How AI Search Works via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/perplexity-ai-interview-explains-how-ai-search-works/565395/",
+      "summary": "Interview with Perplexity AI offers insights into what makes AI answer engines different from regular search\n\nThe post <a href=\"https://www.searchenginejournal.com/perplexity-ai-interview-explains-how-ai-search-works/565395/\">Perplexity AI Interview Explains How AI Search Works</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-20T12:52:44+00:00",
+      "fetched": "2026-01-20T21:13:02.154094+00:00"
+    },
+    {
+      "id": "351a077a-1c62-4f6b-a960-02e196cfefd7",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Data Shows AI Overviews Disappears On Certain Kinds Of Finance Queries via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/ai-overviews-disappears-on-certain-kinds-of-finance-queries/565389/",
+      "summary": "New data from BrightEdge shows which kinds of finance-related queries trigger AI answers and which kinds do not\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-overviews-disappears-on-certain-kinds-of-finance-queries/565389/\">Data Shows AI Overviews Disappears On Certain Kinds Of Finance Queries</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-20T11:09:17+00:00",
+      "fetched": "2026-01-20T21:13:02.154115+00:00"
+    },
+    {
+      "id": "4055fc16-baf2-409f-8271-d8e45d3e38a5",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why Agentic AI May Flatten Brand Differentiators via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/why-agentic-ai-may-flatten-brand-differentiators/565378/",
+      "summary": "The co-lead of the WordPress AI Team says some sites face a \"more complex\" future as brand differentiation gets flattened.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-agentic-ai-may-flatten-brand-differentiators/565378/\">Why Agentic AI May Flatten Brand Differentiators</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-20T10:17:54+00:00",
+      "fetched": "2026-01-20T21:13:02.154133+00:00"
+    },
+    {
       "id": "860b4a3a-06cf-4974-a1d7-a54ad786f1cf",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -164,62 +219,7 @@
       "summary": "A Reuters Institute survey finds publishers expect search traffic to drop over 40% in three years as AI answer engines expand. \n\nThe post <a href=\"https://www.searchenginejournal.com/survey-publishers-expect-search-traffic-to-fall-over-40/565040/\">Survey: Publishers Expect Search Traffic To Fall Over 40%</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-01-15T15:07:03+00:00",
       "fetched": "2026-01-15T21:13:14.839051+00:00"
-    },
-    {
-      "id": "c2eb7605-378a-46d9-b37e-e8fe2dc2958e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "SEO Is No Longer A Single Discipline via @sejournal, @DuaneForrester",
-      "link": "https://www.searchenginejournal.com/seo-is-no-longer-a-single-discipline/564776/",
-      "summary": "Duane Forrester explains why SEO still has a core, but no longer fits into a single lane as discovery multiplies across systems and interfaces.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-is-no-longer-a-single-discipline/564776/\">SEO Is No Longer A Single Discipline</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-15T14:30:58+00:00",
-      "fetched": "2026-01-15T21:13:14.839077+00:00"
-    },
-    {
-      "id": "bda14b13-8d94-4ed2-9728-15e589c07383",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Building A Brand Is Not A Strategy, It Is A Starting Point via @sejournal, @TaylorDanRW",
-      "link": "https://www.searchenginejournal.com/building-a-brand-is-not-a-strategy-it-is-a-starting-point/563224/",
-      "summary": "\u201cBuild a brand\u201d is incomplete advice. This article explains how SEO actually contributes to visibility, trust, and long-term demand.\n\nThe post <a href=\"https://www.searchenginejournal.com/building-a-brand-is-not-a-strategy-it-is-a-starting-point/563224/\">Building A Brand Is Not A Strategy, It Is A Starting Point</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-15T14:00:00+00:00",
-      "fetched": "2026-01-15T21:13:14.839097+00:00"
-    },
-    {
-      "id": "d6f8e7cf-531b-4330-a913-d51615bcf09f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "16 Content Writing Tips From Experts To Survive 2026 via @sejournal, @beacarlota17",
-      "link": "https://www.searchenginejournal.com/content-writing-tips-from-experts/477016/",
-      "summary": "Here\u2019s how industry leaders are redefining what content performance means in 2026 and beyond.\n\nThe post <a href=\"https://www.searchenginejournal.com/content-writing-tips-from-experts/477016/\">16 Content Writing Tips From Experts To Survive 2026</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-14T23:01:04+00:00",
-      "fetched": "2026-01-15T21:13:14.839120+00:00"
-    },
-    {
-      "id": "2975432b-fe37-4f5c-89ca-8e07fe05e8db",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "YouTube Expands Monetization For Some Controversial Issues via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/youtube-expands-monetization-for-some-controversial-issues/565030/",
-      "summary": "YouTube is updating advertiser-friendly guidelines so some non-graphic videos on \"controversial issues\" may be eligible for full monetization.\n\nThe post <a href=\"https://www.searchenginejournal.com/youtube-expands-monetization-for-some-controversial-issues/565030/\">YouTube Expands Monetization For Some Controversial Issues</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-14T17:04:28+00:00",
-      "fetched": "2026-01-14T21:12:51.080158+00:00"
-    },
-    {
-      "id": "0325553a-8329-45d9-b098-649087d7b6bc",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why Paid Search Foundations Still Matter In An AI-Focused World",
-      "link": "https://www.searchenginejournal.com/why-paid-search-foundations-still-matter-in-an-ai-focused-world/561416/",
-      "summary": "Foundational strategy remains the quiet force behind whether automated campaign models elevate results or compound inefficiencies.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-paid-search-foundations-still-matter-in-an-ai-focused-world/561416/\">Why Paid Search Foundations Still Matter In An AI-Focused World</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-14T13:45:50+00:00",
-      "fetched": "2026-01-14T21:12:51.080183+00:00"
     }
   ],
-  "last_updated": "2026-01-19T21:11:35.064334+00:00"
+  "last_updated": "2026-01-20T21:13:03.026548+00:00"
 }
