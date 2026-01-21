@@ -1,6 +1,116 @@
 {
   "articles": [
     {
+      "id": "df2c3b2a-147f-4568-b480-6b3a97d7c1fd",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "A Little Clarity On SEO, GEO, And AEO via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/a-little-clarity-on-seo-geo-and-aeo/565522/",
+      "summary": "The debate over SEO versus AEO/GEO appears to be reaching a consensus.\n\nThe post <a href=\"https://www.searchenginejournal.com/a-little-clarity-on-seo-geo-and-aeo/565522/\">A Little Clarity On SEO, GEO, And AEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-21T14:06:46+00:00",
+      "fetched": "2026-01-21T21:20:17.987870+00:00"
+    },
+    {
+      "id": "dcb84f8f-8662-4908-b330-2b200a712543",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Wix Introduces Harmony AI Website Builder via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/wix-introduces-harmony-ai-website-builder/565505/",
+      "summary": "Wix Harmony AI site builder enables natural language site creation with the ability to switch to manual mode at any point.\n\nThe post <a href=\"https://www.searchenginejournal.com/wix-introduces-harmony-ai-website-builder/565505/\">Wix Introduces Harmony AI Website Builder</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-21T14:00:54+00:00",
+      "fetched": "2026-01-21T21:20:17.987894+00:00"
+    },
+    {
+      "id": "bc4beef4-b342-4f23-aac5-5c94a740d5e3",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Web Governance As A Growth Lever: Building A Center Of Excellence That Actually Works via @sejournal, @billhunt",
+      "link": "https://www.searchenginejournal.com/web-governance-as-a-growth-lever-building-a-center-of-excellence/559574/",
+      "summary": "Bill Hunt explains how governance converts complexity into momentum, ensuring digital strategies deliver measurable enterprise value.\n\nThe post <a href=\"https://www.searchenginejournal.com/web-governance-as-a-growth-lever-building-a-center-of-excellence/559574/\">Web Governance As A Growth Lever: Building A Center Of Excellence That Actually Works</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-21T14:00:54+00:00",
+      "fetched": "2026-01-21T21:20:17.987930+00:00"
+    },
+    {
+      "id": "33d906c0-ed27-4d00-a129-b2703f1eff8a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The 5-Pillar Audit: Diagnosing Strategy Vs. Tactic Failures In A Google Ads Account",
+      "link": "https://www.searchenginejournal.com/the-5-pillar-audit-diagnosing-strategy-vs-tactic-failures-in-a-google-ads-account/562678/",
+      "summary": "A five-pillar approach to paid search audits that exposes why AI-optimized campaigns still miss revenue, pipeline, and growth goals.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-5-pillar-audit-diagnosing-strategy-vs-tactic-failures-in-a-google-ads-account/562678/\">The 5-Pillar Audit: Diagnosing Strategy Vs. Tactic Failures In A Google Ads Account</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-21T13:30:16+00:00",
+      "fetched": "2026-01-21T21:20:17.987953+00:00"
+    },
+    {
+      "id": "e3c0eef8-bcba-4ea8-b8e7-822a60eb34d7",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How Recommender Systems Like Google Discover May Work via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/how-recommender-systems-like-google-discover-may-work/565515/",
+      "summary": "An explainer of how recommender systems like Google Discover may work according to a classic research paper.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-recommender-systems-like-google-discover-may-work/565515/\">How Recommender Systems Like Google Discover May Work</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-21T12:06:50+00:00",
+      "fetched": "2026-01-21T21:20:17.987972+00:00"
+    },
+    {
+      "id": "59c73c58-d146-4f4e-9df4-41cd61473ac6",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "NotificationX WordPress WooCommerce Plugin Vulnerabilities Impact 40k Sites via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/notificationx-wordpress-plugin-vulnerabilities/565510/",
+      "summary": "A WordPress and WooCommerce plugin vulnerability enables unauthenticated attackers to inject malicious scripts.\n\nThe post <a href=\"https://www.searchenginejournal.com/notificationx-wordpress-plugin-vulnerabilities/565510/\">NotificationX WordPress WooCommerce Plugin Vulnerabilities Impact 40k Sites</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-21T11:10:01+00:00",
+      "fetched": "2026-01-21T21:20:17.987988+00:00"
+    },
+    {
+      "id": "5070bccb-ba80-4eea-8d34-be91325ee6d3",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "What Profitable Google Ads Look Like in 2026 [Webinar] via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/profitable-google-ads-look-like/564517/",
+      "summary": "Join our webinar to discover effective strategies for automating Google Ads and mastering Performance Max Smart Bidding.\n\nThe post <a href=\"https://www.searchenginejournal.com/profitable-google-ads-look-like/564517/\">What Profitable Google Ads Look Like in 2026 [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-21T08:45:15+00:00",
+      "fetched": "2026-01-21T21:20:17.988004+00:00"
+    },
+    {
+      "id": "afa3462d-e596-4b10-9d90-157bed287de1",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "WordPress Advanced Custom Fields Extended Plugin Vulnerability via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/wordpress-acf-extended-plugin-vulnerability/565483/",
+      "summary": "A vulnerability in an ACF addon plugin installed in 100k websites enables unauthenticated attackers to gain administrator privileges.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-acf-extended-plugin-vulnerability/565483/\">WordPress Advanced Custom Fields Extended Plugin Vulnerability</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-21T08:14:27+00:00",
+      "fetched": "2026-01-21T21:20:17.988028+00:00"
+    },
+    {
+      "id": "aaa7d65c-81d2-41da-a680-fc25a5693fca",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Smart Way To Take Back Control Of Google\u2019s Performance Max [A Step-By-Step Guide]",
+      "link": "https://www.searchenginejournal.com/ecommerce-performance-max-guide-channable-spa/565185/",
+      "summary": "Take charge of your advertising with Performance Max. Learn to segment products and enhance your campaign performance effectively.\n\nThe post <a href=\"https://www.searchenginejournal.com/ecommerce-performance-max-guide-channable-spa/565185/\">The Smart Way To Take Back Control Of Google&#8217;s Performance Max [A Step-By-Step Guide]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-21T06:00:09+00:00",
+      "fetched": "2026-01-21T21:20:17.988045+00:00"
+    },
+    {
+      "id": "52285651-3727-4b35-b3db-6360bad7a1fc",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "OpenAI Search Crawler Passes 55% Coverage In Hostinger Study via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/openai-search-crawler-passes-55-coverage-in-hostinger-study/565446/",
+      "summary": "Hostinger analyzed 66.7B bot requests across 5M+ hosted sites and found AI training crawlers are blocked more often, while OpenAI\u2019s search bot expands.\n\nThe post <a href=\"https://www.searchenginejournal.com/openai-search-crawler-passes-55-coverage-in-hostinger-study/565446/\">OpenAI Search Crawler Passes 55% Coverage In Hostinger Study</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-20T21:46:55+00:00",
+      "fetched": "2026-01-21T21:20:17.988063+00:00"
+    },
+    {
       "id": "ac9a5877-0dd5-4ddc-8942-4dc9fa5c4c04",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -109,117 +219,7 @@
       "summary": "Paid media in 2026 demands sharper focus. Learn which strategies matter now and where marketers should shift budgets for stronger, more reliable performance this year.\n\nThe post <a href=\"https://www.searchenginejournal.com/paid-media-marketing-changes/389319/\">Paid Media Marketing: 8 Changes Marketers Should Make In 2026</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-01-18T21:01:09+00:00",
       "fetched": "2026-01-19T21:11:34.345282+00:00"
-    },
-    {
-      "id": "6d5ac215-cc8c-40f5-bcfa-2e3433b97e64",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "19 WordPress Alternatives: From Simple Builders To Enterprise CMS via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/best-seo-wordpress-alternatives/408022/",
-      "summary": "WordPress no longer your default choice? Get a clear breakdown of when Wix, Squarespace, Webflow, Shopify, Ghost, Drupal, and others are the smarter move.\n\nThe post <a href=\"https://www.searchenginejournal.com/best-seo-wordpress-alternatives/408022/\">19 WordPress Alternatives: From Simple Builders To Enterprise CMS</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-18T21:00:59+00:00",
-      "fetched": "2026-01-19T21:11:34.345299+00:00"
-    },
-    {
-      "id": "abf5909d-ad31-4610-8224-59e892b2bbe0",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google On Phantom Noindex Errors In Search Console via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-on-phantom-noindex-errors-in-search-console/565225/",
-      "summary": "Google's John Mueller acknowledges phantom noindex errors in Search Console reflect hidden indexing signals surfaced during Googlebot access. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-on-phantom-noindex-errors-in-search-console/565225/\">Google On Phantom Noindex Errors In Search Console</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-17T23:14:07+00:00",
-      "fetched": "2026-01-18T21:10:47.412269+00:00"
-    },
-    {
-      "id": "2d3ac595-c496-4e67-91a4-b36bc269fdc6",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "ChatGPT To Begin Testing Ads In The United States via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/chatgpt-to-begin-testing-ads-in-the-united-states/565215/",
-      "summary": "OpenAI will begin testing ads for ChatGPT Free and Go users in the U.S., outlining strict guardrails around privacy, answer independence, and ad placement.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-to-begin-testing-ads-in-the-united-states/565215/\">ChatGPT To Begin Testing Ads In The United States</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-16T21:08:08+00:00",
-      "fetched": "2026-01-16T21:12:16.824776+00:00"
-    },
-    {
-      "id": "fd0501ac-c246-4f97-a74f-4a2cb04f98b1",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "SEO Pulse: UCP Debate, Trends Gets Gemini, Health AIO Concerns via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-ucp-debate-trends-gets-gemini-health-aio-concerns/565092/",
-      "summary": "This week\u2019s SEO Pulse highlights the implications of Google handling more of the journey, from discovery to checkout, inside its own ecosystem.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-ucp-debate-trends-gets-gemini-health-aio-concerns/565092/\">SEO Pulse: UCP Debate, Trends Gets Gemini, Health AIO Concerns</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-16T14:45:33+00:00",
-      "fetched": "2026-01-16T21:12:16.824802+00:00"
-    },
-    {
-      "id": "5c1a6e50-b81f-4e5b-9b3c-5c651a325570",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "PPC Pulse: Total Budgets Expand, Direct Offers, & Shopping Promotions via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/ppc-pulse-total-budgets-expand-direct-offers-shopping-promotions/565097/",
-      "summary": "PPC Pulse recaps Google\u2019s latest budget controls, AI-driven offer testing, and expanded eligibility rules for Shopping promotions.\n\nThe post <a href=\"https://www.searchenginejournal.com/ppc-pulse-total-budgets-expand-direct-offers-shopping-promotions/565097/\">PPC Pulse: Total Budgets Expand, Direct Offers, &#038; Shopping Promotions</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-16T14:10:40+00:00",
-      "fetched": "2026-01-16T21:12:16.824819+00:00"
-    },
-    {
-      "id": "4536ebf4-97f6-4f41-9131-02ed906619bd",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "10 Remarketing Lists To Boost PPC Performance via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/remarketing-lists-to-boost-ppc-performance/561025/",
-      "summary": "Turn first-party data into measurable PPC gains using remarketing strategies built for real account management, not theory.\n\nThe post <a href=\"https://www.searchenginejournal.com/remarketing-lists-to-boost-ppc-performance/561025/\">10 Remarketing Lists To Boost PPC Performance</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-16T12:00:08+00:00",
-      "fetched": "2026-01-16T21:12:16.824845+00:00"
-    },
-    {
-      "id": "c632160d-8028-4a1c-ae5f-e574ea338f33",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "WordPress Membership Plugin Flaw Exposes Sensitive Stripe Data via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/wordpress-membership-plugin-flaw-exposes-sensitive-stripe-data/565124/",
-      "summary": "WordPress membership plugin vulnerability exposing Stripe payment setup data affects up to 10,000 websites.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-membership-plugin-flaw-exposes-sensitive-stripe-data/565124/\">WordPress Membership Plugin Flaw Exposes Sensitive Stripe Data</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-16T10:17:08+00:00",
-      "fetched": "2026-01-16T21:12:16.824860+00:00"
-    },
-    {
-      "id": "39c1c8e8-f737-45f3-804a-0b7af4b5ce79",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Health AI Overviews Cite YouTube More Than Any Hospital Site via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-health-ai-overviews-cite-youtube-more-than-any-hospital-site/565110/",
-      "summary": "A study of 50,807 German health queries finds Google AI Overviews cite YouTube most, as Google pulls some health summaries after a Guardian report.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-health-ai-overviews-cite-youtube-more-than-any-hospital-site/565110/\">Google Health AI Overviews Cite YouTube More Than Any Hospital Site</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-16T02:49:17+00:00",
-      "fetched": "2026-01-16T21:12:16.824875+00:00"
-    },
-    {
-      "id": "b5b4adbc-767f-4f3a-8dd5-085a9bae7c5f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "All In One SEO WordPress Vulnerability Affects Over 3 Million Sites via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/all-in-one-seo-wordpress-vulnerability-affects-over-3-million-sites/565104/",
-      "summary": "A vulnerability in the popular AIOSEO plugin affecting up to 3 million sites is in addition to the six found in 2025.\n\nThe post <a href=\"https://www.searchenginejournal.com/all-in-one-seo-wordpress-vulnerability-affects-over-3-million-sites/565104/\">All In One SEO WordPress Vulnerability Affects Over 3 Million Sites</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-16T01:00:50+00:00",
-      "fetched": "2026-01-16T21:12:16.824889+00:00"
-    },
-    {
-      "id": "49cdca9b-2e71-4bc2-abd9-f46d0c9de7df",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Survey: Publishers Expect Search Traffic To Fall Over 40% via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/survey-publishers-expect-search-traffic-to-fall-over-40/565040/",
-      "summary": "A Reuters Institute survey finds publishers expect search traffic to drop over 40% in three years as AI answer engines expand. \n\nThe post <a href=\"https://www.searchenginejournal.com/survey-publishers-expect-search-traffic-to-fall-over-40/565040/\">Survey: Publishers Expect Search Traffic To Fall Over 40%</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-15T15:07:03+00:00",
-      "fetched": "2026-01-15T21:13:14.839051+00:00"
     }
   ],
-  "last_updated": "2026-01-20T21:13:03.026548+00:00"
+  "last_updated": "2026-01-21T21:20:18.945982+00:00"
 }
