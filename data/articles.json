@@ -1,6 +1,116 @@
 {
   "articles": [
     {
+      "id": "61cb832f-5add-4ffb-8e2d-2efd419078c7",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "10Web WordPress Photo Gallery Plugin Vulnerability via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/10web-wordpress-photo-gallery-plugin-vulnerability/565670/",
+      "summary": "10Web Photo Gallery plugin vulnerability enables unauthenticated attackers to delete image comments.\n\nThe post <a href=\"https://www.searchenginejournal.com/10web-wordpress-photo-gallery-plugin-vulnerability/565670/\">10Web WordPress Photo Gallery Plugin Vulnerability</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-22T16:24:05+00:00",
+      "fetched": "2026-01-22T21:13:50.015576+00:00"
+    },
+    {
+      "id": "35ae25fd-06a3-4462-825c-364176ba39fd",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Launches Personal Intelligence In AI Mode via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-launches-personal-intelligence-in-ai-mode/565661/",
+      "summary": "Google's Personal Intelligence connects Gmail and Google Photos to AI Mode, delivering personalized responses for AI Pro and Ultra subscribers.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-launches-personal-intelligence-in-ai-mode/565661/\">Google Launches Personal Intelligence In AI Mode</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-22T16:00:55+00:00",
+      "fetched": "2026-01-22T21:13:50.015603+00:00"
+    },
+    {
+      "id": "5bf01595-9d23-455b-84f0-f7f97722860a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "A Breakdown Of Microsoft\u2019s Guide To AEO & GEO via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/a-breakdown-of-microsofts-guide-to-aeo-geo/565651/",
+      "summary": "Microsoft explains what matters for AEO and GEO and details three strategies that influence AI recommendations.\n\nThe post <a href=\"https://www.searchenginejournal.com/a-breakdown-of-microsofts-guide-to-aeo-geo/565651/\">A Breakdown Of Microsoft&#8217;s Guide To AEO &#038; GEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-22T15:39:28+00:00",
+      "fetched": "2026-01-22T21:13:50.015622+00:00"
+    },
+    {
+      "id": "9ea279ca-5eeb-41db-811a-eb723796d14e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "When Platforms Say \u2018Don\u2019t Optimize,\u2019 Smart Teams Run Experiments via @sejournal, @DuaneForrester",
+      "link": "https://www.searchenginejournal.com/when-platforms-say-dont-optimize-smart-teams-run-experiments/565256/",
+      "summary": "A new paper tests how LLMs select content, and Duane Forrester translates the findings into a practical framework you can validate yourself.\n\nThe post <a href=\"https://www.searchenginejournal.com/when-platforms-say-dont-optimize-smart-teams-run-experiments/565256/\">When Platforms Say &#8216;Don\u2019t Optimize,&#8217; Smart Teams Run Experiments</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-22T14:30:08+00:00",
+      "fetched": "2026-01-22T21:13:50.015646+00:00"
+    },
+    {
+      "id": "ef3fd840-2985-45c3-92f7-e7952bc4d9f7",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Five Things To Do That Will Increase Authoritativeness And Earn Links via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/five-things-to-do-that-will-increase-authoritativeness-and-earn-links/565639/",
+      "summary": "Five things that any business can do to increase authoritativeness and earn more links\n\nThe post <a href=\"https://www.searchenginejournal.com/five-things-to-do-that-will-increase-authoritativeness-and-earn-links/565639/\">Five Things To Do That Will Increase Authoritativeness And Earn Links</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-22T14:14:08+00:00",
+      "fetched": "2026-01-22T21:13:50.015664+00:00"
+    },
+    {
+      "id": "a5c7c1f1-cc62-4354-b8e2-d87d6ac40b8b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "56% Of CEOs Report No Revenue Gains From AI: PwC Survey via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/56-of-ceos-report-no-revenue-gains-from-ai-pwc-survey/565643/",
+      "summary": "A survey of 4,000+ CEOs from 95 countries finds 56% haven't seen revenue or cost benefits from AI.\n\nThe post <a href=\"https://www.searchenginejournal.com/56-of-ceos-report-no-revenue-gains-from-ai-pwc-survey/565643/\">56% Of CEOs Report No Revenue Gains From AI: PwC Survey</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-22T14:04:00+00:00",
+      "fetched": "2026-01-22T21:13:50.015687+00:00"
+    },
+    {
+      "id": "911f0157-04cd-488d-9202-86ae29b5757f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Ask A PPC: What Is The PPC Manager\u2019s Role In The AI Era? via @sejournal, @navahf",
+      "link": "https://www.searchenginejournal.com/ask-a-ppc-what-is-ppc-managers-role-in-ai-era/564374/",
+      "summary": "This week's Ask a PPC reframes the AI conversation around responsibility, showing why strategy, data integrity, and human judgment now define PPC success.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-a-ppc-what-is-ppc-managers-role-in-ai-era/564374/\">Ask A PPC: What Is The PPC Manager&#8217;s Role In The AI Era?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-22T13:00:22+00:00",
+      "fetched": "2026-01-22T21:13:50.015704+00:00"
+    },
+    {
+      "id": "342376d8-0e4e-4b39-b40f-a3c84764ed0e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Shopify Shares More Details On Universal Commerce Protocol (UCP) via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/shopify-shares-more-details-on-universal-commerce-protocol-ucp/565624/",
+      "summary": "Shopify's Harvey Finkelstein said agentic shopping surfaces products because they fit the user, not because brands can buy visibility.\n\nThe post <a href=\"https://www.searchenginejournal.com/shopify-shares-more-details-on-universal-commerce-protocol-ucp/565624/\">Shopify Shares More Details On Universal Commerce Protocol (UCP)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-22T12:46:00+00:00",
+      "fetched": "2026-01-22T21:13:50.015728+00:00"
+    },
+    {
+      "id": "03234c9e-0276-4543-aec4-c31f6e942501",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "More Sites Blocking LLM Crawling \u2013 Could That Backfire On GEO? via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/more-sites-blocking-llm-crawling-could-that-backfire-on-geo/565614/",
+      "summary": "New data shows an increase in AI assistant crawling alongside declining AI model training access.\n\nThe post <a href=\"https://www.searchenginejournal.com/more-sites-blocking-llm-crawling-could-that-backfire-on-geo/565614/\">More Sites Blocking LLM Crawling &#8211; Could That Backfire On GEO?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-22T10:30:36+00:00",
+      "fetched": "2026-01-22T21:13:50.015746+00:00"
+    },
+    {
+      "id": "d9eb4aa2-d920-4875-855f-4f5c0c83a061",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "YouTube CEO Announces AI Creation Tools, In-App Shopping For 2026 via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/youtube-ceo-announces-ai-creation-tools-in-app-shopping-for-2026/565588/",
+      "summary": "YouTube CEO Neal Mohan previews 2026 priorities: AI tools for Shorts creation, text-to-game features, in-app shopping checkout, and image posts in Shorts.\n\nThe post <a href=\"https://www.searchenginejournal.com/youtube-ceo-announces-ai-creation-tools-in-app-shopping-for-2026/565588/\">YouTube CEO Announces AI Creation Tools, In-App Shopping For 2026</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-21T22:45:06+00:00",
+      "fetched": "2026-01-22T21:13:50.015762+00:00"
+    },
+    {
       "id": "df2c3b2a-147f-4568-b480-6b3a97d7c1fd",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -109,117 +219,7 @@
       "summary": "Hostinger analyzed 66.7B bot requests across 5M+ hosted sites and found AI training crawlers are blocked more often, while OpenAI\u2019s search bot expands.\n\nThe post <a href=\"https://www.searchenginejournal.com/openai-search-crawler-passes-55-coverage-in-hostinger-study/565446/\">OpenAI Search Crawler Passes 55% Coverage In Hostinger Study</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-01-20T21:46:55+00:00",
       "fetched": "2026-01-21T21:20:17.988063+00:00"
-    },
-    {
-      "id": "ac9a5877-0dd5-4ddc-8942-4dc9fa5c4c04",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Great Decoupling via @sejournal, @Kevin_Indig",
-      "link": "https://www.searchenginejournal.com/the-great-decoupling/565367/",
-      "summary": "AI search broke the link between traffic and revenue. This piece explains how SEO creates demand without page views.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-great-decoupling/565367/\">The Great Decoupling</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-20T14:30:15+00:00",
-      "fetched": "2026-01-20T21:13:02.154048+00:00"
-    },
-    {
-      "id": "ed838a54-bc97-43cb-b675-bc49704fd9ff",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Case Study: How Entity Linking Can Support Local Search Success via @sejournal, @marthavanberkel",
-      "link": "https://www.searchenginejournal.com/case-study-how-entity-linking-can-support-local-search-success/563074/",
-      "summary": "Understand why entity linking is becoming a strategic requirement for local SEO in AI search environments.\n\nThe post <a href=\"https://www.searchenginejournal.com/case-study-how-entity-linking-can-support-local-search-success/563074/\">Case Study: How Entity Linking Can Support Local Search Success</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-20T13:00:32+00:00",
-      "fetched": "2026-01-20T21:13:02.154074+00:00"
-    },
-    {
-      "id": "fcfa911d-0931-448d-91a9-92b1720ce38a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Perplexity AI Interview Explains How AI Search Works via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/perplexity-ai-interview-explains-how-ai-search-works/565395/",
-      "summary": "Interview with Perplexity AI offers insights into what makes AI answer engines different from regular search\n\nThe post <a href=\"https://www.searchenginejournal.com/perplexity-ai-interview-explains-how-ai-search-works/565395/\">Perplexity AI Interview Explains How AI Search Works</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-20T12:52:44+00:00",
-      "fetched": "2026-01-20T21:13:02.154094+00:00"
-    },
-    {
-      "id": "351a077a-1c62-4f6b-a960-02e196cfefd7",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Data Shows AI Overviews Disappears On Certain Kinds Of Finance Queries via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/ai-overviews-disappears-on-certain-kinds-of-finance-queries/565389/",
-      "summary": "New data from BrightEdge shows which kinds of finance-related queries trigger AI answers and which kinds do not\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-overviews-disappears-on-certain-kinds-of-finance-queries/565389/\">Data Shows AI Overviews Disappears On Certain Kinds Of Finance Queries</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-20T11:09:17+00:00",
-      "fetched": "2026-01-20T21:13:02.154115+00:00"
-    },
-    {
-      "id": "4055fc16-baf2-409f-8271-d8e45d3e38a5",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why Agentic AI May Flatten Brand Differentiators via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/why-agentic-ai-may-flatten-brand-differentiators/565378/",
-      "summary": "The co-lead of the WordPress AI Team says some sites face a \"more complex\" future as brand differentiation gets flattened.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-agentic-ai-may-flatten-brand-differentiators/565378/\">Why Agentic AI May Flatten Brand Differentiators</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-20T10:17:54+00:00",
-      "fetched": "2026-01-20T21:13:02.154133+00:00"
-    },
-    {
-      "id": "860b4a3a-06cf-4974-a1d7-a54ad786f1cf",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Analyze Google Discover",
-      "link": "https://www.searchenginejournal.com/how-to-analyze-google-discover/565198/",
-      "summary": "Why Discover success depends on outperforming expected early performance, and how entities, headlines, and images shape long-term credibility.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-analyze-google-discover/565198/\">How To Analyze Google Discover</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-19T14:30:18+00:00",
-      "fetched": "2026-01-19T21:11:34.345195+00:00"
-    },
-    {
-      "id": "e18f0f93-cd7d-40b2-81a1-0c9c62164440",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How Much Of Your Paid Media Budget Should Be Allocated To Upper Funnel?",
-      "link": "https://www.searchenginejournal.com/how-much-of-your-paid-media-budget-should-be-allocated-to-upper-funnel/561581/",
-      "summary": "Learn how to balance upper and lower-funnel budgets across paid search and social, backed by research, frameworks, and practical strategies to drive long-term growth.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-much-of-your-paid-media-budget-should-be-allocated-to-upper-funnel/561581/\">How Much Of Your Paid Media Budget Should Be Allocated To Upper Funnel?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-19T13:00:39+00:00",
-      "fetched": "2026-01-19T21:11:34.345222+00:00"
-    },
-    {
-      "id": "3e1eb004-621b-43d0-865b-a4ead19a496f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Head Of WordPress AI Team Explains SEO For AI Agents via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/head-of-wordpress-ai-team-explains-seo-for-ai-agents/565301/",
-      "summary": "James LePage, co-lead of the WordPress AI team, explains how SEO applies to AI agent content consumption.\n\nThe post <a href=\"https://www.searchenginejournal.com/head-of-wordpress-ai-team-explains-seo-for-ai-agents/565301/\">Head Of WordPress AI Team Explains SEO For AI Agents</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-19T10:31:03+00:00",
-      "fetched": "2026-01-19T21:11:34.345242+00:00"
-    },
-    {
-      "id": "1ddeabcd-22d8-4fc6-a2c1-e65f29b90017",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Mueller: Free Subdomain Hosting Makes SEO Harder via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/googles-mueller-free-subdomain-hosting-makes-seo-harder/565249/",
-      "summary": "Google's John Mueller explains why free subdomain hosting services attract spam and make it harder for legitimate sites to gain search visibility.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-mueller-free-subdomain-hosting-makes-seo-harder/565249/\">Google&#8217;s Mueller: Free Subdomain Hosting Makes SEO Harder</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-19T07:25:47+00:00",
-      "fetched": "2026-01-19T21:11:34.345265+00:00"
-    },
-    {
-      "id": "3b4366d5-a047-4e9e-bffd-155dab215275",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Paid Media Marketing: 8 Changes Marketers Should Make In 2026 via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/paid-media-marketing-changes/389319/",
-      "summary": "Paid media in 2026 demands sharper focus. Learn which strategies matter now and where marketers should shift budgets for stronger, more reliable performance this year.\n\nThe post <a href=\"https://www.searchenginejournal.com/paid-media-marketing-changes/389319/\">Paid Media Marketing: 8 Changes Marketers Should Make In 2026</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-18T21:01:09+00:00",
-      "fetched": "2026-01-19T21:11:34.345282+00:00"
     }
   ],
-  "last_updated": "2026-01-21T21:20:18.945982+00:00"
+  "last_updated": "2026-01-22T21:13:52.013933+00:00"
 }
