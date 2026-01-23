@@ -1,6 +1,72 @@
 {
   "articles": [
     {
+      "id": "1ebb4fa1-c5c2-4771-927a-1a07f28f7f89",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "User Data Is Important In Google Search, Per Liz Reid\u2019s DOJ Filing via @sejournal, @marie_haynes",
+      "link": "https://www.searchenginejournal.com/user-data-is-important-in-googles-ranking-systems-liz-reids-appeal-declaration/565707/",
+      "summary": "Marie Haynes analyzes DOJ trial documents that reveal how Google\u2019s proprietary freshness signals, spam annotations, and user data power its ranking systems.\n\nThe post <a href=\"https://www.searchenginejournal.com/user-data-is-important-in-googles-ranking-systems-liz-reids-appeal-declaration/565707/\">User Data Is Important In Google Search, Per Liz Reid&#8217;s DOJ Filing</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-23T15:00:37+00:00",
+      "fetched": "2026-01-23T21:12:26.050959+00:00"
+    },
+    {
+      "id": "20022b95-b1fc-4831-ac06-72d9b7e66994",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "SEO Pulse: Google\u2019s AI Mode Gets Personal, AI Bots Blocked, Domains Matter in Search via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/seo-pulse-googles-ai-mode-gets-personal-ai-bots-blocked-domains-matter-in-search/565681/",
+      "summary": "This week\u2019s SEO Pulse breaks down how Gmail-powered AI answers, crawler access decisions, and free subdomains are shaping who gets surfaced in search.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-googles-ai-mode-gets-personal-ai-bots-blocked-domains-matter-in-search/565681/\">SEO Pulse: Google\u2019s AI Mode Gets Personal, AI Bots Blocked, Domains Matter in Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-23T14:30:35+00:00",
+      "fetched": "2026-01-23T21:12:26.050986+00:00"
+    },
+    {
+      "id": "dacc3728-02cd-4639-9d1f-08d34a14a00a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "PPC Pulse: Google\u2019s Podcast Launch, Demand Gen, ChatGPT Ads via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/ppc-pulse-googles-podcast-launch-demand-gen-chatgpt-ads/565685/",
+      "summary": "This week's PPC Pulse recaps OpenAI\u2019s first ad test inside ChatGPT, Google\u2019s new advertiser podcast, and expanded Demand Gen capabilities.\n\nThe post <a href=\"https://www.searchenginejournal.com/ppc-pulse-googles-podcast-launch-demand-gen-chatgpt-ads/565685/\">PPC Pulse: Google&#8217;s Podcast Launch, Demand Gen, ChatGPT Ads</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-23T14:07:10+00:00",
+      "fetched": "2026-01-23T21:12:26.051006+00:00"
+    },
+    {
+      "id": "bc3a5aa0-385b-49d3-bb8a-319e935bc12e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "45 Best Subreddits For Marketing & SEO Professionals via @sejournal, @theshelleywalsh",
+      "link": "https://www.searchenginejournal.com/45-best-subreddits-for-marketing-professionals/562484/",
+      "summary": "Key Reddit communities that professionals use to stay informed, ask smarter questions, and learn from peers across industries.\n\nThe post <a href=\"https://www.searchenginejournal.com/45-best-subreddits-for-marketing-professionals/562484/\">45 Best Subreddits For Marketing &#038; SEO Professionals</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-23T12:30:35+00:00",
+      "fetched": "2026-01-23T21:12:26.051028+00:00"
+    },
+    {
+      "id": "35f52f6e-2397-4d7c-b225-bd3d0eba776a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "BuddyPress WordPress Vulnerability May Impact Up To 100,000 Sites via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/buddypress-wordpress-vulnerability-may-impact-up-to-100000-sites/565749/",
+      "summary": "BuddyPress WordPress vulnerability enables unauthenticated attackers to execute arbitrary shortcodes\n\nThe post <a href=\"https://www.searchenginejournal.com/buddypress-wordpress-vulnerability-may-impact-up-to-100000-sites/565749/\">BuddyPress WordPress Vulnerability May Impact Up To 100,000 Sites</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-23T10:58:05+00:00",
+      "fetched": "2026-01-23T21:12:26.051062+00:00"
+    },
+    {
+      "id": "6ef0261b-6556-4b62-a56b-e983a224d8cc",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "TikTok US Deal Closes After Years Of Regulatory Uncertainty via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/tiktok-us-deal-closes-after-years-of-regulatory-uncertainty/565688/",
+      "summary": "TikTok's US spinoff to Oracle, Silver Lake, and MGX has closed after a White House official said the US and China finalized the deal. \n\nThe post <a href=\"https://www.searchenginejournal.com/tiktok-us-deal-closes-after-years-of-regulatory-uncertainty/565688/\">TikTok US Deal Closes After Years Of Regulatory Uncertainty</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-23T01:54:34+00:00",
+      "fetched": "2026-01-23T21:12:26.051080+00:00"
+    },
+    {
       "id": "61cb832f-5add-4ffb-8e2d-2efd419078c7",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -153,73 +219,7 @@
       "summary": "A five-pillar approach to paid search audits that exposes why AI-optimized campaigns still miss revenue, pipeline, and growth goals.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-5-pillar-audit-diagnosing-strategy-vs-tactic-failures-in-a-google-ads-account/562678/\">The 5-Pillar Audit: Diagnosing Strategy Vs. Tactic Failures In A Google Ads Account</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-01-21T13:30:16+00:00",
       "fetched": "2026-01-21T21:20:17.987953+00:00"
-    },
-    {
-      "id": "e3c0eef8-bcba-4ea8-b8e7-822a60eb34d7",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How Recommender Systems Like Google Discover May Work via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/how-recommender-systems-like-google-discover-may-work/565515/",
-      "summary": "An explainer of how recommender systems like Google Discover may work according to a classic research paper.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-recommender-systems-like-google-discover-may-work/565515/\">How Recommender Systems Like Google Discover May Work</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-21T12:06:50+00:00",
-      "fetched": "2026-01-21T21:20:17.987972+00:00"
-    },
-    {
-      "id": "59c73c58-d146-4f4e-9df4-41cd61473ac6",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "NotificationX WordPress WooCommerce Plugin Vulnerabilities Impact 40k Sites via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/notificationx-wordpress-plugin-vulnerabilities/565510/",
-      "summary": "A WordPress and WooCommerce plugin vulnerability enables unauthenticated attackers to inject malicious scripts.\n\nThe post <a href=\"https://www.searchenginejournal.com/notificationx-wordpress-plugin-vulnerabilities/565510/\">NotificationX WordPress WooCommerce Plugin Vulnerabilities Impact 40k Sites</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-21T11:10:01+00:00",
-      "fetched": "2026-01-21T21:20:17.987988+00:00"
-    },
-    {
-      "id": "5070bccb-ba80-4eea-8d34-be91325ee6d3",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "What Profitable Google Ads Look Like in 2026 [Webinar] via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/profitable-google-ads-look-like/564517/",
-      "summary": "Join our webinar to discover effective strategies for automating Google Ads and mastering Performance Max Smart Bidding.\n\nThe post <a href=\"https://www.searchenginejournal.com/profitable-google-ads-look-like/564517/\">What Profitable Google Ads Look Like in 2026 [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-21T08:45:15+00:00",
-      "fetched": "2026-01-21T21:20:17.988004+00:00"
-    },
-    {
-      "id": "afa3462d-e596-4b10-9d90-157bed287de1",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "WordPress Advanced Custom Fields Extended Plugin Vulnerability via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/wordpress-acf-extended-plugin-vulnerability/565483/",
-      "summary": "A vulnerability in an ACF addon plugin installed in 100k websites enables unauthenticated attackers to gain administrator privileges.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-acf-extended-plugin-vulnerability/565483/\">WordPress Advanced Custom Fields Extended Plugin Vulnerability</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-21T08:14:27+00:00",
-      "fetched": "2026-01-21T21:20:17.988028+00:00"
-    },
-    {
-      "id": "aaa7d65c-81d2-41da-a680-fc25a5693fca",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Smart Way To Take Back Control Of Google\u2019s Performance Max [A Step-By-Step Guide]",
-      "link": "https://www.searchenginejournal.com/ecommerce-performance-max-guide-channable-spa/565185/",
-      "summary": "Take charge of your advertising with Performance Max. Learn to segment products and enhance your campaign performance effectively.\n\nThe post <a href=\"https://www.searchenginejournal.com/ecommerce-performance-max-guide-channable-spa/565185/\">The Smart Way To Take Back Control Of Google&#8217;s Performance Max [A Step-By-Step Guide]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-21T06:00:09+00:00",
-      "fetched": "2026-01-21T21:20:17.988045+00:00"
-    },
-    {
-      "id": "52285651-3727-4b35-b3db-6360bad7a1fc",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "OpenAI Search Crawler Passes 55% Coverage In Hostinger Study via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/openai-search-crawler-passes-55-coverage-in-hostinger-study/565446/",
-      "summary": "Hostinger analyzed 66.7B bot requests across 5M+ hosted sites and found AI training crawlers are blocked more often, while OpenAI\u2019s search bot expands.\n\nThe post <a href=\"https://www.searchenginejournal.com/openai-search-crawler-passes-55-coverage-in-hostinger-study/565446/\">OpenAI Search Crawler Passes 55% Coverage In Hostinger Study</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-20T21:46:55+00:00",
-      "fetched": "2026-01-21T21:20:17.988063+00:00"
     }
   ],
-  "last_updated": "2026-01-22T21:13:52.013933+00:00"
+  "last_updated": "2026-01-23T21:12:26.862391+00:00"
 }
