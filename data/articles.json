@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "60d372d2-1ff0-444a-9a2c-b957f2847015",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why Google Gemini Has No Ads Yet: \u2018Trust In Your Assistant\u2019 via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/why-google-gemini-has-no-ads-yet-trust-in-your-assistant/565889/",
+      "summary": "Google DeepMind CEO Demis Hassabis says Google doesn't have any current plans for ads in Gemini, as OpenAI moves toward ChatGPT advertising.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-google-gemini-has-no-ads-yet-trust-in-your-assistant/565889/\">Why Google Gemini Has No Ads Yet: \u2018Trust In Your Assistant\u2019</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-26T16:17:48+00:00",
+      "fetched": "2026-01-26T21:14:42.590121+00:00"
+    },
+    {
+      "id": "53f7abf2-aff4-4e5f-8e57-d770ba566be8",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "5 Google Analytics Reports PPC Marketers Should Actually Use via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/google-analytics-reports-ppc-marketers-should-actually-use/561028/",
+      "summary": "Five Google Analytics reports PPC marketers should use to improve targeting, justify spend, and understand how paid traffic supports conversions across the customer journey.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-analytics-reports-ppc-marketers-should-actually-use/561028/\">5 Google Analytics Reports PPC Marketers Should Actually Use</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-26T12:45:04+00:00",
+      "fetched": "2026-01-26T21:14:42.590148+00:00"
+    },
+    {
+      "id": "a9431ce3-1387-44f8-be38-23c6c867292f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why CFOs Are Cutting AI Budgets (And The 3 Metrics That Save Them) via @sejournal, @purnavirji",
+      "link": "https://www.searchenginejournal.com/why-cfos-are-cutting-ai-budgets-and-the-3-metrics-that-save-them/564741/",
+      "summary": "Stop measuring AI by hours saved and start measuring the expansion, quality gains, and capabilities that move the business.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-cfos-are-cutting-ai-budgets-and-the-3-metrics-that-save-them/564741/\">Why CFOs Are Cutting AI Budgets (And The 3 Metrics That Save Them)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-26T12:00:26+00:00",
+      "fetched": "2026-01-26T21:14:42.590167+00:00"
+    },
+    {
+      "id": "d81a3bfc-ed4a-44c8-9708-8b25f3365ac2",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s New User Intent Extraction Method via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/googles-new-user-intent-extraction-method/565840/",
+      "summary": "Google's user intent extraction research shows how AI on mobile devices could be used to proactively assist users and automate tasks.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-new-user-intent-extraction-method/565840/\">Google&#8217;s New User Intent Extraction Method</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-26T10:51:40+00:00",
+      "fetched": "2026-01-26T21:14:42.590187+00:00"
+    },
+    {
+      "id": "6083609c-3f40-4598-9ee8-3cceb38e80dc",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "10 Remarketing Lists To Boost PPC Performance via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/5-remarketing-lists-boost-ppc-ad-performance/175794/",
+      "summary": "Turn first-party data into measurable PPC gains using remarketing strategies built for real account management, not theory.\n\nThe post <a href=\"https://www.searchenginejournal.com/5-remarketing-lists-boost-ppc-ad-performance/175794/\">10 Remarketing Lists To Boost PPC Performance</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-26T03:00:12+00:00",
+      "fetched": "2026-01-26T21:14:42.590204+00:00"
+    },
+    {
       "id": "1ebb4fa1-c5c2-4771-927a-1a07f28f7f89",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -164,62 +219,7 @@
       "summary": "New data shows an increase in AI assistant crawling alongside declining AI model training access.\n\nThe post <a href=\"https://www.searchenginejournal.com/more-sites-blocking-llm-crawling-could-that-backfire-on-geo/565614/\">More Sites Blocking LLM Crawling &#8211; Could That Backfire On GEO?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-01-22T10:30:36+00:00",
       "fetched": "2026-01-22T21:13:50.015746+00:00"
-    },
-    {
-      "id": "d9eb4aa2-d920-4875-855f-4f5c0c83a061",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "YouTube CEO Announces AI Creation Tools, In-App Shopping For 2026 via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/youtube-ceo-announces-ai-creation-tools-in-app-shopping-for-2026/565588/",
-      "summary": "YouTube CEO Neal Mohan previews 2026 priorities: AI tools for Shorts creation, text-to-game features, in-app shopping checkout, and image posts in Shorts.\n\nThe post <a href=\"https://www.searchenginejournal.com/youtube-ceo-announces-ai-creation-tools-in-app-shopping-for-2026/565588/\">YouTube CEO Announces AI Creation Tools, In-App Shopping For 2026</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-21T22:45:06+00:00",
-      "fetched": "2026-01-22T21:13:50.015762+00:00"
-    },
-    {
-      "id": "df2c3b2a-147f-4568-b480-6b3a97d7c1fd",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "A Little Clarity On SEO, GEO, And AEO via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/a-little-clarity-on-seo-geo-and-aeo/565522/",
-      "summary": "The debate over SEO versus AEO/GEO appears to be reaching a consensus.\n\nThe post <a href=\"https://www.searchenginejournal.com/a-little-clarity-on-seo-geo-and-aeo/565522/\">A Little Clarity On SEO, GEO, And AEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-21T14:06:46+00:00",
-      "fetched": "2026-01-21T21:20:17.987870+00:00"
-    },
-    {
-      "id": "dcb84f8f-8662-4908-b330-2b200a712543",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Wix Introduces Harmony AI Website Builder via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/wix-introduces-harmony-ai-website-builder/565505/",
-      "summary": "Wix Harmony AI site builder enables natural language site creation with the ability to switch to manual mode at any point.\n\nThe post <a href=\"https://www.searchenginejournal.com/wix-introduces-harmony-ai-website-builder/565505/\">Wix Introduces Harmony AI Website Builder</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-21T14:00:54+00:00",
-      "fetched": "2026-01-21T21:20:17.987894+00:00"
-    },
-    {
-      "id": "bc4beef4-b342-4f23-aac5-5c94a740d5e3",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Web Governance As A Growth Lever: Building A Center Of Excellence That Actually Works via @sejournal, @billhunt",
-      "link": "https://www.searchenginejournal.com/web-governance-as-a-growth-lever-building-a-center-of-excellence/559574/",
-      "summary": "Bill Hunt explains how governance converts complexity into momentum, ensuring digital strategies deliver measurable enterprise value.\n\nThe post <a href=\"https://www.searchenginejournal.com/web-governance-as-a-growth-lever-building-a-center-of-excellence/559574/\">Web Governance As A Growth Lever: Building A Center Of Excellence That Actually Works</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-21T14:00:54+00:00",
-      "fetched": "2026-01-21T21:20:17.987930+00:00"
-    },
-    {
-      "id": "33d906c0-ed27-4d00-a129-b2703f1eff8a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The 5-Pillar Audit: Diagnosing Strategy Vs. Tactic Failures In A Google Ads Account",
-      "link": "https://www.searchenginejournal.com/the-5-pillar-audit-diagnosing-strategy-vs-tactic-failures-in-a-google-ads-account/562678/",
-      "summary": "A five-pillar approach to paid search audits that exposes why AI-optimized campaigns still miss revenue, pipeline, and growth goals.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-5-pillar-audit-diagnosing-strategy-vs-tactic-failures-in-a-google-ads-account/562678/\">The 5-Pillar Audit: Diagnosing Strategy Vs. Tactic Failures In A Google Ads Account</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-21T13:30:16+00:00",
-      "fetched": "2026-01-21T21:20:17.987953+00:00"
     }
   ],
-  "last_updated": "2026-01-25T21:10:55.348213+00:00"
+  "last_updated": "2026-01-26T21:14:43.201387+00:00"
 }
