@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "77bebc24-4623-41ef-81a2-ac63d342b387",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google AI Overviews Now Powered By Gemini 3 via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-ai-overviews-now-powered-by-gemini-3/565987/",
+      "summary": "Google is making Gemini 3 the default model for AI Overviews and adding a direct path to ask follow-up questions in AI Mode.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ai-overviews-now-powered-by-gemini-3/565987/\">Google AI Overviews Now Powered By Gemini 3</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-27T17:00:12+00:00",
+      "fetched": "2026-01-27T21:10:41.305418+00:00"
+    },
+    {
+      "id": "2cd37c87-784e-440c-8a95-0cfd7fdfe7cd",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How Do You Compete In Agentic Commerce? via @sejournal, @Kevin_Indig",
+      "link": "https://www.searchenginejournal.com/how-do-you-compete-in-agentic-commerce/565906/",
+      "summary": "The rise of agentic commerce ends marketing-first SEO and forces brands to compete on data integrity and product truth.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-do-you-compete-in-agentic-commerce/565906/\">How Do You Compete In Agentic Commerce?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-27T14:30:22+00:00",
+      "fetched": "2026-01-27T21:10:41.305445+00:00"
+    },
+    {
+      "id": "1987f7cd-6e4f-4889-b0c3-6c96600ed80b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Breaking Into The Black Box: Unlocking Meta\u2019s Product-Level Ad Data",
+      "link": "https://www.searchenginejournal.com/breaking-into-the-black-box-unlocking-metas-product-level-ad-data/561235/",
+      "summary": "Brands can uncover product-level DPA performance by merging Meta API data with GA4 insights to verify algorithm decisions and guide more efficient ecommerce campaigns.\n\nThe post <a href=\"https://www.searchenginejournal.com/breaking-into-the-black-box-unlocking-metas-product-level-ad-data/561235/\">Breaking Into The Black Box: Unlocking Meta&#8217;s Product-Level Ad Data</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-27T13:00:00+00:00",
+      "fetched": "2026-01-27T21:10:41.305465+00:00"
+    },
+    {
+      "id": "2e7e2485-ed89-4844-bfff-ce371fbbdca3",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "WP Go Maps Plugin Vulnerability Affects Up To 300K WordPress Sites via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/wp-go-maps-plugin-vulnerability-affects-up-to-300k-wordpress-sites/565955/",
+      "summary": "Vulnerability in the popular WP Go Maps WordPress plugin affects affects up to 300,000 websites\n\nThe post <a href=\"https://www.searchenginejournal.com/wp-go-maps-plugin-vulnerability-affects-up-to-300k-wordpress-sites/565955/\">WP Go Maps Plugin Vulnerability Affects Up To 300K WordPress Sites</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-27T10:51:55+00:00",
+      "fetched": "2026-01-27T21:10:41.305487+00:00"
+    },
+    {
+      "id": "9b63d270-f3a4-4569-a2a9-f7d31adacb7a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Sam Altman Says OpenAI \u201cScrewed Up\u201d GPT-5.2 Writing Quality via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/sam-altman-says-openai-screwed-up-gpt-5-2-writing-quality/565925/",
+      "summary": "Sam Altman said OpenAI prioritized coding and reasoning in GPT-5.2 and \"screwed up\" writing quality. He says future GPT-5.x versions will address the gap.\n\nThe post <a href=\"https://www.searchenginejournal.com/sam-altman-says-openai-screwed-up-gpt-5-2-writing-quality/565925/\">Sam Altman Says OpenAI &#8220;Screwed Up&#8221; GPT-5.2 Writing Quality</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-27T07:53:22+00:00",
+      "fetched": "2026-01-27T21:10:41.305506+00:00"
+    },
+    {
       "id": "60d372d2-1ff0-444a-9a2c-b957f2847015",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -164,62 +219,7 @@
       "summary": "A new paper tests how LLMs select content, and Duane Forrester translates the findings into a practical framework you can validate yourself.\n\nThe post <a href=\"https://www.searchenginejournal.com/when-platforms-say-dont-optimize-smart-teams-run-experiments/565256/\">When Platforms Say &#8216;Don\u2019t Optimize,&#8217; Smart Teams Run Experiments</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-01-22T14:30:08+00:00",
       "fetched": "2026-01-22T21:13:50.015646+00:00"
-    },
-    {
-      "id": "ef3fd840-2985-45c3-92f7-e7952bc4d9f7",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Five Things To Do That Will Increase Authoritativeness And Earn Links via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/five-things-to-do-that-will-increase-authoritativeness-and-earn-links/565639/",
-      "summary": "Five things that any business can do to increase authoritativeness and earn more links\n\nThe post <a href=\"https://www.searchenginejournal.com/five-things-to-do-that-will-increase-authoritativeness-and-earn-links/565639/\">Five Things To Do That Will Increase Authoritativeness And Earn Links</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-22T14:14:08+00:00",
-      "fetched": "2026-01-22T21:13:50.015664+00:00"
-    },
-    {
-      "id": "a5c7c1f1-cc62-4354-b8e2-d87d6ac40b8b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "56% Of CEOs Report No Revenue Gains From AI: PwC Survey via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/56-of-ceos-report-no-revenue-gains-from-ai-pwc-survey/565643/",
-      "summary": "A survey of 4,000+ CEOs from 95 countries finds 56% haven't seen revenue or cost benefits from AI.\n\nThe post <a href=\"https://www.searchenginejournal.com/56-of-ceos-report-no-revenue-gains-from-ai-pwc-survey/565643/\">56% Of CEOs Report No Revenue Gains From AI: PwC Survey</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-22T14:04:00+00:00",
-      "fetched": "2026-01-22T21:13:50.015687+00:00"
-    },
-    {
-      "id": "911f0157-04cd-488d-9202-86ae29b5757f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Ask A PPC: What Is The PPC Manager\u2019s Role In The AI Era? via @sejournal, @navahf",
-      "link": "https://www.searchenginejournal.com/ask-a-ppc-what-is-ppc-managers-role-in-ai-era/564374/",
-      "summary": "This week's Ask a PPC reframes the AI conversation around responsibility, showing why strategy, data integrity, and human judgment now define PPC success.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-a-ppc-what-is-ppc-managers-role-in-ai-era/564374/\">Ask A PPC: What Is The PPC Manager&#8217;s Role In The AI Era?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-22T13:00:22+00:00",
-      "fetched": "2026-01-22T21:13:50.015704+00:00"
-    },
-    {
-      "id": "342376d8-0e4e-4b39-b40f-a3c84764ed0e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Shopify Shares More Details On Universal Commerce Protocol (UCP) via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/shopify-shares-more-details-on-universal-commerce-protocol-ucp/565624/",
-      "summary": "Shopify's Harvey Finkelstein said agentic shopping surfaces products because they fit the user, not because brands can buy visibility.\n\nThe post <a href=\"https://www.searchenginejournal.com/shopify-shares-more-details-on-universal-commerce-protocol-ucp/565624/\">Shopify Shares More Details On Universal Commerce Protocol (UCP)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-22T12:46:00+00:00",
-      "fetched": "2026-01-22T21:13:50.015728+00:00"
-    },
-    {
-      "id": "03234c9e-0276-4543-aec4-c31f6e942501",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "More Sites Blocking LLM Crawling \u2013 Could That Backfire On GEO? via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/more-sites-blocking-llm-crawling-could-that-backfire-on-geo/565614/",
-      "summary": "New data shows an increase in AI assistant crawling alongside declining AI model training access.\n\nThe post <a href=\"https://www.searchenginejournal.com/more-sites-blocking-llm-crawling-could-that-backfire-on-geo/565614/\">More Sites Blocking LLM Crawling &#8211; Could That Backfire On GEO?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-22T10:30:36+00:00",
-      "fetched": "2026-01-22T21:13:50.015746+00:00"
     }
   ],
-  "last_updated": "2026-01-26T21:14:43.201387+00:00"
+  "last_updated": "2026-01-27T21:10:42.364051+00:00"
 }
