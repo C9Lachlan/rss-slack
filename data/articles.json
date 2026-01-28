@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "ca83656d-3f35-4bef-b617-24103d5794cf",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Information Retrieval Part 1: Disambiguation",
+      "link": "https://www.searchenginejournal.com/information-retrieval-part-1-disambiguation/565829/",
+      "summary": "Learn how information retrieval impacts SEO strategies, making content easier to understand and retain for users.\n\nThe post <a href=\"https://www.searchenginejournal.com/information-retrieval-part-1-disambiguation/565829/\">Information Retrieval Part 1: Disambiguation</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-28T14:15:06+00:00",
+      "fetched": "2026-01-28T21:20:41.152378+00:00"
+    },
+    {
+      "id": "48a9c220-892e-4cf5-939f-000bd61d650b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google May Let Sites Opt Out Of AI Search Features via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-may-let-sites-opt-out-of-ai-search-features/566065/",
+      "summary": "Google says it's exploring new controls that would let websites opt out of AI search features specifically, as the UK CMA opened a regulatory consultation.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-may-let-sites-opt-out-of-ai-search-features/566065/\">Google May Let Sites Opt Out Of AI Search Features</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-28T13:34:18+00:00",
+      "fetched": "2026-01-28T21:20:41.152409+00:00"
+    },
+    {
+      "id": "36fbc41b-eb07-485e-8ad1-f54d1da34d67",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Social Channel Insights In Search Console: What It Means For Social & Search via @sejournal, @rio_seo",
+      "link": "https://www.searchenginejournal.com/social-channel-insights-in-search-console-what-it-means-for-social-search/564307/",
+      "summary": "Social Channel Insights in GSC point to a broader shift where search validation increasingly follows social-driven discovery.\n\nThe post <a href=\"https://www.searchenginejournal.com/social-channel-insights-in-search-console-what-it-means-for-social-search/564307/\">Social Channel Insights In Search Console: What It Means For Social &#038; Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-28T13:30:17+00:00",
+      "fetched": "2026-01-28T21:20:41.152429+00:00"
+    },
+    {
+      "id": "7d88bfa7-4939-49e3-9aae-2758eff43b8b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "What If User Satisfaction Is The Most Important Factor In SEO? via @sejournal, @marie_haynes",
+      "link": "https://www.searchenginejournal.com/what-if-user-satisfaction-is-the-most-important-factor-in-seo/565933/",
+      "summary": "Marie Haynes explains why Google\u2019s AI ranking systems prioritize user satisfaction over vector optimization, based on insights from the DOJ vs. Google trial.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-if-user-satisfaction-is-the-most-important-factor-in-seo/565933/\">What If User Satisfaction Is The Most Important Factor In SEO?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-28T13:00:35+00:00",
+      "fetched": "2026-01-28T21:20:41.152471+00:00"
+    },
+    {
+      "id": "1f8fbb41-8ac9-4153-ad13-a2261022a140",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "New Yahoo Scout AI Search Delivers The Classic Search Flavor People Miss via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/new-yahoo-scout-ai-search-delivers-the-classic-search-flavor-people-miss/566034/",
+      "summary": "Yahoo Scout offers a clean and uncluttered classic search experience with the power of natural language AI.\n\nThe post <a href=\"https://www.searchenginejournal.com/new-yahoo-scout-ai-search-delivers-the-classic-search-flavor-people-miss/566034/\">New Yahoo Scout AI Search Delivers The Classic Search Flavor People Miss</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-28T10:47:54+00:00",
+      "fetched": "2026-01-28T21:20:41.152491+00:00"
+    },
+    {
       "id": "77bebc24-4623-41ef-81a2-ac63d342b387",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -164,62 +219,7 @@
       "summary": "BuddyPress WordPress vulnerability enables unauthenticated attackers to execute arbitrary shortcodes\n\nThe post <a href=\"https://www.searchenginejournal.com/buddypress-wordpress-vulnerability-may-impact-up-to-100000-sites/565749/\">BuddyPress WordPress Vulnerability May Impact Up To 100,000 Sites</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-01-23T10:58:05+00:00",
       "fetched": "2026-01-23T21:12:26.051062+00:00"
-    },
-    {
-      "id": "6ef0261b-6556-4b62-a56b-e983a224d8cc",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "TikTok US Deal Closes After Years Of Regulatory Uncertainty via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/tiktok-us-deal-closes-after-years-of-regulatory-uncertainty/565688/",
-      "summary": "TikTok's US spinoff to Oracle, Silver Lake, and MGX has closed after a White House official said the US and China finalized the deal. \n\nThe post <a href=\"https://www.searchenginejournal.com/tiktok-us-deal-closes-after-years-of-regulatory-uncertainty/565688/\">TikTok US Deal Closes After Years Of Regulatory Uncertainty</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-23T01:54:34+00:00",
-      "fetched": "2026-01-23T21:12:26.051080+00:00"
-    },
-    {
-      "id": "61cb832f-5add-4ffb-8e2d-2efd419078c7",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "10Web WordPress Photo Gallery Plugin Vulnerability via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/10web-wordpress-photo-gallery-plugin-vulnerability/565670/",
-      "summary": "10Web Photo Gallery plugin vulnerability enables unauthenticated attackers to delete image comments.\n\nThe post <a href=\"https://www.searchenginejournal.com/10web-wordpress-photo-gallery-plugin-vulnerability/565670/\">10Web WordPress Photo Gallery Plugin Vulnerability</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-22T16:24:05+00:00",
-      "fetched": "2026-01-22T21:13:50.015576+00:00"
-    },
-    {
-      "id": "35ae25fd-06a3-4462-825c-364176ba39fd",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Launches Personal Intelligence In AI Mode via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-launches-personal-intelligence-in-ai-mode/565661/",
-      "summary": "Google's Personal Intelligence connects Gmail and Google Photos to AI Mode, delivering personalized responses for AI Pro and Ultra subscribers.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-launches-personal-intelligence-in-ai-mode/565661/\">Google Launches Personal Intelligence In AI Mode</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-22T16:00:55+00:00",
-      "fetched": "2026-01-22T21:13:50.015603+00:00"
-    },
-    {
-      "id": "5bf01595-9d23-455b-84f0-f7f97722860a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "A Breakdown Of Microsoft\u2019s Guide To AEO & GEO via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/a-breakdown-of-microsofts-guide-to-aeo-geo/565651/",
-      "summary": "Microsoft explains what matters for AEO and GEO and details three strategies that influence AI recommendations.\n\nThe post <a href=\"https://www.searchenginejournal.com/a-breakdown-of-microsofts-guide-to-aeo-geo/565651/\">A Breakdown Of Microsoft&#8217;s Guide To AEO &#038; GEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-22T15:39:28+00:00",
-      "fetched": "2026-01-22T21:13:50.015622+00:00"
-    },
-    {
-      "id": "9ea279ca-5eeb-41db-811a-eb723796d14e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "When Platforms Say \u2018Don\u2019t Optimize,\u2019 Smart Teams Run Experiments via @sejournal, @DuaneForrester",
-      "link": "https://www.searchenginejournal.com/when-platforms-say-dont-optimize-smart-teams-run-experiments/565256/",
-      "summary": "A new paper tests how LLMs select content, and Duane Forrester translates the findings into a practical framework you can validate yourself.\n\nThe post <a href=\"https://www.searchenginejournal.com/when-platforms-say-dont-optimize-smart-teams-run-experiments/565256/\">When Platforms Say &#8216;Don\u2019t Optimize,&#8217; Smart Teams Run Experiments</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-22T14:30:08+00:00",
-      "fetched": "2026-01-22T21:13:50.015646+00:00"
     }
   ],
-  "last_updated": "2026-01-27T21:10:42.364051+00:00"
+  "last_updated": "2026-01-28T21:20:41.892579+00:00"
 }
