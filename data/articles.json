@@ -1,6 +1,72 @@
 {
   "articles": [
     {
+      "id": "e13260ef-ca8e-4f1e-ba35-b6b8839cbec5",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The New Content Failure Mode: People Love It, Models Ignore It via @sejournal, @DuaneForrester",
+      "link": "https://www.searchenginejournal.com/the-new-content-failure-mode-people-love-it-models-ignore-it/565944/",
+      "summary": "Identify the new content failure mode that reveals the utility gap, leading to unseen quality content on AI platforms.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-new-content-failure-mode-people-love-it-models-ignore-it/565944/\">The New Content Failure Mode: People Love It, Models Ignore It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-29T14:30:00+00:00",
+      "fetched": "2026-01-29T21:17:52.041211+00:00"
+    },
+    {
+      "id": "d414f66d-97b6-4ea0-8a91-6dfb868c1f1b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How Visibility Compounds In Brand-Led SEO via @sejournal, @TaylorDanRW",
+      "link": "https://www.searchenginejournal.com/how-visibility-compounds-in-brand-led-seo/565018/",
+      "summary": "Dan Taylor explains how compounding search visibility turns repeated exposure into familiarity, preference, and long-term resilience.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-visibility-compounds-in-brand-led-seo/565018/\">How Visibility Compounds In Brand-Led SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-29T13:30:03+00:00",
+      "fetched": "2026-01-29T21:17:52.041234+00:00"
+    },
+    {
+      "id": "cb1a7eaa-6cb8-45e0-aef6-301b48939885",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "What The Latest Web Almanac Report Reveals About Bots, CMS Influence & llms.txt via @sejournal, @theshelleywalsh",
+      "link": "https://www.searchenginejournal.com/what-the-latest-web-almanac-report-reveals-about-bots-cms-influence-llms-txt/565958/",
+      "summary": "Explore what the latest web almanac reveals about bots and the unexpected trends shaping SEO with host Shelley Walsh and expert guest Chris Green.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-the-latest-web-almanac-report-reveals-about-bots-cms-influence-llms-txt/565958/\">What The Latest Web Almanac Report Reveals About Bots, CMS Influence &#038; llms.txt</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-29T13:00:42+00:00",
+      "fetched": "2026-01-29T21:17:52.041252+00:00"
+    },
+    {
+      "id": "b9663e35-4fbb-49d9-9812-0dfceb428093",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Chrome Updated With 3 AI Features Including Nano Banana via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/chrome-updated-with-3-ai-features-including-nano-banana/566134/",
+      "summary": "Chrome's new AI features enable it to go shopping, plan trips, edit images in a browser window, and answer questions from a new side panel.\n\nThe post <a href=\"https://www.searchenginejournal.com/chrome-updated-with-3-ai-features-including-nano-banana/566134/\">Chrome Updated With 3 AI Features Including Nano Banana</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-29T10:17:35+00:00",
+      "fetched": "2026-01-29T21:17:52.041272+00:00"
+    },
+    {
+      "id": "83cb64f8-3f10-43c3-be3d-b8ec5561ad40",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Way Your Agency Handles Leads Will Define Success in 2026 [Webinar] via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/the-way-your-agency-handles-leads/565772/",
+      "summary": "Master lead management in 2026 and uncover strategies to ensure leads do not go cold in your sales process.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-way-your-agency-handles-leads/565772/\">The Way Your Agency Handles Leads Will Define Success in 2026 [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-29T08:45:01+00:00",
+      "fetched": "2026-01-29T21:17:52.041287+00:00"
+    },
+    {
+      "id": "7500afe4-29ba-4697-a8fb-d66a61ff4a90",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Hidden SEO Cost Of A Slow WordPress Site & How It Affects AI Visibility via @sejournal, @wp_rocket",
+      "link": "https://www.searchenginejournal.com/slow-wordpress-ai-visibility-wpmedia-spa/565137/",
+      "summary": "Uncover the secrets of optimizing your WordPress site for speed and improve your SEO and AI visibility effortlessly.\n\nThe post <a href=\"https://www.searchenginejournal.com/slow-wordpress-ai-visibility-wpmedia-spa/565137/\">The Hidden SEO Cost Of A Slow WordPress Site &#038; How It Affects AI Visibility</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-29T06:00:01+00:00",
+      "fetched": "2026-01-29T21:17:52.041301+00:00"
+    },
+    {
       "id": "ca83656d-3f35-4bef-b617-24103d5794cf",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -153,73 +219,7 @@
       "summary": "Google's user intent extraction research shows how AI on mobile devices could be used to proactively assist users and automate tasks.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-new-user-intent-extraction-method/565840/\">Google&#8217;s New User Intent Extraction Method</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-01-26T10:51:40+00:00",
       "fetched": "2026-01-26T21:14:42.590187+00:00"
-    },
-    {
-      "id": "6083609c-3f40-4598-9ee8-3cceb38e80dc",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "10 Remarketing Lists To Boost PPC Performance via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/5-remarketing-lists-boost-ppc-ad-performance/175794/",
-      "summary": "Turn first-party data into measurable PPC gains using remarketing strategies built for real account management, not theory.\n\nThe post <a href=\"https://www.searchenginejournal.com/5-remarketing-lists-boost-ppc-ad-performance/175794/\">10 Remarketing Lists To Boost PPC Performance</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-26T03:00:12+00:00",
-      "fetched": "2026-01-26T21:14:42.590204+00:00"
-    },
-    {
-      "id": "1ebb4fa1-c5c2-4771-927a-1a07f28f7f89",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "User Data Is Important In Google Search, Per Liz Reid\u2019s DOJ Filing via @sejournal, @marie_haynes",
-      "link": "https://www.searchenginejournal.com/user-data-is-important-in-googles-ranking-systems-liz-reids-appeal-declaration/565707/",
-      "summary": "Marie Haynes analyzes DOJ trial documents that reveal how Google\u2019s proprietary freshness signals, spam annotations, and user data power its ranking systems.\n\nThe post <a href=\"https://www.searchenginejournal.com/user-data-is-important-in-googles-ranking-systems-liz-reids-appeal-declaration/565707/\">User Data Is Important In Google Search, Per Liz Reid&#8217;s DOJ Filing</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-23T15:00:37+00:00",
-      "fetched": "2026-01-23T21:12:26.050959+00:00"
-    },
-    {
-      "id": "20022b95-b1fc-4831-ac06-72d9b7e66994",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "SEO Pulse: Google\u2019s AI Mode Gets Personal, AI Bots Blocked, Domains Matter in Search via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-googles-ai-mode-gets-personal-ai-bots-blocked-domains-matter-in-search/565681/",
-      "summary": "This week\u2019s SEO Pulse breaks down how Gmail-powered AI answers, crawler access decisions, and free subdomains are shaping who gets surfaced in search.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-googles-ai-mode-gets-personal-ai-bots-blocked-domains-matter-in-search/565681/\">SEO Pulse: Google\u2019s AI Mode Gets Personal, AI Bots Blocked, Domains Matter in Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-23T14:30:35+00:00",
-      "fetched": "2026-01-23T21:12:26.050986+00:00"
-    },
-    {
-      "id": "dacc3728-02cd-4639-9d1f-08d34a14a00a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "PPC Pulse: Google\u2019s Podcast Launch, Demand Gen, ChatGPT Ads via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/ppc-pulse-googles-podcast-launch-demand-gen-chatgpt-ads/565685/",
-      "summary": "This week's PPC Pulse recaps OpenAI\u2019s first ad test inside ChatGPT, Google\u2019s new advertiser podcast, and expanded Demand Gen capabilities.\n\nThe post <a href=\"https://www.searchenginejournal.com/ppc-pulse-googles-podcast-launch-demand-gen-chatgpt-ads/565685/\">PPC Pulse: Google&#8217;s Podcast Launch, Demand Gen, ChatGPT Ads</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-23T14:07:10+00:00",
-      "fetched": "2026-01-23T21:12:26.051006+00:00"
-    },
-    {
-      "id": "bc3a5aa0-385b-49d3-bb8a-319e935bc12e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "45 Best Subreddits For Marketing & SEO Professionals via @sejournal, @theshelleywalsh",
-      "link": "https://www.searchenginejournal.com/45-best-subreddits-for-marketing-professionals/562484/",
-      "summary": "Key Reddit communities that professionals use to stay informed, ask smarter questions, and learn from peers across industries.\n\nThe post <a href=\"https://www.searchenginejournal.com/45-best-subreddits-for-marketing-professionals/562484/\">45 Best Subreddits For Marketing &#038; SEO Professionals</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-23T12:30:35+00:00",
-      "fetched": "2026-01-23T21:12:26.051028+00:00"
-    },
-    {
-      "id": "35f52f6e-2397-4d7c-b225-bd3d0eba776a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "BuddyPress WordPress Vulnerability May Impact Up To 100,000 Sites via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/buddypress-wordpress-vulnerability-may-impact-up-to-100000-sites/565749/",
-      "summary": "BuddyPress WordPress vulnerability enables unauthenticated attackers to execute arbitrary shortcodes\n\nThe post <a href=\"https://www.searchenginejournal.com/buddypress-wordpress-vulnerability-may-impact-up-to-100000-sites/565749/\">BuddyPress WordPress Vulnerability May Impact Up To 100,000 Sites</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-23T10:58:05+00:00",
-      "fetched": "2026-01-23T21:12:26.051062+00:00"
     }
   ],
-  "last_updated": "2026-01-28T21:20:41.892579+00:00"
+  "last_updated": "2026-01-29T21:17:53.193235+00:00"
 }
