@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": "57d7b9a5-87c3-488c-88fa-5aed72716edb",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "WordPress Announces AI Agent Skill For Speeding Up Development via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/wordpress-announces-ai-agent-skill-for-speeding-up-development/566253/",
+      "summary": "WordPress announced a new AI agent skill that enables a clear feedback loop for AI, speeding up building and experimenting with WordPress.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-announces-ai-agent-skill-for-speeding-up-development/566253/\">WordPress Announces AI Agent Skill For Speeding Up Development</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-01-31T12:17:26+00:00",
+      "fetched": "2026-01-31T21:12:08.084858+00:00"
+    },
+    {
       "id": "fdf61136-f90f-425d-abb2-f03dbe04992f",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -208,18 +219,7 @@
       "summary": "The rise of agentic commerce ends marketing-first SEO and forces brands to compete on data integrity and product truth.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-do-you-compete-in-agentic-commerce/565906/\">How Do You Compete In Agentic Commerce?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-01-27T14:30:22+00:00",
       "fetched": "2026-01-27T21:10:41.305445+00:00"
-    },
-    {
-      "id": "1987f7cd-6e4f-4889-b0c3-6c96600ed80b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Breaking Into The Black Box: Unlocking Meta\u2019s Product-Level Ad Data",
-      "link": "https://www.searchenginejournal.com/breaking-into-the-black-box-unlocking-metas-product-level-ad-data/561235/",
-      "summary": "Brands can uncover product-level DPA performance by merging Meta API data with GA4 insights to verify algorithm decisions and guide more efficient ecommerce campaigns.\n\nThe post <a href=\"https://www.searchenginejournal.com/breaking-into-the-black-box-unlocking-metas-product-level-ad-data/561235/\">Breaking Into The Black Box: Unlocking Meta&#8217;s Product-Level Ad Data</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-27T13:00:00+00:00",
-      "fetched": "2026-01-27T21:10:41.305465+00:00"
     }
   ],
-  "last_updated": "2026-01-30T21:18:53.691273+00:00"
+  "last_updated": "2026-01-31T21:12:08.794769+00:00"
 }
