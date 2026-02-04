@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "7a49439a-4fd5-4114-8751-8f39f690c3c1",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Mueller Calls Markdown-For-Bots Idea \u2018A Stupid Idea\u2019 via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/googles-mueller-calls-markdown-for-bots-idea-a-stupid-idea/566598/",
+      "summary": "Google Search Advocate John Mueller is pushing back on the idea of serving Markdown files to LLM crawlers.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-mueller-calls-markdown-for-bots-idea-a-stupid-idea/566598/\">Google&#8217;s Mueller Calls Markdown-For-Bots Idea &#8216;A Stupid Idea&#8217;</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-04T21:07:56+00:00",
+      "fetched": "2026-02-04T21:24:04.418142+00:00"
+    },
+    {
+      "id": "a80b8dc3-0604-4b92-81b2-5ececdaffadc",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Real SEO Skill No One Teaches: Problem Deduction via @sejournal, @billhunt",
+      "link": "https://www.searchenginejournal.com/the-real-seo-skill-no-one-teaches-problem-deduction/566071/",
+      "summary": "Bill Hunt shows how disciplined reasoning transforms SEO escalations into resolvable system behaviors rather than endless debates.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-real-seo-skill-no-one-teaches-problem-deduction/566071/\">The Real SEO Skill No One Teaches: Problem Deduction</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-04T14:30:10+00:00",
+      "fetched": "2026-02-04T21:24:04.418169+00:00"
+    },
+    {
+      "id": "520a9991-1936-47ce-84f7-e9073051cda2",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Information Retrieval Part 2: How To Get Into Model Training Data",
+      "link": "https://www.searchenginejournal.com/information-retrieval-part-2-how-to-get-into-model-training-data/566371/",
+      "summary": "Navigate the complexities of information retrieval and find out how to get into model training data for AI success.\n\nThe post <a href=\"https://www.searchenginejournal.com/information-retrieval-part-2-how-to-get-into-model-training-data/566371/\">Information Retrieval Part 2: How To Get Into Model Training Data</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-04T14:00:35+00:00",
+      "fetched": "2026-02-04T21:24:04.418188+00:00"
+    },
+    {
+      "id": "ce29d08d-bfd2-4658-8b22-f3a68e41971d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The PPC Skills That Won\u2019t Be Replaced By Automation",
+      "link": "https://www.searchenginejournal.com/the-ppc-skills-that-wont-be-replaced-by-automation/564175/",
+      "summary": "Top PPC specialists create outsized impact by combining paid media expertise with business strategy, profit modeling, and cross-channel insight.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-ppc-skills-that-wont-be-replaced-by-automation/564175/\">The PPC Skills That Won\u2019t Be Replaced By Automation</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-04T13:00:39+00:00",
+      "fetched": "2026-02-04T21:24:04.418211+00:00"
+    },
+    {
+      "id": "86397664-46a6-4a70-a59a-30be63157871",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Using AI For SEO Can Fail Without Real Data (& How Ahrefs Fixes It) via @sejournal, @ahrefs",
+      "link": "https://www.searchenginejournal.com/ai-for-seo-fails-without-data-ahrefs-spa/566077/",
+      "summary": "This post was sponsored by Ahrefs. The opinions expressed in this article are the sponsor\u2019s own. If you\u2019ve ever run into the limits of solo AI or manual SEO tools, this article is for you. AI on its own can write and suggest ideas, but without reliable data to anchor those suggestions, it can miss the mark. On the other hand, traditional SEO dashboards are powerful \u2013 yet slow and siloed. The emerging sweet spot? Connecting AI to real, live SEO data so you can ask natural language questions and g",
+      "published": "2026-02-04T06:00:14+00:00",
+      "fetched": "2026-02-04T21:24:04.418231+00:00"
+    },
+    {
       "id": "70fb69c3-066a-4007-bf09-63a8873c0c9b",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -164,62 +219,7 @@
       "summary": "This week\u2019s SEO Pulse covers potential opt-outs from AI search, deeper AI Overviews integration, and what model tradeoffs mean for content workflows.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-google-explores-ai-opt-outs-gemini-3-powers-aios/566180/\">SEO Pulse: Google Explores AI Opt-Outs, Gemini 3 Powers AIOs</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-01-30T14:00:20+00:00",
       "fetched": "2026-01-30T21:18:51.960274+00:00"
-    },
-    {
-      "id": "4e49a5e5-3063-43f5-ae1e-14682d86ab0d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "PPC Pulse: ChatGPT Ads CPMs, Ads Decoded Talks Analytics via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/ppc-pulse-chatgpt-ads-cpms-ads-decoded-talks-analytics/566190/",
-      "summary": "This week's PPC Pulse recaps early details on ChatGPT\u2019s premium ad pricing and key takeaways from the first Ads Decoded episode on Google Analytics.\n\nThe post <a href=\"https://www.searchenginejournal.com/ppc-pulse-chatgpt-ads-cpms-ads-decoded-talks-analytics/566190/\">PPC Pulse: ChatGPT Ads CPMs, Ads Decoded Talks Analytics</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-30T13:00:55+00:00",
-      "fetched": "2026-01-30T21:18:51.960296+00:00"
-    },
-    {
-      "id": "3010fc3a-6eee-44b7-b387-38e76ccaf27e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "4 Reasons Your Google Ads Clicks Are Down & What You Can Do via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/reasons-your-google-ads-clicks-are-down-what-you-can-do/561021/",
-      "summary": "Stop guessing when clicks fall and use a structured process to get Google Ads performance back on track.\n\nThe post <a href=\"https://www.searchenginejournal.com/reasons-your-google-ads-clicks-are-down-what-you-can-do/561021/\">4 Reasons Your Google Ads Clicks Are Down &#038; What You Can Do</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-30T12:00:05+00:00",
-      "fetched": "2026-01-30T21:18:51.960314+00:00"
-    },
-    {
-      "id": "fee38d8f-bbbe-44c6-ba46-74d7872893e4",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s SAGE Agentic AI Research: What It Means For SEO via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/googles-sage-agentic-ai-research-what-it-means-for-seo/566215/",
-      "summary": "New research paper about creating a dataset for training deep research AI agents (SAGE) also provides SEO insights for content.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-sage-agentic-ai-research-what-it-means-for-seo/566215/\">Google&#8217;s SAGE Agentic AI Research: What It Means For SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-30T11:00:41+00:00",
-      "fetched": "2026-01-30T21:18:51.960331+00:00"
-    },
-    {
-      "id": "e13260ef-ca8e-4f1e-ba35-b6b8839cbec5",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The New Content Failure Mode: People Love It, Models Ignore It via @sejournal, @DuaneForrester",
-      "link": "https://www.searchenginejournal.com/the-new-content-failure-mode-people-love-it-models-ignore-it/565944/",
-      "summary": "Identify the new content failure mode that reveals the utility gap, leading to unseen quality content on AI platforms.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-new-content-failure-mode-people-love-it-models-ignore-it/565944/\">The New Content Failure Mode: People Love It, Models Ignore It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-29T14:30:00+00:00",
-      "fetched": "2026-01-29T21:17:52.041211+00:00"
-    },
-    {
-      "id": "d414f66d-97b6-4ea0-8a91-6dfb868c1f1b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How Visibility Compounds In Brand-Led SEO via @sejournal, @TaylorDanRW",
-      "link": "https://www.searchenginejournal.com/how-visibility-compounds-in-brand-led-seo/565018/",
-      "summary": "Dan Taylor explains how compounding search visibility turns repeated exposure into familiarity, preference, and long-term resilience.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-visibility-compounds-in-brand-led-seo/565018/\">How Visibility Compounds In Brand-Led SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-29T13:30:03+00:00",
-      "fetched": "2026-01-29T21:17:52.041234+00:00"
     }
   ],
-  "last_updated": "2026-02-03T21:24:53.823223+00:00"
+  "last_updated": "2026-02-04T21:24:05.695734+00:00"
 }
