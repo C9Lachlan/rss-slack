@@ -1,6 +1,105 @@
 {
   "articles": [
     {
+      "id": "5532d9f6-758e-4ab4-92d4-561b1e90e014",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Shows How To Check Passage Indexing via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/how-check-if-entire-document-is-indexed/566661/",
+      "summary": "Google's John Mueller offered a simple solution to the question of whether a passage is indexed and is ready to rank.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-check-if-entire-document-is-indexed/566661/\">Google Shows How To Check Passage Indexing</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-05T20:57:22+00:00",
+      "fetched": "2026-02-05T21:19:43.884168+00:00"
+    },
+    {
+      "id": "82e7f09c-b133-47e9-b7c7-d5183ede25b9",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "What 1,000 Businesses Reveal About Growth in 2026 [Webinar] via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/what-businesses-reveal-about-growth/566414/",
+      "summary": "Join Jeff Hirz as he unveils key insights on growth and efficiency based on data from 1,000 businesses planning for 2026.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-businesses-reveal-about-growth/566414/\">What 1,000 Businesses Reveal About Growth in 2026 [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-05T20:15:17+00:00",
+      "fetched": "2026-02-05T21:19:43.884195+00:00"
+    },
+    {
+      "id": "cb03513a-c9f8-478b-be83-7ec4a32d72eb",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Releases Core Update Targeting Discover Feed via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-releases-discover-focused-core-update/566647/",
+      "summary": "Google has started a Discover core update. The rollout may take up to two weeks, with expansion to more countries and languages later.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-releases-discover-focused-core-update/566647/\">Google Releases Core Update Targeting Discover Feed</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-05T17:36:31+00:00",
+      "fetched": "2026-02-05T21:19:43.884214+00:00"
+    },
+    {
+      "id": "23f5dc16-bc57-4cb4-97cf-01468c730975",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Shift From Search Sessions To Decision Sessions via @sejournal, @DuaneForrester",
+      "link": "https://www.searchenginejournal.com/the-shift-from-search-sessions-to-decision-sessions/566291/",
+      "summary": "AI Mode personal search points to a future where decisions happen inside the answer layer, and this article explains how to prepare.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-shift-from-search-sessions-to-decision-sessions/566291/\">The Shift From Search Sessions To Decision Sessions</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-05T14:30:44+00:00",
+      "fetched": "2026-02-05T21:19:43.884237+00:00"
+    },
+    {
+      "id": "51e11a1c-8dd9-48a9-b1fe-d1888ab7f55b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Is Google Finally Cracking Down On Self-Promotional Listicles? via @sejournal, @lilyraynyc",
+      "link": "https://www.searchenginejournal.com/is-google-finally-cracking-down-on-self-promotional-listicles/566529/",
+      "summary": "An analysis of recent Google ranking volatility shows how self-serving listicles may be undermining trust, reviews quality signals, and long-term SEO performance.\n\nThe post <a href=\"https://www.searchenginejournal.com/is-google-finally-cracking-down-on-self-promotional-listicles/566529/\">Is Google Finally Cracking Down On Self-Promotional Listicles?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-05T14:00:40+00:00",
+      "fetched": "2026-02-05T21:19:43.884255+00:00"
+    },
+    {
+      "id": "491a5df6-5c8b-44c1-85bf-e332081fe1bd",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Is Your Internal Linking Helping Or Hurting Topical Authority? Ask An SEO via @sejournal, @HelenPollitt1",
+      "link": "https://www.searchenginejournal.com/is-your-internal-linking-helping-or-hurting-topical-authority-ask-an-seo/565745/",
+      "summary": "Learn how to evaluate internal linking structures to ensure they reinforce topical authority instead of weakening page relevance and intent.\n\nThe post <a href=\"https://www.searchenginejournal.com/is-your-internal-linking-helping-or-hurting-topical-authority-ask-an-seo/565745/\">Is Your Internal Linking Helping Or Hurting Topical Authority? Ask An SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-05T13:00:10+00:00",
+      "fetched": "2026-02-05T21:19:43.884272+00:00"
+    },
+    {
+      "id": "70a4eb33-e7d7-46ed-9d7f-bdf0fe8f789e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why Off-Page SEO Still Shapes Visibility In 2026 [Webinar] via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/why-off-page-seo-still-shapes-visibility/565916/",
+      "summary": "Explore off-page SEO strategies to boost your rankings and enhance brand visibility in AI-driven search results.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-off-page-seo-still-shapes-visibility/565916/\">Why Off-Page SEO Still Shapes Visibility In 2026 [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-05T08:45:51+00:00",
+      "fetched": "2026-02-05T21:19:43.884293+00:00"
+    },
+    {
+      "id": "5f3fe07e-7a3a-407b-a5a4-2e1dca7957f5",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Search Hits $63B, Details AI Mode Ad Tests via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-search-hits-63b-details-ai-mode-ad-tests/566613/",
+      "summary": "Google is testing ads in AI Mode as Search revenue grew 17% to $63 billion. AI Mode queries run 3x longer than traditional searches.  \n\nThe post <a href=\"https://www.searchenginejournal.com/google-search-hits-63b-details-ai-mode-ad-tests/566613/\">Google Search Hits $63B, Details AI Mode Ad Tests</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-05T02:42:08+00:00",
+      "fetched": "2026-02-05T21:19:43.884318+00:00"
+    },
+    {
+      "id": "fb2e6cd9-3f26-4948-a4a8-114e252bc1f7",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "5 Google Analytics Reports PPC Marketers Should Actually Use via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/google-analytics-reports-for-ppc-marketers/349088/",
+      "summary": "Five Google Analytics reports PPC marketers should use to improve targeting, justify spend, and understand how paid traffic supports conversions across the customer journey.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-analytics-reports-for-ppc-marketers/349088/\">5 Google Analytics Reports PPC Marketers Should Actually Use</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-05T01:45:21+00:00",
+      "fetched": "2026-02-05T21:19:43.884336+00:00"
+    },
+    {
       "id": "7a49439a-4fd5-4114-8751-8f39f690c3c1",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -120,106 +219,7 @@
       "summary": "LinkedIn tested what drives AI search visibility and shared results. Content structure, expert authorship, and timestamps showed the clearest impact.\n\nThe post <a href=\"https://www.searchenginejournal.com/linkedin-shares-what-works-for-ai-search-visibility/566385/\">LinkedIn Shares What Works For AI Search Visibility</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-02-02T15:56:28+00:00",
       "fetched": "2026-02-03T21:24:53.118655+00:00"
-    },
-    {
-      "id": "d9e896ed-0ddf-4aab-9811-648682bd5f0b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "YouTube CEO Reveals Your Video Marketing Strategy For 2026 via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/youtube-ceo-reveals-your-video-marketing-strategy-for-2026/565783/",
-      "summary": "YouTube's CEO Neal Mohan shares the platform's 2026 priorities, spanning creator-led entertainment, youth safety, diversified monetization, and responsible AI.\n\nThe post <a href=\"https://www.searchenginejournal.com/youtube-ceo-reveals-your-video-marketing-strategy-for-2026/565783/\">YouTube CEO Reveals Your Video Marketing Strategy For 2026</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-02T13:30:59+00:00",
-      "fetched": "2026-02-03T21:24:53.118671+00:00"
-    },
-    {
-      "id": "6175c23f-82eb-4763-b41a-30879ae5e20a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "15 Fixes To Improve Low Conversion Rates In Google Ads via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/15-fixes-to-improve-low-conversion-rates-in-google-ads/561023/",
-      "summary": "Get more value from your Google Ads spend by tightening fundamentals that directly lift conversion performance.\n\nThe post <a href=\"https://www.searchenginejournal.com/15-fixes-to-improve-low-conversion-rates-in-google-ads/561023/\">15 Fixes To Improve Low Conversion Rates In Google Ads</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-02T12:00:53+00:00",
-      "fetched": "2026-02-03T21:24:53.118695+00:00"
-    },
-    {
-      "id": "5e74df2a-0d3d-4245-a003-76c8bf201f5b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why Proposal To Label Sections Of AI Generated Content Is Controvesial via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/controversial-proposal-to-label-sections-of-ai-generated-content/566351/",
-      "summary": "A new proposal suggests using semantic HTML to label sections of a page that are AI generated to support EU compliance. \n\nThe post <a href=\"https://www.searchenginejournal.com/controversial-proposal-to-label-sections-of-ai-generated-content/566351/\">Why Proposal To Label Sections Of AI Generated Content Is Controvesial</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-02T10:37:39+00:00",
-      "fetched": "2026-02-03T21:24:53.118712+00:00"
-    },
-    {
-      "id": "05ad6c30-3706-488a-99f5-efd823bf4cf7",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Shows How To Get More Traffic From Top Stories Feature via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-shows-how-to-get-more-traffic-from-top-stories-feature/566329/",
-      "summary": "Google's new documentation shows how to get traffic from their Top Stories search feature.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-shows-how-to-get-more-traffic-from-top-stories-feature/566329/\">Google Shows How To Get More Traffic From Top Stories Feature</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-02T09:13:03+00:00",
-      "fetched": "2026-02-03T21:24:53.118728+00:00"
-    },
-    {
-      "id": "04a9b355-e1e8-4cc6-9736-69a584318c8b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "45 Best Subreddits For Marketing & SEO Professionals via @sejournal, @theshelleywalsh",
-      "link": "https://www.searchenginejournal.com/best-subreddits/480769/",
-      "summary": "Key Reddit communities that professionals use to stay informed, ask smarter questions, and learn from peers across industries.\n\nThe post <a href=\"https://www.searchenginejournal.com/best-subreddits/480769/\">45 Best Subreddits For Marketing &amp; SEO Professionals</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-01T23:30:36+00:00",
-      "fetched": "2026-02-03T21:24:53.118743+00:00"
-    },
-    {
-      "id": "57d7b9a5-87c3-488c-88fa-5aed72716edb",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "WordPress Announces AI Agent Skill For Speeding Up Development via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/wordpress-announces-ai-agent-skill-for-speeding-up-development/566253/",
-      "summary": "WordPress announced a new AI agent skill that enables a clear feedback loop for AI, speeding up building and experimenting with WordPress.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-announces-ai-agent-skill-for-speeding-up-development/566253/\">WordPress Announces AI Agent Skill For Speeding Up Development</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-31T12:17:26+00:00",
-      "fetched": "2026-01-31T21:12:08.084858+00:00"
-    },
-    {
-      "id": "fdf61136-f90f-425d-abb2-f03dbe04992f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Recommendations Change With Nearly Every Query: Sparktoro via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/ai-recommendations-change-with-nearly-every-query-sparktoro/566242/",
-      "summary": "SparkToro research finds AI tools produce different brand recommendation lists more than 99% of the time when given the same prompt. \n\nThe post <a href=\"https://www.searchenginejournal.com/ai-recommendations-change-with-nearly-every-query-sparktoro/566242/\">AI Recommendations Change With Nearly Every Query: Sparktoro</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-30T16:02:06+00:00",
-      "fetched": "2026-01-30T21:18:51.960226+00:00"
-    },
-    {
-      "id": "9be11600-e05f-493f-b0cd-c82aeaca6d46",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Analytics To Become A Growth Engine For Business via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/google-analytics-to-become-a-growth-engine-for-business/566144/",
-      "summary": "Google's Eleanor Stribling reveals GA4's roadmap: full-funnel measurement platform within a year, then evolving into an AI-powered business decision platform.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-analytics-to-become-a-growth-engine-for-business/566144/\">Google Analytics To Become A Growth Engine For Business</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-30T15:30:44+00:00",
-      "fetched": "2026-01-30T21:18:51.960253+00:00"
-    },
-    {
-      "id": "c35e9810-6b43-4cb9-bd85-14378d9f7e5e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "SEO Pulse: Google Explores AI Opt-Outs, Gemini 3 Powers AIOs via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-google-explores-ai-opt-outs-gemini-3-powers-aios/566180/",
-      "summary": "This week\u2019s SEO Pulse covers potential opt-outs from AI search, deeper AI Overviews integration, and what model tradeoffs mean for content workflows.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-google-explores-ai-opt-outs-gemini-3-powers-aios/566180/\">SEO Pulse: Google Explores AI Opt-Outs, Gemini 3 Powers AIOs</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-01-30T14:00:20+00:00",
-      "fetched": "2026-01-30T21:18:51.960274+00:00"
     }
   ],
-  "last_updated": "2026-02-04T21:24:05.695734+00:00"
+  "last_updated": "2026-02-05T21:19:44.803496+00:00"
 }
