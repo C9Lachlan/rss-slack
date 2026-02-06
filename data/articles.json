@@ -1,6 +1,39 @@
 {
   "articles": [
     {
+      "id": "d91d2cf0-284b-4040-b6ef-159444008a1b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Revises Discover Guidelines Alongside Core Update via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-revises-discover-guidelines-alongside-core-update/566748/",
+      "summary": "Google updated its \"Get on Discover\" docs, adding page experience guidance and naming clickbait and sensationalism, alongside the February Discover update.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-revises-discover-guidelines-alongside-core-update/566748/\">Google Revises Discover Guidelines Alongside Core Update</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-06T20:35:03+00:00",
+      "fetched": "2026-02-06T21:21:36.446734+00:00"
+    },
+    {
+      "id": "c010a0f4-0305-4e86-9148-b09a40b80a47",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Discover Core Update, AI Mode Ads & Crawl Policy \u2013 SEO Pulse via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/discover-core-update-ai-mode-ads-crawl-policy-seo-pulse/566659/",
+      "summary": "This week\u2019s SEO Pulse covers ranking volatility inside Discover, expanding AI ad inventory, and growing scrutiny of bot-facing content practices.\n\nThe post <a href=\"https://www.searchenginejournal.com/discover-core-update-ai-mode-ads-crawl-policy-seo-pulse/566659/\">Discover Core Update, AI Mode Ads &#038; Crawl Policy \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-06T12:58:09+00:00",
+      "fetched": "2026-02-06T21:21:36.446760+00:00"
+    },
+    {
+      "id": "d89a4c8e-0a15-42a5-99bf-19141df71973",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Microsoft\u2019s Publisher Marketplace, Google Tag Update & Multi-Party Approvals \u2013 PPC Pulse via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/ppc-pulse-microsofts-publisher-marketplace-google-tag/566641/",
+      "summary": "This week's PPC Pulse recaps Microsoft\u2019s push to rethink content compensation and Google\u2019s latest changes to tagging standards and account protections.\n\nThe post <a href=\"https://www.searchenginejournal.com/ppc-pulse-microsofts-publisher-marketplace-google-tag/566641/\">Microsoft&#8217;s Publisher Marketplace, Google Tag Update &#038; Multi-Party Approvals \u2013 PPC Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-06T12:30:38+00:00",
+      "fetched": "2026-02-06T21:21:36.446781+00:00"
+    },
+    {
       "id": "5532d9f6-758e-4ab4-92d4-561b1e90e014",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -186,40 +219,7 @@
       "summary": "New analysis shows Google Search Console hides roughly 75% of impressions, forcing SEO teams to rethink how they measure performance.\n\nThe post <a href=\"https://www.searchenginejournal.com/gsc-data-is-75-incomplete/566425/\">GSC Data Is 75% Incomplete</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-02-03T14:30:28+00:00",
       "fetched": "2026-02-03T21:24:53.118598+00:00"
-    },
-    {
-      "id": "c4e308c6-7960-4a7b-8507-3f062c8d93f1",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why SEO Roadmaps Break In January (And How To Build Ones That Survive The Year) via @sejournal, @cshel",
-      "link": "https://www.searchenginejournal.com/why-seo-roadmaps-break-and-how-to-build-ones-that-survive-the-year/565586/",
-      "summary": "SEO roadmaps age poorly. Search evolves faster than planning cycles, technical debt accumulates quietly, and AI shortens the distance between approval and obsolescence.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-seo-roadmaps-break-and-how-to-build-ones-that-survive-the-year/565586/\">Why SEO Roadmaps Break In January (And How To Build Ones That Survive The Year)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-03T12:45:14+00:00",
-      "fetched": "2026-02-03T21:24:53.118620+00:00"
-    },
-    {
-      "id": "1a4075b9-98ea-485b-a4cb-367c91c25a90",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "WordPress Publishes AI Guidelines To Combat AI Slop via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/wordpress-ai-guidelines/566442/",
-      "summary": "WordPress published AI guidelines with five principles designed to encourage responsible use of AI.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-ai-guidelines/566442/\">WordPress Publishes AI Guidelines To Combat AI Slop</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-03T10:26:58+00:00",
-      "fetched": "2026-02-03T21:24:53.118638+00:00"
-    },
-    {
-      "id": "76453073-6906-41d5-a5ce-fa96211cfb01",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "LinkedIn Shares What Works For AI Search Visibility via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/linkedin-shares-what-works-for-ai-search-visibility/566385/",
-      "summary": "LinkedIn tested what drives AI search visibility and shared results. Content structure, expert authorship, and timestamps showed the clearest impact.\n\nThe post <a href=\"https://www.searchenginejournal.com/linkedin-shares-what-works-for-ai-search-visibility/566385/\">LinkedIn Shares What Works For AI Search Visibility</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-02T15:56:28+00:00",
-      "fetched": "2026-02-03T21:24:53.118655+00:00"
     }
   ],
-  "last_updated": "2026-02-05T21:19:44.803496+00:00"
+  "last_updated": "2026-02-06T21:21:37.093795+00:00"
 }
