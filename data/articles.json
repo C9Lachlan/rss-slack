@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": "2f10f9d0-8eb2-4bdf-902b-80a92ae2b840",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "90 Days. 1 Plan. Improved Local Search Visibility [Webinar] via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/90-days-improved-local-search-visibility/566687/",
+      "summary": "Learn how to boost visibility for each location in your network. A practical 90 Day Plan can make your brand AI-ready.\n\nThe post <a href=\"https://www.searchenginejournal.com/90-days-improved-local-search-visibility/566687/\">90 Days. 1 Plan. Improved Local Search Visibility [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-06T22:17:23+00:00",
+      "fetched": "2026-02-07T21:16:46.095193+00:00"
+    },
+    {
       "id": "d91d2cf0-284b-4040-b6ef-159444008a1b",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -208,18 +219,7 @@
       "summary": "Google updated its Googlebot documentation to clarify file size limits, separating default limits that apply to all crawlers from Googlebot-specific details.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-updates-googlebot-file-size-limit-docs/566485/\">Google Updates Googlebot File Size Limit Docs</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-02-03T19:40:38+00:00",
       "fetched": "2026-02-03T21:24:53.118578+00:00"
-    },
-    {
-      "id": "7c676a91-267c-41a2-88f1-224671c63914",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "GSC Data Is 75% Incomplete via @sejournal, @Kevin_Indig",
-      "link": "https://www.searchenginejournal.com/gsc-data-is-75-incomplete/566425/",
-      "summary": "New analysis shows Google Search Console hides roughly 75% of impressions, forcing SEO teams to rethink how they measure performance.\n\nThe post <a href=\"https://www.searchenginejournal.com/gsc-data-is-75-incomplete/566425/\">GSC Data Is 75% Incomplete</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-03T14:30:28+00:00",
-      "fetched": "2026-02-03T21:24:53.118598+00:00"
     }
   ],
-  "last_updated": "2026-02-06T21:21:37.093795+00:00"
+  "last_updated": "2026-02-07T21:16:47.095723+00:00"
 }
