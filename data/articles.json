@@ -1,6 +1,50 @@
 {
   "articles": [
     {
+      "id": "a4c2ab68-fe01-41ed-9c47-99734e09aef8",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why Your SEO KPIs Are Failing Your Business (And How To Fix Them) via @sejournal, @bngsrc",
+      "link": "https://www.searchenginejournal.com/why-your-seo-kpis-are-failing-your-business-and-how-to-fix-them/564769/",
+      "summary": "Break the habit of reporting easy metrics and adopt KPIs that reflect how growth actually happens today.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-your-seo-kpis-are-failing-your-business-and-how-to-fix-them/564769/\">Why Your SEO KPIs Are Failing Your Business (And How To Fix Them)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-09T13:00:52+00:00",
+      "fetched": "2026-02-09T21:30:09.525734+00:00"
+    },
+    {
+      "id": "cd4d3201-06fe-454c-a687-b13ea19f52dd",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "PPC Budget Rebalancing: How AI Changes Where Marketing Budgets Are Spent via @sejournal, @LisaRocksSEM",
+      "link": "https://www.searchenginejournal.com/ppc-budget-rebalancing-how-ai-changes-where-marketing-budgets-are-spent/561884/",
+      "summary": "An AI-aligned approach to PPC budget strategy that moves spend toward conversion probability instead of traditional channel-based planning.\n\nThe post <a href=\"https://www.searchenginejournal.com/ppc-budget-rebalancing-how-ai-changes-where-marketing-budgets-are-spent/561884/\">PPC Budget Rebalancing: How AI Changes Where Marketing Budgets Are Spent</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-09T12:00:41+00:00",
+      "fetched": "2026-02-09T21:30:09.525760+00:00"
+    },
+    {
+      "id": "28896612-c6d1-4cd4-b29f-cd89abcdd4ab",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "7 Insights From Washington Post\u2019s Strategy To Win Back Traffic via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/7-insights-from-washington-posts-strategy-to-win-back-traffic/566758/",
+      "summary": "The Washington Post's controversial strategy begins with a foundation, then adjusts based on what works.\n\nThe post <a href=\"https://www.searchenginejournal.com/7-insights-from-washington-posts-strategy-to-win-back-traffic/566758/\">7 Insights From Washington Post&#8217;s Strategy To Win Back Traffic</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-09T09:54:51+00:00",
+      "fetched": "2026-02-09T21:30:09.525779+00:00"
+    },
+    {
+      "id": "fb2ac54d-c693-48d7-9ea8-c0c3a1c01676",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "4 Reasons Your Google Ads Clicks Are Down & What You Can Do via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/click-volume-decrease-solution/459726/",
+      "summary": "Stop guessing when clicks fall and use a structured process to get Google Ads performance back on track.\n\nThe post <a href=\"https://www.searchenginejournal.com/click-volume-decrease-solution/459726/\">4 Reasons Your Google Ads Clicks Are Down &amp; What You Can Do</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-09T03:00:59+00:00",
+      "fetched": "2026-02-09T21:30:09.525802+00:00"
+    },
+    {
       "id": "2f10f9d0-8eb2-4bdf-902b-80a92ae2b840",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -175,51 +219,7 @@
       "summary": "Navigate the complexities of information retrieval and find out how to get into model training data for AI success.\n\nThe post <a href=\"https://www.searchenginejournal.com/information-retrieval-part-2-how-to-get-into-model-training-data/566371/\">Information Retrieval Part 2: How To Get Into Model Training Data</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-02-04T14:00:35+00:00",
       "fetched": "2026-02-04T21:24:04.418188+00:00"
-    },
-    {
-      "id": "ce29d08d-bfd2-4658-8b22-f3a68e41971d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The PPC Skills That Won\u2019t Be Replaced By Automation",
-      "link": "https://www.searchenginejournal.com/the-ppc-skills-that-wont-be-replaced-by-automation/564175/",
-      "summary": "Top PPC specialists create outsized impact by combining paid media expertise with business strategy, profit modeling, and cross-channel insight.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-ppc-skills-that-wont-be-replaced-by-automation/564175/\">The PPC Skills That Won\u2019t Be Replaced By Automation</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-04T13:00:39+00:00",
-      "fetched": "2026-02-04T21:24:04.418211+00:00"
-    },
-    {
-      "id": "86397664-46a6-4a70-a59a-30be63157871",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Using AI For SEO Can Fail Without Real Data (& How Ahrefs Fixes It) via @sejournal, @ahrefs",
-      "link": "https://www.searchenginejournal.com/ai-for-seo-fails-without-data-ahrefs-spa/566077/",
-      "summary": "This post was sponsored by Ahrefs. The opinions expressed in this article are the sponsor\u2019s own. If you\u2019ve ever run into the limits of solo AI or manual SEO tools, this article is for you. AI on its own can write and suggest ideas, but without reliable data to anchor those suggestions, it can miss the mark. On the other hand, traditional SEO dashboards are powerful \u2013 yet slow and siloed. The emerging sweet spot? Connecting AI to real, live SEO data so you can ask natural language questions and g",
-      "published": "2026-02-04T06:00:14+00:00",
-      "fetched": "2026-02-04T21:24:04.418231+00:00"
-    },
-    {
-      "id": "70fb69c3-066a-4007-bf09-63a8873c0c9b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Crawl Team Filed Bugs Against WordPress Plugins via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/googles-crawl-team-filed-bugs-against-wordpress-plugins/566491/",
-      "summary": "Google's crawl team filed a bug against WooCommerce for add-to-cart parameters wasting crawl budget. WooCommerce fixed it. Other plugins haven't. \n\nThe post <a href=\"https://www.searchenginejournal.com/googles-crawl-team-filed-bugs-against-wordpress-plugins/566491/\">Google&#8217;s Crawl Team Filed Bugs Against WordPress Plugins</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-03T20:53:25+00:00",
-      "fetched": "2026-02-03T21:24:53.118531+00:00"
-    },
-    {
-      "id": "7c3efd6e-676c-40c0-b54f-3df7bd4c6a03",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Updates Googlebot File Size Limit Docs via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-updates-googlebot-file-size-limit-docs/566485/",
-      "summary": "Google updated its Googlebot documentation to clarify file size limits, separating default limits that apply to all crawlers from Googlebot-specific details.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-updates-googlebot-file-size-limit-docs/566485/\">Google Updates Googlebot File Size Limit Docs</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-03T19:40:38+00:00",
-      "fetched": "2026-02-03T21:24:53.118578+00:00"
     }
   ],
-  "last_updated": "2026-02-08T21:17:14.870167+00:00"
+  "last_updated": "2026-02-09T21:30:10.851826+00:00"
 }
