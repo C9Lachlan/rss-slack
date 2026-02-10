@@ -1,6 +1,83 @@
 {
   "articles": [
     {
+      "id": "90a4567c-c933-48b3-9b1b-981f3631a914",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Make 2026 The Year Your Business Thrives On Reddit  [Webinar] via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/make-2026-the-year-your-business-thrives-on-reddit-webinar/566936/",
+      "summary": "Yes, yes we all know customer behavior is changing and Reddit conversations showing up in AI search is a big part of that shift. What are you doing about it? If your Reddit marketing strategy hasn\u2019t evolved since 2024 (or you don\u2019t have one to start with), you\u2019re not just behind. You might be actively harming your brand. We\u2019re past the point of debating whether brands should be on Reddit. That part\u2019s settled. This session is about how to navigate Reddit the right way. And, we\u2019re going to show yo",
+      "published": "2026-02-10T19:59:19+00:00",
+      "fetched": "2026-02-10T21:34:06.285906+00:00"
+    },
+    {
+      "id": "6fd536eb-ab9a-43e1-9408-3d6acdae99af",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Synthetic Personas For Better Prompt Tracking via @sejournal, @Kevin_Indig",
+      "link": "https://www.searchenginejournal.com/synthetic-personas-for-better-prompt-tracking/566878/",
+      "summary": "New research shows synthetic personas can improve AI prompt tracking accuracy while cutting cost and research time dramatically.\n\nThe post <a href=\"https://www.searchenginejournal.com/synthetic-personas-for-better-prompt-tracking/566878/\">Synthetic Personas For Better Prompt Tracking</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-10T14:30:48+00:00",
+      "fetched": "2026-02-10T21:34:06.285934+00:00"
+    },
+    {
+      "id": "eaf1dd64-c526-4dcb-a26e-ae3100ab33b3",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Can Now Monitor Search For Your Government IDs via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-can-now-monitor-search-for-your-government-ids/566905/",
+      "summary": "Google's Results about you tool now monitors Search results for government-issued IDs like passports, driver's licenses, and Social Security numbers.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-can-now-monitor-search-for-your-government-ids/566905/\">Google Can Now Monitor Search For Your Government IDs</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-10T14:00:42+00:00",
+      "fetched": "2026-02-10T21:34:06.285953+00:00"
+    },
+    {
+      "id": "8ffd5a84-3e75-4eaf-bc2a-b31165ba77ae",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Should I Optimize My Content Differently For Each Platform? \u2013 Ask An SEO via @sejournal, @rollerblader",
+      "link": "https://www.searchenginejournal.com/ask-an-seo-should-i-optimize-my-content-differently-for-each-platform/562726/",
+      "summary": "This Ask an SEO explains how search, social platforms, and on-site content demand different optimization approaches without fragmenting strategy.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-an-seo-should-i-optimize-my-content-differently-for-each-platform/562726/\">Should I Optimize My Content Differently For Each Platform? \u2013 Ask An SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-10T13:30:30+00:00",
+      "fetched": "2026-02-10T21:34:06.285976+00:00"
+    },
+    {
+      "id": "fb41c505-1b3d-4316-8a60-13fca8ea9b6b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "New Data Shows Googlebot\u2019s 2 MB Crawl Limit Is Enough via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/new-data-shows-googlebots-2-mb-crawl-limit-is-enough/566881/",
+      "summary": "New data shows that most web pages fall well below Googlebot's two-megabyte crawl limit. \n\nThe post <a href=\"https://www.searchenginejournal.com/new-data-shows-googlebots-2-mb-crawl-limit-is-enough/566881/\">New Data Shows Googlebot&#8217;s 2 MB Crawl Limit Is Enough</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-10T09:41:30+00:00",
+      "fetched": "2026-02-10T21:34:06.285993+00:00"
+    },
+    {
+      "id": "4058760e-80c4-4b62-b64e-abe6cdbea930",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Bing Webmaster Tools Adds AI Citation Performance Data via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/bing-webmaster-tools-adds-ai-citation-performance-data/566874/",
+      "summary": "Bing Webmaster Tools now shows publishers how often their content is cited in Copilot and AI-generated answers, with page-level data and grounding queries.\n\nThe post <a href=\"https://www.searchenginejournal.com/bing-webmaster-tools-adds-ai-citation-performance-data/566874/\">Bing Webmaster Tools Adds AI Citation Performance Data</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-09T23:40:25+00:00",
+      "fetched": "2026-02-10T21:34:06.286015+00:00"
+    },
+    {
+      "id": "4b3e8377-248b-4a89-a6d3-0434b83ad7bc",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "OpenAI Begins Testing Ads In ChatGPT For Free And Go Users via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/openai-begins-testing-ads-in-chatgpt-for-free-and-go-users/566869/",
+      "summary": "OpenAI is testing ads in ChatGPT for free and Go tiers in the U.S. Ads appear below responses, labeled as sponsored. Paid tiers remain ad-free. \n\nThe post <a href=\"https://www.searchenginejournal.com/openai-begins-testing-ads-in-chatgpt-for-free-and-go-users/566869/\">OpenAI Begins Testing Ads In ChatGPT For Free And Go Users</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-09T21:36:24+00:00",
+      "fetched": "2026-02-10T21:34:06.286031+00:00"
+    },
+    {
       "id": "a4c2ab68-fe01-41ed-9c47-99734e09aef8",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -142,84 +219,7 @@
       "summary": "An analysis of recent Google ranking volatility shows how self-serving listicles may be undermining trust, reviews quality signals, and long-term SEO performance.\n\nThe post <a href=\"https://www.searchenginejournal.com/is-google-finally-cracking-down-on-self-promotional-listicles/566529/\">Is Google Finally Cracking Down On Self-Promotional Listicles?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-02-05T14:00:40+00:00",
       "fetched": "2026-02-05T21:19:43.884255+00:00"
-    },
-    {
-      "id": "491a5df6-5c8b-44c1-85bf-e332081fe1bd",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Is Your Internal Linking Helping Or Hurting Topical Authority? Ask An SEO via @sejournal, @HelenPollitt1",
-      "link": "https://www.searchenginejournal.com/is-your-internal-linking-helping-or-hurting-topical-authority-ask-an-seo/565745/",
-      "summary": "Learn how to evaluate internal linking structures to ensure they reinforce topical authority instead of weakening page relevance and intent.\n\nThe post <a href=\"https://www.searchenginejournal.com/is-your-internal-linking-helping-or-hurting-topical-authority-ask-an-seo/565745/\">Is Your Internal Linking Helping Or Hurting Topical Authority? Ask An SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-05T13:00:10+00:00",
-      "fetched": "2026-02-05T21:19:43.884272+00:00"
-    },
-    {
-      "id": "70a4eb33-e7d7-46ed-9d7f-bdf0fe8f789e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why Off-Page SEO Still Shapes Visibility In 2026 [Webinar] via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/why-off-page-seo-still-shapes-visibility/565916/",
-      "summary": "Explore off-page SEO strategies to boost your rankings and enhance brand visibility in AI-driven search results.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-off-page-seo-still-shapes-visibility/565916/\">Why Off-Page SEO Still Shapes Visibility In 2026 [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-05T08:45:51+00:00",
-      "fetched": "2026-02-05T21:19:43.884293+00:00"
-    },
-    {
-      "id": "5f3fe07e-7a3a-407b-a5a4-2e1dca7957f5",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Search Hits $63B, Details AI Mode Ad Tests via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-search-hits-63b-details-ai-mode-ad-tests/566613/",
-      "summary": "Google is testing ads in AI Mode as Search revenue grew 17% to $63 billion. AI Mode queries run 3x longer than traditional searches.  \n\nThe post <a href=\"https://www.searchenginejournal.com/google-search-hits-63b-details-ai-mode-ad-tests/566613/\">Google Search Hits $63B, Details AI Mode Ad Tests</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-05T02:42:08+00:00",
-      "fetched": "2026-02-05T21:19:43.884318+00:00"
-    },
-    {
-      "id": "fb2e6cd9-3f26-4948-a4a8-114e252bc1f7",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "5 Google Analytics Reports PPC Marketers Should Actually Use via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/google-analytics-reports-for-ppc-marketers/349088/",
-      "summary": "Five Google Analytics reports PPC marketers should use to improve targeting, justify spend, and understand how paid traffic supports conversions across the customer journey.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-analytics-reports-for-ppc-marketers/349088/\">5 Google Analytics Reports PPC Marketers Should Actually Use</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-05T01:45:21+00:00",
-      "fetched": "2026-02-05T21:19:43.884336+00:00"
-    },
-    {
-      "id": "7a49439a-4fd5-4114-8751-8f39f690c3c1",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Mueller Calls Markdown-For-Bots Idea \u2018A Stupid Idea\u2019 via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/googles-mueller-calls-markdown-for-bots-idea-a-stupid-idea/566598/",
-      "summary": "Google Search Advocate John Mueller is pushing back on the idea of serving Markdown files to LLM crawlers.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-mueller-calls-markdown-for-bots-idea-a-stupid-idea/566598/\">Google&#8217;s Mueller Calls Markdown-For-Bots Idea &#8216;A Stupid Idea&#8217;</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-04T21:07:56+00:00",
-      "fetched": "2026-02-04T21:24:04.418142+00:00"
-    },
-    {
-      "id": "a80b8dc3-0604-4b92-81b2-5ececdaffadc",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Real SEO Skill No One Teaches: Problem Deduction via @sejournal, @billhunt",
-      "link": "https://www.searchenginejournal.com/the-real-seo-skill-no-one-teaches-problem-deduction/566071/",
-      "summary": "Bill Hunt shows how disciplined reasoning transforms SEO escalations into resolvable system behaviors rather than endless debates.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-real-seo-skill-no-one-teaches-problem-deduction/566071/\">The Real SEO Skill No One Teaches: Problem Deduction</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-04T14:30:10+00:00",
-      "fetched": "2026-02-04T21:24:04.418169+00:00"
-    },
-    {
-      "id": "520a9991-1936-47ce-84f7-e9073051cda2",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Information Retrieval Part 2: How To Get Into Model Training Data",
-      "link": "https://www.searchenginejournal.com/information-retrieval-part-2-how-to-get-into-model-training-data/566371/",
-      "summary": "Navigate the complexities of information retrieval and find out how to get into model training data for AI success.\n\nThe post <a href=\"https://www.searchenginejournal.com/information-retrieval-part-2-how-to-get-into-model-training-data/566371/\">Information Retrieval Part 2: How To Get Into Model Training Data</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-04T14:00:35+00:00",
-      "fetched": "2026-02-04T21:24:04.418188+00:00"
     }
   ],
-  "last_updated": "2026-02-09T21:30:10.851826+00:00"
+  "last_updated": "2026-02-10T21:34:08.293717+00:00"
 }
