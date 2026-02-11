@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "6f83172f-c9f9-45ad-a56b-7901197f5eb7",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "What The Data Shows About Local Rankings In 2026 [Webinar] via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/what-the-data-shows-about-local-rankings/565920/",
+      "summary": "Enhance your understanding of local rankings with reputation signals. Join experts for a deep dive into local SEO strategies.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-the-data-shows-about-local-rankings/565920/\">What The Data Shows About Local Rankings In 2026 [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-11T20:30:27+00:00",
+      "fetched": "2026-02-11T21:25:43.514149+00:00"
+    },
+    {
+      "id": "b8820dca-9c2c-42ee-a2bc-dac5989d4e02",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Ads Chief Details UCP Expansion, New AI Mode Ads via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/googles-ads-chief-details-ucp-expansion-new-ai-mode-ads/567007/",
+      "summary": "Google's VP of Ads & Commerce published her annual letter previewing agentic commerce updates, AI Mode ad expansion, and creator-brand matching tools for 2026.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-ads-chief-details-ucp-expansion-new-ai-mode-ads/567007/\">Google&#8217;s Ads Chief Details UCP Expansion, New AI Mode Ads</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-11T16:00:03+00:00",
+      "fetched": "2026-02-11T21:25:43.514173+00:00"
+    },
+    {
+      "id": "4716929a-3d5b-4f1f-a0a4-404e932aa463",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Hidden HTTP Page Can Cause Site Name Problems In Google via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/hidden-http-page-can-cause-site-name-problems-in-google/567011/",
+      "summary": "Google's John Mueller explains how a leftover HTTP homepage invisible to Chrome users can cause site-name and favicon problems in search results. \n\nThe post <a href=\"https://www.searchenginejournal.com/hidden-http-page-can-cause-site-name-problems-in-google/567011/\">Hidden HTTP Page Can Cause Site Name Problems In Google</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-11T15:11:24+00:00",
+      "fetched": "2026-02-11T21:25:43.514189+00:00"
+    },
+    {
+      "id": "91821a93-e51c-4f82-b11b-a6708d08d70d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "From Article to Short-Form Video That Holds Attention via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/from-article-to-short-form-video-that-holds-attention/565238/",
+      "summary": "Effective article-to-video workflows prioritize what to cut, what to keep, and how to structure 150 words that actually hold attention.\n\nThe post <a href=\"https://www.searchenginejournal.com/from-article-to-short-form-video-that-holds-attention/565238/\">From Article to Short-Form Video That Holds Attention</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-11T14:45:48+00:00",
+      "fetched": "2026-02-11T21:25:43.514209+00:00"
+    },
+    {
+      "id": "531a59e2-3557-4271-bc55-526121a396db",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Halo Effect: Your Paid Media Went Offline, Can You Survive Without It? via @sejournal, @jonkagan",
+      "link": "https://www.searchenginejournal.com/the-halo-effect-your-paid-media-went-offline-can-you-survive-without-it/565464/",
+      "summary": "This paid media holdout study explains why organic gains mask deeper declines in traffic, orders, and brand-driven demand.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-halo-effect-your-paid-media-went-offline-can-you-survive-without-it/565464/\">The Halo Effect: Your Paid Media Went Offline, Can You Survive Without It?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-11T12:30:04+00:00",
+      "fetched": "2026-02-11T21:25:43.514225+00:00"
+    },
+    {
       "id": "90a4567c-c933-48b3-9b1b-981f3631a914",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -164,62 +219,7 @@
       "summary": "This week's PPC Pulse recaps Microsoft\u2019s push to rethink content compensation and Google\u2019s latest changes to tagging standards and account protections.\n\nThe post <a href=\"https://www.searchenginejournal.com/ppc-pulse-microsofts-publisher-marketplace-google-tag/566641/\">Microsoft&#8217;s Publisher Marketplace, Google Tag Update &#038; Multi-Party Approvals \u2013 PPC Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-02-06T12:30:38+00:00",
       "fetched": "2026-02-06T21:21:36.446781+00:00"
-    },
-    {
-      "id": "5532d9f6-758e-4ab4-92d4-561b1e90e014",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Shows How To Check Passage Indexing via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/how-check-if-entire-document-is-indexed/566661/",
-      "summary": "Google's John Mueller offered a simple solution to the question of whether a passage is indexed and is ready to rank.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-check-if-entire-document-is-indexed/566661/\">Google Shows How To Check Passage Indexing</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-05T20:57:22+00:00",
-      "fetched": "2026-02-05T21:19:43.884168+00:00"
-    },
-    {
-      "id": "82e7f09c-b133-47e9-b7c7-d5183ede25b9",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "What 1,000 Businesses Reveal About Growth in 2026 [Webinar] via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/what-businesses-reveal-about-growth/566414/",
-      "summary": "Join Jeff Hirz as he unveils key insights on growth and efficiency based on data from 1,000 businesses planning for 2026.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-businesses-reveal-about-growth/566414/\">What 1,000 Businesses Reveal About Growth in 2026 [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-05T20:15:17+00:00",
-      "fetched": "2026-02-05T21:19:43.884195+00:00"
-    },
-    {
-      "id": "cb03513a-c9f8-478b-be83-7ec4a32d72eb",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Releases Core Update Targeting Discover Feed via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-releases-discover-focused-core-update/566647/",
-      "summary": "Google has started a Discover core update. The rollout may take up to two weeks, with expansion to more countries and languages later.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-releases-discover-focused-core-update/566647/\">Google Releases Core Update Targeting Discover Feed</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-05T17:36:31+00:00",
-      "fetched": "2026-02-05T21:19:43.884214+00:00"
-    },
-    {
-      "id": "23f5dc16-bc57-4cb4-97cf-01468c730975",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Shift From Search Sessions To Decision Sessions via @sejournal, @DuaneForrester",
-      "link": "https://www.searchenginejournal.com/the-shift-from-search-sessions-to-decision-sessions/566291/",
-      "summary": "AI Mode personal search points to a future where decisions happen inside the answer layer, and this article explains how to prepare.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-shift-from-search-sessions-to-decision-sessions/566291/\">The Shift From Search Sessions To Decision Sessions</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-05T14:30:44+00:00",
-      "fetched": "2026-02-05T21:19:43.884237+00:00"
-    },
-    {
-      "id": "51e11a1c-8dd9-48a9-b1fe-d1888ab7f55b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Is Google Finally Cracking Down On Self-Promotional Listicles? via @sejournal, @lilyraynyc",
-      "link": "https://www.searchenginejournal.com/is-google-finally-cracking-down-on-self-promotional-listicles/566529/",
-      "summary": "An analysis of recent Google ranking volatility shows how self-serving listicles may be undermining trust, reviews quality signals, and long-term SEO performance.\n\nThe post <a href=\"https://www.searchenginejournal.com/is-google-finally-cracking-down-on-self-promotional-listicles/566529/\">Is Google Finally Cracking Down On Self-Promotional Listicles?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-05T14:00:40+00:00",
-      "fetched": "2026-02-05T21:19:43.884255+00:00"
     }
   ],
-  "last_updated": "2026-02-10T21:34:08.293717+00:00"
+  "last_updated": "2026-02-11T21:25:44.628856+00:00"
 }
