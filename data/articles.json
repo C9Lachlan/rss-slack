@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "a8fe4c37-f031-489a-bea3-f27e640dd880",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Clarifies Its Stance On Campaign Consolidation via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/google-clarifies-its-stance-on-campaign-consolidation/567295/",
+      "summary": "Google clarifies campaign consolidation guidance, saying performance and business logic matter more than legacy granularity in AI-driven Google Ads accounts.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-clarifies-its-stance-on-campaign-consolidation/567295/\">Google Clarifies Its Stance On Campaign Consolidation</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-12T15:46:20+00:00",
+      "fetched": "2026-02-12T21:24:35.160538+00:00"
+    },
+    {
+      "id": "96f0f260-9747-4fde-b40f-00bf84f67886",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Classifier Layer: Spam, Safety, Intent, Trust Stand Between You And The Answer via @sejournal, @DuaneForrester",
+      "link": "https://www.searchenginejournal.com/classifier-layer-spam-safety-intent-trust/566792/",
+      "summary": "Visibility in AI answers is gated long before ranking, and this article explains how Spam, Safety, Intent, and Trust decide who gets through.\n\nThe post <a href=\"https://www.searchenginejournal.com/classifier-layer-spam-safety-intent-trust/566792/\">The Classifier Layer: Spam, Safety, Intent, Trust Stand Between You And The Answer</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-12T14:30:25+00:00",
+      "fetched": "2026-02-12T21:24:35.160566+00:00"
+    },
+    {
+      "id": "5c624987-2c4d-4af8-b691-db3851189789",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "From Performance SEO To Demand SEO via @sejournal, @TaylorDanRW",
+      "link": "https://www.searchenginejournal.com/from-performance-seo-to-demand-seo/566743/",
+      "summary": "Rethink SEO\u2019s role as AI shifts discovery into the answer and reshapes how demand, trust, and preference are formed.\n\nThe post <a href=\"https://www.searchenginejournal.com/from-performance-seo-to-demand-seo/566743/\">From Performance SEO To Demand SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-12T13:30:24+00:00",
+      "fetched": "2026-02-12T21:24:35.160587+00:00"
+    },
+    {
+      "id": "1f19814f-3243-4d28-879e-91b6c4047a08",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "WP Engine Complaint Adds Unredacted Allegations About Mullenweg Plan via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/wp-engine-complaint-adds-unredacted-allegations-about-mullenweg-plan/567241/",
+      "summary": "WordPress co-founder and Automattic are alleged to have planned to target at least ten competitors beyond WP Engine.\n\nThe post <a href=\"https://www.searchenginejournal.com/wp-engine-complaint-adds-unredacted-allegations-about-mullenweg-plan/567241/\">WP Engine Complaint Adds Unredacted Allegations About Mullenweg Plan</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-12T09:28:58+00:00",
+      "fetched": "2026-02-12T21:24:35.160611+00:00"
+    },
+    {
+      "id": "7e85ae96-90f5-4e36-aaf5-a5ace767b240",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "15 Fixes To Improve Low Conversion Rates In Google Ads via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/increase-conversion-rate-google-ads/97917/",
+      "summary": "Get more value from your Google Ads spend by tightening fundamentals that directly lift conversion performance.\n\nThe post <a href=\"https://www.searchenginejournal.com/increase-conversion-rate-google-ads/97917/\">15 Fixes To Improve Low Conversion Rates In Google Ads</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-11T23:01:39+00:00",
+      "fetched": "2026-02-12T21:24:35.160629+00:00"
+    },
+    {
       "id": "6f83172f-c9f9-45ad-a56b-7901197f5eb7",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -164,62 +219,7 @@
       "summary": "The Washington Post's controversial strategy begins with a foundation, then adjusts based on what works.\n\nThe post <a href=\"https://www.searchenginejournal.com/7-insights-from-washington-posts-strategy-to-win-back-traffic/566758/\">7 Insights From Washington Post&#8217;s Strategy To Win Back Traffic</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-02-09T09:54:51+00:00",
       "fetched": "2026-02-09T21:30:09.525779+00:00"
-    },
-    {
-      "id": "fb2ac54d-c693-48d7-9ea8-c0c3a1c01676",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "4 Reasons Your Google Ads Clicks Are Down & What You Can Do via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/click-volume-decrease-solution/459726/",
-      "summary": "Stop guessing when clicks fall and use a structured process to get Google Ads performance back on track.\n\nThe post <a href=\"https://www.searchenginejournal.com/click-volume-decrease-solution/459726/\">4 Reasons Your Google Ads Clicks Are Down &amp; What You Can Do</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-09T03:00:59+00:00",
-      "fetched": "2026-02-09T21:30:09.525802+00:00"
-    },
-    {
-      "id": "2f10f9d0-8eb2-4bdf-902b-80a92ae2b840",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "90 Days. 1 Plan. Improved Local Search Visibility [Webinar] via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/90-days-improved-local-search-visibility/566687/",
-      "summary": "Learn how to boost visibility for each location in your network. A practical 90 Day Plan can make your brand AI-ready.\n\nThe post <a href=\"https://www.searchenginejournal.com/90-days-improved-local-search-visibility/566687/\">90 Days. 1 Plan. Improved Local Search Visibility [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-06T22:17:23+00:00",
-      "fetched": "2026-02-07T21:16:46.095193+00:00"
-    },
-    {
-      "id": "d91d2cf0-284b-4040-b6ef-159444008a1b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Revises Discover Guidelines Alongside Core Update via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-revises-discover-guidelines-alongside-core-update/566748/",
-      "summary": "Google updated its \"Get on Discover\" docs, adding page experience guidance and naming clickbait and sensationalism, alongside the February Discover update.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-revises-discover-guidelines-alongside-core-update/566748/\">Google Revises Discover Guidelines Alongside Core Update</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-06T20:35:03+00:00",
-      "fetched": "2026-02-06T21:21:36.446734+00:00"
-    },
-    {
-      "id": "c010a0f4-0305-4e86-9148-b09a40b80a47",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Discover Core Update, AI Mode Ads & Crawl Policy \u2013 SEO Pulse via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/discover-core-update-ai-mode-ads-crawl-policy-seo-pulse/566659/",
-      "summary": "This week\u2019s SEO Pulse covers ranking volatility inside Discover, expanding AI ad inventory, and growing scrutiny of bot-facing content practices.\n\nThe post <a href=\"https://www.searchenginejournal.com/discover-core-update-ai-mode-ads-crawl-policy-seo-pulse/566659/\">Discover Core Update, AI Mode Ads &#038; Crawl Policy \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-06T12:58:09+00:00",
-      "fetched": "2026-02-06T21:21:36.446760+00:00"
-    },
-    {
-      "id": "d89a4c8e-0a15-42a5-99bf-19141df71973",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Microsoft\u2019s Publisher Marketplace, Google Tag Update & Multi-Party Approvals \u2013 PPC Pulse via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/ppc-pulse-microsofts-publisher-marketplace-google-tag/566641/",
-      "summary": "This week's PPC Pulse recaps Microsoft\u2019s push to rethink content compensation and Google\u2019s latest changes to tagging standards and account protections.\n\nThe post <a href=\"https://www.searchenginejournal.com/ppc-pulse-microsofts-publisher-marketplace-google-tag/566641/\">Microsoft&#8217;s Publisher Marketplace, Google Tag Update &#038; Multi-Party Approvals \u2013 PPC Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-06T12:30:38+00:00",
-      "fetched": "2026-02-06T21:21:36.446781+00:00"
     }
   ],
-  "last_updated": "2026-02-11T21:25:44.628856+00:00"
+  "last_updated": "2026-02-12T21:24:36.038621+00:00"
 }
