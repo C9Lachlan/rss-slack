@@ -1,6 +1,72 @@
 {
   "articles": [
     {
+      "id": "cd75be5d-495e-45b2-963c-2b8f3f923d1e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Search Relations Team Debates If You Still Need A Website via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/googles-search-relations-team-debates-if-you-still-need-a-website/567390/",
+      "summary": "Google's Search Relations team discussed whether you still need a website in 2026, and outlined when social, apps, or the web make sense. \n\nThe post <a href=\"https://www.searchenginejournal.com/googles-search-relations-team-debates-if-you-still-need-a-website/567390/\">Google&#8217;s Search Relations Team Debates If You Still Need A Website</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-13T14:23:20+00:00",
+      "fetched": "2026-02-13T21:25:39.084129+00:00"
+    },
+    {
+      "id": "74481e0a-2984-4af5-a413-78d04f4db5b8",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Bing AI Citation Tracking, Hidden HTTP Homepages & Pages Fall Under Crawl Limit \u2013 SEO Pulse via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/seo-pulse-bing-ai-citation-tracking-hidden-http-homepages-pages-fall-under-crawl-limit/567300/",
+      "summary": "The latest SEO Pulse examines AI citation dashboards, invisible homepage pitfalls, and what new crawl data means for technical teams.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-bing-ai-citation-tracking-hidden-http-homepages-pages-fall-under-crawl-limit/567300/\">Bing AI Citation Tracking, Hidden HTTP Homepages &#038; Pages Fall Under Crawl Limit \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-13T13:30:25+00:00",
+      "fetched": "2026-02-13T21:25:39.084159+00:00"
+    },
+    {
+      "id": "5d9471c1-d3e0-4998-9d1d-d274644ceb4d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Cloudflare\u2019s New Markdown for AI Bots: What You Need To Know via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/cloudflares-new-markdown-for-ai-bots-what-you-need-to-know/567339/",
+      "summary": "Cloudflare launched Markdown for Agents, converting HTML pages to markdown automatically when AI crawlers request it through content negotiation. \n\nThe post <a href=\"https://www.searchenginejournal.com/cloudflares-new-markdown-for-ai-bots-what-you-need-to-know/567339/\">Cloudflare&#8217;s New Markdown for AI Bots: What You Need To Know</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-13T13:28:32+00:00",
+      "fetched": "2026-02-13T21:25:39.084179+00:00"
+    },
+    {
+      "id": "896198a4-149f-4e58-bcab-41c85103e912",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Shopping Ads Testing In AI Mode, Microsoft\u2019s AI Search Guide & Keyword Strategy Shift \u2013 PPC Pulse via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/ppc-pulse-shopping-ads-testing-in-ai-mode-microsofts-ai-search-guide-keyword-strategy-shift/567336/",
+      "summary": "The latest PPC Pulse highlights Google\u2019s AI Mode ad experiments, Microsoft\u2019s AI discovery framework, and the continued evolution of search campaign structure.\n\nThe post <a href=\"https://www.searchenginejournal.com/ppc-pulse-shopping-ads-testing-in-ai-mode-microsofts-ai-search-guide-keyword-strategy-shift/567336/\">Shopping Ads Testing In AI Mode, Microsoft&#8217;s AI Search Guide &#038; Keyword Strategy Shift &#8211; PPC Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Se",
+      "published": "2026-02-13T12:30:32+00:00",
+      "fetched": "2026-02-13T21:25:39.084204+00:00"
+    },
+    {
+      "id": "9320dd15-9010-4627-9612-fff4f5fc71aa",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "15 Smarter Interview Questions For Hiring Digital Marketers In 2026 via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/interview-questions-for-hiring-digital-marketers/561030/",
+      "summary": "Hire better digital marketers with these interview questions that expose real strategic and performance thinking.\n\nThe post <a href=\"https://www.searchenginejournal.com/interview-questions-for-hiring-digital-marketers/561030/\">15 Smarter Interview Questions For Hiring Digital Marketers In 2026</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-13T12:00:46+00:00",
+      "fetched": "2026-02-13T21:25:39.084223+00:00"
+    },
+    {
+      "id": "6a761d9c-d448-4149-ab2d-f318ff4f9149",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "5 PPC Strategies That Actually Boost Conversions in 2026 via @sejournal, @CallRail",
+      "link": "https://www.searchenginejournal.com/2026-ppc-improve-conversions-callrail-spcs/564281/",
+      "summary": "Maximize your online ads with 5 expert PPC tips that will help you drive more traffic from and increase conversions across your ad sets.\n\nThe post <a href=\"https://www.searchenginejournal.com/2026-ppc-improve-conversions-callrail-spcs/564281/\">5 PPC Strategies That Actually Boost Conversions in 2026</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-12T22:58:11+00:00",
+      "fetched": "2026-02-13T21:25:39.084240+00:00"
+    },
+    {
       "id": "a8fe4c37-f031-489a-bea3-f27e640dd880",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -153,73 +219,7 @@
       "summary": "This Ask an SEO explains how search, social platforms, and on-site content demand different optimization approaches without fragmenting strategy.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-an-seo-should-i-optimize-my-content-differently-for-each-platform/562726/\">Should I Optimize My Content Differently For Each Platform? \u2013 Ask An SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-02-10T13:30:30+00:00",
       "fetched": "2026-02-10T21:34:06.285976+00:00"
-    },
-    {
-      "id": "fb41c505-1b3d-4316-8a60-13fca8ea9b6b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "New Data Shows Googlebot\u2019s 2 MB Crawl Limit Is Enough via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/new-data-shows-googlebots-2-mb-crawl-limit-is-enough/566881/",
-      "summary": "New data shows that most web pages fall well below Googlebot's two-megabyte crawl limit. \n\nThe post <a href=\"https://www.searchenginejournal.com/new-data-shows-googlebots-2-mb-crawl-limit-is-enough/566881/\">New Data Shows Googlebot&#8217;s 2 MB Crawl Limit Is Enough</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-10T09:41:30+00:00",
-      "fetched": "2026-02-10T21:34:06.285993+00:00"
-    },
-    {
-      "id": "4058760e-80c4-4b62-b64e-abe6cdbea930",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Bing Webmaster Tools Adds AI Citation Performance Data via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/bing-webmaster-tools-adds-ai-citation-performance-data/566874/",
-      "summary": "Bing Webmaster Tools now shows publishers how often their content is cited in Copilot and AI-generated answers, with page-level data and grounding queries.\n\nThe post <a href=\"https://www.searchenginejournal.com/bing-webmaster-tools-adds-ai-citation-performance-data/566874/\">Bing Webmaster Tools Adds AI Citation Performance Data</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-09T23:40:25+00:00",
-      "fetched": "2026-02-10T21:34:06.286015+00:00"
-    },
-    {
-      "id": "4b3e8377-248b-4a89-a6d3-0434b83ad7bc",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "OpenAI Begins Testing Ads In ChatGPT For Free And Go Users via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/openai-begins-testing-ads-in-chatgpt-for-free-and-go-users/566869/",
-      "summary": "OpenAI is testing ads in ChatGPT for free and Go tiers in the U.S. Ads appear below responses, labeled as sponsored. Paid tiers remain ad-free. \n\nThe post <a href=\"https://www.searchenginejournal.com/openai-begins-testing-ads-in-chatgpt-for-free-and-go-users/566869/\">OpenAI Begins Testing Ads In ChatGPT For Free And Go Users</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-09T21:36:24+00:00",
-      "fetched": "2026-02-10T21:34:06.286031+00:00"
-    },
-    {
-      "id": "a4c2ab68-fe01-41ed-9c47-99734e09aef8",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why Your SEO KPIs Are Failing Your Business (And How To Fix Them) via @sejournal, @bngsrc",
-      "link": "https://www.searchenginejournal.com/why-your-seo-kpis-are-failing-your-business-and-how-to-fix-them/564769/",
-      "summary": "Break the habit of reporting easy metrics and adopt KPIs that reflect how growth actually happens today.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-your-seo-kpis-are-failing-your-business-and-how-to-fix-them/564769/\">Why Your SEO KPIs Are Failing Your Business (And How To Fix Them)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-09T13:00:52+00:00",
-      "fetched": "2026-02-09T21:30:09.525734+00:00"
-    },
-    {
-      "id": "cd4d3201-06fe-454c-a687-b13ea19f52dd",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "PPC Budget Rebalancing: How AI Changes Where Marketing Budgets Are Spent via @sejournal, @LisaRocksSEM",
-      "link": "https://www.searchenginejournal.com/ppc-budget-rebalancing-how-ai-changes-where-marketing-budgets-are-spent/561884/",
-      "summary": "An AI-aligned approach to PPC budget strategy that moves spend toward conversion probability instead of traditional channel-based planning.\n\nThe post <a href=\"https://www.searchenginejournal.com/ppc-budget-rebalancing-how-ai-changes-where-marketing-budgets-are-spent/561884/\">PPC Budget Rebalancing: How AI Changes Where Marketing Budgets Are Spent</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-09T12:00:41+00:00",
-      "fetched": "2026-02-09T21:30:09.525760+00:00"
-    },
-    {
-      "id": "28896612-c6d1-4cd4-b29f-cd89abcdd4ab",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "7 Insights From Washington Post\u2019s Strategy To Win Back Traffic via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/7-insights-from-washington-posts-strategy-to-win-back-traffic/566758/",
-      "summary": "The Washington Post's controversial strategy begins with a foundation, then adjusts based on what works.\n\nThe post <a href=\"https://www.searchenginejournal.com/7-insights-from-washington-posts-strategy-to-win-back-traffic/566758/\">7 Insights From Washington Post&#8217;s Strategy To Win Back Traffic</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-09T09:54:51+00:00",
-      "fetched": "2026-02-09T21:30:09.525779+00:00"
     }
   ],
-  "last_updated": "2026-02-12T21:24:36.038621+00:00"
+  "last_updated": "2026-02-13T21:25:39.659174+00:00"
 }
