@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "id": "6a78e738-5521-4cd8-bbe5-8c1d6cb4f295",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google SERPs In 2026: Changes, Features & How To Boost Your Organic Traffic via @sejournal, @lorenbaker",
+      "link": "https://www.searchenginejournal.com/what-google-serps-will-reward/564500/",
+      "summary": "Google\u2019s SERPs are changing faster than most SEO strategies can keep up. Does AI Mode change which keywords are still worth targeting? Which SERP features actually drive organic traffic in 2026? The expansion of AI Overviews into new keyword and intent queries, AI Mode\u2019s attempt to dominate the search experience, and ongoing experimentation with new SERP layouts have changed how users interact with search results. Get A Data-Backed View Of What Matters For 2026 SERPs In this on-demand webinar, T",
+      "published": "2026-02-14T15:30:18+00:00",
+      "fetched": "2026-02-14T21:14:55.845481+00:00"
+    },
+    {
+      "id": "708cfefd-a20f-4903-9ac9-d9e82abe35a7",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google AI Shows A Site Is Offline Due To JS Content Delivery via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-ai-and-technical-seo/567444/",
+      "summary": "A site owner blamed Google AI Search for falsely reporting their site offline. The answer was a content delivery pitfall.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ai-and-technical-seo/567444/\">Google AI Shows A Site Is Offline Due To JS Content Delivery</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-13T23:51:40+00:00",
+      "fetched": "2026-02-14T21:14:55.845508+00:00"
+    },
+    {
       "id": "cd75be5d-495e-45b2-963c-2b8f3f923d1e",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -197,29 +219,7 @@
       "summary": "New research shows synthetic personas can improve AI prompt tracking accuracy while cutting cost and research time dramatically.\n\nThe post <a href=\"https://www.searchenginejournal.com/synthetic-personas-for-better-prompt-tracking/566878/\">Synthetic Personas For Better Prompt Tracking</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-02-10T14:30:48+00:00",
       "fetched": "2026-02-10T21:34:06.285934+00:00"
-    },
-    {
-      "id": "eaf1dd64-c526-4dcb-a26e-ae3100ab33b3",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Can Now Monitor Search For Your Government IDs via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-can-now-monitor-search-for-your-government-ids/566905/",
-      "summary": "Google's Results about you tool now monitors Search results for government-issued IDs like passports, driver's licenses, and Social Security numbers.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-can-now-monitor-search-for-your-government-ids/566905/\">Google Can Now Monitor Search For Your Government IDs</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-10T14:00:42+00:00",
-      "fetched": "2026-02-10T21:34:06.285953+00:00"
-    },
-    {
-      "id": "8ffd5a84-3e75-4eaf-bc2a-b31165ba77ae",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Should I Optimize My Content Differently For Each Platform? \u2013 Ask An SEO via @sejournal, @rollerblader",
-      "link": "https://www.searchenginejournal.com/ask-an-seo-should-i-optimize-my-content-differently-for-each-platform/562726/",
-      "summary": "This Ask an SEO explains how search, social platforms, and on-site content demand different optimization approaches without fragmenting strategy.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-an-seo-should-i-optimize-my-content-differently-for-each-platform/562726/\">Should I Optimize My Content Differently For Each Platform? \u2013 Ask An SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-10T13:30:30+00:00",
-      "fetched": "2026-02-10T21:34:06.285976+00:00"
     }
   ],
-  "last_updated": "2026-02-13T21:25:39.659174+00:00"
+  "last_updated": "2026-02-14T21:14:56.953488+00:00"
 }
