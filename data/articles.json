@@ -1,6 +1,39 @@
 {
   "articles": [
     {
+      "id": "6054a274-8ee0-4c56-a0e2-6db6fc441ac9",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Are Your Google Ads Gen Z Proof? Strategies To Win The 18-24 Segment",
+      "link": "https://www.searchenginejournal.com/are-your-google-ads-gen-z-proof-strategies-to-win-the-18-24-segment/564699/",
+      "summary": "Gen Z\u2019s discovery habits are rewriting Google Ads playbooks, forcing advertisers to rethink creative, targeting, and attribution across AI-driven surfaces.\n\nThe post <a href=\"https://www.searchenginejournal.com/are-your-google-ads-gen-z-proof-strategies-to-win-the-18-24-segment/564699/\">Are Your Google Ads Gen Z Proof? Strategies To Win The 18-24 Segment</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-16T13:30:28+00:00",
+      "fetched": "2026-02-16T21:19:35.396476+00:00"
+    },
+    {
+      "id": "483892f5-4dcb-4c21-bb7c-8223c67dff46",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "International PPC: Why Consistency Is So Hard To Maintain via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/international-ppc-why-consistency-is-so-hard-to-maintain/561032/",
+      "summary": "Keep international PPC campaigns aligned with practical frameworks for consistency, localization, and multi-agency coordination.\n\nThe post <a href=\"https://www.searchenginejournal.com/international-ppc-why-consistency-is-so-hard-to-maintain/561032/\">International PPC: Why Consistency Is So Hard To Maintain</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-16T12:15:36+00:00",
+      "fetched": "2026-02-16T21:19:35.396504+00:00"
+    },
+    {
+      "id": "c50c6081-5c41-489b-b9f1-05785e24fd3a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Antitrust Filing Says Google Cannibalizes Publisher Traffic via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/antitrust-filing-says-google-cannibalizes-publisher-traffic/567535/",
+      "summary": "Antitrust filing argues Google cannibalizes audience visits to sites it uses to power AI results.\n\nThe post <a href=\"https://www.searchenginejournal.com/antitrust-filing-says-google-cannibalizes-publisher-traffic/567535/\">Antitrust Filing Says Google Cannibalizes Publisher Traffic</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-16T11:26:31+00:00",
+      "fetched": "2026-02-16T21:19:35.396523+00:00"
+    },
+    {
       "id": "6a78e738-5521-4cd8-bbe5-8c1d6cb4f295",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -186,40 +219,7 @@
       "summary": "Effective article-to-video workflows prioritize what to cut, what to keep, and how to structure 150 words that actually hold attention.\n\nThe post <a href=\"https://www.searchenginejournal.com/from-article-to-short-form-video-that-holds-attention/565238/\">From Article to Short-Form Video That Holds Attention</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-02-11T14:45:48+00:00",
       "fetched": "2026-02-11T21:25:43.514209+00:00"
-    },
-    {
-      "id": "531a59e2-3557-4271-bc55-526121a396db",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Halo Effect: Your Paid Media Went Offline, Can You Survive Without It? via @sejournal, @jonkagan",
-      "link": "https://www.searchenginejournal.com/the-halo-effect-your-paid-media-went-offline-can-you-survive-without-it/565464/",
-      "summary": "This paid media holdout study explains why organic gains mask deeper declines in traffic, orders, and brand-driven demand.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-halo-effect-your-paid-media-went-offline-can-you-survive-without-it/565464/\">The Halo Effect: Your Paid Media Went Offline, Can You Survive Without It?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-11T12:30:04+00:00",
-      "fetched": "2026-02-11T21:25:43.514225+00:00"
-    },
-    {
-      "id": "90a4567c-c933-48b3-9b1b-981f3631a914",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Make 2026 The Year Your Business Thrives On Reddit  [Webinar] via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/make-2026-the-year-your-business-thrives-on-reddit-webinar/566936/",
-      "summary": "Yes, yes we all know customer behavior is changing and Reddit conversations showing up in AI search is a big part of that shift. What are you doing about it? If your Reddit marketing strategy hasn\u2019t evolved since 2024 (or you don\u2019t have one to start with), you\u2019re not just behind. You might be actively harming your brand. We\u2019re past the point of debating whether brands should be on Reddit. That part\u2019s settled. This session is about how to navigate Reddit the right way. And, we\u2019re going to show yo",
-      "published": "2026-02-10T19:59:19+00:00",
-      "fetched": "2026-02-10T21:34:06.285906+00:00"
-    },
-    {
-      "id": "6fd536eb-ab9a-43e1-9408-3d6acdae99af",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Synthetic Personas For Better Prompt Tracking via @sejournal, @Kevin_Indig",
-      "link": "https://www.searchenginejournal.com/synthetic-personas-for-better-prompt-tracking/566878/",
-      "summary": "New research shows synthetic personas can improve AI prompt tracking accuracy while cutting cost and research time dramatically.\n\nThe post <a href=\"https://www.searchenginejournal.com/synthetic-personas-for-better-prompt-tracking/566878/\">Synthetic Personas For Better Prompt Tracking</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-10T14:30:48+00:00",
-      "fetched": "2026-02-10T21:34:06.285934+00:00"
     }
   ],
-  "last_updated": "2026-02-15T21:14:59.824476+00:00"
+  "last_updated": "2026-02-16T21:19:36.234383+00:00"
 }
