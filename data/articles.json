@@ -1,6 +1,72 @@
 {
   "articles": [
     {
+      "id": "e7ff0951-0825-4d53-8cc2-d1e4f6489730",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "4 Pillars To Turn Your \u201cSticky-Taped\u201d Tech Stack Into a Modern Publishing Engine",
+      "link": "https://www.searchenginejournal.com/modern-publishing-engine-wpengine-spa/565881/",
+      "summary": "Discover how a modern publishing engine can eliminate the issues of legacy CMS and drive sustainable growth for media companies.\n\nThe post <a href=\"https://www.searchenginejournal.com/modern-publishing-engine-wpengine-spa/565881/\">4 Pillars To Turn Your \u201cSticky-Taped\u201d Tech Stack Into a Modern Publishing Engine</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-17T19:52:53+00:00",
+      "fetched": "2026-02-17T21:25:30.137420+00:00"
+    },
+    {
+      "id": "5c7523cd-6422-4a3e-bb9b-330f058bb84a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Text Ad Click Share Rises Sharply In Some Verticals via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-text-ad-click-share-rises-sharply-in-some-verticals/567694/",
+      "summary": "An analysis of approximately 16,000 U.S. queries shows text ads increasing their click share by 7-13 points year over year. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-text-ad-click-share-rises-sharply-in-some-verticals/567694/\">Google Text Ad Click Share Rises Sharply In Some Verticals</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-17T14:53:24+00:00",
+      "fetched": "2026-02-17T21:25:30.137450+00:00"
+    },
+    {
+      "id": "d74559ed-4ee5-4f89-b181-a4a5e620a588",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Science Of How AI Pays Attention via @sejournal, @Kevin_Indig",
+      "link": "https://www.searchenginejournal.com/the-science-of-how-ai-pays-attention/567597/",
+      "summary": "An analysis of 1.2 million ChatGPT citations reveals why AI favors front-loaded, entity-rich, definitive writing over traditional \u201cultimate guide\u201d formats.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-science-of-how-ai-pays-attention/567597/\">The Science Of How AI Pays Attention</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-17T14:30:06+00:00",
+      "fetched": "2026-02-17T21:25:30.137471+00:00"
+    },
+    {
+      "id": "6a6ee554-0503-458a-bf2f-bfbcd21fe460",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Lost Two Antitrust Cases, But Stock Rose 65% \u2013 Here\u2019s Why via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-lost-two-antitrust-cases-but-stock-rose-65-heres-why/566461/",
+      "summary": "Courts ruled against Google, regulators push forward, and appeals loom. Here\u2019s where every proceeding stands and what it signals for search and monetization.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-lost-two-antitrust-cases-but-stock-rose-65-heres-why/566461/\">Google Lost Two Antitrust Cases, But Stock Rose 65% \u2013 Here&#8217;s Why</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-17T14:00:30+00:00",
+      "fetched": "2026-02-17T21:25:30.137495+00:00"
+    },
+    {
+      "id": "ffe25b53-366f-4856-a292-c1c0929e3d04",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "WooCommerce May Gain Sidekick-Type AI Through Extensions via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/woocommerce-may-gain-sidekick-type-ai-through-extensions/567642/",
+      "summary": "Automattic's James LePage describes emerging WooCommerce capabilities that will enable Sidekick-type AI extensions\n\nThe post <a href=\"https://www.searchenginejournal.com/woocommerce-may-gain-sidekick-type-ai-through-extensions/567642/\">WooCommerce May Gain Sidekick-Type AI Through Extensions</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-17T11:24:16+00:00",
+      "fetched": "2026-02-17T21:25:30.137513+00:00"
+    },
+    {
+      "id": "d99e37f8-3f03-45e0-a325-6d322cd08e7a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "CleanTalk WordPress Plugin Vulnerability Threatens Up To 200K Sites via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/cleantalk-wordpress-plugin-vulnerability/567586/",
+      "summary": "CleanTalk WordPress plugin, installed in 200,000+ websites, exposes sites to a critical vulnerability rated 9.8/10\n\nThe post <a href=\"https://www.searchenginejournal.com/cleantalk-wordpress-plugin-vulnerability/567586/\">CleanTalk WordPress Plugin Vulnerability Threatens Up To 200K Sites</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-16T22:33:02+00:00",
+      "fetched": "2026-02-17T21:25:30.137530+00:00"
+    },
+    {
       "id": "6054a274-8ee0-4c56-a0e2-6db6fc441ac9",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -153,73 +219,7 @@
       "summary": "Rethink SEO\u2019s role as AI shifts discovery into the answer and reshapes how demand, trust, and preference are formed.\n\nThe post <a href=\"https://www.searchenginejournal.com/from-performance-seo-to-demand-seo/566743/\">From Performance SEO To Demand SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-02-12T13:30:24+00:00",
       "fetched": "2026-02-12T21:24:35.160587+00:00"
-    },
-    {
-      "id": "1f19814f-3243-4d28-879e-91b6c4047a08",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "WP Engine Complaint Adds Unredacted Allegations About Mullenweg Plan via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/wp-engine-complaint-adds-unredacted-allegations-about-mullenweg-plan/567241/",
-      "summary": "WordPress co-founder and Automattic are alleged to have planned to target at least ten competitors beyond WP Engine.\n\nThe post <a href=\"https://www.searchenginejournal.com/wp-engine-complaint-adds-unredacted-allegations-about-mullenweg-plan/567241/\">WP Engine Complaint Adds Unredacted Allegations About Mullenweg Plan</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-12T09:28:58+00:00",
-      "fetched": "2026-02-12T21:24:35.160611+00:00"
-    },
-    {
-      "id": "7e85ae96-90f5-4e36-aaf5-a5ace767b240",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "15 Fixes To Improve Low Conversion Rates In Google Ads via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/increase-conversion-rate-google-ads/97917/",
-      "summary": "Get more value from your Google Ads spend by tightening fundamentals that directly lift conversion performance.\n\nThe post <a href=\"https://www.searchenginejournal.com/increase-conversion-rate-google-ads/97917/\">15 Fixes To Improve Low Conversion Rates In Google Ads</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-11T23:01:39+00:00",
-      "fetched": "2026-02-12T21:24:35.160629+00:00"
-    },
-    {
-      "id": "6f83172f-c9f9-45ad-a56b-7901197f5eb7",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "What The Data Shows About Local Rankings In 2026 [Webinar] via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/what-the-data-shows-about-local-rankings/565920/",
-      "summary": "Enhance your understanding of local rankings with reputation signals. Join experts for a deep dive into local SEO strategies.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-the-data-shows-about-local-rankings/565920/\">What The Data Shows About Local Rankings In 2026 [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-11T20:30:27+00:00",
-      "fetched": "2026-02-11T21:25:43.514149+00:00"
-    },
-    {
-      "id": "b8820dca-9c2c-42ee-a2bc-dac5989d4e02",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Ads Chief Details UCP Expansion, New AI Mode Ads via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/googles-ads-chief-details-ucp-expansion-new-ai-mode-ads/567007/",
-      "summary": "Google's VP of Ads & Commerce published her annual letter previewing agentic commerce updates, AI Mode ad expansion, and creator-brand matching tools for 2026.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-ads-chief-details-ucp-expansion-new-ai-mode-ads/567007/\">Google&#8217;s Ads Chief Details UCP Expansion, New AI Mode Ads</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-11T16:00:03+00:00",
-      "fetched": "2026-02-11T21:25:43.514173+00:00"
-    },
-    {
-      "id": "4716929a-3d5b-4f1f-a0a4-404e932aa463",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Hidden HTTP Page Can Cause Site Name Problems In Google via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/hidden-http-page-can-cause-site-name-problems-in-google/567011/",
-      "summary": "Google's John Mueller explains how a leftover HTTP homepage invisible to Chrome users can cause site-name and favicon problems in search results. \n\nThe post <a href=\"https://www.searchenginejournal.com/hidden-http-page-can-cause-site-name-problems-in-google/567011/\">Hidden HTTP Page Can Cause Site Name Problems In Google</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-11T15:11:24+00:00",
-      "fetched": "2026-02-11T21:25:43.514189+00:00"
-    },
-    {
-      "id": "91821a93-e51c-4f82-b11b-a6708d08d70d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "From Article to Short-Form Video That Holds Attention via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/from-article-to-short-form-video-that-holds-attention/565238/",
-      "summary": "Effective article-to-video workflows prioritize what to cut, what to keep, and how to structure 150 words that actually hold attention.\n\nThe post <a href=\"https://www.searchenginejournal.com/from-article-to-short-form-video-that-holds-attention/565238/\">From Article to Short-Form Video That Holds Attention</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-11T14:45:48+00:00",
-      "fetched": "2026-02-11T21:25:43.514209+00:00"
     }
   ],
-  "last_updated": "2026-02-16T21:19:36.234383+00:00"
+  "last_updated": "2026-02-17T21:25:31.481966+00:00"
 }
