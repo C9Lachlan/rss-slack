@@ -1,6 +1,83 @@
 {
   "articles": [
     {
+      "id": "aa54d8f2-c986-4f16-968e-6e27ad70e410",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why Google Runs AI Mode On Flash, Explained By Google\u2019s Chief Scientist via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/why-google-runs-ai-mode-on-flash-explained-by-googles-chief-scientist/567807/",
+      "summary": "Google's Jeff Dean explains why latency and cost make Flash Google's production tier for AI search, and why models are built to retrieve, not memorize.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-google-runs-ai-mode-on-flash-explained-by-googles-chief-scientist/567807/\">Why Google Runs AI Mode On Flash, Explained By Google\u2019s Chief Scientist</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-18T20:55:16+00:00",
+      "fetched": "2026-02-18T21:26:56.279862+00:00"
+    },
+    {
+      "id": "8707624f-4be2-4117-bf75-182f1c1dfd96",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Are Citations In AI Search Affected By Google Organic Visibility Changes? via @sejournal, @lilyraynyc",
+      "link": "https://www.searchenginejournal.com/are-citations-in-ai-search-affected-by-google-organic-visibility-changes/567736/",
+      "summary": "An analysis of 11 impacted sites reveals a strong correlation between Google visibility losses and declining AI search citations, with ChatGPT hit hardest.\n\nThe post <a href=\"https://www.searchenginejournal.com/are-citations-in-ai-search-affected-by-google-organic-visibility-changes/567736/\">Are Citations In AI Search Affected By Google Organic Visibility Changes?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-18T14:30:09+00:00",
+      "fetched": "2026-02-18T21:26:56.279891+00:00"
+    },
+    {
+      "id": "f605f264-b8a4-4e58-9a5f-b6b299020227",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "A First Look at 2026: Leveraging AI to Boost Lead Handling and Drive Better Results via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/the-way-your-agency-handles-leads/565772/",
+      "summary": "Master lead management in 2026 and uncover strategies to ensure leads do not go cold in your sales process.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-way-your-agency-handles-leads/565772/\">A First Look at 2026: Leveraging AI to Boost Lead Handling and Drive Better Results</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-18T13:45:01+00:00",
+      "fetched": "2026-02-18T21:26:56.279911+00:00"
+    },
+    {
+      "id": "bcc6f8c0-71d9-46cf-a140-c1b207a39a22",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Enterprise SEO Operating Models That Scale In 2026 And Beyond via @sejournal, @billhunt",
+      "link": "https://www.searchenginejournal.com/enterprise-seo-operating-models-that-scale-in-2026-and-beyond/566073/",
+      "summary": "Move SEO upstream into leadership decisions to safeguard visibility, enforce standards, and scale sustainable search performance.\n\nThe post <a href=\"https://www.searchenginejournal.com/enterprise-seo-operating-models-that-scale-in-2026-and-beyond/566073/\">Enterprise SEO Operating Models That Scale In 2026 And Beyond</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-18T12:45:56+00:00",
+      "fetched": "2026-02-18T21:26:56.279933+00:00"
+    },
+    {
+      "id": "e4c4d15d-051f-4782-9b1c-1d959ec83e57",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Set Up AI Prompt Tracking You Can Trust [Webinar] via @sejournal, @lorenbaker",
+      "link": "https://www.searchenginejournal.com/how-to-set-up-ai-prompt-tracking-you-can-trust/567524/",
+      "summary": "Explore the essentials of AI prompt tracking. Discover strategies to improve your visibility in AI search engines and analytics.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-set-up-ai-prompt-tracking-you-can-trust/567524/\">How To Set Up AI Prompt Tracking You Can Trust [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-18T08:45:45+00:00",
+      "fetched": "2026-02-18T21:26:56.279951+00:00"
+    },
+    {
+      "id": "56c770a7-8360-4ea1-a487-30ba3663ab33",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "5 Ways Emerging Businesses Can Show up in ChatGPT, Gemini & Perplexity via @sejournal, @nofluffmktg",
+      "link": "https://www.searchenginejournal.com/new-business-chatgpt-visibility-nofluff-spa/567226/",
+      "summary": "AI models default to familiar brands. What makes them mention your company instead of a bigger or more established competitor?\n\nThe post <a href=\"https://www.searchenginejournal.com/new-business-chatgpt-visibility-nofluff-spa/567226/\">5 Ways Emerging Businesses Can Show up in ChatGPT, Gemini &#038; Perplexity</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-18T06:00:11+00:00",
+      "fetched": "2026-02-18T21:26:56.279975+00:00"
+    },
+    {
+      "id": "eea5b792-7591-4c18-a8a7-829a3dab8e88",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Says Links Will Be More Visible In AI Overviews via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-says-links-will-be-more-visible-in-ai-overviews/567719/",
+      "summary": "Google is adding hover link pop-ups on desktop in AI Overviews and AI Mode, plus more prominent link icons within responses across desktop and mobile.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-says-links-will-be-more-visible-in-ai-overviews/567719/\">Google Says Links Will Be More Visible In AI Overviews</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-17T22:27:00+00:00",
+      "fetched": "2026-02-18T21:26:56.279995+00:00"
+    },
+    {
       "id": "e7ff0951-0825-4d53-8cc2-d1e4f6489730",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -142,84 +219,7 @@
       "summary": "The latest SEO Pulse examines AI citation dashboards, invisible homepage pitfalls, and what new crawl data means for technical teams.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-bing-ai-citation-tracking-hidden-http-homepages-pages-fall-under-crawl-limit/567300/\">Bing AI Citation Tracking, Hidden HTTP Homepages &#038; Pages Fall Under Crawl Limit \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-02-13T13:30:25+00:00",
       "fetched": "2026-02-13T21:25:39.084159+00:00"
-    },
-    {
-      "id": "5d9471c1-d3e0-4998-9d1d-d274644ceb4d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Cloudflare\u2019s New Markdown for AI Bots: What You Need To Know via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/cloudflares-new-markdown-for-ai-bots-what-you-need-to-know/567339/",
-      "summary": "Cloudflare launched Markdown for Agents, converting HTML pages to markdown automatically when AI crawlers request it through content negotiation. \n\nThe post <a href=\"https://www.searchenginejournal.com/cloudflares-new-markdown-for-ai-bots-what-you-need-to-know/567339/\">Cloudflare&#8217;s New Markdown for AI Bots: What You Need To Know</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-13T13:28:32+00:00",
-      "fetched": "2026-02-13T21:25:39.084179+00:00"
-    },
-    {
-      "id": "896198a4-149f-4e58-bcab-41c85103e912",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Shopping Ads Testing In AI Mode, Microsoft\u2019s AI Search Guide & Keyword Strategy Shift \u2013 PPC Pulse via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/ppc-pulse-shopping-ads-testing-in-ai-mode-microsofts-ai-search-guide-keyword-strategy-shift/567336/",
-      "summary": "The latest PPC Pulse highlights Google\u2019s AI Mode ad experiments, Microsoft\u2019s AI discovery framework, and the continued evolution of search campaign structure.\n\nThe post <a href=\"https://www.searchenginejournal.com/ppc-pulse-shopping-ads-testing-in-ai-mode-microsofts-ai-search-guide-keyword-strategy-shift/567336/\">Shopping Ads Testing In AI Mode, Microsoft&#8217;s AI Search Guide &#038; Keyword Strategy Shift &#8211; PPC Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Se",
-      "published": "2026-02-13T12:30:32+00:00",
-      "fetched": "2026-02-13T21:25:39.084204+00:00"
-    },
-    {
-      "id": "9320dd15-9010-4627-9612-fff4f5fc71aa",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "15 Smarter Interview Questions For Hiring Digital Marketers In 2026 via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/interview-questions-for-hiring-digital-marketers/561030/",
-      "summary": "Hire better digital marketers with these interview questions that expose real strategic and performance thinking.\n\nThe post <a href=\"https://www.searchenginejournal.com/interview-questions-for-hiring-digital-marketers/561030/\">15 Smarter Interview Questions For Hiring Digital Marketers In 2026</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-13T12:00:46+00:00",
-      "fetched": "2026-02-13T21:25:39.084223+00:00"
-    },
-    {
-      "id": "6a761d9c-d448-4149-ab2d-f318ff4f9149",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "5 PPC Strategies That Actually Boost Conversions in 2026 via @sejournal, @CallRail",
-      "link": "https://www.searchenginejournal.com/2026-ppc-improve-conversions-callrail-spcs/564281/",
-      "summary": "Maximize your online ads with 5 expert PPC tips that will help you drive more traffic from and increase conversions across your ad sets.\n\nThe post <a href=\"https://www.searchenginejournal.com/2026-ppc-improve-conversions-callrail-spcs/564281/\">5 PPC Strategies That Actually Boost Conversions in 2026</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-12T22:58:11+00:00",
-      "fetched": "2026-02-13T21:25:39.084240+00:00"
-    },
-    {
-      "id": "a8fe4c37-f031-489a-bea3-f27e640dd880",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Clarifies Its Stance On Campaign Consolidation via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/google-clarifies-its-stance-on-campaign-consolidation/567295/",
-      "summary": "Google clarifies campaign consolidation guidance, saying performance and business logic matter more than legacy granularity in AI-driven Google Ads accounts.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-clarifies-its-stance-on-campaign-consolidation/567295/\">Google Clarifies Its Stance On Campaign Consolidation</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-12T15:46:20+00:00",
-      "fetched": "2026-02-12T21:24:35.160538+00:00"
-    },
-    {
-      "id": "96f0f260-9747-4fde-b40f-00bf84f67886",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Classifier Layer: Spam, Safety, Intent, Trust Stand Between You And The Answer via @sejournal, @DuaneForrester",
-      "link": "https://www.searchenginejournal.com/classifier-layer-spam-safety-intent-trust/566792/",
-      "summary": "Visibility in AI answers is gated long before ranking, and this article explains how Spam, Safety, Intent, and Trust decide who gets through.\n\nThe post <a href=\"https://www.searchenginejournal.com/classifier-layer-spam-safety-intent-trust/566792/\">The Classifier Layer: Spam, Safety, Intent, Trust Stand Between You And The Answer</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-12T14:30:25+00:00",
-      "fetched": "2026-02-12T21:24:35.160566+00:00"
-    },
-    {
-      "id": "5c624987-2c4d-4af8-b691-db3851189789",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "From Performance SEO To Demand SEO via @sejournal, @TaylorDanRW",
-      "link": "https://www.searchenginejournal.com/from-performance-seo-to-demand-seo/566743/",
-      "summary": "Rethink SEO\u2019s role as AI shifts discovery into the answer and reshapes how demand, trust, and preference are formed.\n\nThe post <a href=\"https://www.searchenginejournal.com/from-performance-seo-to-demand-seo/566743/\">From Performance SEO To Demand SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-12T13:30:24+00:00",
-      "fetched": "2026-02-12T21:24:35.160587+00:00"
     }
   ],
-  "last_updated": "2026-02-17T21:25:31.481966+00:00"
+  "last_updated": "2026-02-18T21:26:57.471999+00:00"
 }
