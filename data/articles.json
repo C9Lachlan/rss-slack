@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "2c0094ac-f56d-45ae-ba6e-149acc24e642",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Offers AI Certificate Free For Eligible U.S. Small Businesses via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-offers-ai-certificate-free-for-eligible-u-s-small-businesses/567854/",
+      "summary": "Google launched an AI Professional Certificate with seven self-paced modules and three months of AI Pro access. Eligible U.S. small businesses can enroll free.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-offers-ai-certificate-free-for-eligible-u-s-small-businesses/567854/\">Google Offers AI Certificate Free For Eligible U.S. Small Businesses</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-19T19:33:37+00:00",
+      "fetched": "2026-02-19T21:22:58.714864+00:00"
+    },
+    {
+      "id": "073b98ea-b980-4896-ada8-f0decdc6eca1",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why AI Misreads The Middle Of Your Best Pages via @sejournal, @DuaneForrester",
+      "link": "https://www.searchenginejournal.com/why-ai-misreads-the-middle-of-your-best-pages/567486/",
+      "summary": "Long-form content doesn\u2019t fail because it\u2019s weak. It fails because LLMs lose the middle. This article explains how to engineer it to survive.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-ai-misreads-the-middle-of-your-best-pages/567486/\">Why AI Misreads The Middle Of Your Best Pages</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-19T14:30:26+00:00",
+      "fetched": "2026-02-19T21:22:58.714889+00:00"
+    },
+    {
+      "id": "fe099892-7e38-4025-8149-1c4ac02da8cc",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "35-Year SEO Veteran: Great SEO Is Good GEO \u2014 But Not Everyone\u2019s Been Doing Great SEO via @sejournal, @theshelleywalsh",
+      "link": "https://www.searchenginejournal.com/great-seo-is-good-geo-but-not-everyones-been-doing-great-seo/567628/",
+      "summary": "Dive into the discussions around SEO adaptations and LLM impact on the industry with host Shelley Walsh and industry veteran Grant Simmons.\n\nThe post <a href=\"https://www.searchenginejournal.com/great-seo-is-good-geo-but-not-everyones-been-doing-great-seo/567628/\">35-Year SEO Veteran: Great SEO Is Good GEO \u2014 But Not Everyone&#8217;s Been Doing Great SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-19T14:00:15+00:00",
+      "fetched": "2026-02-19T21:22:58.714907+00:00"
+    },
+    {
+      "id": "3a661248-bd43-4646-addb-bd36a27f65d7",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why Do Budgets Overspend Even With A Target ROAS or CPA?  \u2013 Ask A PPC via @sejournal, @navahf",
+      "link": "https://www.searchenginejournal.com/ask-a-ppc-why-do-budgets-overspend-even-with-a-target-roas-in-place/565603/",
+      "summary": "This week's Ask a PPC explains why goal-based bidding can overspend budgets and how ROAS, CPA, and pacing actually behave inside ad auctions.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-a-ppc-why-do-budgets-overspend-even-with-a-target-roas-in-place/565603/\">Why Do Budgets Overspend Even With A Target ROAS or CPA?  \u2013 Ask A PPC</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-19T13:00:08+00:00",
+      "fetched": "2026-02-19T21:22:58.714927+00:00"
+    },
+    {
+      "id": "2125fecd-d2a5-4aa1-bac1-0e65b530aaab",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "ChatGPT Search Often Switches To English In Fan-Out Queries: Report via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/chatgpt-search-often-switches-to-english-in-fan-out-queries-report/567811/",
+      "summary": "Peec AI analyzed fan-out queries from 10M+ ChatGPT prompts and found 43% of background searches ran in English, even for non-English prompts. \n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-search-often-switches-to-english-in-fan-out-queries-report/567811/\">ChatGPT Search Often Switches To English In Fan-Out Queries: Report</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-18T22:18:10+00:00",
+      "fetched": "2026-02-19T21:22:58.714944+00:00"
+    },
+    {
       "id": "aa54d8f2-c986-4f16-968e-6e27ad70e410",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -164,62 +219,7 @@
       "summary": "Keep international PPC campaigns aligned with practical frameworks for consistency, localization, and multi-agency coordination.\n\nThe post <a href=\"https://www.searchenginejournal.com/international-ppc-why-consistency-is-so-hard-to-maintain/561032/\">International PPC: Why Consistency Is So Hard To Maintain</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-02-16T12:15:36+00:00",
       "fetched": "2026-02-16T21:19:35.396504+00:00"
-    },
-    {
-      "id": "c50c6081-5c41-489b-b9f1-05785e24fd3a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Antitrust Filing Says Google Cannibalizes Publisher Traffic via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/antitrust-filing-says-google-cannibalizes-publisher-traffic/567535/",
-      "summary": "Antitrust filing argues Google cannibalizes audience visits to sites it uses to power AI results.\n\nThe post <a href=\"https://www.searchenginejournal.com/antitrust-filing-says-google-cannibalizes-publisher-traffic/567535/\">Antitrust Filing Says Google Cannibalizes Publisher Traffic</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-16T11:26:31+00:00",
-      "fetched": "2026-02-16T21:19:35.396523+00:00"
-    },
-    {
-      "id": "6a78e738-5521-4cd8-bbe5-8c1d6cb4f295",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google SERPs In 2026: Changes, Features & How To Boost Your Organic Traffic via @sejournal, @lorenbaker",
-      "link": "https://www.searchenginejournal.com/what-google-serps-will-reward/564500/",
-      "summary": "Google\u2019s SERPs are changing faster than most SEO strategies can keep up. Does AI Mode change which keywords are still worth targeting? Which SERP features actually drive organic traffic in 2026? The expansion of AI Overviews into new keyword and intent queries, AI Mode\u2019s attempt to dominate the search experience, and ongoing experimentation with new SERP layouts have changed how users interact with search results. Get A Data-Backed View Of What Matters For 2026 SERPs In this on-demand webinar, T",
-      "published": "2026-02-14T15:30:18+00:00",
-      "fetched": "2026-02-14T21:14:55.845481+00:00"
-    },
-    {
-      "id": "708cfefd-a20f-4903-9ac9-d9e82abe35a7",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google AI Shows A Site Is Offline Due To JS Content Delivery via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-ai-and-technical-seo/567444/",
-      "summary": "A site owner blamed Google AI Search for falsely reporting their site offline. The answer was a content delivery pitfall.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ai-and-technical-seo/567444/\">Google AI Shows A Site Is Offline Due To JS Content Delivery</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-13T23:51:40+00:00",
-      "fetched": "2026-02-14T21:14:55.845508+00:00"
-    },
-    {
-      "id": "cd75be5d-495e-45b2-963c-2b8f3f923d1e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Search Relations Team Debates If You Still Need A Website via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/googles-search-relations-team-debates-if-you-still-need-a-website/567390/",
-      "summary": "Google's Search Relations team discussed whether you still need a website in 2026, and outlined when social, apps, or the web make sense. \n\nThe post <a href=\"https://www.searchenginejournal.com/googles-search-relations-team-debates-if-you-still-need-a-website/567390/\">Google&#8217;s Search Relations Team Debates If You Still Need A Website</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-13T14:23:20+00:00",
-      "fetched": "2026-02-13T21:25:39.084129+00:00"
-    },
-    {
-      "id": "74481e0a-2984-4af5-a413-78d04f4db5b8",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Bing AI Citation Tracking, Hidden HTTP Homepages & Pages Fall Under Crawl Limit \u2013 SEO Pulse via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-bing-ai-citation-tracking-hidden-http-homepages-pages-fall-under-crawl-limit/567300/",
-      "summary": "The latest SEO Pulse examines AI citation dashboards, invisible homepage pitfalls, and what new crawl data means for technical teams.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-bing-ai-citation-tracking-hidden-http-homepages-pages-fall-under-crawl-limit/567300/\">Bing AI Citation Tracking, Hidden HTTP Homepages &#038; Pages Fall Under Crawl Limit \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-13T13:30:25+00:00",
-      "fetched": "2026-02-13T21:25:39.084159+00:00"
     }
   ],
-  "last_updated": "2026-02-18T21:26:57.471999+00:00"
+  "last_updated": "2026-02-19T21:22:59.496050+00:00"
 }
