@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "e7d82313-7dbc-42f9-a61c-74a39c68d83d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Microsoft: \u2018Summarize With AI\u2019 Buttons Used To Poison AI Recommendations via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/microsoft-summarize-with-ai-buttons-used-to-poison-ai-recommendations/567941/",
+      "summary": "Microsoft found 31 companies hiding prompt injections inside \"Summarize with AI\" buttons aimed at biasing what AI assistants recommend in future conversations.\n\nThe post <a href=\"https://www.searchenginejournal.com/microsoft-summarize-with-ai-buttons-used-to-poison-ai-recommendations/567941/\">Microsoft: &#8216;Summarize With AI&#8217; Buttons Used To Poison AI Recommendations</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-20T19:15:09+00:00",
+      "fetched": "2026-02-20T21:14:59.660517+00:00"
+    },
+    {
+      "id": "65075f85-b363-41b8-b283-641dcbbefb43",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Ads Surfaces PMax Search Partner Domains In Placement Report via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-ads-surfaces-pmax-search-partner-domains-in-placement-report/567922/",
+      "summary": "Google Ads PMax placement reporting is now populating with data for more accounts, revealing Search Partner domains and impression counts for brand safety review. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-ads-surfaces-pmax-search-partner-domains-in-placement-report/567922/\">Google Ads Surfaces PMax Search Partner Domains In Placement Report</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-20T17:41:40+00:00",
+      "fetched": "2026-02-20T21:14:59.660543+00:00"
+    },
+    {
+      "id": "57cffe18-2f0b-4005-a3d5-56de72fe1198",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Information Retrieval Part 3: Vectorization And Transformers (Not The Film)",
+      "link": "https://www.searchenginejournal.com/information-retrieval-part-3-vectorization-and-transformers-not-the-film/567791/",
+      "summary": "A practical explanation of vector space models, transformers, and cosine similarity, and what modern information retrieval means for SEO and AI search.\n\nThe post <a href=\"https://www.searchenginejournal.com/information-retrieval-part-3-vectorization-and-transformers-not-the-film/567791/\">Information Retrieval Part 3: Vectorization And Transformers (Not The Film)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-20T14:30:09+00:00",
+      "fetched": "2026-02-20T21:14:59.660562+00:00"
+    },
+    {
+      "id": "79283dbf-7c6e-41c7-960a-1b1e303662ef",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google AI Mode Link Update, Click Share Data & ChatGPT Fan-Outs \u2013 SEO Pulse via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/seo-pulse-google-ai-mode-link-update-click-share-data-chatgpt-fan-outs/567838/",
+      "summary": "The latest SEO Pulse examines how AI interfaces reshape link visibility, redirect clicks, and filter sources before rankings apply.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-google-ai-mode-link-update-click-share-data-chatgpt-fan-outs/567838/\">Google AI Mode Link Update, Click Share Data &#038; ChatGPT Fan-Outs \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-20T14:03:10+00:00",
+      "fetched": "2026-02-20T21:14:59.660586+00:00"
+    },
+    {
+      "id": "e00156a9-9ac1-4890-ae71-57da114a2f06",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "New Meridian Tool, Performance Max Learning Path \u2013 PPC Pulse via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/ppc-pulse-new-meridian-tool-performance-max-learning-path/567866/",
+      "summary": "This week\u2019s PPC Pulse covers Google\u2019s new Meridian Scenario Planner and Microsoft\u2019s hands-on Performance Max training updates.\n\nThe post <a href=\"https://www.searchenginejournal.com/ppc-pulse-new-meridian-tool-performance-max-learning-path/567866/\">New Meridian Tool, Performance Max Learning Path \u2013 PPC Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-20T13:33:50+00:00",
+      "fetched": "2026-02-20T21:14:59.660604+00:00"
+    },
+    {
       "id": "2c0094ac-f56d-45ae-ba6e-149acc24e642",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -164,62 +219,7 @@
       "summary": "An analysis of 1.2 million ChatGPT citations reveals why AI favors front-loaded, entity-rich, definitive writing over traditional \u201cultimate guide\u201d formats.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-science-of-how-ai-pays-attention/567597/\">The Science Of How AI Pays Attention</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-02-17T14:30:06+00:00",
       "fetched": "2026-02-17T21:25:30.137471+00:00"
-    },
-    {
-      "id": "6a6ee554-0503-458a-bf2f-bfbcd21fe460",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Lost Two Antitrust Cases, But Stock Rose 65% \u2013 Here\u2019s Why via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-lost-two-antitrust-cases-but-stock-rose-65-heres-why/566461/",
-      "summary": "Courts ruled against Google, regulators push forward, and appeals loom. Here\u2019s where every proceeding stands and what it signals for search and monetization.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-lost-two-antitrust-cases-but-stock-rose-65-heres-why/566461/\">Google Lost Two Antitrust Cases, But Stock Rose 65% \u2013 Here&#8217;s Why</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-17T14:00:30+00:00",
-      "fetched": "2026-02-17T21:25:30.137495+00:00"
-    },
-    {
-      "id": "ffe25b53-366f-4856-a292-c1c0929e3d04",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "WooCommerce May Gain Sidekick-Type AI Through Extensions via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/woocommerce-may-gain-sidekick-type-ai-through-extensions/567642/",
-      "summary": "Automattic's James LePage describes emerging WooCommerce capabilities that will enable Sidekick-type AI extensions\n\nThe post <a href=\"https://www.searchenginejournal.com/woocommerce-may-gain-sidekick-type-ai-through-extensions/567642/\">WooCommerce May Gain Sidekick-Type AI Through Extensions</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-17T11:24:16+00:00",
-      "fetched": "2026-02-17T21:25:30.137513+00:00"
-    },
-    {
-      "id": "d99e37f8-3f03-45e0-a325-6d322cd08e7a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "CleanTalk WordPress Plugin Vulnerability Threatens Up To 200K Sites via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/cleantalk-wordpress-plugin-vulnerability/567586/",
-      "summary": "CleanTalk WordPress plugin, installed in 200,000+ websites, exposes sites to a critical vulnerability rated 9.8/10\n\nThe post <a href=\"https://www.searchenginejournal.com/cleantalk-wordpress-plugin-vulnerability/567586/\">CleanTalk WordPress Plugin Vulnerability Threatens Up To 200K Sites</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-16T22:33:02+00:00",
-      "fetched": "2026-02-17T21:25:30.137530+00:00"
-    },
-    {
-      "id": "6054a274-8ee0-4c56-a0e2-6db6fc441ac9",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Are Your Google Ads Gen Z Proof? Strategies To Win The 18-24 Segment",
-      "link": "https://www.searchenginejournal.com/are-your-google-ads-gen-z-proof-strategies-to-win-the-18-24-segment/564699/",
-      "summary": "Gen Z\u2019s discovery habits are rewriting Google Ads playbooks, forcing advertisers to rethink creative, targeting, and attribution across AI-driven surfaces.\n\nThe post <a href=\"https://www.searchenginejournal.com/are-your-google-ads-gen-z-proof-strategies-to-win-the-18-24-segment/564699/\">Are Your Google Ads Gen Z Proof? Strategies To Win The 18-24 Segment</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-16T13:30:28+00:00",
-      "fetched": "2026-02-16T21:19:35.396476+00:00"
-    },
-    {
-      "id": "483892f5-4dcb-4c21-bb7c-8223c67dff46",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "International PPC: Why Consistency Is So Hard To Maintain via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/international-ppc-why-consistency-is-so-hard-to-maintain/561032/",
-      "summary": "Keep international PPC campaigns aligned with practical frameworks for consistency, localization, and multi-agency coordination.\n\nThe post <a href=\"https://www.searchenginejournal.com/international-ppc-why-consistency-is-so-hard-to-maintain/561032/\">International PPC: Why Consistency Is So Hard To Maintain</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-16T12:15:36+00:00",
-      "fetched": "2026-02-16T21:19:35.396504+00:00"
     }
   ],
-  "last_updated": "2026-02-19T21:22:59.496050+00:00"
+  "last_updated": "2026-02-20T21:15:00.565314+00:00"
 }
