@@ -1,6 +1,72 @@
 {
   "articles": [
     {
+      "id": "d5ba8224-719f-410d-8ef7-efe5fd7692f6",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Discover Update: Early Data Shows Fewer Domains In US via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-discover-update-early-data-shows-fewer-domains-in-us/568091/",
+      "summary": "Early third-party tracking data offers a first look at how Google's February Discover core update is changing what users see in their feeds.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-discover-update-early-data-shows-fewer-domains-in-us/568091/\">Google Discover Update: Early Data Shows Fewer Domains In US</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-23T21:20:26+00:00",
+      "fetched": "2026-02-23T21:35:18.549135+00:00"
+    },
+    {
+      "id": "ddcef363-3563-4729-99e5-e71cc7483bd8",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "SerpApi Challenges Google\u2019s Right To Sue Over SERP Scraping via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/serpapi-challenges-googles-right-to-sue-over-serp-scraping/568084/",
+      "summary": "SerpApi filed a motion to dismiss Google's DMCA lawsuit, arguing the search giant lacks standing to invoke copyright law over publicly visible search results. \n\nThe post <a href=\"https://www.searchenginejournal.com/serpapi-challenges-googles-right-to-sue-over-serp-scraping/568084/\">SerpApi Challenges Google&#8217;s Right To Sue Over SERP Scraping</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-23T18:02:28+00:00",
+      "fetched": "2026-02-23T21:35:18.549161+00:00"
+    },
+    {
+      "id": "a6bd4e32-ab45-429e-a4be-3b07d80ad8b1",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "4 Sites That Recovered From Google\u2019s December 2025 Core Update \u2013 What They Changed via @sejournal, @marie_haynes",
+      "link": "https://www.searchenginejournal.com/4-sites-that-recovered-from-googles-december-2025-core-update/567960/",
+      "summary": "Discover how the December 2025 core update impacted 4 sites and the factors that contributed to their improvement.\n\nThe post <a href=\"https://www.searchenginejournal.com/4-sites-that-recovered-from-googles-december-2025-core-update/567960/\">4 Sites That Recovered From Google&#8217;s December 2025 Core Update \u2013 What They Changed</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-23T14:30:06+00:00",
+      "fetched": "2026-02-23T21:35:18.549182+00:00"
+    },
+    {
+      "id": "a9fd78aa-b1f6-4573-b088-d7449d930de6",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Agentic Commerce Optimization: A Technical Guide To Prepare For Google\u2019s UCP via @sejournal, @alexmoss",
+      "link": "https://www.searchenginejournal.com/agentic-commerce-optimization-a-technical-guide-to-prepare-for-googles-ucp/566969/",
+      "summary": "As AI Mode enables on-platform transactions, ecommerce visibility now depends on schema completeness, feed accuracy, and third-party validation.\n\nThe post <a href=\"https://www.searchenginejournal.com/agentic-commerce-optimization-a-technical-guide-to-prepare-for-googles-ucp/566969/\">Agentic Commerce Optimization: A Technical Guide To Prepare For Google&#8217;s UCP</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-23T14:00:45+00:00",
+      "fetched": "2026-02-23T21:35:18.549204+00:00"
+    },
+    {
+      "id": "e430c428-1bb6-4a92-93da-96fc06e04fc0",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "SEO Fundamental: Google Explains Why It May Not Use A Sitemap via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/seo-fundamental-google-explains-why-it-may-not-use-a-sitemap/568033/",
+      "summary": "Google's John Mueller points to site content as the reason for Search Console sitemap error messages \n\nThe post <a href=\"https://www.searchenginejournal.com/seo-fundamental-google-explains-why-it-may-not-use-a-sitemap/568033/\">SEO Fundamental: Google Explains Why It May Not Use A Sitemap</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-23T11:02:14+00:00",
+      "fetched": "2026-02-23T21:35:18.549222+00:00"
+    },
+    {
+      "id": "7a49a69e-006c-4986-8e4c-56e2ba9f3968",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "15 Smarter Interview Questions For Hiring Digital Marketers In 2026 via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/digital-marketing-interview-questions/422478/",
+      "summary": "Hire better digital marketers with these interview questions that expose real strategic and performance thinking.\n\nThe post <a href=\"https://www.searchenginejournal.com/digital-marketing-interview-questions/422478/\">15 Smarter Interview Questions For Hiring Digital Marketers In 2026</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-23T04:01:36+00:00",
+      "fetched": "2026-02-23T21:35:18.549239+00:00"
+    },
+    {
       "id": "e7d82313-7dbc-42f9-a61c-74a39c68d83d",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -153,73 +219,7 @@
       "summary": "Move SEO upstream into leadership decisions to safeguard visibility, enforce standards, and scale sustainable search performance.\n\nThe post <a href=\"https://www.searchenginejournal.com/enterprise-seo-operating-models-that-scale-in-2026-and-beyond/566073/\">Enterprise SEO Operating Models That Scale In 2026 And Beyond</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-02-18T12:45:56+00:00",
       "fetched": "2026-02-18T21:26:56.279933+00:00"
-    },
-    {
-      "id": "e4c4d15d-051f-4782-9b1c-1d959ec83e57",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Set Up AI Prompt Tracking You Can Trust [Webinar] via @sejournal, @lorenbaker",
-      "link": "https://www.searchenginejournal.com/how-to-set-up-ai-prompt-tracking-you-can-trust/567524/",
-      "summary": "Explore the essentials of AI prompt tracking. Discover strategies to improve your visibility in AI search engines and analytics.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-set-up-ai-prompt-tracking-you-can-trust/567524/\">How To Set Up AI Prompt Tracking You Can Trust [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-18T08:45:45+00:00",
-      "fetched": "2026-02-18T21:26:56.279951+00:00"
-    },
-    {
-      "id": "56c770a7-8360-4ea1-a487-30ba3663ab33",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "5 Ways Emerging Businesses Can Show up in ChatGPT, Gemini & Perplexity via @sejournal, @nofluffmktg",
-      "link": "https://www.searchenginejournal.com/new-business-chatgpt-visibility-nofluff-spa/567226/",
-      "summary": "AI models default to familiar brands. What makes them mention your company instead of a bigger or more established competitor?\n\nThe post <a href=\"https://www.searchenginejournal.com/new-business-chatgpt-visibility-nofluff-spa/567226/\">5 Ways Emerging Businesses Can Show up in ChatGPT, Gemini &#038; Perplexity</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-18T06:00:11+00:00",
-      "fetched": "2026-02-18T21:26:56.279975+00:00"
-    },
-    {
-      "id": "eea5b792-7591-4c18-a8a7-829a3dab8e88",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Says Links Will Be More Visible In AI Overviews via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-says-links-will-be-more-visible-in-ai-overviews/567719/",
-      "summary": "Google is adding hover link pop-ups on desktop in AI Overviews and AI Mode, plus more prominent link icons within responses across desktop and mobile.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-says-links-will-be-more-visible-in-ai-overviews/567719/\">Google Says Links Will Be More Visible In AI Overviews</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-17T22:27:00+00:00",
-      "fetched": "2026-02-18T21:26:56.279995+00:00"
-    },
-    {
-      "id": "e7ff0951-0825-4d53-8cc2-d1e4f6489730",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "4 Pillars To Turn Your \u201cSticky-Taped\u201d Tech Stack Into a Modern Publishing Engine",
-      "link": "https://www.searchenginejournal.com/modern-publishing-engine-wpengine-spa/565881/",
-      "summary": "Discover how a modern publishing engine can eliminate the issues of legacy CMS and drive sustainable growth for media companies.\n\nThe post <a href=\"https://www.searchenginejournal.com/modern-publishing-engine-wpengine-spa/565881/\">4 Pillars To Turn Your \u201cSticky-Taped\u201d Tech Stack Into a Modern Publishing Engine</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-17T19:52:53+00:00",
-      "fetched": "2026-02-17T21:25:30.137420+00:00"
-    },
-    {
-      "id": "5c7523cd-6422-4a3e-bb9b-330f058bb84a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Text Ad Click Share Rises Sharply In Some Verticals via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-text-ad-click-share-rises-sharply-in-some-verticals/567694/",
-      "summary": "An analysis of approximately 16,000 U.S. queries shows text ads increasing their click share by 7-13 points year over year. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-text-ad-click-share-rises-sharply-in-some-verticals/567694/\">Google Text Ad Click Share Rises Sharply In Some Verticals</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-17T14:53:24+00:00",
-      "fetched": "2026-02-17T21:25:30.137450+00:00"
-    },
-    {
-      "id": "d74559ed-4ee5-4f89-b181-a4a5e620a588",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Science Of How AI Pays Attention via @sejournal, @Kevin_Indig",
-      "link": "https://www.searchenginejournal.com/the-science-of-how-ai-pays-attention/567597/",
-      "summary": "An analysis of 1.2 million ChatGPT citations reveals why AI favors front-loaded, entity-rich, definitive writing over traditional \u201cultimate guide\u201d formats.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-science-of-how-ai-pays-attention/567597/\">The Science Of How AI Pays Attention</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-17T14:30:06+00:00",
-      "fetched": "2026-02-17T21:25:30.137471+00:00"
     }
   ],
-  "last_updated": "2026-02-22T21:14:52.899362+00:00"
+  "last_updated": "2026-02-23T21:35:19.279441+00:00"
 }
