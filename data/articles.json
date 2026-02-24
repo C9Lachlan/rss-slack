@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "ff103fb0-32cd-49fb-b900-8365af5c68ac",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Turn Google\u2019s Performance Max Into An Ecommerce Growth Engine",
+      "link": "https://www.searchenginejournal.com/ecommerce-performance-max-guide-channable-spa/565185/",
+      "summary": "Take charge of your advertising with Performance Max. Learn to segment products and enhance your campaign performance effectively.\n\nThe post <a href=\"https://www.searchenginejournal.com/ecommerce-performance-max-guide-channable-spa/565185/\">How To Turn Google&#8217;s Performance Max Into An Ecommerce Growth Engine</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-24T14:41:09+00:00",
+      "fetched": "2026-02-24T21:25:08.265082+00:00"
+    },
+    {
+      "id": "f838845d-ad6f-400c-9328-8c91e8bba3f2",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI-SEO Is A Change Management Problem via @sejournal, @Kevin_Indig",
+      "link": "https://www.searchenginejournal.com/ai-seo-is-a-change-management-problem/568103/",
+      "summary": "Don\u2019t let AI SEO fail in the boardroom. Align leadership, metrics, and ownership before scaling tactics.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-seo-is-a-change-management-problem/568103/\">AI-SEO Is A Change Management Problem</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-24T14:30:21+00:00",
+      "fetched": "2026-02-24T21:25:08.265109+00:00"
+    },
+    {
+      "id": "31d2c68b-7c29-4a66-a9c8-3a60329132d0",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Local GEO & AI Search: A 90-Day Plan to Make Every Location AI-Ready via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/90-days-improved-local-search-visibility/566687/",
+      "summary": "Learn how to boost visibility for each location in your network. A practical 90 Day Plan can make your brand AI-ready.\n\nThe post <a href=\"https://www.searchenginejournal.com/90-days-improved-local-search-visibility/566687/\">Local GEO &#038; AI Search: A 90-Day Plan to Make Every Location AI-Ready</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-24T14:15:23+00:00",
+      "fetched": "2026-02-24T21:25:08.265129+00:00"
+    },
+    {
+      "id": "bbb7e7cc-6f9d-4696-a815-fa5c830f2bcd",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Web Almanac Data Reveals CMS Plugins Are Setting Technical SEO Standards (Not SEOs) via @sejournal, @chrisgreenseo",
+      "link": "https://www.searchenginejournal.com/web-almanac-data-reveals-cms-plugins-are-setting-technical-seo-standards-not-seos/567649/",
+      "summary": "Technical SEO \u201cbest practices\u201d increasingly reflect CMS and plugin defaults, not individual site decisions, according to 2025 HTTP Archive analysis.\n\nThe post <a href=\"https://www.searchenginejournal.com/web-almanac-data-reveals-cms-plugins-are-setting-technical-seo-standards-not-seos/567649/\">Web Almanac Data Reveals CMS Plugins Are Setting Technical SEO Standards (Not SEOs)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-24T13:00:19+00:00",
+      "fetched": "2026-02-24T21:25:08.265152+00:00"
+    },
+    {
+      "id": "9303f90a-53cb-4083-93a4-40d4fbfa868f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "2026 Google Ads Playbook: 5 Strategies Behind Profitable Ad Spend via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/profitable-google-ads-look-like/564517/",
+      "summary": "Join our webinar to discover effective strategies for automating Google Ads and mastering Performance Max Smart Bidding.\n\nThe post <a href=\"https://www.searchenginejournal.com/profitable-google-ads-look-like/564517/\">2026 Google Ads Playbook: 5 Strategies Behind Profitable Ad Spend</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-24T12:30:15+00:00",
+      "fetched": "2026-02-24T21:25:08.265170+00:00"
+    },
+    {
       "id": "d5ba8224-719f-410d-8ef7-efe5fd7692f6",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -164,62 +219,7 @@
       "summary": "This week's Ask a PPC explains why goal-based bidding can overspend budgets and how ROAS, CPA, and pacing actually behave inside ad auctions.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-a-ppc-why-do-budgets-overspend-even-with-a-target-roas-in-place/565603/\">Why Do Budgets Overspend Even With A Target ROAS or CPA?  \u2013 Ask A PPC</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-02-19T13:00:08+00:00",
       "fetched": "2026-02-19T21:22:58.714927+00:00"
-    },
-    {
-      "id": "2125fecd-d2a5-4aa1-bac1-0e65b530aaab",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "ChatGPT Search Often Switches To English In Fan-Out Queries: Report via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/chatgpt-search-often-switches-to-english-in-fan-out-queries-report/567811/",
-      "summary": "Peec AI analyzed fan-out queries from 10M+ ChatGPT prompts and found 43% of background searches ran in English, even for non-English prompts. \n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-search-often-switches-to-english-in-fan-out-queries-report/567811/\">ChatGPT Search Often Switches To English In Fan-Out Queries: Report</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-18T22:18:10+00:00",
-      "fetched": "2026-02-19T21:22:58.714944+00:00"
-    },
-    {
-      "id": "aa54d8f2-c986-4f16-968e-6e27ad70e410",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why Google Runs AI Mode On Flash, Explained By Google\u2019s Chief Scientist via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/why-google-runs-ai-mode-on-flash-explained-by-googles-chief-scientist/567807/",
-      "summary": "Google's Jeff Dean explains why latency and cost make Flash Google's production tier for AI search, and why models are built to retrieve, not memorize.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-google-runs-ai-mode-on-flash-explained-by-googles-chief-scientist/567807/\">Why Google Runs AI Mode On Flash, Explained By Google\u2019s Chief Scientist</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-18T20:55:16+00:00",
-      "fetched": "2026-02-18T21:26:56.279862+00:00"
-    },
-    {
-      "id": "8707624f-4be2-4117-bf75-182f1c1dfd96",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Are Citations In AI Search Affected By Google Organic Visibility Changes? via @sejournal, @lilyraynyc",
-      "link": "https://www.searchenginejournal.com/are-citations-in-ai-search-affected-by-google-organic-visibility-changes/567736/",
-      "summary": "An analysis of 11 impacted sites reveals a strong correlation between Google visibility losses and declining AI search citations, with ChatGPT hit hardest.\n\nThe post <a href=\"https://www.searchenginejournal.com/are-citations-in-ai-search-affected-by-google-organic-visibility-changes/567736/\">Are Citations In AI Search Affected By Google Organic Visibility Changes?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-18T14:30:09+00:00",
-      "fetched": "2026-02-18T21:26:56.279891+00:00"
-    },
-    {
-      "id": "f605f264-b8a4-4e58-9a5f-b6b299020227",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "A First Look at 2026: Leveraging AI to Boost Lead Handling and Drive Better Results via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/the-way-your-agency-handles-leads/565772/",
-      "summary": "Master lead management in 2026 and uncover strategies to ensure leads do not go cold in your sales process.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-way-your-agency-handles-leads/565772/\">A First Look at 2026: Leveraging AI to Boost Lead Handling and Drive Better Results</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-18T13:45:01+00:00",
-      "fetched": "2026-02-18T21:26:56.279911+00:00"
-    },
-    {
-      "id": "bcc6f8c0-71d9-46cf-a140-c1b207a39a22",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Enterprise SEO Operating Models That Scale In 2026 And Beyond via @sejournal, @billhunt",
-      "link": "https://www.searchenginejournal.com/enterprise-seo-operating-models-that-scale-in-2026-and-beyond/566073/",
-      "summary": "Move SEO upstream into leadership decisions to safeguard visibility, enforce standards, and scale sustainable search performance.\n\nThe post <a href=\"https://www.searchenginejournal.com/enterprise-seo-operating-models-that-scale-in-2026-and-beyond/566073/\">Enterprise SEO Operating Models That Scale In 2026 And Beyond</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-18T12:45:56+00:00",
-      "fetched": "2026-02-18T21:26:56.279933+00:00"
     }
   ],
-  "last_updated": "2026-02-23T21:35:19.279441+00:00"
+  "last_updated": "2026-02-24T21:25:10.000459+00:00"
 }
