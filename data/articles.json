@@ -1,6 +1,50 @@
 {
   "articles": [
     {
+      "id": "07a10a16-3079-480f-b2be-d5a78e80871e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Anthropic\u2019s Claude Bots Make Robots.txt Decisions More Granular via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/anthropics-claude-bots-make-robots-txt-decisions-more-granular/568253/",
+      "summary": "Anthropic updated its crawler documentation to list separate Claude bots for training, search indexing, and user requests, with visibility tradeoffs when blocked.\n\nThe post <a href=\"https://www.searchenginejournal.com/anthropics-claude-bots-make-robots-txt-decisions-more-granular/568253/\">Anthropic\u2019s Claude Bots Make Robots.txt Decisions More Granular</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-25T20:20:17+00:00",
+      "fetched": "2026-02-25T21:26:55.024668+00:00"
+    },
+    {
+      "id": "b02f328d-34f0-4742-8db6-bc3cdd74b6cc",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The 10 Best PPC Ad Networks via @sejournal, @LisaRocksSEM",
+      "link": "https://www.searchenginejournal.com/the-10-best-ppc-ad-networks/563331/",
+      "summary": "Where should you invest paid media dollars in 2026? Here's a data-driven look at reach, targeting depth, and automation across 10 major ad platforms.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-10-best-ppc-ad-networks/563331/\">The 10 Best PPC Ad Networks</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-25T13:45:15+00:00",
+      "fetched": "2026-02-25T21:26:55.024694+00:00"
+    },
+    {
+      "id": "fffd7a7a-b331-4f29-894e-c317d9c7dca5",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "New Platforms Won\u2019t Save Social Media: Here\u2019s What\u2019s Actually Shifting via @sejournal, @rio_seo",
+      "link": "https://www.searchenginejournal.com/new-platforms-wont-save-social-media-heres-whats-actually-shifting/565182/",
+      "summary": "Social media\u2019s next chapter moves beyond feeds and platforms toward decision-making moments powered by behavior, trust, and machine interpretation.\n\nThe post <a href=\"https://www.searchenginejournal.com/new-platforms-wont-save-social-media-heres-whats-actually-shifting/565182/\">New Platforms Won&#8217;t Save Social Media: Here&#8217;s What&#8217;s Actually Shifting</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-25T13:00:24+00:00",
+      "fetched": "2026-02-25T21:26:55.024715+00:00"
+    },
+    {
+      "id": "ee4de54d-20bb-47fc-83d0-e7b045c7d690",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The New Off-Page SEO Playbook: Links, Mentions & AI Visibility via @sejournal, @lorenbaker",
+      "link": "https://www.searchenginejournal.com/why-off-page-seo-still-shapes-visibility/565916/",
+      "summary": "Explore off-page SEO strategies to boost your rankings and enhance brand visibility in AI-driven search results.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-off-page-seo-still-shapes-visibility/565916/\">The New Off-Page SEO Playbook: Links, Mentions &#038; AI Visibility</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-25T12:45:51+00:00",
+      "fetched": "2026-02-25T21:26:55.024738+00:00"
+    },
+    {
       "id": "ff103fb0-32cd-49fb-b900-8365af5c68ac",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -175,51 +219,7 @@
       "summary": "This week\u2019s PPC Pulse covers Google\u2019s new Meridian Scenario Planner and Microsoft\u2019s hands-on Performance Max training updates.\n\nThe post <a href=\"https://www.searchenginejournal.com/ppc-pulse-new-meridian-tool-performance-max-learning-path/567866/\">New Meridian Tool, Performance Max Learning Path \u2013 PPC Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-02-20T13:33:50+00:00",
       "fetched": "2026-02-20T21:14:59.660604+00:00"
-    },
-    {
-      "id": "2c0094ac-f56d-45ae-ba6e-149acc24e642",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Offers AI Certificate Free For Eligible U.S. Small Businesses via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-offers-ai-certificate-free-for-eligible-u-s-small-businesses/567854/",
-      "summary": "Google launched an AI Professional Certificate with seven self-paced modules and three months of AI Pro access. Eligible U.S. small businesses can enroll free.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-offers-ai-certificate-free-for-eligible-u-s-small-businesses/567854/\">Google Offers AI Certificate Free For Eligible U.S. Small Businesses</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-19T19:33:37+00:00",
-      "fetched": "2026-02-19T21:22:58.714864+00:00"
-    },
-    {
-      "id": "073b98ea-b980-4896-ada8-f0decdc6eca1",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why AI Misreads The Middle Of Your Best Pages via @sejournal, @DuaneForrester",
-      "link": "https://www.searchenginejournal.com/why-ai-misreads-the-middle-of-your-best-pages/567486/",
-      "summary": "Long-form content doesn\u2019t fail because it\u2019s weak. It fails because LLMs lose the middle. This article explains how to engineer it to survive.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-ai-misreads-the-middle-of-your-best-pages/567486/\">Why AI Misreads The Middle Of Your Best Pages</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-19T14:30:26+00:00",
-      "fetched": "2026-02-19T21:22:58.714889+00:00"
-    },
-    {
-      "id": "fe099892-7e38-4025-8149-1c4ac02da8cc",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "35-Year SEO Veteran: Great SEO Is Good GEO \u2014 But Not Everyone\u2019s Been Doing Great SEO via @sejournal, @theshelleywalsh",
-      "link": "https://www.searchenginejournal.com/great-seo-is-good-geo-but-not-everyones-been-doing-great-seo/567628/",
-      "summary": "Dive into the discussions around SEO adaptations and LLM impact on the industry with host Shelley Walsh and industry veteran Grant Simmons.\n\nThe post <a href=\"https://www.searchenginejournal.com/great-seo-is-good-geo-but-not-everyones-been-doing-great-seo/567628/\">35-Year SEO Veteran: Great SEO Is Good GEO \u2014 But Not Everyone&#8217;s Been Doing Great SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-19T14:00:15+00:00",
-      "fetched": "2026-02-19T21:22:58.714907+00:00"
-    },
-    {
-      "id": "3a661248-bd43-4646-addb-bd36a27f65d7",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why Do Budgets Overspend Even With A Target ROAS or CPA?  \u2013 Ask A PPC via @sejournal, @navahf",
-      "link": "https://www.searchenginejournal.com/ask-a-ppc-why-do-budgets-overspend-even-with-a-target-roas-in-place/565603/",
-      "summary": "This week's Ask a PPC explains why goal-based bidding can overspend budgets and how ROAS, CPA, and pacing actually behave inside ad auctions.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-a-ppc-why-do-budgets-overspend-even-with-a-target-roas-in-place/565603/\">Why Do Budgets Overspend Even With A Target ROAS or CPA?  \u2013 Ask A PPC</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-19T13:00:08+00:00",
-      "fetched": "2026-02-19T21:22:58.714927+00:00"
     }
   ],
-  "last_updated": "2026-02-24T21:25:10.000459+00:00"
+  "last_updated": "2026-02-25T21:26:56.026401+00:00"
 }
