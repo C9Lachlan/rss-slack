@@ -1,6 +1,94 @@
 {
   "articles": [
     {
+      "id": "c0c0ac1a-5d3e-465e-8097-e16f2bdcf10e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "We\u2019re Bringing The SEJ Newsroom To You, Live [Free Event] via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/sej-live-with-newsroom-free-event-march11/568089/",
+      "summary": "We\u2019re bringing the SEJ newsroom to a screen near you. On March 11 from 12\u20133pm ET, we\u2019ve gathered our own search experts, alongside some very special guests, to help you master AI search visibility this year. This is SEJ Live, a new series we\u2019ve been building behind the scenes, and I couldn\u2019t be more excited to see it come to life. Here\u2019s why this matters right now: I\u2019m seeing a huge disconnect between leadership and the marketing teams doing the work. Leadership wants performance yesterday, but ",
+      "published": "2026-02-26T14:50:15+00:00",
+      "fetched": "2026-02-26T21:23:54.159022+00:00"
+    },
+    {
+      "id": "e63735f4-548f-4f31-821e-028e62ccbe10",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "When Google Is No Longer A Verb: Search Becoming Infrastructure via @sejournal, @DuaneForrester",
+      "link": "https://www.searchenginejournal.com/when-google-is-no-longer-a-verb-search-becoming-infrastructure/568135/",
+      "summary": "Search isn\u2019t disappearing, but the habit is changing. This article breaks down why agents are replacing browsing with delegation.\n\nThe post <a href=\"https://www.searchenginejournal.com/when-google-is-no-longer-a-verb-search-becoming-infrastructure/568135/\">When Google Is No Longer A Verb: Search Becoming Infrastructure</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-26T14:30:17+00:00",
+      "fetched": "2026-02-26T21:23:54.159049+00:00"
+    },
+    {
+      "id": "d632f5bc-ef52-40c0-b03a-3173534fd351",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How Researchers Reverse-Engineered LLMs For A Ranking Experiment via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/how-researchers-reverse-engineered-llms-for-a-ranking-experiment/568279/",
+      "summary": "Researchers compared two ways to improve rankings in LLMs: Shadow Model and Query-based solutions.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-researchers-reverse-engineered-llms-for-a-ranking-experiment/568279/\">How Researchers Reverse-Engineered LLMs For A Ranking Experiment</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-26T13:17:11+00:00",
+      "fetched": "2026-02-26T21:23:54.159067+00:00"
+    },
+    {
+      "id": "b3f9b93f-b4e6-426e-a015-cafc4fd7b223",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "From Visibility Engineering To Preference Engineering: The Rise Of The Infinite Tail via @sejournal, @TaylorDanRW",
+      "link": "https://www.searchenginejournal.com/visibility-enginerring-preference-engineering-the-infinite-tail/567557/",
+      "summary": "See why the infinite tail demands narrower focus, stronger entity signals, and deeper topical coverage.\n\nThe post <a href=\"https://www.searchenginejournal.com/visibility-enginerring-preference-engineering-the-infinite-tail/567557/\">From Visibility Engineering To Preference Engineering: The Rise Of The Infinite Tail</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-26T13:00:52+00:00",
+      "fetched": "2026-02-26T21:23:54.159089+00:00"
+    },
+    {
+      "id": "afa0bbb3-a86e-4857-8e38-b70344a8a3bf",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Marketing & Growth Priorities for 2026: Strategy Signals From 1,000 Businesses via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/what-businesses-reveal-about-growth/566414/",
+      "summary": "Join Jeff Hirz as he unveils key insights on growth and efficiency based on data from 1,000 businesses planning for 2026.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-businesses-reveal-about-growth/566414/\">Marketing &#038; Growth Priorities for 2026: Strategy Signals From 1,000 Businesses</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-26T12:45:17+00:00",
+      "fetched": "2026-02-26T21:23:54.159107+00:00"
+    },
+    {
+      "id": "b81a3630-7e02-4bb5-9809-d2b33a92df84",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google To Test Search Changes In EU After DMA Charges, Per Report via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-to-test-search-changes-in-eu-after-dma-charges-per-report/568275/",
+      "summary": "Google is preparing to test search result changes in the EU that would show rival vertical search services alongside its own results\n\nThe post <a href=\"https://www.searchenginejournal.com/google-to-test-search-changes-in-eu-after-dma-charges-per-report/568275/\">Google To Test Search Changes In EU After DMA Charges, Per Report</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-26T11:36:58+00:00",
+      "fetched": "2026-02-26T21:23:54.159130+00:00"
+    },
+    {
+      "id": "c2c39a73-c2d2-4304-8bec-cacd3af0f6d6",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "International PPC: Why Consistency Is So Hard To Maintain via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/navigating-complexities-international-ppc-working-with-agencies/543206/",
+      "summary": "Keep international PPC campaigns aligned with practical frameworks for consistency, localization, and multi-agency coordination.\n\nThe post <a href=\"https://www.searchenginejournal.com/navigating-complexities-international-ppc-working-with-agencies/543206/\">International PPC: Why Consistency Is So Hard To Maintain</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-26T03:15:48+00:00",
+      "fetched": "2026-02-26T21:23:54.159146+00:00"
+    },
+    {
+      "id": "7381f1fb-7100-463e-a2f4-041c92e98060",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Gen Z Preference For TikTok Over Google Drops 50%, Data Shows via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/gen-z-preference-for-tiktok-over-google-drops-50-data-shows/568267/",
+      "summary": "Survey data shows 49% of U.S. consumers have used TikTok for search, but Gen Z's TikTok-over-Google preference is dropping. \n\nThe post <a href=\"https://www.searchenginejournal.com/gen-z-preference-for-tiktok-over-google-drops-50-data-shows/568267/\">Gen Z Preference For TikTok Over Google Drops 50%, Data Shows</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-25T21:58:58+00:00",
+      "fetched": "2026-02-26T21:23:54.159171+00:00"
+    },
+    {
       "id": "07a10a16-3079-480f-b2be-d5a78e80871e",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -131,95 +219,7 @@
       "summary": "Discover how the December 2025 core update impacted 4 sites and the factors that contributed to their improvement.\n\nThe post <a href=\"https://www.searchenginejournal.com/4-sites-that-recovered-from-googles-december-2025-core-update/567960/\">4 Sites That Recovered From Google&#8217;s December 2025 Core Update \u2013 What They Changed</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-02-23T14:30:06+00:00",
       "fetched": "2026-02-23T21:35:18.549182+00:00"
-    },
-    {
-      "id": "a9fd78aa-b1f6-4573-b088-d7449d930de6",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Agentic Commerce Optimization: A Technical Guide To Prepare For Google\u2019s UCP via @sejournal, @alexmoss",
-      "link": "https://www.searchenginejournal.com/agentic-commerce-optimization-a-technical-guide-to-prepare-for-googles-ucp/566969/",
-      "summary": "As AI Mode enables on-platform transactions, ecommerce visibility now depends on schema completeness, feed accuracy, and third-party validation.\n\nThe post <a href=\"https://www.searchenginejournal.com/agentic-commerce-optimization-a-technical-guide-to-prepare-for-googles-ucp/566969/\">Agentic Commerce Optimization: A Technical Guide To Prepare For Google&#8217;s UCP</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-23T14:00:45+00:00",
-      "fetched": "2026-02-23T21:35:18.549204+00:00"
-    },
-    {
-      "id": "e430c428-1bb6-4a92-93da-96fc06e04fc0",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "SEO Fundamental: Google Explains Why It May Not Use A Sitemap via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/seo-fundamental-google-explains-why-it-may-not-use-a-sitemap/568033/",
-      "summary": "Google's John Mueller points to site content as the reason for Search Console sitemap error messages \n\nThe post <a href=\"https://www.searchenginejournal.com/seo-fundamental-google-explains-why-it-may-not-use-a-sitemap/568033/\">SEO Fundamental: Google Explains Why It May Not Use A Sitemap</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-23T11:02:14+00:00",
-      "fetched": "2026-02-23T21:35:18.549222+00:00"
-    },
-    {
-      "id": "7a49a69e-006c-4986-8e4c-56e2ba9f3968",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "15 Smarter Interview Questions For Hiring Digital Marketers In 2026 via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/digital-marketing-interview-questions/422478/",
-      "summary": "Hire better digital marketers with these interview questions that expose real strategic and performance thinking.\n\nThe post <a href=\"https://www.searchenginejournal.com/digital-marketing-interview-questions/422478/\">15 Smarter Interview Questions For Hiring Digital Marketers In 2026</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-23T04:01:36+00:00",
-      "fetched": "2026-02-23T21:35:18.549239+00:00"
-    },
-    {
-      "id": "e7d82313-7dbc-42f9-a61c-74a39c68d83d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Microsoft: \u2018Summarize With AI\u2019 Buttons Used To Poison AI Recommendations via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/microsoft-summarize-with-ai-buttons-used-to-poison-ai-recommendations/567941/",
-      "summary": "Microsoft found 31 companies hiding prompt injections inside \"Summarize with AI\" buttons aimed at biasing what AI assistants recommend in future conversations.\n\nThe post <a href=\"https://www.searchenginejournal.com/microsoft-summarize-with-ai-buttons-used-to-poison-ai-recommendations/567941/\">Microsoft: &#8216;Summarize With AI&#8217; Buttons Used To Poison AI Recommendations</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-20T19:15:09+00:00",
-      "fetched": "2026-02-20T21:14:59.660517+00:00"
-    },
-    {
-      "id": "65075f85-b363-41b8-b283-641dcbbefb43",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Ads Surfaces PMax Search Partner Domains In Placement Report via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-ads-surfaces-pmax-search-partner-domains-in-placement-report/567922/",
-      "summary": "Google Ads PMax placement reporting is now populating with data for more accounts, revealing Search Partner domains and impression counts for brand safety review. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-ads-surfaces-pmax-search-partner-domains-in-placement-report/567922/\">Google Ads Surfaces PMax Search Partner Domains In Placement Report</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-20T17:41:40+00:00",
-      "fetched": "2026-02-20T21:14:59.660543+00:00"
-    },
-    {
-      "id": "57cffe18-2f0b-4005-a3d5-56de72fe1198",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Information Retrieval Part 3: Vectorization And Transformers (Not The Film)",
-      "link": "https://www.searchenginejournal.com/information-retrieval-part-3-vectorization-and-transformers-not-the-film/567791/",
-      "summary": "A practical explanation of vector space models, transformers, and cosine similarity, and what modern information retrieval means for SEO and AI search.\n\nThe post <a href=\"https://www.searchenginejournal.com/information-retrieval-part-3-vectorization-and-transformers-not-the-film/567791/\">Information Retrieval Part 3: Vectorization And Transformers (Not The Film)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-20T14:30:09+00:00",
-      "fetched": "2026-02-20T21:14:59.660562+00:00"
-    },
-    {
-      "id": "79283dbf-7c6e-41c7-960a-1b1e303662ef",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google AI Mode Link Update, Click Share Data & ChatGPT Fan-Outs \u2013 SEO Pulse via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-google-ai-mode-link-update-click-share-data-chatgpt-fan-outs/567838/",
-      "summary": "The latest SEO Pulse examines how AI interfaces reshape link visibility, redirect clicks, and filter sources before rankings apply.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-google-ai-mode-link-update-click-share-data-chatgpt-fan-outs/567838/\">Google AI Mode Link Update, Click Share Data &#038; ChatGPT Fan-Outs \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-20T14:03:10+00:00",
-      "fetched": "2026-02-20T21:14:59.660586+00:00"
-    },
-    {
-      "id": "e00156a9-9ac1-4890-ae71-57da114a2f06",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "New Meridian Tool, Performance Max Learning Path \u2013 PPC Pulse via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/ppc-pulse-new-meridian-tool-performance-max-learning-path/567866/",
-      "summary": "This week\u2019s PPC Pulse covers Google\u2019s new Meridian Scenario Planner and Microsoft\u2019s hands-on Performance Max training updates.\n\nThe post <a href=\"https://www.searchenginejournal.com/ppc-pulse-new-meridian-tool-performance-max-learning-path/567866/\">New Meridian Tool, Performance Max Learning Path \u2013 PPC Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-20T13:33:50+00:00",
-      "fetched": "2026-02-20T21:14:59.660604+00:00"
     }
   ],
-  "last_updated": "2026-02-25T21:26:56.026401+00:00"
+  "last_updated": "2026-02-26T21:23:54.912907+00:00"
 }
