@@ -1,6 +1,72 @@
 {
   "articles": [
     {
+      "id": "1823e2b5-469f-4555-ad8c-909ddeb9001c",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Bing Adds GEO To Official Guidelines, Expands AI Abuse Definitions via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/bing-adds-geo-to-official-guidelines-expands-ai-abuse-definitions/568442/",
+      "summary": "Bing rewrote its webmaster guidelines to cover Copilot grounding, meta directive controls for AI answers, and a softened stance on AI-generated content. \n\nThe post <a href=\"https://www.searchenginejournal.com/bing-adds-geo-to-official-guidelines-expands-ai-abuse-definitions/568442/\">Bing Adds GEO To Official Guidelines, Expands AI Abuse Definitions</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-27T19:51:47+00:00",
+      "fetched": "2026-02-27T21:19:47.526764+00:00"
+    },
+    {
+      "id": "4762bf67-d858-42a6-8767-351cc3433f07",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Discover Core Update Finishes Rolling Out via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/googles-discover-core-update-finishes-rolling-out/568413/",
+      "summary": "Google's February Discover core update is complete after a roughly 22-day rollout. Early data suggests fewer domains in top slots. \n\nThe post <a href=\"https://www.searchenginejournal.com/googles-discover-core-update-finishes-rolling-out/568413/\">Google&#8217;s Discover Core Update Finishes Rolling Out</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-27T13:25:15+00:00",
+      "fetched": "2026-02-27T21:19:47.526789+00:00"
+    },
+    {
+      "id": "e8ea75a4-6fc5-4a86-9a97-3bd7104e7c56",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Discover Core Update Data, Sitemap Tips & AI Risks \u2013 SEO Pulse via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/seo-pulse-discover-core-update-data-sitemap-tips-ai-risks/568299/",
+      "summary": "This week's SEO Pulse highlights evolving AI link formats, cross-language sourcing biases in ChatGPT, and mounting pressure on traditional organic traffic.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-discover-core-update-data-sitemap-tips-ai-risks/568299/\">Discover Core Update Data, Sitemap Tips &#038; AI Risks \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-27T13:00:40+00:00",
+      "fetched": "2026-02-27T21:19:47.526810+00:00"
+    },
+    {
+      "id": "93af7030-0866-406c-ab99-6f9171044738",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Asset Guidance & Ad Scheduling Updates, Microsoft Negatives \u2013 PPC Pulse via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/ppc-pulse-googles-asset-guidance-ad-scheduling-updates-microsoft-negatives/568271/",
+      "summary": "This week's PPC Pulse recaps Google\u2019s evolving Search asset guidance, revised budget pacing behavior, and Microsoft\u2019s rollout of self-serve negative lists for PMax.\n\nThe post <a href=\"https://www.searchenginejournal.com/ppc-pulse-googles-asset-guidance-ad-scheduling-updates-microsoft-negatives/568271/\">Google&#8217;s Asset Guidance &#038; Ad Scheduling Updates, Microsoft Negatives \u2013 PPC Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-27T12:00:13+00:00",
+      "fetched": "2026-02-27T21:19:47.526834+00:00"
+    },
+    {
+      "id": "25838230-b530-4f06-841c-6f04bb3260f8",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Explains Why Its Crawler Ignores Your Resource Hints via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-explains-why-its-crawler-ignores-your-resource-hints/568321/",
+      "summary": "Google's Gary Illyes clarifies why resource hints do not influence Googlebot's crawling behavior, and notes that HTML validity is not a ranking factor.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-explains-why-its-crawler-ignores-your-resource-hints/568321/\">Google Explains Why Its Crawler Ignores Your Resource Hints</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-27T00:04:38+00:00",
+      "fetched": "2026-02-27T21:19:47.526852+00:00"
+    },
+    {
+      "id": "59f79df4-c202-41ea-b6dc-348ffbdaef32",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Joost de Valk Exits Federated WordPress Repository Project via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/joost-de-valk-exits-federated-wordpress-repository-project/568316/",
+      "summary": "Lack of support for an independent WordPress plugin and theme repository leads Joost de Valk to step away.\n\nThe post <a href=\"https://www.searchenginejournal.com/joost-de-valk-exits-federated-wordpress-repository-project/568316/\">Joost de Valk Exits Federated WordPress Repository Project</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-02-26T23:16:32+00:00",
+      "fetched": "2026-02-27T21:19:47.526868+00:00"
+    },
+    {
       "id": "c0c0ac1a-5d3e-465e-8097-e16f2bdcf10e",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -153,73 +219,7 @@
       "summary": "Don\u2019t let AI SEO fail in the boardroom. Align leadership, metrics, and ownership before scaling tactics.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-seo-is-a-change-management-problem/568103/\">AI-SEO Is A Change Management Problem</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-02-24T14:30:21+00:00",
       "fetched": "2026-02-24T21:25:08.265109+00:00"
-    },
-    {
-      "id": "31d2c68b-7c29-4a66-a9c8-3a60329132d0",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Local GEO & AI Search: A 90-Day Plan to Make Every Location AI-Ready via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/90-days-improved-local-search-visibility/566687/",
-      "summary": "Learn how to boost visibility for each location in your network. A practical 90 Day Plan can make your brand AI-ready.\n\nThe post <a href=\"https://www.searchenginejournal.com/90-days-improved-local-search-visibility/566687/\">Local GEO &#038; AI Search: A 90-Day Plan to Make Every Location AI-Ready</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-24T14:15:23+00:00",
-      "fetched": "2026-02-24T21:25:08.265129+00:00"
-    },
-    {
-      "id": "bbb7e7cc-6f9d-4696-a815-fa5c830f2bcd",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Web Almanac Data Reveals CMS Plugins Are Setting Technical SEO Standards (Not SEOs) via @sejournal, @chrisgreenseo",
-      "link": "https://www.searchenginejournal.com/web-almanac-data-reveals-cms-plugins-are-setting-technical-seo-standards-not-seos/567649/",
-      "summary": "Technical SEO \u201cbest practices\u201d increasingly reflect CMS and plugin defaults, not individual site decisions, according to 2025 HTTP Archive analysis.\n\nThe post <a href=\"https://www.searchenginejournal.com/web-almanac-data-reveals-cms-plugins-are-setting-technical-seo-standards-not-seos/567649/\">Web Almanac Data Reveals CMS Plugins Are Setting Technical SEO Standards (Not SEOs)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-24T13:00:19+00:00",
-      "fetched": "2026-02-24T21:25:08.265152+00:00"
-    },
-    {
-      "id": "9303f90a-53cb-4083-93a4-40d4fbfa868f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "2026 Google Ads Playbook: 5 Strategies Behind Profitable Ad Spend via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/profitable-google-ads-look-like/564517/",
-      "summary": "Join our webinar to discover effective strategies for automating Google Ads and mastering Performance Max Smart Bidding.\n\nThe post <a href=\"https://www.searchenginejournal.com/profitable-google-ads-look-like/564517/\">2026 Google Ads Playbook: 5 Strategies Behind Profitable Ad Spend</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-24T12:30:15+00:00",
-      "fetched": "2026-02-24T21:25:08.265170+00:00"
-    },
-    {
-      "id": "d5ba8224-719f-410d-8ef7-efe5fd7692f6",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Discover Update: Early Data Shows Fewer Domains In US via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-discover-update-early-data-shows-fewer-domains-in-us/568091/",
-      "summary": "Early third-party tracking data offers a first look at how Google's February Discover core update is changing what users see in their feeds.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-discover-update-early-data-shows-fewer-domains-in-us/568091/\">Google Discover Update: Early Data Shows Fewer Domains In US</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-23T21:20:26+00:00",
-      "fetched": "2026-02-23T21:35:18.549135+00:00"
-    },
-    {
-      "id": "ddcef363-3563-4729-99e5-e71cc7483bd8",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "SerpApi Challenges Google\u2019s Right To Sue Over SERP Scraping via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/serpapi-challenges-googles-right-to-sue-over-serp-scraping/568084/",
-      "summary": "SerpApi filed a motion to dismiss Google's DMCA lawsuit, arguing the search giant lacks standing to invoke copyright law over publicly visible search results. \n\nThe post <a href=\"https://www.searchenginejournal.com/serpapi-challenges-googles-right-to-sue-over-serp-scraping/568084/\">SerpApi Challenges Google&#8217;s Right To Sue Over SERP Scraping</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-23T18:02:28+00:00",
-      "fetched": "2026-02-23T21:35:18.549161+00:00"
-    },
-    {
-      "id": "a6bd4e32-ab45-429e-a4be-3b07d80ad8b1",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "4 Sites That Recovered From Google\u2019s December 2025 Core Update \u2013 What They Changed via @sejournal, @marie_haynes",
-      "link": "https://www.searchenginejournal.com/4-sites-that-recovered-from-googles-december-2025-core-update/567960/",
-      "summary": "Discover how the December 2025 core update impacted 4 sites and the factors that contributed to their improvement.\n\nThe post <a href=\"https://www.searchenginejournal.com/4-sites-that-recovered-from-googles-december-2025-core-update/567960/\">4 Sites That Recovered From Google&#8217;s December 2025 Core Update \u2013 What They Changed</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-23T14:30:06+00:00",
-      "fetched": "2026-02-23T21:35:18.549182+00:00"
     }
   ],
-  "last_updated": "2026-02-26T21:23:54.912907+00:00"
+  "last_updated": "2026-02-27T21:19:48.402706+00:00"
 }
