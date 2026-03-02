@@ -1,6 +1,105 @@
 {
   "articles": [
     {
+      "id": "9a1be150-fe36-4831-afe5-864aa6240d21",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Clarifies How It Picks Thumbnails For Search, Discover via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-clarifies-how-it-picks-thumbnails-for-search-discover/568628/",
+      "summary": "Google updated its Image SEO and Discover documentation to explain how schema markup and the og:image meta tag influence thumbnail selection.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-clarifies-how-it-picks-thumbnails-for-search-discover/568628/\">Google Clarifies How It Picks Thumbnails For Search, Discover</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-02T18:20:29+00:00",
+      "fetched": "2026-03-02T21:23:48.072266+00:00"
+    },
+    {
+      "id": "a79c8527-9105-46de-ba11-ac18cdf10322",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Information Retrieval Part 4 (Sigh): Grounding & RAG",
+      "link": "https://www.searchenginejournal.com/information-retrieval-part-4-sigh-grounding-rag/568371/",
+      "summary": "Explore information retrieval grounding and retrieval augmented generation to enhance LLM outputs with trustworthy sources.\n\nThe post <a href=\"https://www.searchenginejournal.com/information-retrieval-part-4-sigh-grounding-rag/568371/\">Information Retrieval Part 4 (Sigh): Grounding &#038; RAG</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-02T14:30:00+00:00",
+      "fetched": "2026-03-02T21:23:48.072290+00:00"
+    },
+    {
+      "id": "988a66b8-ef54-4145-a417-adc5192aa535",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "YouTube\u2019s AI Slop Problem And How Marketers Can Compete via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/youtubes-ai-slop-problem-and-how-marketers-can-compete/567297/",
+      "summary": "\"AI-generated slop\u201d now accounts for 21% of Shorts shown to new users. Here\u2019s what the data says about monetization, trust, and long-term organic strategy.\n\nThe post <a href=\"https://www.searchenginejournal.com/youtubes-ai-slop-problem-and-how-marketers-can-compete/567297/\">YouTube&#8217;s AI Slop Problem And How Marketers Can Compete</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-02T14:00:33+00:00",
+      "fetched": "2026-03-02T21:23:48.072309+00:00"
+    },
+    {
+      "id": "30649fbb-fbff-463a-a7cb-c90e75bec3ca",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why SEO Now Depends on Citation-Worthy Content [Webinar] via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/why-seo-now-depends-on-citation-worthy-content/567892/",
+      "summary": "How Content Marketing Drives Visibility in AI Search How do you get your content to be the kind that LLMs recognize, reference, and recommend? AI-powered search experiences like ChatGPT, Gemini, Copilot, and Google AI Overviews are changing how people discover brands and content. Instead of blue links on a results page, these systems generate answers that selectively cite the brands and sources they trust. This shift is creating both opportunities and risks for many marketers\u2026\u00a0 Traditional SEO s",
+      "published": "2026-03-02T13:47:13+00:00",
+      "fetched": "2026-03-02T21:23:48.072333+00:00"
+    },
+    {
+      "id": "5070f0c9-4cb7-4eda-af58-a06d0a1a3fe3",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why Open Source Projects Are Run By Benevolent Dictators For Life via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/why-open-source-projects-are-run-by-benevolent-dictators-for-life/568532/",
+      "summary": "It might come as a surprise that some open source projects like WordPress are said to be run by benevolent dictators for life.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-open-source-projects-are-run-by-benevolent-dictators-for-life/568532/\">Why Open Source Projects Are Run By Benevolent Dictators For Life</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-02T10:55:31+00:00",
+      "fetched": "2026-03-02T21:23:48.072349+00:00"
+    },
+    {
+      "id": "a9de3fcc-9bdc-4bd7-ae18-10d08977da03",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "New \u201cVoiceprint\u201d Claude Plugin Clones Your Writing Style via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/new-voiceprint-claude-plugin-clones-your-writing-style/568518/",
+      "summary": "Voiceprint Claude plugin clones your writing style based on five writing samples. Works with any SKILL.md-compatible tool.\n\nThe post <a href=\"https://www.searchenginejournal.com/new-voiceprint-claude-plugin-clones-your-writing-style/568518/\">New &#8220;Voiceprint&#8221; Claude Plugin Clones Your Writing Style</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-02T10:37:45+00:00",
+      "fetched": "2026-03-02T21:23:48.072364+00:00"
+    },
+    {
+      "id": "4cc86e5d-47e2-4620-a7e0-feef5e9b8469",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Report Shows WordPress Sites Are Getting Hacked At Faster Rate via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/report-shows-wordpress-sites-are-getting-hacked-at-faster-rate/568510/",
+      "summary": "Patchstack's state of WordPress Security report shows more sites get hacked within hours of vulnerability disclosure\n\nThe post <a href=\"https://www.searchenginejournal.com/report-shows-wordpress-sites-are-getting-hacked-at-faster-rate/568510/\">Report Shows WordPress Sites Are Getting Hacked At Faster Rate</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-02T10:17:34+00:00",
+      "fetched": "2026-03-02T21:23:48.072379+00:00"
+    },
+    {
+      "id": "ef1ca452-4f27-4314-bfbb-98fa4cba0301",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "What AI Sees When It Visits Your Website (And How To Fix It)",
+      "link": "https://www.searchenginejournal.com/how-ai-crawls-sites-scrunchai-spa/568166/",
+      "summary": "Learn how AI bots interpret your content and affect customer perceptions. Optimize your website for the evolving world of AI.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-ai-crawls-sites-scrunchai-spa/568166/\">What AI Sees When It Visits Your Website (And How To Fix It)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-02T06:00:40+00:00",
+      "fetched": "2026-03-02T21:23:48.072402+00:00"
+    },
+    {
+      "id": "eb8753b7-e480-4cf7-84d8-0fe6adc76218",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google AI Overviews Surges Across 9 Industries via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-ai-overviews-surges-across-9-industries/568448/",
+      "summary": "Google AI Overviews shows fast growth across nine industries, now triggering AI Search in nearly half of all search queries.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ai-overviews-surges-across-9-industries/568448/\">Google AI Overviews Surges Across 9 Industries</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-01T21:04:08+00:00",
+      "fetched": "2026-03-02T21:23:48.072418+00:00"
+    },
+    {
       "id": "1823e2b5-469f-4555-ad8c-909ddeb9001c",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -120,106 +219,7 @@
       "summary": "Join Jeff Hirz as he unveils key insights on growth and efficiency based on data from 1,000 businesses planning for 2026.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-businesses-reveal-about-growth/566414/\">Marketing &#038; Growth Priorities for 2026: Strategy Signals From 1,000 Businesses</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-02-26T12:45:17+00:00",
       "fetched": "2026-02-26T21:23:54.159107+00:00"
-    },
-    {
-      "id": "b81a3630-7e02-4bb5-9809-d2b33a92df84",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google To Test Search Changes In EU After DMA Charges, Per Report via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-to-test-search-changes-in-eu-after-dma-charges-per-report/568275/",
-      "summary": "Google is preparing to test search result changes in the EU that would show rival vertical search services alongside its own results\n\nThe post <a href=\"https://www.searchenginejournal.com/google-to-test-search-changes-in-eu-after-dma-charges-per-report/568275/\">Google To Test Search Changes In EU After DMA Charges, Per Report</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-26T11:36:58+00:00",
-      "fetched": "2026-02-26T21:23:54.159130+00:00"
-    },
-    {
-      "id": "c2c39a73-c2d2-4304-8bec-cacd3af0f6d6",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "International PPC: Why Consistency Is So Hard To Maintain via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/navigating-complexities-international-ppc-working-with-agencies/543206/",
-      "summary": "Keep international PPC campaigns aligned with practical frameworks for consistency, localization, and multi-agency coordination.\n\nThe post <a href=\"https://www.searchenginejournal.com/navigating-complexities-international-ppc-working-with-agencies/543206/\">International PPC: Why Consistency Is So Hard To Maintain</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-26T03:15:48+00:00",
-      "fetched": "2026-02-26T21:23:54.159146+00:00"
-    },
-    {
-      "id": "7381f1fb-7100-463e-a2f4-041c92e98060",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Gen Z Preference For TikTok Over Google Drops 50%, Data Shows via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/gen-z-preference-for-tiktok-over-google-drops-50-data-shows/568267/",
-      "summary": "Survey data shows 49% of U.S. consumers have used TikTok for search, but Gen Z's TikTok-over-Google preference is dropping. \n\nThe post <a href=\"https://www.searchenginejournal.com/gen-z-preference-for-tiktok-over-google-drops-50-data-shows/568267/\">Gen Z Preference For TikTok Over Google Drops 50%, Data Shows</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-25T21:58:58+00:00",
-      "fetched": "2026-02-26T21:23:54.159171+00:00"
-    },
-    {
-      "id": "07a10a16-3079-480f-b2be-d5a78e80871e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Anthropic\u2019s Claude Bots Make Robots.txt Decisions More Granular via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/anthropics-claude-bots-make-robots-txt-decisions-more-granular/568253/",
-      "summary": "Anthropic updated its crawler documentation to list separate Claude bots for training, search indexing, and user requests, with visibility tradeoffs when blocked.\n\nThe post <a href=\"https://www.searchenginejournal.com/anthropics-claude-bots-make-robots-txt-decisions-more-granular/568253/\">Anthropic\u2019s Claude Bots Make Robots.txt Decisions More Granular</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-25T20:20:17+00:00",
-      "fetched": "2026-02-25T21:26:55.024668+00:00"
-    },
-    {
-      "id": "b02f328d-34f0-4742-8db6-bc3cdd74b6cc",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The 10 Best PPC Ad Networks via @sejournal, @LisaRocksSEM",
-      "link": "https://www.searchenginejournal.com/the-10-best-ppc-ad-networks/563331/",
-      "summary": "Where should you invest paid media dollars in 2026? Here's a data-driven look at reach, targeting depth, and automation across 10 major ad platforms.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-10-best-ppc-ad-networks/563331/\">The 10 Best PPC Ad Networks</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-25T13:45:15+00:00",
-      "fetched": "2026-02-25T21:26:55.024694+00:00"
-    },
-    {
-      "id": "fffd7a7a-b331-4f29-894e-c317d9c7dca5",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "New Platforms Won\u2019t Save Social Media: Here\u2019s What\u2019s Actually Shifting via @sejournal, @rio_seo",
-      "link": "https://www.searchenginejournal.com/new-platforms-wont-save-social-media-heres-whats-actually-shifting/565182/",
-      "summary": "Social media\u2019s next chapter moves beyond feeds and platforms toward decision-making moments powered by behavior, trust, and machine interpretation.\n\nThe post <a href=\"https://www.searchenginejournal.com/new-platforms-wont-save-social-media-heres-whats-actually-shifting/565182/\">New Platforms Won&#8217;t Save Social Media: Here&#8217;s What&#8217;s Actually Shifting</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-25T13:00:24+00:00",
-      "fetched": "2026-02-25T21:26:55.024715+00:00"
-    },
-    {
-      "id": "ee4de54d-20bb-47fc-83d0-e7b045c7d690",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The New Off-Page SEO Playbook: Links, Mentions & AI Visibility via @sejournal, @lorenbaker",
-      "link": "https://www.searchenginejournal.com/why-off-page-seo-still-shapes-visibility/565916/",
-      "summary": "Explore off-page SEO strategies to boost your rankings and enhance brand visibility in AI-driven search results.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-off-page-seo-still-shapes-visibility/565916/\">The New Off-Page SEO Playbook: Links, Mentions &#038; AI Visibility</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-25T12:45:51+00:00",
-      "fetched": "2026-02-25T21:26:55.024738+00:00"
-    },
-    {
-      "id": "ff103fb0-32cd-49fb-b900-8365af5c68ac",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Turn Google\u2019s Performance Max Into An Ecommerce Growth Engine",
-      "link": "https://www.searchenginejournal.com/ecommerce-performance-max-guide-channable-spa/565185/",
-      "summary": "Take charge of your advertising with Performance Max. Learn to segment products and enhance your campaign performance effectively.\n\nThe post <a href=\"https://www.searchenginejournal.com/ecommerce-performance-max-guide-channable-spa/565185/\">How To Turn Google&#8217;s Performance Max Into An Ecommerce Growth Engine</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-24T14:41:09+00:00",
-      "fetched": "2026-02-24T21:25:08.265082+00:00"
-    },
-    {
-      "id": "f838845d-ad6f-400c-9328-8c91e8bba3f2",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI-SEO Is A Change Management Problem via @sejournal, @Kevin_Indig",
-      "link": "https://www.searchenginejournal.com/ai-seo-is-a-change-management-problem/568103/",
-      "summary": "Don\u2019t let AI SEO fail in the boardroom. Align leadership, metrics, and ownership before scaling tactics.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-seo-is-a-change-management-problem/568103/\">AI-SEO Is A Change Management Problem</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-24T14:30:21+00:00",
-      "fetched": "2026-02-24T21:25:08.265109+00:00"
     }
   ],
-  "last_updated": "2026-03-01T21:13:33.920867+00:00"
+  "last_updated": "2026-03-02T21:23:48.879958+00:00"
 }
