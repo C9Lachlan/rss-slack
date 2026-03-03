@@ -1,6 +1,116 @@
 {
   "articles": [
     {
+      "id": "8ed71248-472c-4344-92e3-f540c9e79ba6",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Builderius WordPress Page Builder Integrates Claude AI via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/builderius-wordpress-page-builder-integrates-claude-ai/568737/",
+      "summary": "Builderius page builder announced an experimental AI integration that enables it to apply changes inside the builder.\n\nThe post <a href=\"https://www.searchenginejournal.com/builderius-wordpress-page-builder-integrates-claude-ai/568737/\">Builderius WordPress Page Builder Integrates Claude AI</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-03T15:03:45+00:00",
+      "fetched": "2026-03-03T21:24:53.490698+00:00"
+    },
+    {
+      "id": "c1780387-ebab-43e2-a485-349b3e9eda07",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Build An AI SEO Strategy That Outlasts Tactics via @sejournal, @Kevin_Indig",
+      "link": "https://www.searchenginejournal.com/how-to-build-an-ai-seo-strategy-that-outlasts-tactics/568661/",
+      "summary": "If your AEO plan is just a tactic list, it won\u2019t survive scrutiny. Here\u2019s how to build a durable AI SEO strategy.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-build-an-ai-seo-strategy-that-outlasts-tactics/568661/\">How To Build An AI SEO Strategy That Outlasts Tactics</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-03T14:30:07+00:00",
+      "fetched": "2026-03-03T21:24:53.490725+00:00"
+    },
+    {
+      "id": "729d6cab-09af-44c1-9fd3-5863c84d17fe",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "WordPress Calendar Plugin Vulnerability Affects Up To 100k Sites via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/wordpress-calendar-plugin-vulnerability-affects-up-to-100k-sites/568728/",
+      "summary": "Up to a hundred thousands websites affected by WordPress calendar plugin vulnerability.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-calendar-plugin-vulnerability-affects-up-to-100k-sites/568728/\">WordPress Calendar Plugin Vulnerability Affects Up To 100k Sites</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-03T13:39:32+00:00",
+      "fetched": "2026-03-03T21:24:53.490745+00:00"
+    },
+    {
+      "id": "2d3991a0-ef91-4ec9-8a8f-9a7f8bfea586",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why Atlas & Comet Are Unlikely To Win The AI Browser War",
+      "link": "https://www.searchenginejournal.com/why-atlas-comet-are-unlikely-to-win-the-ai-browser-war/567358/",
+      "summary": "New AI browsers from OpenAI and Perplexity aren't about to replace Chrome any time soon. But that doesn\u2019t mean we shouldn\u2019t take notice.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-atlas-comet-are-unlikely-to-win-the-ai-browser-war/567358/\">Why Atlas &#038; Comet Are Unlikely To Win The AI Browser War</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-03T13:30:18+00:00",
+      "fetched": "2026-03-03T21:24:53.490768+00:00"
+    },
+    {
+      "id": "02520143-c81f-4146-8621-554d1424a18f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Page Builder by SiteOrigin WordPress Vulnerability Affects Up To 500k Sites via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/page-builder-by-siteorigin-wordpress-vulnerability-affects-up-to-500k-sites/568720/",
+      "summary": "Page Builder by SiteOrigin WordPress vulnerability rated 8.8/10 affects up to 500,000 websites.\n\nThe post <a href=\"https://www.searchenginejournal.com/page-builder-by-siteorigin-wordpress-vulnerability-affects-up-to-500k-sites/568720/\">Page Builder by SiteOrigin WordPress Vulnerability Affects Up To 500k Sites</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-03T13:04:11+00:00",
+      "fetched": "2026-03-03T21:24:53.490786+00:00"
+    },
+    {
+      "id": "3eb34ab2-1387-4122-b918-42b355e5cf47",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "WordPress User Registration & Membership Plugin Vulnerability via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/wordpress-user-registration-membership-plugin-vulnerability/568716/",
+      "summary": "Critical vulnerability in WordPress User Registration & Membership plugin enables unauthenticated attackers to obtain administrator role.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-user-registration-membership-plugin-vulnerability/568716/\">WordPress User Registration &#038; Membership Plugin Vulnerability</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-03T12:16:15+00:00",
+      "fetched": "2026-03-03T21:24:53.490803+00:00"
+    },
+    {
+      "id": "42eaa4ba-6559-4618-b9bd-9b5c3e9af3e7",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Reddit Marketing in 2026: What Changed & What Actually Works Now via @sejournal, @brentcsutoras",
+      "link": "https://www.searchenginejournal.com/make-2026-the-year-your-business-thrives-on-reddit-webinar/566936/",
+      "summary": "Whether you\u2019re actively using Reddit or still deciding if you should, your customers already made the choice. Buyer behaviors have shifted. Search traffic has declined. The customer journey is fragmented. Decision-making has moved to places where we marketers no longer control the narrative. In this webinar, we explored how modern teams are using Reddit as a strategic, measurable channel in 2026, whether you\u2019re starting from zero or scaling an existing presence. Reddit didn\u2019t get harder. It got ",
+      "published": "2026-03-03T12:00:19+00:00",
+      "fetched": "2026-03-03T21:24:53.490823+00:00"
+    },
+    {
+      "id": "74a5cdae-6d53-4966-bbae-4f2ed09f6e6f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Titans And MIRAS: Significant Advancement In Long-Context AI via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/googles-titans-and-miras-significant-advancement-in-long-context-ai/568688/",
+      "summary": "Google's Titans architecture and MIRAS framework enable AI to handle massive amounts of data and work faster.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-titans-and-miras-significant-advancement-in-long-context-ai/568688/\">Google&#8217;s Titans And MIRAS: Significant Advancement In Long-Context AI</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-03T10:17:47+00:00",
+      "fetched": "2026-03-03T21:24:53.490849+00:00"
+    },
+    {
+      "id": "03d91969-e3d5-4f75-8aef-951b8449654c",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s AI Generated Landing Page Patent Is Limited To Shopping & Ads via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-ai-generated-landing-page-patent-is-limited-to-shopping-ads/568650/",
+      "summary": "Google's AI landing page generator patent is limited to low conversion shopping pages, product feeds and advertising.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ai-generated-landing-page-patent-is-limited-to-shopping-ads/568650/\">Google&#8217;s AI Generated Landing Page Patent Is Limited To Shopping &#038; Ads</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-03T03:43:55+00:00",
+      "fetched": "2026-03-03T21:24:53.490866+00:00"
+    },
+    {
+      "id": "d714063b-720a-4966-b7ef-aba7e8b2f0dc",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google AI Overview Citations From Top-Ranking Pages Drop Sharply via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-ai-overview-citations-from-top-ranking-pages-drop-sharply/568637/",
+      "summary": "New data finds AI Overviews often cite sources beyond page one. Fan-out queries may help explain why, and YouTube appears frequently in citations.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ai-overview-citations-from-top-ranking-pages-drop-sharply/568637/\">Google AI Overview Citations From Top-Ranking Pages Drop Sharply</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-02T21:36:41+00:00",
+      "fetched": "2026-03-03T21:24:53.490883+00:00"
+    },
+    {
       "id": "9a1be150-fe36-4831-afe5-864aa6240d21",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -109,117 +219,7 @@
       "summary": "Bing rewrote its webmaster guidelines to cover Copilot grounding, meta directive controls for AI answers, and a softened stance on AI-generated content. \n\nThe post <a href=\"https://www.searchenginejournal.com/bing-adds-geo-to-official-guidelines-expands-ai-abuse-definitions/568442/\">Bing Adds GEO To Official Guidelines, Expands AI Abuse Definitions</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-02-27T19:51:47+00:00",
       "fetched": "2026-02-27T21:19:47.526764+00:00"
-    },
-    {
-      "id": "4762bf67-d858-42a6-8767-351cc3433f07",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Discover Core Update Finishes Rolling Out via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/googles-discover-core-update-finishes-rolling-out/568413/",
-      "summary": "Google's February Discover core update is complete after a roughly 22-day rollout. Early data suggests fewer domains in top slots. \n\nThe post <a href=\"https://www.searchenginejournal.com/googles-discover-core-update-finishes-rolling-out/568413/\">Google&#8217;s Discover Core Update Finishes Rolling Out</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-27T13:25:15+00:00",
-      "fetched": "2026-02-27T21:19:47.526789+00:00"
-    },
-    {
-      "id": "e8ea75a4-6fc5-4a86-9a97-3bd7104e7c56",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Discover Core Update Data, Sitemap Tips & AI Risks \u2013 SEO Pulse via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-discover-core-update-data-sitemap-tips-ai-risks/568299/",
-      "summary": "This week's SEO Pulse highlights evolving AI link formats, cross-language sourcing biases in ChatGPT, and mounting pressure on traditional organic traffic.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-discover-core-update-data-sitemap-tips-ai-risks/568299/\">Discover Core Update Data, Sitemap Tips &#038; AI Risks \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-27T13:00:40+00:00",
-      "fetched": "2026-02-27T21:19:47.526810+00:00"
-    },
-    {
-      "id": "93af7030-0866-406c-ab99-6f9171044738",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Asset Guidance & Ad Scheduling Updates, Microsoft Negatives \u2013 PPC Pulse via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/ppc-pulse-googles-asset-guidance-ad-scheduling-updates-microsoft-negatives/568271/",
-      "summary": "This week's PPC Pulse recaps Google\u2019s evolving Search asset guidance, revised budget pacing behavior, and Microsoft\u2019s rollout of self-serve negative lists for PMax.\n\nThe post <a href=\"https://www.searchenginejournal.com/ppc-pulse-googles-asset-guidance-ad-scheduling-updates-microsoft-negatives/568271/\">Google&#8217;s Asset Guidance &#038; Ad Scheduling Updates, Microsoft Negatives \u2013 PPC Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-27T12:00:13+00:00",
-      "fetched": "2026-02-27T21:19:47.526834+00:00"
-    },
-    {
-      "id": "25838230-b530-4f06-841c-6f04bb3260f8",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Explains Why Its Crawler Ignores Your Resource Hints via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-explains-why-its-crawler-ignores-your-resource-hints/568321/",
-      "summary": "Google's Gary Illyes clarifies why resource hints do not influence Googlebot's crawling behavior, and notes that HTML validity is not a ranking factor.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-explains-why-its-crawler-ignores-your-resource-hints/568321/\">Google Explains Why Its Crawler Ignores Your Resource Hints</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-27T00:04:38+00:00",
-      "fetched": "2026-02-27T21:19:47.526852+00:00"
-    },
-    {
-      "id": "59f79df4-c202-41ea-b6dc-348ffbdaef32",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Joost de Valk Exits Federated WordPress Repository Project via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/joost-de-valk-exits-federated-wordpress-repository-project/568316/",
-      "summary": "Lack of support for an independent WordPress plugin and theme repository leads Joost de Valk to step away.\n\nThe post <a href=\"https://www.searchenginejournal.com/joost-de-valk-exits-federated-wordpress-repository-project/568316/\">Joost de Valk Exits Federated WordPress Repository Project</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-26T23:16:32+00:00",
-      "fetched": "2026-02-27T21:19:47.526868+00:00"
-    },
-    {
-      "id": "c0c0ac1a-5d3e-465e-8097-e16f2bdcf10e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "We\u2019re Bringing The SEJ Newsroom To You, Live [Free Event] via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/sej-live-with-newsroom-free-event-march11/568089/",
-      "summary": "We\u2019re bringing the SEJ newsroom to a screen near you. On March 11 from 12\u20133pm ET, we\u2019ve gathered our own search experts, alongside some very special guests, to help you master AI search visibility this year. This is SEJ Live, a new series we\u2019ve been building behind the scenes, and I couldn\u2019t be more excited to see it come to life. Here\u2019s why this matters right now: I\u2019m seeing a huge disconnect between leadership and the marketing teams doing the work. Leadership wants performance yesterday, but ",
-      "published": "2026-02-26T14:50:15+00:00",
-      "fetched": "2026-02-26T21:23:54.159022+00:00"
-    },
-    {
-      "id": "e63735f4-548f-4f31-821e-028e62ccbe10",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "When Google Is No Longer A Verb: Search Becoming Infrastructure via @sejournal, @DuaneForrester",
-      "link": "https://www.searchenginejournal.com/when-google-is-no-longer-a-verb-search-becoming-infrastructure/568135/",
-      "summary": "Search isn\u2019t disappearing, but the habit is changing. This article breaks down why agents are replacing browsing with delegation.\n\nThe post <a href=\"https://www.searchenginejournal.com/when-google-is-no-longer-a-verb-search-becoming-infrastructure/568135/\">When Google Is No Longer A Verb: Search Becoming Infrastructure</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-26T14:30:17+00:00",
-      "fetched": "2026-02-26T21:23:54.159049+00:00"
-    },
-    {
-      "id": "d632f5bc-ef52-40c0-b03a-3173534fd351",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How Researchers Reverse-Engineered LLMs For A Ranking Experiment via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/how-researchers-reverse-engineered-llms-for-a-ranking-experiment/568279/",
-      "summary": "Researchers compared two ways to improve rankings in LLMs: Shadow Model and Query-based solutions.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-researchers-reverse-engineered-llms-for-a-ranking-experiment/568279/\">How Researchers Reverse-Engineered LLMs For A Ranking Experiment</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-26T13:17:11+00:00",
-      "fetched": "2026-02-26T21:23:54.159067+00:00"
-    },
-    {
-      "id": "b3f9b93f-b4e6-426e-a015-cafc4fd7b223",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "From Visibility Engineering To Preference Engineering: The Rise Of The Infinite Tail via @sejournal, @TaylorDanRW",
-      "link": "https://www.searchenginejournal.com/visibility-enginerring-preference-engineering-the-infinite-tail/567557/",
-      "summary": "See why the infinite tail demands narrower focus, stronger entity signals, and deeper topical coverage.\n\nThe post <a href=\"https://www.searchenginejournal.com/visibility-enginerring-preference-engineering-the-infinite-tail/567557/\">From Visibility Engineering To Preference Engineering: The Rise Of The Infinite Tail</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-26T13:00:52+00:00",
-      "fetched": "2026-02-26T21:23:54.159089+00:00"
-    },
-    {
-      "id": "afa0bbb3-a86e-4857-8e38-b70344a8a3bf",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Marketing & Growth Priorities for 2026: Strategy Signals From 1,000 Businesses via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/what-businesses-reveal-about-growth/566414/",
-      "summary": "Join Jeff Hirz as he unveils key insights on growth and efficiency based on data from 1,000 businesses planning for 2026.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-businesses-reveal-about-growth/566414/\">Marketing &#038; Growth Priorities for 2026: Strategy Signals From 1,000 Businesses</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-26T12:45:17+00:00",
-      "fetched": "2026-02-26T21:23:54.159107+00:00"
     }
   ],
-  "last_updated": "2026-03-02T21:23:48.879958+00:00"
+  "last_updated": "2026-03-03T21:24:55.040535+00:00"
 }
