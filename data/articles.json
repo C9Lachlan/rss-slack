@@ -1,6 +1,83 @@
 {
   "articles": [
     {
+      "id": "422bea09-7ddd-4c7d-9f98-5ad6b4adf135",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Updates AI Mode Recipe Sites Results In Response To Backlash via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-updates-ai-mode-recipe-sites-results-in-response-to-backlash/568798/",
+      "summary": "Google updated AI Mode to change how it displays recipes and links to the creators\n\nThe post <a href=\"https://www.searchenginejournal.com/google-updates-ai-mode-recipe-sites-results-in-response-to-backlash/568798/\">Google Updates AI Mode Recipe Sites Results In Response To Backlash</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-04T19:11:38+00:00",
+      "fetched": "2026-03-04T21:24:26.269724+00:00"
+    },
+    {
+      "id": "083b5440-9365-4735-b06e-5498e9ff5313",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Zero Is A Lie",
+      "link": "https://www.searchenginejournal.com/google-zero-is-a-lie/568668/",
+      "summary": "Uncover the truth behind the Google Zero narrative and its implications for traffic from Google Search and Discover.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-zero-is-a-lie/568668/\">Google Zero Is A Lie</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-04T14:30:59+00:00",
+      "fetched": "2026-03-04T21:24:26.269756+00:00"
+    },
+    {
+      "id": "fb0aea0d-535f-4f14-bf06-7e2a0ad997d6",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why Most Enterprise SEO Operating Models Are Structurally Broken via @sejournal, @billhunt",
+      "link": "https://www.searchenginejournal.com/why-most-enterprise-seo-operating-models-are-structurally-broken/566075/",
+      "summary": "Redesign enterprise SEO from a downstream audit function into an embedded capability that shapes structure and eligibility.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-most-enterprise-seo-operating-models-are-structurally-broken/566075/\">Why Most Enterprise SEO Operating Models Are Structurally Broken</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-04T13:00:42+00:00",
+      "fetched": "2026-03-04T21:24:26.269776+00:00"
+    },
+    {
+      "id": "5bb192d1-78e9-4773-8132-888a9a17a834",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "SEO Vs. PPC Strategy: What\u2019s Right For Your Business? via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/seo-vs-ppc-strategy-whats-right-for-your-business/567778/",
+      "summary": "Decide where to invest by understanding how SEO and PPC truly scale, compete, and drive business growth differently.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-vs-ppc-strategy-whats-right-for-your-business/567778/\">SEO Vs. PPC Strategy: What&#8217;s Right For Your Business?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-04T12:45:47+00:00",
+      "fetched": "2026-03-04T21:24:26.269804+00:00"
+    },
+    {
+      "id": "413afdef-e573-4469-881b-e04cf8eb6549",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Data Reveals: What\u2019s Driving Local Rankings Now via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/what-the-data-shows-about-local-rankings/565920/",
+      "summary": "Enhance your understanding of local rankings with reputation signals. Join experts for a deep dive into local SEO strategies.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-the-data-shows-about-local-rankings/565920/\">The Data Reveals: What\u2019s Driving Local Rankings Now</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-04T12:00:27+00:00",
+      "fetched": "2026-03-04T21:24:26.269824+00:00"
+    },
+    {
+      "id": "64d9811d-4c11-4f15-bb8b-c9098a795620",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Yoast SEO\u2019s New Schema Aggregator Improves Entity Disambiguation via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/yoast-seos-new-schema-aggregator-improves-entity-disambiguation/568764/",
+      "summary": "Yoast SEO introduces a feature that consolidates site schema and disambiguates entities like authors, articles, products, and organizations.\n\nThe post <a href=\"https://www.searchenginejournal.com/yoast-seos-new-schema-aggregator-improves-entity-disambiguation/568764/\">Yoast SEO&#8217;s New Schema Aggregator Improves Entity Disambiguation</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-04T10:17:46+00:00",
+      "fetched": "2026-03-04T21:24:26.269842+00:00"
+    },
+    {
+      "id": "09d79fed-1a9d-4183-89fd-fcb6b671e81a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Seraphinite Accelerator WordPress Plugin Vulnerabilities Affect 60K Sites via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/seraphinite-accelerator-vulnerabilities/568755/",
+      "summary": "A warning was issued about two vulnerabilities affecting up to 60,000 installations of the Seraphinite Accelerator WordPress plugin. \n\nThe post <a href=\"https://www.searchenginejournal.com/seraphinite-accelerator-vulnerabilities/568755/\">Seraphinite Accelerator WordPress Plugin Vulnerabilities Affect 60K Sites</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-04T07:19:38+00:00",
+      "fetched": "2026-03-04T21:24:26.269859+00:00"
+    },
+    {
       "id": "8ed71248-472c-4344-92e3-f540c9e79ba6",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -142,84 +219,7 @@
       "summary": "\"AI-generated slop\u201d now accounts for 21% of Shorts shown to new users. Here\u2019s what the data says about monetization, trust, and long-term organic strategy.\n\nThe post <a href=\"https://www.searchenginejournal.com/youtubes-ai-slop-problem-and-how-marketers-can-compete/567297/\">YouTube&#8217;s AI Slop Problem And How Marketers Can Compete</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-03-02T14:00:33+00:00",
       "fetched": "2026-03-02T21:23:48.072309+00:00"
-    },
-    {
-      "id": "30649fbb-fbff-463a-a7cb-c90e75bec3ca",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why SEO Now Depends on Citation-Worthy Content [Webinar] via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/why-seo-now-depends-on-citation-worthy-content/567892/",
-      "summary": "How Content Marketing Drives Visibility in AI Search How do you get your content to be the kind that LLMs recognize, reference, and recommend? AI-powered search experiences like ChatGPT, Gemini, Copilot, and Google AI Overviews are changing how people discover brands and content. Instead of blue links on a results page, these systems generate answers that selectively cite the brands and sources they trust. This shift is creating both opportunities and risks for many marketers\u2026\u00a0 Traditional SEO s",
-      "published": "2026-03-02T13:47:13+00:00",
-      "fetched": "2026-03-02T21:23:48.072333+00:00"
-    },
-    {
-      "id": "5070f0c9-4cb7-4eda-af58-a06d0a1a3fe3",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why Open Source Projects Are Run By Benevolent Dictators For Life via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/why-open-source-projects-are-run-by-benevolent-dictators-for-life/568532/",
-      "summary": "It might come as a surprise that some open source projects like WordPress are said to be run by benevolent dictators for life.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-open-source-projects-are-run-by-benevolent-dictators-for-life/568532/\">Why Open Source Projects Are Run By Benevolent Dictators For Life</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-02T10:55:31+00:00",
-      "fetched": "2026-03-02T21:23:48.072349+00:00"
-    },
-    {
-      "id": "a9de3fcc-9bdc-4bd7-ae18-10d08977da03",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "New \u201cVoiceprint\u201d Claude Plugin Clones Your Writing Style via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/new-voiceprint-claude-plugin-clones-your-writing-style/568518/",
-      "summary": "Voiceprint Claude plugin clones your writing style based on five writing samples. Works with any SKILL.md-compatible tool.\n\nThe post <a href=\"https://www.searchenginejournal.com/new-voiceprint-claude-plugin-clones-your-writing-style/568518/\">New &#8220;Voiceprint&#8221; Claude Plugin Clones Your Writing Style</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-02T10:37:45+00:00",
-      "fetched": "2026-03-02T21:23:48.072364+00:00"
-    },
-    {
-      "id": "4cc86e5d-47e2-4620-a7e0-feef5e9b8469",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Report Shows WordPress Sites Are Getting Hacked At Faster Rate via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/report-shows-wordpress-sites-are-getting-hacked-at-faster-rate/568510/",
-      "summary": "Patchstack's state of WordPress Security report shows more sites get hacked within hours of vulnerability disclosure\n\nThe post <a href=\"https://www.searchenginejournal.com/report-shows-wordpress-sites-are-getting-hacked-at-faster-rate/568510/\">Report Shows WordPress Sites Are Getting Hacked At Faster Rate</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-02T10:17:34+00:00",
-      "fetched": "2026-03-02T21:23:48.072379+00:00"
-    },
-    {
-      "id": "ef1ca452-4f27-4314-bfbb-98fa4cba0301",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "What AI Sees When It Visits Your Website (And How To Fix It)",
-      "link": "https://www.searchenginejournal.com/how-ai-crawls-sites-scrunchai-spa/568166/",
-      "summary": "Learn how AI bots interpret your content and affect customer perceptions. Optimize your website for the evolving world of AI.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-ai-crawls-sites-scrunchai-spa/568166/\">What AI Sees When It Visits Your Website (And How To Fix It)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-02T06:00:40+00:00",
-      "fetched": "2026-03-02T21:23:48.072402+00:00"
-    },
-    {
-      "id": "eb8753b7-e480-4cf7-84d8-0fe6adc76218",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google AI Overviews Surges Across 9 Industries via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-ai-overviews-surges-across-9-industries/568448/",
-      "summary": "Google AI Overviews shows fast growth across nine industries, now triggering AI Search in nearly half of all search queries.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ai-overviews-surges-across-9-industries/568448/\">Google AI Overviews Surges Across 9 Industries</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-01T21:04:08+00:00",
-      "fetched": "2026-03-02T21:23:48.072418+00:00"
-    },
-    {
-      "id": "1823e2b5-469f-4555-ad8c-909ddeb9001c",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Bing Adds GEO To Official Guidelines, Expands AI Abuse Definitions via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/bing-adds-geo-to-official-guidelines-expands-ai-abuse-definitions/568442/",
-      "summary": "Bing rewrote its webmaster guidelines to cover Copilot grounding, meta directive controls for AI answers, and a softened stance on AI-generated content. \n\nThe post <a href=\"https://www.searchenginejournal.com/bing-adds-geo-to-official-guidelines-expands-ai-abuse-definitions/568442/\">Bing Adds GEO To Official Guidelines, Expands AI Abuse Definitions</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-02-27T19:51:47+00:00",
-      "fetched": "2026-02-27T21:19:47.526764+00:00"
     }
   ],
-  "last_updated": "2026-03-03T21:24:55.040535+00:00"
+  "last_updated": "2026-03-04T21:24:26.939562+00:00"
 }
