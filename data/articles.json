@@ -1,6 +1,72 @@
 {
   "articles": [
     {
+      "id": "73dbd73a-3913-4f2c-8392-1f97fcf754f9",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "What SMEC\u2019s Data Reveals About AI Max Performance via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/what-smecs-data-reveals-about-ai-max-performance/568866/",
+      "summary": "New SMEC study analyzes AI Max in Google Ads Search campaigns, showing a 13% conversion value lift but higher CPA and unpredictable ROAS results.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-smecs-data-reveals-about-ai-max-performance/568866/\">What SMEC\u2019s Data Reveals About AI Max Performance</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-05T18:36:51+00:00",
+      "fetched": "2026-03-05T21:24:06.188597+00:00"
+    },
+    {
+      "id": "29e8670b-c9fd-47be-a9f0-12d9f0508f9c",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Verified Source Pack Agents Trust First via @sejournal, @DuaneForrester",
+      "link": "https://www.searchenginejournal.com/the-verified-source-pack-agents-trust-first/568506/",
+      "summary": "Technical SEO is evolving from crawl hygiene to truth packaging, and this article details the next infrastructure layer.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-verified-source-pack-agents-trust-first/568506/\">The Verified Source Pack Agents Trust First</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-05T14:30:51+00:00",
+      "fetched": "2026-03-05T21:24:06.188623+00:00"
+    },
+    {
+      "id": "1373694c-2abd-498e-923c-8b9ee11e09e6",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why Google Discover Is No Longer Just For Publishers via @sejournal, @theshelleywalsh",
+      "link": "https://www.searchenginejournal.com/why-google-discover-is-no-longer-just-for-publishers/568777/",
+      "summary": "Clara Soteras joins Shelley Walsh to explain how publishers and brands can use Google Discover strategically, and why relying on it alone is risky.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-google-discover-is-no-longer-just-for-publishers/568777/\">Why Google Discover Is No Longer Just For Publishers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-05T13:30:35+00:00",
+      "fetched": "2026-03-05T21:24:06.188643+00:00"
+    },
+    {
+      "id": "9ae085fc-3420-4b4b-9f03-1c5656ccb3b4",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "If AI Can\u2019t Read Your CMS, It Can\u2019t Recommend Your Brand [Webinar] via @sejournal, @lorenbaker",
+      "link": "https://www.searchenginejournal.com/if-ai-cant-read-your-cms-it-cant-recommend-your-brand/568601/",
+      "summary": "A Practical Audit for Marketing Leaders Using Enterprise-Level Content Management Systems (CMS) AI-driven search is not a future consideration. It is already shaping how brands are discovered, evaluated, and chosen.\u00a0 Yet many CMS platforms were built for a different era of search, one focused on pages and rankings rather than structured content and machine interpretation. If your CMS cannot clearly communicate meaning to AI systems, your visibility is at risk long before a customer ever sees you",
+      "published": "2026-03-05T11:30:05+00:00",
+      "fetched": "2026-03-05T21:24:06.188669+00:00"
+    },
+    {
+      "id": "e5ff00c5-46eb-4b5b-a3dd-4e7afd5f47f1",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Removes JavaScript SEO Warning, Says It\u2019s Outdated via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-removes-javascript-seo-warning-says-its-outdated/568829/",
+      "summary": "Google removed its JavaScript accessibility guidance from help documents, saying the advice is outdated and noting it has rendered JavaScript for years.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-removes-javascript-seo-warning-says-its-outdated/568829/\">Google Removes JavaScript SEO Warning, Says It&#8217;s Outdated</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-05T02:36:05+00:00",
+      "fetched": "2026-03-05T21:24:06.188688+00:00"
+    },
+    {
+      "id": "64c4bb68-b10b-4aad-96d0-a063e1e52a9b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "WordPress Releases AI Plugins For Anthropic Claude, Google Gemini, And OpenAI via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/wordpress-releases-ai-plugins-for-anthropic-claude-google-gemini-and-openai/568822/",
+      "summary": "WordPress releases three plugins for integrating Claude, Gemini, or OpenAI into websites\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-releases-ai-plugins-for-anthropic-claude-google-gemini-and-openai/568822/\">WordPress Releases AI Plugins For Anthropic Claude, Google Gemini, And OpenAI</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-04T23:44:40+00:00",
+      "fetched": "2026-03-05T21:24:06.188706+00:00"
+    },
+    {
       "id": "422bea09-7ddd-4c7d-9f98-5ad6b4adf135",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -153,73 +219,7 @@
       "summary": "Whether you\u2019re actively using Reddit or still deciding if you should, your customers already made the choice. Buyer behaviors have shifted. Search traffic has declined. The customer journey is fragmented. Decision-making has moved to places where we marketers no longer control the narrative. In this webinar, we explored how modern teams are using Reddit as a strategic, measurable channel in 2026, whether you\u2019re starting from zero or scaling an existing presence. Reddit didn\u2019t get harder. It got ",
       "published": "2026-03-03T12:00:19+00:00",
       "fetched": "2026-03-03T21:24:53.490823+00:00"
-    },
-    {
-      "id": "74a5cdae-6d53-4966-bbae-4f2ed09f6e6f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Titans And MIRAS: Significant Advancement In Long-Context AI via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/googles-titans-and-miras-significant-advancement-in-long-context-ai/568688/",
-      "summary": "Google's Titans architecture and MIRAS framework enable AI to handle massive amounts of data and work faster.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-titans-and-miras-significant-advancement-in-long-context-ai/568688/\">Google&#8217;s Titans And MIRAS: Significant Advancement In Long-Context AI</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-03T10:17:47+00:00",
-      "fetched": "2026-03-03T21:24:53.490849+00:00"
-    },
-    {
-      "id": "03d91969-e3d5-4f75-8aef-951b8449654c",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s AI Generated Landing Page Patent Is Limited To Shopping & Ads via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-ai-generated-landing-page-patent-is-limited-to-shopping-ads/568650/",
-      "summary": "Google's AI landing page generator patent is limited to low conversion shopping pages, product feeds and advertising.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ai-generated-landing-page-patent-is-limited-to-shopping-ads/568650/\">Google&#8217;s AI Generated Landing Page Patent Is Limited To Shopping &#038; Ads</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-03T03:43:55+00:00",
-      "fetched": "2026-03-03T21:24:53.490866+00:00"
-    },
-    {
-      "id": "d714063b-720a-4966-b7ef-aba7e8b2f0dc",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google AI Overview Citations From Top-Ranking Pages Drop Sharply via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-ai-overview-citations-from-top-ranking-pages-drop-sharply/568637/",
-      "summary": "New data finds AI Overviews often cite sources beyond page one. Fan-out queries may help explain why, and YouTube appears frequently in citations.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ai-overview-citations-from-top-ranking-pages-drop-sharply/568637/\">Google AI Overview Citations From Top-Ranking Pages Drop Sharply</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-02T21:36:41+00:00",
-      "fetched": "2026-03-03T21:24:53.490883+00:00"
-    },
-    {
-      "id": "9a1be150-fe36-4831-afe5-864aa6240d21",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Clarifies How It Picks Thumbnails For Search, Discover via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-clarifies-how-it-picks-thumbnails-for-search-discover/568628/",
-      "summary": "Google updated its Image SEO and Discover documentation to explain how schema markup and the og:image meta tag influence thumbnail selection.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-clarifies-how-it-picks-thumbnails-for-search-discover/568628/\">Google Clarifies How It Picks Thumbnails For Search, Discover</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-02T18:20:29+00:00",
-      "fetched": "2026-03-02T21:23:48.072266+00:00"
-    },
-    {
-      "id": "a79c8527-9105-46de-ba11-ac18cdf10322",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Information Retrieval Part 4 (Sigh): Grounding & RAG",
-      "link": "https://www.searchenginejournal.com/information-retrieval-part-4-sigh-grounding-rag/568371/",
-      "summary": "Explore information retrieval grounding and retrieval augmented generation to enhance LLM outputs with trustworthy sources.\n\nThe post <a href=\"https://www.searchenginejournal.com/information-retrieval-part-4-sigh-grounding-rag/568371/\">Information Retrieval Part 4 (Sigh): Grounding &#038; RAG</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-02T14:30:00+00:00",
-      "fetched": "2026-03-02T21:23:48.072290+00:00"
-    },
-    {
-      "id": "988a66b8-ef54-4145-a417-adc5192aa535",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "YouTube\u2019s AI Slop Problem And How Marketers Can Compete via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/youtubes-ai-slop-problem-and-how-marketers-can-compete/567297/",
-      "summary": "\"AI-generated slop\u201d now accounts for 21% of Shorts shown to new users. Here\u2019s what the data says about monetization, trust, and long-term organic strategy.\n\nThe post <a href=\"https://www.searchenginejournal.com/youtubes-ai-slop-problem-and-how-marketers-can-compete/567297/\">YouTube&#8217;s AI Slop Problem And How Marketers Can Compete</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-02T14:00:33+00:00",
-      "fetched": "2026-03-02T21:23:48.072309+00:00"
     }
   ],
-  "last_updated": "2026-03-04T21:24:26.939562+00:00"
+  "last_updated": "2026-03-05T21:24:08.263410+00:00"
 }
