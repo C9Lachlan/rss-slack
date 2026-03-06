@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "0ab4b34d-b7c7-45d9-9cc3-373c37cd5bef",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google AI Mode Cites Itself More Often, With More Organic Links via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-ai-mode-cites-itself-more-often-with-more-organic-links/568955/",
+      "summary": "Google's AI Mode self-citations tripled in nine months. SE Ranking data shows that more links now lead to organic search results, not business profiles.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ai-mode-cites-itself-more-often-with-more-organic-links/568955/\">Google AI Mode Cites Itself More Often, With More Organic Links</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-06T16:48:16+00:00",
+      "fetched": "2026-03-06T21:20:01.167288+00:00"
+    },
+    {
+      "id": "375b4286-54ba-497f-acc2-5f843ec624e8",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AIO Citations Diverge From Rankings, Bing Rewrites Rules \u2013 SEO Pulse via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/seo-pulse-aio-citations-diverge-from-rankings-bing-rewrites-rules/568881/",
+      "summary": "In SEO Pulse: AI Overview citations drift further from traditional rankings as AI search expands and platforms clarify how content appears in AI answers.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-aio-citations-diverge-from-rankings-bing-rewrites-rules/568881/\">AIO Citations Diverge From Rankings, Bing Rewrites Rules \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-06T13:00:17+00:00",
+      "fetched": "2026-03-06T21:20:01.167314+00:00"
+    },
+    {
+      "id": "6deb86a6-3cc9-4b5f-9b1c-18702faae15b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Max Brand Controls Expand, VRC Non-Skip Ads Go Global \u2013 PPC Pulse via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/ppc-pulse-ai-max-brand-controls-expand-vrc-non-skip-ads-go-global/568890/",
+      "summary": "AI copy guardrails and expanded YouTube non-skip video formats headline this week\u2019s Google Ads updates in PPC Pulse.\n\nThe post <a href=\"https://www.searchenginejournal.com/ppc-pulse-ai-max-brand-controls-expand-vrc-non-skip-ads-go-global/568890/\">AI Max Brand Controls Expand, VRC Non-Skip Ads Go Global \u2013 PPC Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-06T11:45:34+00:00",
+      "fetched": "2026-03-06T21:20:01.167334+00:00"
+    },
+    {
+      "id": "90ce7054-78a9-4034-9c01-8019bfff8348",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Says Disavow Links If You\u2019re Conflicted And Need To Be Sure via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-says-disavow-links/568928/",
+      "summary": "Google's John Mueller confirmed that most sites don't need to use a disavow file but if you need to be sure, do it.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-says-disavow-links/568928/\">Google Says Disavow Links If You&#8217;re Conflicted And Need To Be Sure</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-06T11:13:15+00:00",
+      "fetched": "2026-03-06T21:20:01.167362+00:00"
+    },
+    {
+      "id": "de0904cf-c05d-45df-896f-990c5accd10b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "NanoClaw Creator Loses SEO Battle To Impostor Website via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/nanoclaw-creator-loses-seo-battle-to-impostor-website/568885/",
+      "summary": "NanoClaw's creator says Google ranks a fake website above his project's real site despite 18K GitHub stars, press coverage, and structured data setup.\n\nThe post <a href=\"https://www.searchenginejournal.com/nanoclaw-creator-loses-seo-battle-to-impostor-website/568885/\">NanoClaw Creator Loses SEO Battle To Impostor Website</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-05T23:57:02+00:00",
+      "fetched": "2026-03-06T21:20:01.167381+00:00"
+    },
+    {
       "id": "73dbd73a-3913-4f2c-8392-1f97fcf754f9",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -164,62 +219,7 @@
       "summary": "If your AEO plan is just a tactic list, it won\u2019t survive scrutiny. Here\u2019s how to build a durable AI SEO strategy.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-build-an-ai-seo-strategy-that-outlasts-tactics/568661/\">How To Build An AI SEO Strategy That Outlasts Tactics</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-03-03T14:30:07+00:00",
       "fetched": "2026-03-03T21:24:53.490725+00:00"
-    },
-    {
-      "id": "729d6cab-09af-44c1-9fd3-5863c84d17fe",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "WordPress Calendar Plugin Vulnerability Affects Up To 100k Sites via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/wordpress-calendar-plugin-vulnerability-affects-up-to-100k-sites/568728/",
-      "summary": "Up to a hundred thousands websites affected by WordPress calendar plugin vulnerability.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-calendar-plugin-vulnerability-affects-up-to-100k-sites/568728/\">WordPress Calendar Plugin Vulnerability Affects Up To 100k Sites</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-03T13:39:32+00:00",
-      "fetched": "2026-03-03T21:24:53.490745+00:00"
-    },
-    {
-      "id": "2d3991a0-ef91-4ec9-8a8f-9a7f8bfea586",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why Atlas & Comet Are Unlikely To Win The AI Browser War",
-      "link": "https://www.searchenginejournal.com/why-atlas-comet-are-unlikely-to-win-the-ai-browser-war/567358/",
-      "summary": "New AI browsers from OpenAI and Perplexity aren't about to replace Chrome any time soon. But that doesn\u2019t mean we shouldn\u2019t take notice.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-atlas-comet-are-unlikely-to-win-the-ai-browser-war/567358/\">Why Atlas &#038; Comet Are Unlikely To Win The AI Browser War</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-03T13:30:18+00:00",
-      "fetched": "2026-03-03T21:24:53.490768+00:00"
-    },
-    {
-      "id": "02520143-c81f-4146-8621-554d1424a18f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Page Builder by SiteOrigin WordPress Vulnerability Affects Up To 500k Sites via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/page-builder-by-siteorigin-wordpress-vulnerability-affects-up-to-500k-sites/568720/",
-      "summary": "Page Builder by SiteOrigin WordPress vulnerability rated 8.8/10 affects up to 500,000 websites.\n\nThe post <a href=\"https://www.searchenginejournal.com/page-builder-by-siteorigin-wordpress-vulnerability-affects-up-to-500k-sites/568720/\">Page Builder by SiteOrigin WordPress Vulnerability Affects Up To 500k Sites</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-03T13:04:11+00:00",
-      "fetched": "2026-03-03T21:24:53.490786+00:00"
-    },
-    {
-      "id": "3eb34ab2-1387-4122-b918-42b355e5cf47",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "WordPress User Registration & Membership Plugin Vulnerability via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/wordpress-user-registration-membership-plugin-vulnerability/568716/",
-      "summary": "Critical vulnerability in WordPress User Registration & Membership plugin enables unauthenticated attackers to obtain administrator role.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-user-registration-membership-plugin-vulnerability/568716/\">WordPress User Registration &#038; Membership Plugin Vulnerability</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-03T12:16:15+00:00",
-      "fetched": "2026-03-03T21:24:53.490803+00:00"
-    },
-    {
-      "id": "42eaa4ba-6559-4618-b9bd-9b5c3e9af3e7",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Reddit Marketing in 2026: What Changed & What Actually Works Now via @sejournal, @brentcsutoras",
-      "link": "https://www.searchenginejournal.com/make-2026-the-year-your-business-thrives-on-reddit-webinar/566936/",
-      "summary": "Whether you\u2019re actively using Reddit or still deciding if you should, your customers already made the choice. Buyer behaviors have shifted. Search traffic has declined. The customer journey is fragmented. Decision-making has moved to places where we marketers no longer control the narrative. In this webinar, we explored how modern teams are using Reddit as a strategic, measurable channel in 2026, whether you\u2019re starting from zero or scaling an existing presence. Reddit didn\u2019t get harder. It got ",
-      "published": "2026-03-03T12:00:19+00:00",
-      "fetched": "2026-03-03T21:24:53.490823+00:00"
     }
   ],
-  "last_updated": "2026-03-05T21:24:08.263410+00:00"
+  "last_updated": "2026-03-06T21:20:02.277434+00:00"
 }
