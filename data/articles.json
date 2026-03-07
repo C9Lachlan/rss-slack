@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "id": "509c82e8-11e0-4e6a-a5a2-74aaeb5edbb7",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Liz Reid Says LLMs Unlock Audio And Video Indexing via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/googles-liz-reid-says-llms-unlock-audio-and-video-indexing/569009/",
+      "summary": "Google's head of Search described how multimodal LLMs help Google understand audio and video, and discussed a direction for subscription-aware search. \n\nThe post <a href=\"https://www.searchenginejournal.com/googles-liz-reid-says-llms-unlock-audio-and-video-indexing/569009/\">Google&#8217;s Liz Reid Says LLMs Unlock Audio And Video Indexing</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-07T19:46:19+00:00",
+      "fetched": "2026-03-07T21:12:17.393057+00:00"
+    },
+    {
+      "id": "a1843e4f-73d2-41ee-bb17-35e90b778ba4",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The 10 Best PPC Ad Networks via @sejournal, @LisaRocksSEM",
+      "link": "https://www.searchenginejournal.com/ppc-guide/best-ppc-ad-networks/",
+      "summary": "Where should you invest paid media dollars in 2026? Here's a data-driven look at reach, targeting depth, and automation across 10 major ad platforms.\n\nThe post <a href=\"https://www.searchenginejournal.com/ppc-guide/best-ppc-ad-networks/\">The 10 Best PPC Ad Networks</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-06T23:45:23+00:00",
+      "fetched": "2026-03-07T21:12:17.393083+00:00"
+    },
+    {
       "id": "0ab4b34d-b7c7-45d9-9cc3-373c37cd5bef",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -122,15 +144,15 @@
       "fetched": "2026-03-05T21:24:06.188706+00:00"
     },
     {
-      "id": "422bea09-7ddd-4c7d-9f98-5ad6b4adf135",
+      "id": "c9b90faf-f995-48ec-af1e-cb89daf5f4b3",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
       "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Updates AI Mode Recipe Sites Results In Response To Backlash via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-updates-ai-mode-recipe-sites-results-in-response-to-backlash/568798/",
-      "summary": "Google updated AI Mode to change how it displays recipes and links to the creators\n\nThe post <a href=\"https://www.searchenginejournal.com/google-updates-ai-mode-recipe-sites-results-in-response-to-backlash/568798/\">Google Updates AI Mode Recipe Sites Results In Response To Backlash</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "title": "Google Updates AI Recipe Results To Send More Traffic via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-updates-ai-mode-recipe-sites-results/568798/",
+      "summary": "Google  updated AI Mode recipe search results to change how it displays recipes and to send more traffic to recipe blogs\n\nThe post <a href=\"https://www.searchenginejournal.com/google-updates-ai-mode-recipe-sites-results/568798/\">Google Updates AI Recipe Results To Send More Traffic</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-03-04T19:11:38+00:00",
-      "fetched": "2026-03-04T21:24:26.269724+00:00"
+      "fetched": "2026-03-07T21:12:17.393129+00:00"
     },
     {
       "id": "083b5440-9365-4735-b06e-5498e9ff5313",
@@ -197,29 +219,7 @@
       "summary": "A warning was issued about two vulnerabilities affecting up to 60,000 installations of the Seraphinite Accelerator WordPress plugin. \n\nThe post <a href=\"https://www.searchenginejournal.com/seraphinite-accelerator-vulnerabilities/568755/\">Seraphinite Accelerator WordPress Plugin Vulnerabilities Affect 60K Sites</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-03-04T07:19:38+00:00",
       "fetched": "2026-03-04T21:24:26.269859+00:00"
-    },
-    {
-      "id": "8ed71248-472c-4344-92e3-f540c9e79ba6",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Builderius WordPress Page Builder Integrates Claude AI via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/builderius-wordpress-page-builder-integrates-claude-ai/568737/",
-      "summary": "Builderius page builder announced an experimental AI integration that enables it to apply changes inside the builder.\n\nThe post <a href=\"https://www.searchenginejournal.com/builderius-wordpress-page-builder-integrates-claude-ai/568737/\">Builderius WordPress Page Builder Integrates Claude AI</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-03T15:03:45+00:00",
-      "fetched": "2026-03-03T21:24:53.490698+00:00"
-    },
-    {
-      "id": "c1780387-ebab-43e2-a485-349b3e9eda07",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Build An AI SEO Strategy That Outlasts Tactics via @sejournal, @Kevin_Indig",
-      "link": "https://www.searchenginejournal.com/how-to-build-an-ai-seo-strategy-that-outlasts-tactics/568661/",
-      "summary": "If your AEO plan is just a tactic list, it won\u2019t survive scrutiny. Here\u2019s how to build a durable AI SEO strategy.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-build-an-ai-seo-strategy-that-outlasts-tactics/568661/\">How To Build An AI SEO Strategy That Outlasts Tactics</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-03T14:30:07+00:00",
-      "fetched": "2026-03-03T21:24:53.490725+00:00"
     }
   ],
-  "last_updated": "2026-03-06T21:20:02.277434+00:00"
+  "last_updated": "2026-03-07T21:12:19.265042+00:00"
 }
