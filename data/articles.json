@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "07bf8392-7ab6-4c3c-8503-8de706b32a1e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "WordPress Security Release 6.9.4 Fixes Issues 6.9.2 Failed To Address via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/wordpress-security-release-6-9-4/569532/",
+      "summary": "WordPress issues second security release 6.9.4 to address vulnerabilities that version 6.9.2 apparently failed to patch.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-security-release-6-9-4/569532/\">WordPress Security Release 6.9.4 Fixes Issues 6.9.2 Failed To Address</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-11T17:34:30+00:00",
+      "fetched": "2026-03-11T21:22:45.198504+00:00"
+    },
+    {
+      "id": "0855e823-1ccd-4d3b-88f4-9fc672425a90",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "5 Things I Learned About The Future Of Search From Liz Reid\u2019s Latest Interview via @sejournal, @marie_haynes",
+      "link": "https://www.searchenginejournal.com/5-things-i-learned-about-the-future-of-search-from-liz-reids-latest-interview/569227/",
+      "summary": "Five takeaways from Liz Reid on AI agents, the future of Google Search, and why originality now matters more than ever.\n\nThe post <a href=\"https://www.searchenginejournal.com/5-things-i-learned-about-the-future-of-search-from-liz-reids-latest-interview/569227/\">5 Things I Learned About The Future Of Search From Liz Reid\u2019s Latest Interview</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-11T13:30:36+00:00",
+      "fetched": "2026-03-11T21:22:45.198533+00:00"
+    },
+    {
+      "id": "2476df43-b7e0-437f-8ad9-931be20e6701",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Prove PR Business Value With UTM Parameters & GA4 via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/how-to-prove-pr-business-value-with-utm-parameters-ga4/566928/",
+      "summary": "Here\u2019s how UTMs and GA4 can prove earned media\u2019s revenue impact in an AI-driven, zero-click world.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-prove-pr-business-value-with-utm-parameters-ga4/566928/\">How To Prove PR Business Value With UTM Parameters &#038; GA4</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-11T12:00:20+00:00",
+      "fetched": "2026-03-11T21:22:45.198554+00:00"
+    },
+    {
+      "id": "7cb613c8-16ed-41d4-8ae8-31798b53323c",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Build A \u2018Feed-Only\u2019 Performance Max Campaign",
+      "link": "https://www.searchenginejournal.com/how-to-build-a-feed-only-performance-max-campaign/568794/",
+      "summary": "Advertisers using feed-only Performance Max can narrow campaign focus to product feed signals, improving efficiency when automation spreads spend too broadly.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-build-a-feed-only-performance-max-campaign/568794/\">How To Build A &#8216;Feed-Only&#8217; Performance Max Campaign</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-11T11:00:57+00:00",
+      "fetched": "2026-03-11T21:22:45.198578+00:00"
+    },
+    {
+      "id": "59181870-2efb-458b-a071-29634c3b549e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Old Link Building vs. AI Search: How to Earn Top-Tier Media Placements Now via @sejournal, @Michael_Resolve",
+      "link": "https://www.searchenginejournal.com/ai-search-link-building-resolve-spa/567924/",
+      "summary": "Discover the new approach to link building that prioritizes brand legitimacy and digital PR over traditional methods.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-search-link-building-resolve-spa/567924/\">Old Link Building vs. AI Search: How to Earn Top-Tier Media Placements Now</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-11T05:00:26+00:00",
+      "fetched": "2026-03-11T21:22:45.198596+00:00"
+    },
+    {
       "id": "12363974-b6ff-46a4-a641-1208e2d80ea4",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -164,62 +219,7 @@
       "summary": "Google's AI Mode self-citations tripled in nine months. SE Ranking data shows that more links now lead to organic search results, not business profiles.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ai-mode-cites-itself-more-often-with-more-organic-links/568955/\">Google AI Mode Cites Itself More Often, With More Organic Links</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-03-06T16:48:16+00:00",
       "fetched": "2026-03-06T21:20:01.167288+00:00"
-    },
-    {
-      "id": "375b4286-54ba-497f-acc2-5f843ec624e8",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AIO Citations Diverge From Rankings, Bing Rewrites Rules \u2013 SEO Pulse via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-aio-citations-diverge-from-rankings-bing-rewrites-rules/568881/",
-      "summary": "In SEO Pulse: AI Overview citations drift further from traditional rankings as AI search expands and platforms clarify how content appears in AI answers.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-aio-citations-diverge-from-rankings-bing-rewrites-rules/568881/\">AIO Citations Diverge From Rankings, Bing Rewrites Rules \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-06T13:00:17+00:00",
-      "fetched": "2026-03-06T21:20:01.167314+00:00"
-    },
-    {
-      "id": "6deb86a6-3cc9-4b5f-9b1c-18702faae15b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Max Brand Controls Expand, VRC Non-Skip Ads Go Global \u2013 PPC Pulse via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/ppc-pulse-ai-max-brand-controls-expand-vrc-non-skip-ads-go-global/568890/",
-      "summary": "AI copy guardrails and expanded YouTube non-skip video formats headline this week\u2019s Google Ads updates in PPC Pulse.\n\nThe post <a href=\"https://www.searchenginejournal.com/ppc-pulse-ai-max-brand-controls-expand-vrc-non-skip-ads-go-global/568890/\">AI Max Brand Controls Expand, VRC Non-Skip Ads Go Global \u2013 PPC Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-06T11:45:34+00:00",
-      "fetched": "2026-03-06T21:20:01.167334+00:00"
-    },
-    {
-      "id": "90ce7054-78a9-4034-9c01-8019bfff8348",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Says Disavow Links If You\u2019re Conflicted And Need To Be Sure via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-says-disavow-links/568928/",
-      "summary": "Google's John Mueller confirmed that most sites don't need to use a disavow file but if you need to be sure, do it.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-says-disavow-links/568928/\">Google Says Disavow Links If You&#8217;re Conflicted And Need To Be Sure</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-06T11:13:15+00:00",
-      "fetched": "2026-03-06T21:20:01.167362+00:00"
-    },
-    {
-      "id": "de0904cf-c05d-45df-896f-990c5accd10b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "NanoClaw Creator Loses SEO Battle To Impostor Website via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/nanoclaw-creator-loses-seo-battle-to-impostor-website/568885/",
-      "summary": "NanoClaw's creator says Google ranks a fake website above his project's real site despite 18K GitHub stars, press coverage, and structured data setup.\n\nThe post <a href=\"https://www.searchenginejournal.com/nanoclaw-creator-loses-seo-battle-to-impostor-website/568885/\">NanoClaw Creator Loses SEO Battle To Impostor Website</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-05T23:57:02+00:00",
-      "fetched": "2026-03-06T21:20:01.167381+00:00"
-    },
-    {
-      "id": "73dbd73a-3913-4f2c-8392-1f97fcf754f9",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "What SMEC\u2019s Data Reveals About AI Max Performance via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/what-smecs-data-reveals-about-ai-max-performance/568866/",
-      "summary": "New SMEC study analyzes AI Max in Google Ads Search campaigns, showing a 13% conversion value lift but higher CPA and unpredictable ROAS results.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-smecs-data-reveals-about-ai-max-performance/568866/\">What SMEC\u2019s Data Reveals About AI Max Performance</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-05T18:36:51+00:00",
-      "fetched": "2026-03-05T21:24:06.188597+00:00"
     }
   ],
-  "last_updated": "2026-03-10T21:21:28.017452+00:00"
+  "last_updated": "2026-03-11T21:22:46.093772+00:00"
 }
