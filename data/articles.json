@@ -1,6 +1,72 @@
 {
   "articles": [
     {
+      "id": "7a42ccbe-dd3c-4bbe-9989-e256d2bcb425",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "ChatGPT\u2019s Default & Premium Models Search The Web Differently via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/chatgpts-default-premium-models-search-the-web-differently/569594/",
+      "summary": "An analysis of ChatGPT conversations found the default and premium models cite almost entirely different sources for the same queries. \n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpts-default-premium-models-search-the-web-differently/569594/\">ChatGPT&#8217;s Default &#038; Premium Models Search The Web Differently</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-12T16:38:54+00:00",
+      "fetched": "2026-03-12T21:23:11.815267+00:00"
+    },
+    {
+      "id": "f611798c-86df-41d8-82ef-8f19fa2802d4",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Maps Launches AI Conversational Search With Ask Maps via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-maps-launches-ai-conversational-search-with-ask-maps/569585/",
+      "summary": "Google Maps launches Ask Maps, a Gemini-powered conversational feature for local discovery in the U.S. and India, plus a navigation overhaul in the U.S.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-maps-launches-ai-conversational-search-with-ask-maps/569585/\">Google Maps Launches AI Conversational Search With Ask Maps</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-12T14:47:02+00:00",
+      "fetched": "2026-03-12T21:23:11.815293+00:00"
+    },
+    {
+      "id": "5dc9b4fd-0747-4287-b2cd-924d21e9e045",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Shortcut Behind Some AI Optimization Tools via @sejournal, @DuaneForrester",
+      "link": "https://www.searchenginejournal.com/the-shortcut-behind-some-ai-optimization-tools/569040/",
+      "summary": "The disappearance of ChatGPT\u2019s query fan-out metadata reveals why AI intelligence tools built on unofficial access are fragile by design.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-shortcut-behind-some-ai-optimization-tools/569040/\">The Shortcut Behind Some AI Optimization Tools</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-12T13:30:14+00:00",
+      "fetched": "2026-03-12T21:23:11.815315+00:00"
+    },
+    {
+      "id": "1632ea51-d9b1-476d-8f0e-1114f4720033",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How AI Automation Turns Static Travel Pages Into Living Content & Experiences via @sejournal, @TaylorDanRW",
+      "link": "https://www.searchenginejournal.com/how-ai-automation-turns-static-travel-pages-into-living-content-experiences/568599/",
+      "summary": "Consider a new model for travel marketing where content adapts to traveler context instead of relying on static destination pages.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-ai-automation-turns-static-travel-pages-into-living-content-experiences/568599/\">How AI Automation Turns Static Travel Pages Into Living Content &#038; Experiences</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-12T12:30:40+00:00",
+      "fetched": "2026-03-12T21:23:11.815338+00:00"
+    },
+    {
+      "id": "00b46c2b-2f85-4fd3-89d0-a9104d5f9d28",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Answers Questions About Search Console\u2019s Branded Queries Filter via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-answers-questions-about-search-consoles-branded-queries-filter/569549/",
+      "summary": "Google announced that Search Console's brand queries filter is open to all eligible sites, spurring questions about the feature.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-answers-questions-about-search-consoles-branded-queries-filter/569549/\">Google Answers Questions About Search Console&#8217;s Branded Queries Filter</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-12T09:17:16+00:00",
+      "fetched": "2026-03-12T21:23:11.815358+00:00"
+    },
+    {
+      "id": "22998fb8-a522-46a0-bc00-79b7d977454b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "WordPress Gutenberg 22.7 Lays Groundwork For AI Publishing via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/wordpress-gutenberg-22-7-lays-groundwork-for-ai-publishing/569543/",
+      "summary": "Gutenberg 22.7 adds features that lay the groundwork for a role as an AI publishing platform and improve the editing experience.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-gutenberg-22-7-lays-groundwork-for-ai-publishing/569543/\">WordPress Gutenberg 22.7 Lays Groundwork For AI Publishing</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-11T23:16:13+00:00",
+      "fetched": "2026-03-12T21:23:11.815376+00:00"
+    },
+    {
       "id": "07bf8392-7ab6-4c3c-8503-8de706b32a1e",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -153,73 +219,7 @@
       "summary": "A study of U.S. workers finds 14% report \"brain fry\" from AI overuse. Marketing had the highest rate at 26%.\n\nThe post <a href=\"https://www.searchenginejournal.com/marketers-report-highest-rates-of-ai-brain-fry-report-finds/569110/\">Marketers Report Highest Rates Of AI &#8216;Brain Fry,&#8217; Report Finds</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-03-09T15:01:50+00:00",
       "fetched": "2026-03-09T21:22:46.432732+00:00"
-    },
-    {
-      "id": "0be3d530-3232-4f24-a307-da88e9e8eea8",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why We Need To Talk About Young People",
-      "link": "https://www.searchenginejournal.com/why-we-need-to-talk-about-young-people/568903/",
-      "summary": "Publishers are losing ground with younger audiences as creators, video, and platform-native content reshape how news is discovered and trusted.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-we-need-to-talk-about-young-people/568903/\">Why We Need To Talk About Young People</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-09T13:30:12+00:00",
-      "fetched": "2026-03-09T21:22:46.432752+00:00"
-    },
-    {
-      "id": "e8022725-09d7-4dbb-81d3-6fd771fc22ce",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How AI Is Reshaping Who Gets Recommended: Marketing In The Eligibility Era via @sejournal, @purnavirji",
-      "link": "https://www.searchenginejournal.com/how-ai-is-reshaping-who-gets-recommended-marketing-in-the-eligibility-era/568041/",
-      "summary": "Discover how AI visibility to eligibility marketing is reshaping strategies in fast-changing digital advertising.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-ai-is-reshaping-who-gets-recommended-marketing-in-the-eligibility-era/568041/\">How AI Is Reshaping Who Gets Recommended: Marketing In The Eligibility Era</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-09T12:00:04+00:00",
-      "fetched": "2026-03-09T21:22:46.432781+00:00"
-    },
-    {
-      "id": "51bfbb1b-fd10-4e3b-9870-1996d6bde369",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google: You Can Disavow Entire TLDs Like .XYZ With Domain Directive via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-you-can-disavow-entire-tlds-like-xyz-with-domain-directive/569052/",
-      "summary": "Google's John Mueller shared the Disavow File Domain Directive which disavows entire Top Level Domains (TLDs) but cautioned about using it.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-you-can-disavow-entire-tlds-like-xyz-with-domain-directive/569052/\">Google: You Can Disavow Entire TLDs Like .XYZ With Domain Directive</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-09T08:58:30+00:00",
-      "fetched": "2026-03-09T21:22:46.432800+00:00"
-    },
-    {
-      "id": "509c82e8-11e0-4e6a-a5a2-74aaeb5edbb7",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Liz Reid Says LLMs Unlock Audio And Video Indexing via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/googles-liz-reid-says-llms-unlock-audio-and-video-indexing/569009/",
-      "summary": "Google's head of Search described how multimodal LLMs help Google understand audio and video, and discussed a direction for subscription-aware search. \n\nThe post <a href=\"https://www.searchenginejournal.com/googles-liz-reid-says-llms-unlock-audio-and-video-indexing/569009/\">Google&#8217;s Liz Reid Says LLMs Unlock Audio And Video Indexing</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-07T19:46:19+00:00",
-      "fetched": "2026-03-07T21:12:17.393057+00:00"
-    },
-    {
-      "id": "a1843e4f-73d2-41ee-bb17-35e90b778ba4",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The 10 Best PPC Ad Networks via @sejournal, @LisaRocksSEM",
-      "link": "https://www.searchenginejournal.com/ppc-guide/best-ppc-ad-networks/",
-      "summary": "Where should you invest paid media dollars in 2026? Here's a data-driven look at reach, targeting depth, and automation across 10 major ad platforms.\n\nThe post <a href=\"https://www.searchenginejournal.com/ppc-guide/best-ppc-ad-networks/\">The 10 Best PPC Ad Networks</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-06T23:45:23+00:00",
-      "fetched": "2026-03-07T21:12:17.393083+00:00"
-    },
-    {
-      "id": "0ab4b34d-b7c7-45d9-9cc3-373c37cd5bef",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google AI Mode Cites Itself More Often, With More Organic Links via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-ai-mode-cites-itself-more-often-with-more-organic-links/568955/",
-      "summary": "Google's AI Mode self-citations tripled in nine months. SE Ranking data shows that more links now lead to organic search results, not business profiles.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ai-mode-cites-itself-more-often-with-more-organic-links/568955/\">Google AI Mode Cites Itself More Often, With More Organic Links</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-06T16:48:16+00:00",
-      "fetched": "2026-03-06T21:20:01.167288+00:00"
     }
   ],
-  "last_updated": "2026-03-11T21:22:46.093772+00:00"
+  "last_updated": "2026-03-12T21:23:13.750539+00:00"
 }
