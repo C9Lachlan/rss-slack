@@ -1,6 +1,72 @@
 {
   "articles": [
     {
+      "id": "d071b60c-8e5c-4802-9a8b-5cc669e0d171",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Discover Core Update Data: Local Publishers Lost Reach via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-discover-core-update-data-local-publishers-lost-reach/569735/",
+      "summary": "New third-party data shows local publishers lost national reach after Google's Discover core update. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-discover-core-update-data-local-publishers-lost-reach/569735/\">Google Discover Core Update Data: Local Publishers Lost Reach</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-13T13:47:58+00:00",
+      "fetched": "2026-03-13T21:23:31.243642+00:00"
+    },
+    {
+      "id": "aad35cfa-ddcd-44e8-b7dc-1c7236e3ee05",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Starting Or Steering The Wave",
+      "link": "https://www.searchenginejournal.com/starting-or-steering-the-wave/569556/",
+      "summary": "Why traditional \u201cutility SEO\u201d content is losing value, and how marketers can create demand instead of chasing existing searches.\n\nThe post <a href=\"https://www.searchenginejournal.com/starting-or-steering-the-wave/569556/\">Starting Or Steering The Wave</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-13T13:30:08+00:00",
+      "fetched": "2026-03-13T21:23:31.243669+00:00"
+    },
+    {
+      "id": "6213d682-413a-457d-9df7-030006620c64",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Mode Data, Ask Maps & Branded Queries Go Live \u2013 SEO Pulse via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/seo-pulse-ai-mode-data-ask-maps-branded-queries-go-live/569648/",
+      "summary": "In SEO Pulse: AI Mode keeps more links inside Google, Maps adds conversational discovery, and Search Console rolls out automated brand segmentation.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-ai-mode-data-ask-maps-branded-queries-go-live/569648/\">AI Mode Data, Ask Maps &#038; Branded Queries Go Live \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-13T12:45:32+00:00",
+      "fetched": "2026-03-13T21:23:31.243689+00:00"
+    },
+    {
+      "id": "6a685ba2-c32a-41ef-a159-0a3e992fe4e1",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Merchant Center Expands, Google Clarifies Smart Bidding, State Of PPC Report \u2013 PPC Pulse via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/ppc-pulse-merchant-center-expands-google-clarifies-smart-bidding-state-of-ppc-report/569653/",
+      "summary": "The latest PPC Pulse highlights Google\u2019s agency-focused Merchant Center rollout, Smart Bidding guidance for new campaigns, and emerging AI usage trends in PPC.\n\nThe post <a href=\"https://www.searchenginejournal.com/ppc-pulse-merchant-center-expands-google-clarifies-smart-bidding-state-of-ppc-report/569653/\">Merchant Center Expands, Google Clarifies Smart Bidding, State Of PPC Report \u2013 PPC Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-13T11:15:08+00:00",
+      "fetched": "2026-03-13T21:23:31.243713+00:00"
+    },
+    {
+      "id": "2ad3c77a-9137-4b90-aab4-7cd8bd1349dd",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Says They Deploy Hundreds Of Undocumented Crawlers via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-says-they-deploy-hundreds-of-undocumented-crawlers/569692/",
+      "summary": "Google's Gary Illyes offered a candid overview of Googlebot, explaining there are hundreds of crawlers that are not publicly documented.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-says-they-deploy-hundreds-of-undocumented-crawlers/569692/\">Google Says They Deploy Hundreds Of Undocumented Crawlers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-13T09:17:44+00:00",
+      "fetched": "2026-03-13T21:23:31.243732+00:00"
+    },
+    {
+      "id": "981ebb2e-b687-400b-8199-54c7a98c96df",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Formidable Forms Flaw Lets Attackers Pay Less For Expensive Purchases via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/formidable-forms-flaw-lets-attackers-pay-less-for-expensive-purchases/569665/",
+      "summary": "Formidable Forms WordPress vulnerability enables unauthenticated attackers to pay a small amount and have a larger purchase marked as paid.\n\nThe post <a href=\"https://www.searchenginejournal.com/formidable-forms-flaw-lets-attackers-pay-less-for-expensive-purchases/569665/\">Formidable Forms Flaw Lets Attackers Pay Less For Expensive Purchases</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-12T22:55:49+00:00",
+      "fetched": "2026-03-13T21:23:31.243749+00:00"
+    },
+    {
       "id": "7a42ccbe-dd3c-4bbe-9989-e256d2bcb425",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -153,73 +219,7 @@
       "summary": "Lead volume used to feel like the ultimate growth metric. In today\u2019s market, it can create wasted spend, stalled pipelines, and internal strain instead of sustainable revenue.\n\nThe post <a href=\"https://www.searchenginejournal.com/rundowns/full-funnel-seo-ppc-kpi-blueprint-for-building-sustainable-revenue-growth/\">A Full-Funnel SEO, PPC &#038; KPI Blueprint for Building Sustainable Revenue Growth</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-03-10T14:11:52+00:00",
       "fetched": "2026-03-10T21:21:26.248918+00:00"
-    },
-    {
-      "id": "97ff5bab-fcc4-4d9c-b395-ddfbaec1fc9c",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Organic Rankings Vs. Product Grids: The New Ecommerce Divide via @sejournal, @Kevin_Indig",
-      "link": "https://www.searchenginejournal.com/organic-rankings-vs-product-grids-the-new-ecommerce-divide/569159/",
-      "summary": "Ranking No. 1 in Google means less when product grids dominate the SERP. Here\u2019s how ecommerce visibility actually works now.\n\nThe post <a href=\"https://www.searchenginejournal.com/organic-rankings-vs-product-grids-the-new-ecommerce-divide/569159/\">Organic Rankings Vs. Product Grids: The New Ecommerce Divide</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-10T13:30:10+00:00",
-      "fetched": "2026-03-10T21:21:26.248940+00:00"
-    },
-    {
-      "id": "964ef6e4-f160-43ff-8dd9-c9c2e2ce6bb4",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How Do You Fix Thin Content Across Similar Ecommerce Product Pages? \u2013 Ask An SEO via @sejournal, @rollerblader",
-      "link": "https://www.searchenginejournal.com/ask-an-seo-how-do-you-fix-thin-content-across-similar-product-pages/566266/",
-      "summary": "See why optimizing category pages and building authority beats spinning unique descriptions for large, similar product catalogs.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-an-seo-how-do-you-fix-thin-content-across-similar-product-pages/566266/\">How Do You Fix Thin Content Across Similar Ecommerce Product Pages? \u2013 Ask An SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-10T12:00:10+00:00",
-      "fetched": "2026-03-10T21:21:26.248958+00:00"
-    },
-    {
-      "id": "05d8533e-4420-41b8-b13d-8bef83d6b818",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Before You Shift SEO Budget to AI, Ask These Questions [Webinar] via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/before-you-shift-seo-budget-to-ai-ask-these-questions-webinar/568836/",
-      "summary": "How to Decide Between Traditional SEO and AI Search AI search is dominating the conversation right now. Every marketing leader is hearing the same thing: \u201cWhat\u2019s our AI strategy?\u201d Your instinct might be to move fast, reallocate budget, start optimizing for generative search, and get ahead of the curve. But before you rewrite your entire roadmap, there\u2019s a critical question worth asking: should you? Generative search is changing discovery, but traditional SEO is still driving measurable revenue f",
-      "published": "2026-03-10T11:30:46+00:00",
-      "fetched": "2026-03-10T21:21:26.248998+00:00"
-    },
-    {
-      "id": "7b227c87-539e-4a4a-a218-4d10d8470274",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "WordPress Releases Updated AI Experiments Plugin via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/wordpress-releases-updated-ai-experiments-plugin/569139/",
-      "summary": "Official WordPress AI Experiments plugin enables users to get advance access to AI features right now.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-releases-updated-ai-experiments-plugin/569139/\">WordPress Releases Updated AI Experiments Plugin</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-09T23:31:30+00:00",
-      "fetched": "2026-03-10T21:21:26.249019+00:00"
-    },
-    {
-      "id": "5a66a5c5-f21c-441d-9b64-c037cb5ebe1b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "3 AI Search Changes Every Marketer Needs A Plan For In Q2 via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/3-ai-search-changes-every-marketer-needs-a-plan-for-in-q2/569129/",
-      "summary": "AI search changed how people find you, click on you, and convert. Here's what the Q1 data says and how to build your Q2 plan.\n\nThe post <a href=\"https://www.searchenginejournal.com/3-ai-search-changes-every-marketer-needs-a-plan-for-in-q2/569129/\">3 AI Search Changes Every Marketer Needs A Plan For In Q2</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-09T19:23:40+00:00",
-      "fetched": "2026-03-09T21:22:46.432706+00:00"
-    },
-    {
-      "id": "b8c248b1-5001-4c8a-a720-7de0c2cbda46",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Marketers Report Highest Rates Of AI \u2018Brain Fry,\u2019 Report Finds via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/marketers-report-highest-rates-of-ai-brain-fry-report-finds/569110/",
-      "summary": "A study of U.S. workers finds 14% report \"brain fry\" from AI overuse. Marketing had the highest rate at 26%.\n\nThe post <a href=\"https://www.searchenginejournal.com/marketers-report-highest-rates-of-ai-brain-fry-report-finds/569110/\">Marketers Report Highest Rates Of AI &#8216;Brain Fry,&#8217; Report Finds</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-09T15:01:50+00:00",
-      "fetched": "2026-03-09T21:22:46.432732+00:00"
     }
   ],
-  "last_updated": "2026-03-12T21:23:13.750539+00:00"
+  "last_updated": "2026-03-13T21:23:32.195882+00:00"
 }
