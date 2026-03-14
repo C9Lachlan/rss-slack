@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": "724eaf17-3e5e-467a-a9d3-fa14548a07f4",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "SEO Vs. PPC Strategy: What\u2019s Right For Your Business? via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/seo-vs-ppc/234681/",
+      "summary": "Decide where to invest by understanding how SEO and PPC truly scale, compete, and drive business growth differently.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-vs-ppc/234681/\">SEO Vs. PPC Strategy: What&#8217;s Right For Your Business?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-14T05:46:29+00:00",
+      "fetched": "2026-03-14T21:17:33.895038+00:00"
+    },
+    {
       "id": "d071b60c-8e5c-4802-9a8b-5cc669e0d171",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -208,18 +219,7 @@
       "summary": "A federal judge granted Amazon a preliminary injunction barring Perplexity's Comet AI agent from accessing Amazon accounts and ordering data destroyed. \n\nThe post <a href=\"https://www.searchenginejournal.com/amazon-wins-preliminary-injunction-against-perplexitys-comet/569256/\">Amazon Wins Preliminary Injunction Against Perplexity\u2019s Comet</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-03-10T16:57:35+00:00",
       "fetched": "2026-03-10T21:21:26.248896+00:00"
-    },
-    {
-      "id": "e737a12e-e4e2-4041-bbbd-d26ce2bfad38",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "A Full-Funnel SEO, PPC & KPI Blueprint for Building Sustainable Revenue Growth",
-      "link": "https://www.searchenginejournal.com/rundowns/full-funnel-seo-ppc-kpi-blueprint-for-building-sustainable-revenue-growth/",
-      "summary": "Lead volume used to feel like the ultimate growth metric. In today\u2019s market, it can create wasted spend, stalled pipelines, and internal strain instead of sustainable revenue.\n\nThe post <a href=\"https://www.searchenginejournal.com/rundowns/full-funnel-seo-ppc-kpi-blueprint-for-building-sustainable-revenue-growth/\">A Full-Funnel SEO, PPC &#038; KPI Blueprint for Building Sustainable Revenue Growth</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-10T14:11:52+00:00",
-      "fetched": "2026-03-10T21:21:26.248918+00:00"
     }
   ],
-  "last_updated": "2026-03-13T21:23:32.195882+00:00"
+  "last_updated": "2026-03-14T21:17:35.088506+00:00"
 }
