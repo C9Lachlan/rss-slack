@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "b5b4ae65-5eee-42ab-b888-3b3702e4c0f7",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Search Barely Cites Syndicated News Or Press Releases via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/ai-search-barely-cites-syndicated-news-or-press-releases/569854/",
+      "summary": "Data from 4M AI citations shows syndicated press releases barely register in AI answers. Editorial content and owned newsrooms fare better.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-search-barely-cites-syndicated-news-or-press-releases/569854/\">AI Search Barely Cites Syndicated News Or Press Releases</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-16T17:09:56+00:00",
+      "fetched": "2026-03-16T21:28:55.336927+00:00"
+    },
+    {
+      "id": "186183b0-79f8-410f-ba9c-a1ea5a2a1561",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "You\u2019re Not Scaling Content. You\u2019re Scaling Disappointment",
+      "link": "https://www.searchenginejournal.com/youre-not-scaling-content-youre-scaling-disappointment/569235/",
+      "summary": "Pedro Dias traces the recurring cycle of mass-produced SEO content and explains why the \u201cpublish more pages\u201d playbook always ends the same way.\n\nThe post <a href=\"https://www.searchenginejournal.com/youre-not-scaling-content-youre-scaling-disappointment/569235/\">You\u2019re Not Scaling Content. You\u2019re Scaling Disappointment</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-16T13:30:07+00:00",
+      "fetched": "2026-03-16T21:28:55.336956+00:00"
+    },
+    {
+      "id": "dcfb39e2-9d1c-4514-8398-a98ce715955b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "3 CMS Platforms Control 73% Of The Market & Shape Technical SEO Defaults via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/3-cms-platforms-control-73-of-the-market-shape-technical-seo-defaults/568185/",
+      "summary": "CMS defaults now influence more of the web\u2019s technical SEO than most consultants ever can, reshaping where optimization work creates real value.\n\nThe post <a href=\"https://www.searchenginejournal.com/3-cms-platforms-control-73-of-the-market-shape-technical-seo-defaults/568185/\">3 CMS Platforms Control 73% Of The Market &#038; Shape Technical SEO Defaults</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-16T13:00:55+00:00",
+      "fetched": "2026-03-16T21:28:55.336976+00:00"
+    },
+    {
+      "id": "6456f1f1-505b-4587-84bb-70bbb93bd42f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How AI Agents Decide Which Brands To Recommend: Trust Is The New Ranking Factor via @sejournal, @purnavirji",
+      "link": "https://www.searchenginejournal.com/how-ai-agents-decide-which-brands-to-recommend-trust-is-the-new-ranking-factor/568067/",
+      "summary": "Discover how AI agents decide which brands to recommend and why trust is essential in the new marketing landscape.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-ai-agents-decide-which-brands-to-recommend-trust-is-the-new-ranking-factor/568067/\">How AI Agents Decide Which Brands To Recommend: Trust Is The New Ranking Factor</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-16T12:00:42+00:00",
+      "fetched": "2026-03-16T21:28:55.336999+00:00"
+    },
+    {
+      "id": "51154272-0a9c-4f62-bc8c-7446f1d42445",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Shares More Information On Googlebot Crawl Limits via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/googlebot-crawl-limit-information/569794/",
+      "summary": "Google shared that Googlebot's crawl limits are flexible and can be increased or decreased depending on the need.\n\nThe post <a href=\"https://www.searchenginejournal.com/googlebot-crawl-limit-information/569794/\">Google Shares More Information On Googlebot Crawl Limits</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-16T09:47:27+00:00",
+      "fetched": "2026-03-16T21:28:55.337017+00:00"
+    },
+    {
       "id": "724eaf17-3e5e-467a-a9d3-fa14548a07f4",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -164,62 +219,7 @@
       "summary": "Five takeaways from Liz Reid on AI agents, the future of Google Search, and why originality now matters more than ever.\n\nThe post <a href=\"https://www.searchenginejournal.com/5-things-i-learned-about-the-future-of-search-from-liz-reids-latest-interview/569227/\">5 Things I Learned About The Future Of Search From Liz Reid\u2019s Latest Interview</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-03-11T13:30:36+00:00",
       "fetched": "2026-03-11T21:22:45.198533+00:00"
-    },
-    {
-      "id": "2476df43-b7e0-437f-8ad9-931be20e6701",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Prove PR Business Value With UTM Parameters & GA4 via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/how-to-prove-pr-business-value-with-utm-parameters-ga4/566928/",
-      "summary": "Here\u2019s how UTMs and GA4 can prove earned media\u2019s revenue impact in an AI-driven, zero-click world.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-prove-pr-business-value-with-utm-parameters-ga4/566928/\">How To Prove PR Business Value With UTM Parameters &#038; GA4</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-11T12:00:20+00:00",
-      "fetched": "2026-03-11T21:22:45.198554+00:00"
-    },
-    {
-      "id": "7cb613c8-16ed-41d4-8ae8-31798b53323c",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Build A \u2018Feed-Only\u2019 Performance Max Campaign",
-      "link": "https://www.searchenginejournal.com/how-to-build-a-feed-only-performance-max-campaign/568794/",
-      "summary": "Advertisers using feed-only Performance Max can narrow campaign focus to product feed signals, improving efficiency when automation spreads spend too broadly.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-build-a-feed-only-performance-max-campaign/568794/\">How To Build A &#8216;Feed-Only&#8217; Performance Max Campaign</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-11T11:00:57+00:00",
-      "fetched": "2026-03-11T21:22:45.198578+00:00"
-    },
-    {
-      "id": "59181870-2efb-458b-a071-29634c3b549e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Old Link Building vs. AI Search: How to Earn Top-Tier Media Placements Now via @sejournal, @Michael_Resolve",
-      "link": "https://www.searchenginejournal.com/ai-search-link-building-resolve-spa/567924/",
-      "summary": "Discover the new approach to link building that prioritizes brand legitimacy and digital PR over traditional methods.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-search-link-building-resolve-spa/567924/\">Old Link Building vs. AI Search: How to Earn Top-Tier Media Placements Now</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-11T05:00:26+00:00",
-      "fetched": "2026-03-11T21:22:45.198596+00:00"
-    },
-    {
-      "id": "12363974-b6ff-46a4-a641-1208e2d80ea4",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "B2B Buyers Trust Peers Over AI Chatbots, Report Finds via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/b2b-buyers-trust-peers-over-ai-chatbots-report-finds/569261/",
-      "summary": "A survey of B2B decision-makers found peer recommendations are trusted nearly twice as much as AI chatbots, and white papers rank last for perceived value.\n\nThe post <a href=\"https://www.searchenginejournal.com/b2b-buyers-trust-peers-over-ai-chatbots-report-finds/569261/\">B2B Buyers Trust Peers Over AI Chatbots, Report Finds</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-10T17:22:56+00:00",
-      "fetched": "2026-03-10T21:21:26.248869+00:00"
-    },
-    {
-      "id": "73b0904a-cc46-4b13-90d7-45e2662c839e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Amazon Wins Preliminary Injunction Against Perplexity\u2019s Comet via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/amazon-wins-preliminary-injunction-against-perplexitys-comet/569256/",
-      "summary": "A federal judge granted Amazon a preliminary injunction barring Perplexity's Comet AI agent from accessing Amazon accounts and ordering data destroyed. \n\nThe post <a href=\"https://www.searchenginejournal.com/amazon-wins-preliminary-injunction-against-perplexitys-comet/569256/\">Amazon Wins Preliminary Injunction Against Perplexity\u2019s Comet</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-10T16:57:35+00:00",
-      "fetched": "2026-03-10T21:21:26.248896+00:00"
     }
   ],
-  "last_updated": "2026-03-15T21:18:28.482117+00:00"
+  "last_updated": "2026-03-16T21:28:55.822071+00:00"
 }
