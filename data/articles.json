@@ -1,6 +1,83 @@
 {
   "articles": [
     {
+      "id": "94d1dd85-428b-4231-9c25-f71390683a26",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Removes \u2018What People Suggest,\u2019 Expands Health AI Tools via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-removes-what-people-suggest-expands-health-ai-tools/569942/",
+      "summary": "Google confirmed it removed \"What People Suggest\" from health searches. Additionally, the company announced new AI health tools for YouTube. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-removes-what-people-suggest-expands-health-ai-tools/569942/\">Google Removes &#8216;What People Suggest,&#8217; Expands Health AI Tools</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-17T18:49:48+00:00",
+      "fetched": "2026-03-17T21:28:00.415034+00:00"
+    },
+    {
+      "id": "93e219e3-ed49-46c4-9146-a15fcfc035fb",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google AI Mode\u2019s Personal Intelligence Now Free In U.S. via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-ai-modes-personal-intelligence-now-free-in-u-s/569932/",
+      "summary": "Google is expanding Personal Intelligence to free U.S. users in AI Mode, connecting Gmail and Photos to search. Gemini app and Chrome rollout starting. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-ai-modes-personal-intelligence-now-free-in-u-s/569932/\">Google AI Mode&#8217;s Personal Intelligence Now Free In U.S.</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-17T17:01:20+00:00",
+      "fetched": "2026-03-17T21:28:00.415060+00:00"
+    },
+    {
+      "id": "4e931eab-b2fe-40d1-8682-3dda34a6feb1",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Brand Tax: How Google Profits From Demand You Already Own via @sejournal, @Kevin_Indig",
+      "link": "https://www.searchenginejournal.com/the-brand-tax-how-google-profits-from-demand-you-already-own/569887/",
+      "summary": "If your paid search looks efficient, branded keywords may be hiding the truth. Learn how to measure real performance.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-brand-tax-how-google-profits-from-demand-you-already-own/569887/\">The Brand Tax: How Google Profits From Demand You Already Own</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-17T13:30:08+00:00",
+      "fetched": "2026-03-17T21:28:00.415081+00:00"
+    },
+    {
+      "id": "13c14127-1593-4d80-9521-b619894e7881",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "What\u2019s Hot, What\u2019s Not: AI Search Changes In Q1 2026 [Recap] via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/whats-hot-whats-not-ai-search-changes-in-q1-2026-recap/569652/",
+      "summary": "At SEJ Live, we sorted Q1's AI search changes into what's hot and what's not. Here's what we covered and where to watch it.\n\nThe post <a href=\"https://www.searchenginejournal.com/whats-hot-whats-not-ai-search-changes-in-q1-2026-recap/569652/\">What&#8217;s Hot, What&#8217;s Not: AI Search Changes In Q1 2026 [Recap]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-17T13:00:51+00:00",
+      "fetched": "2026-03-17T21:28:00.415107+00:00"
+    },
+    {
+      "id": "f6e5a721-8e14-48fa-be74-d3ee78983df1",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "PPC Automation Layering: How Smart Advertisers Combine Automation With Strategy via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/ppc-automation-layering-how-smart-advertisers-combine-automation-with-strategy/568043/",
+      "summary": "See how PPC automation layering helps marketers shape automated campaign performance instead of relying on a single feature.\n\nThe post <a href=\"https://www.searchenginejournal.com/ppc-automation-layering-how-smart-advertisers-combine-automation-with-strategy/568043/\">PPC Automation Layering: How Smart Advertisers Combine Automation With Strategy</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-17T12:00:24+00:00",
+      "fetched": "2026-03-17T21:28:00.415125+00:00"
+    },
+    {
+      "id": "db7bd613-a1cb-47ff-a105-048524d56f3d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Vibe Coding Plugins? Validate With Official WordPress Plugin Checker via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/vibe-coding-plugins-validate-with-official-wordpress-plugin-checker/569895/",
+      "summary": "The official WordPress Plugin Checker provides automated code review for security and best practices, perfect for checking vibe coded plugins.\n\nThe post <a href=\"https://www.searchenginejournal.com/vibe-coding-plugins-validate-with-official-wordpress-plugin-checker/569895/\">Vibe Coding Plugins? Validate With Official WordPress Plugin Checker</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-17T09:17:15+00:00",
+      "fetched": "2026-03-17T21:28:00.415142+00:00"
+    },
+    {
+      "id": "edec6036-1e1c-476e-9545-9cd91a16aee5",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Track AI Visibility & Prompts The Right Way via @sejournal, @lorenbaker",
+      "link": "https://www.searchenginejournal.com/how-to-track-ai-visibility-prompts-the-right-way/569866/",
+      "summary": "Learn how to effectively track AI prompts for better insights and smarter decision-making in search and content strategies.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-track-ai-visibility-prompts-the-right-way/569866/\">How To Track AI Visibility &#038; Prompts The Right Way</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-17T09:00:28+00:00",
+      "fetched": "2026-03-17T21:28:00.415158+00:00"
+    },
+    {
       "id": "b5b4ae65-5eee-42ab-b888-3b3702e4c0f7",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -142,84 +219,7 @@
       "summary": "An analysis of ChatGPT conversations found the default and premium models cite almost entirely different sources for the same queries. \n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpts-default-premium-models-search-the-web-differently/569594/\">ChatGPT&#8217;s Default &#038; Premium Models Search The Web Differently</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-03-12T16:38:54+00:00",
       "fetched": "2026-03-12T21:23:11.815267+00:00"
-    },
-    {
-      "id": "f611798c-86df-41d8-82ef-8f19fa2802d4",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Maps Launches AI Conversational Search With Ask Maps via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-maps-launches-ai-conversational-search-with-ask-maps/569585/",
-      "summary": "Google Maps launches Ask Maps, a Gemini-powered conversational feature for local discovery in the U.S. and India, plus a navigation overhaul in the U.S.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-maps-launches-ai-conversational-search-with-ask-maps/569585/\">Google Maps Launches AI Conversational Search With Ask Maps</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-12T14:47:02+00:00",
-      "fetched": "2026-03-12T21:23:11.815293+00:00"
-    },
-    {
-      "id": "5dc9b4fd-0747-4287-b2cd-924d21e9e045",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Shortcut Behind Some AI Optimization Tools via @sejournal, @DuaneForrester",
-      "link": "https://www.searchenginejournal.com/the-shortcut-behind-some-ai-optimization-tools/569040/",
-      "summary": "The disappearance of ChatGPT\u2019s query fan-out metadata reveals why AI intelligence tools built on unofficial access are fragile by design.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-shortcut-behind-some-ai-optimization-tools/569040/\">The Shortcut Behind Some AI Optimization Tools</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-12T13:30:14+00:00",
-      "fetched": "2026-03-12T21:23:11.815315+00:00"
-    },
-    {
-      "id": "1632ea51-d9b1-476d-8f0e-1114f4720033",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How AI Automation Turns Static Travel Pages Into Living Content & Experiences via @sejournal, @TaylorDanRW",
-      "link": "https://www.searchenginejournal.com/how-ai-automation-turns-static-travel-pages-into-living-content-experiences/568599/",
-      "summary": "Consider a new model for travel marketing where content adapts to traveler context instead of relying on static destination pages.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-ai-automation-turns-static-travel-pages-into-living-content-experiences/568599/\">How AI Automation Turns Static Travel Pages Into Living Content &#038; Experiences</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-12T12:30:40+00:00",
-      "fetched": "2026-03-12T21:23:11.815338+00:00"
-    },
-    {
-      "id": "00b46c2b-2f85-4fd3-89d0-a9104d5f9d28",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Answers Questions About Search Console\u2019s Branded Queries Filter via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-answers-questions-about-search-consoles-branded-queries-filter/569549/",
-      "summary": "Google announced that Search Console's brand queries filter is open to all eligible sites, spurring questions about the feature.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-answers-questions-about-search-consoles-branded-queries-filter/569549/\">Google Answers Questions About Search Console&#8217;s Branded Queries Filter</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-12T09:17:16+00:00",
-      "fetched": "2026-03-12T21:23:11.815358+00:00"
-    },
-    {
-      "id": "22998fb8-a522-46a0-bc00-79b7d977454b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "WordPress Gutenberg 22.7 Lays Groundwork For AI Publishing via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/wordpress-gutenberg-22-7-lays-groundwork-for-ai-publishing/569543/",
-      "summary": "Gutenberg 22.7 adds features that lay the groundwork for a role as an AI publishing platform and improve the editing experience.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-gutenberg-22-7-lays-groundwork-for-ai-publishing/569543/\">WordPress Gutenberg 22.7 Lays Groundwork For AI Publishing</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-11T23:16:13+00:00",
-      "fetched": "2026-03-12T21:23:11.815376+00:00"
-    },
-    {
-      "id": "07bf8392-7ab6-4c3c-8503-8de706b32a1e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "WordPress Security Release 6.9.4 Fixes Issues 6.9.2 Failed To Address via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/wordpress-security-release-6-9-4/569532/",
-      "summary": "WordPress issues second security release 6.9.4 to address vulnerabilities that version 6.9.2 apparently failed to patch.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-security-release-6-9-4/569532/\">WordPress Security Release 6.9.4 Fixes Issues 6.9.2 Failed To Address</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-11T17:34:30+00:00",
-      "fetched": "2026-03-11T21:22:45.198504+00:00"
-    },
-    {
-      "id": "0855e823-1ccd-4d3b-88f4-9fc672425a90",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "5 Things I Learned About The Future Of Search From Liz Reid\u2019s Latest Interview via @sejournal, @marie_haynes",
-      "link": "https://www.searchenginejournal.com/5-things-i-learned-about-the-future-of-search-from-liz-reids-latest-interview/569227/",
-      "summary": "Five takeaways from Liz Reid on AI agents, the future of Google Search, and why originality now matters more than ever.\n\nThe post <a href=\"https://www.searchenginejournal.com/5-things-i-learned-about-the-future-of-search-from-liz-reids-latest-interview/569227/\">5 Things I Learned About The Future Of Search From Liz Reid\u2019s Latest Interview</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-11T13:30:36+00:00",
-      "fetched": "2026-03-11T21:22:45.198533+00:00"
     }
   ],
-  "last_updated": "2026-03-16T21:28:55.822071+00:00"
+  "last_updated": "2026-03-17T21:28:02.560723+00:00"
 }
