@@ -1,6 +1,83 @@
 {
   "articles": [
     {
+      "id": "0bcfd447-1067-43ab-bc3a-dc0c05ba2787",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Authentic Human Conversation\u2122",
+      "link": "https://www.searchenginejournal.com/authentic-human-conversation/569924/",
+      "summary": "Digg\u2019s collapse, Reddit\u2019s lawsuit, and a bot-filled ecosystem expose the fragile economics behind \u201cauthentic human conversation\u201d in the AI era.\n\nThe post <a href=\"https://www.searchenginejournal.com/authentic-human-conversation/569924/\">Authentic Human Conversation\u2122</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-18T13:30:44+00:00",
+      "fetched": "2026-03-18T21:25:49.020076+00:00"
+    },
+    {
+      "id": "17fb91e3-cd03-4d22-967c-68a6f11d05e2",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Build An SEO Commissioning Workflow: From Tickets To Requirements via @sejournal, @billhunt",
+      "link": "https://www.searchenginejournal.com/how-to-build-an-seo-commissioning-workflow/566093/",
+      "summary": "Future-ready organizations shift SEO upstream, defining discoverability requirements before content, templates, and platforms go live.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-build-an-seo-commissioning-workflow/566093/\">How To Build An SEO Commissioning Workflow: From Tickets To Requirements</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-18T13:00:27+00:00",
+      "fetched": "2026-03-18T21:25:49.020103+00:00"
+    },
+    {
+      "id": "b22c58ee-e36c-451e-b461-f3154b6dfe72",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Use AI To Streamline Time-Consuming SEO Tasks via @sejournal, @coreydmorris",
+      "link": "https://www.searchenginejournal.com/how-to-use-ai-to-streamline-time-consuming-seo-tasks/566499/",
+      "summary": "How SEO teams can reclaim time and budget by streamlining labor-intensive tasks with human-guided automation.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-use-ai-to-streamline-time-consuming-seo-tasks/566499/\">How To Use AI To Streamline Time-Consuming SEO Tasks</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-18T12:00:20+00:00",
+      "fetched": "2026-03-18T21:25:49.020123+00:00"
+    },
+    {
+      "id": "be819183-956e-41f3-85ed-039e184b5af9",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "SEO Test Shows It\u2019s Trivial To Rank Misinformation On Google via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/seo-test-shows-its-trivial-to-rank-misinformation-on-google/569980/",
+      "summary": "An SEO experiment shows how easily misinformation ranks in Google Search and spreads to other sites.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-test-shows-its-trivial-to-rank-misinformation-on-google/569980/\">SEO Test Shows It&#8217;s Trivial To Rank Misinformation On Google</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-18T09:38:02+00:00",
+      "fetched": "2026-03-18T21:25:49.020146+00:00"
+    },
+    {
+      "id": "32f1bc69-f8fc-4611-9eb9-2176ae0ac4d7",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Explains Why HTTPS Migration May Negatively Impact SEO via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-explains-why-https-migration-may-negatively-impact-seo/569969/",
+      "summary": "Google's John Mueller says why migrating a site to HTTPS may cause a site to lose all rankings.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-explains-why-https-migration-may-negatively-impact-seo/569969/\">Google Explains Why HTTPS Migration May Negatively Impact SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-18T08:25:41+00:00",
+      "fetched": "2026-03-18T21:25:49.020165+00:00"
+    },
+    {
+      "id": "dfd0c938-6c84-4a37-af87-11dadca547cf",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Search Referral Traffic Down 60% For Small Publishers, Data Shows via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/search-referral-traffic-down-60-for-small-publishers-data-shows/569959/",
+      "summary": "Chartbeat data shows search referral traffic fell 60% for small publishers over two years, compared with 22% for large publishers, per an Axios report.\n\nThe post <a href=\"https://www.searchenginejournal.com/search-referral-traffic-down-60-for-small-publishers-data-shows/569959/\">Search Referral Traffic Down 60% For Small Publishers, Data Shows</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-17T23:55:47+00:00",
+      "fetched": "2026-03-18T21:25:49.020183+00:00"
+    },
+    {
+      "id": "1f71a883-1690-4202-a54c-90340edc7aed",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google AI Overviews Cut Germany\u2019s Top Organic CTR By 59% via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-ai-overviews-cut-germanys-top-organic-ctr-by-59/569954/",
+      "summary": "SISTRIX analyzed over 100 million German keywords and found AI Overviews reduce the position one click rate from 27% to 11%. Impact varies by industry.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ai-overviews-cut-germanys-top-organic-ctr-by-59/569954/\">Google AI Overviews Cut Germany&#8217;s Top Organic CTR By 59%</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-17T23:19:03+00:00",
+      "fetched": "2026-03-18T21:25:49.020200+00:00"
+    },
+    {
       "id": "94d1dd85-428b-4231-9c25-f71390683a26",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -142,84 +219,7 @@
       "summary": "Decide where to invest by understanding how SEO and PPC truly scale, compete, and drive business growth differently.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-vs-ppc/234681/\">SEO Vs. PPC Strategy: What&#8217;s Right For Your Business?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-03-14T05:46:29+00:00",
       "fetched": "2026-03-14T21:17:33.895038+00:00"
-    },
-    {
-      "id": "d071b60c-8e5c-4802-9a8b-5cc669e0d171",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Discover Core Update Data: Local Publishers Lost Reach via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-discover-core-update-data-local-publishers-lost-reach/569735/",
-      "summary": "New third-party data shows local publishers lost national reach after Google's Discover core update. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-discover-core-update-data-local-publishers-lost-reach/569735/\">Google Discover Core Update Data: Local Publishers Lost Reach</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-13T13:47:58+00:00",
-      "fetched": "2026-03-13T21:23:31.243642+00:00"
-    },
-    {
-      "id": "aad35cfa-ddcd-44e8-b7dc-1c7236e3ee05",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Starting Or Steering The Wave",
-      "link": "https://www.searchenginejournal.com/starting-or-steering-the-wave/569556/",
-      "summary": "Why traditional \u201cutility SEO\u201d content is losing value, and how marketers can create demand instead of chasing existing searches.\n\nThe post <a href=\"https://www.searchenginejournal.com/starting-or-steering-the-wave/569556/\">Starting Or Steering The Wave</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-13T13:30:08+00:00",
-      "fetched": "2026-03-13T21:23:31.243669+00:00"
-    },
-    {
-      "id": "6213d682-413a-457d-9df7-030006620c64",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Mode Data, Ask Maps & Branded Queries Go Live \u2013 SEO Pulse via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-ai-mode-data-ask-maps-branded-queries-go-live/569648/",
-      "summary": "In SEO Pulse: AI Mode keeps more links inside Google, Maps adds conversational discovery, and Search Console rolls out automated brand segmentation.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-ai-mode-data-ask-maps-branded-queries-go-live/569648/\">AI Mode Data, Ask Maps &#038; Branded Queries Go Live \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-13T12:45:32+00:00",
-      "fetched": "2026-03-13T21:23:31.243689+00:00"
-    },
-    {
-      "id": "6a685ba2-c32a-41ef-a159-0a3e992fe4e1",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Merchant Center Expands, Google Clarifies Smart Bidding, State Of PPC Report \u2013 PPC Pulse via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/ppc-pulse-merchant-center-expands-google-clarifies-smart-bidding-state-of-ppc-report/569653/",
-      "summary": "The latest PPC Pulse highlights Google\u2019s agency-focused Merchant Center rollout, Smart Bidding guidance for new campaigns, and emerging AI usage trends in PPC.\n\nThe post <a href=\"https://www.searchenginejournal.com/ppc-pulse-merchant-center-expands-google-clarifies-smart-bidding-state-of-ppc-report/569653/\">Merchant Center Expands, Google Clarifies Smart Bidding, State Of PPC Report \u2013 PPC Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-13T11:15:08+00:00",
-      "fetched": "2026-03-13T21:23:31.243713+00:00"
-    },
-    {
-      "id": "2ad3c77a-9137-4b90-aab4-7cd8bd1349dd",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Says They Deploy Hundreds Of Undocumented Crawlers via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-says-they-deploy-hundreds-of-undocumented-crawlers/569692/",
-      "summary": "Google's Gary Illyes offered a candid overview of Googlebot, explaining there are hundreds of crawlers that are not publicly documented.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-says-they-deploy-hundreds-of-undocumented-crawlers/569692/\">Google Says They Deploy Hundreds Of Undocumented Crawlers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-13T09:17:44+00:00",
-      "fetched": "2026-03-13T21:23:31.243732+00:00"
-    },
-    {
-      "id": "981ebb2e-b687-400b-8199-54c7a98c96df",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Formidable Forms Flaw Lets Attackers Pay Less For Expensive Purchases via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/formidable-forms-flaw-lets-attackers-pay-less-for-expensive-purchases/569665/",
-      "summary": "Formidable Forms WordPress vulnerability enables unauthenticated attackers to pay a small amount and have a larger purchase marked as paid.\n\nThe post <a href=\"https://www.searchenginejournal.com/formidable-forms-flaw-lets-attackers-pay-less-for-expensive-purchases/569665/\">Formidable Forms Flaw Lets Attackers Pay Less For Expensive Purchases</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-12T22:55:49+00:00",
-      "fetched": "2026-03-13T21:23:31.243749+00:00"
-    },
-    {
-      "id": "7a42ccbe-dd3c-4bbe-9989-e256d2bcb425",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "ChatGPT\u2019s Default & Premium Models Search The Web Differently via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/chatgpts-default-premium-models-search-the-web-differently/569594/",
-      "summary": "An analysis of ChatGPT conversations found the default and premium models cite almost entirely different sources for the same queries. \n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpts-default-premium-models-search-the-web-differently/569594/\">ChatGPT&#8217;s Default &#038; Premium Models Search The Web Differently</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-12T16:38:54+00:00",
-      "fetched": "2026-03-12T21:23:11.815267+00:00"
     }
   ],
-  "last_updated": "2026-03-17T21:28:02.560723+00:00"
+  "last_updated": "2026-03-18T21:25:49.701219+00:00"
 }
