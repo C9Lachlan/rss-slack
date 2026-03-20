@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "id": "3a0ab0c5-5ebc-4162-a534-9df8f87109aa",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google AI Mode Goes Personal, Crawl Limits Clarified \u2013 SEO Pulse via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/seo-pulse-google-ai-mode-goes-personal-crawl-limits-clarified/570110/",
+      "summary": "In SEO Pulse: Google opens Personal Intelligence to free users, Illyes clarifies crawl limits, and new data adds context to AIO and traffic trends.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-google-ai-mode-goes-personal-crawl-limits-clarified/570110/\">Google AI Mode Goes Personal, Crawl Limits Clarified \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-20T12:30:24+00:00",
+      "fetched": "2026-03-20T21:21:13.688285+00:00"
+    },
+    {
+      "id": "3966c34c-5e74-415f-aab0-e91126b2bfbf",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Ads Creative Tools Expand, Microsoft Simplifies Bidding \u2013 PPC Pulse via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/ppc-pulse-google-ads-creative-tools-expand-microsoft-simplifies-bidding/570104/",
+      "summary": "The latest PPC Pulse highlights Microsoft\u2019s bidding updates, Google\u2019s expanded creative tools, and Nano Banana Pro\u2019s availability inside Google Ads.\n\nThe post <a href=\"https://www.searchenginejournal.com/ppc-pulse-google-ads-creative-tools-expand-microsoft-simplifies-bidding/570104/\">Google Ads Creative Tools Expand, Microsoft Simplifies Bidding \u2013 PPC Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-20T11:30:55+00:00",
+      "fetched": "2026-03-20T21:21:13.688311+00:00"
+    },
+    {
       "id": "77a93324-386f-45af-8610-724a3e45d527",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -197,29 +219,7 @@
       "summary": "Learn how to effectively track AI prompts for better insights and smarter decision-making in search and content strategies.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-track-ai-visibility-prompts-the-right-way/569866/\">How To Track AI Visibility &#038; Prompts The Right Way</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-03-17T09:00:28+00:00",
       "fetched": "2026-03-17T21:28:00.415158+00:00"
-    },
-    {
-      "id": "b5b4ae65-5eee-42ab-b888-3b3702e4c0f7",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Search Barely Cites Syndicated News Or Press Releases via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/ai-search-barely-cites-syndicated-news-or-press-releases/569854/",
-      "summary": "Data from 4M AI citations shows syndicated press releases barely register in AI answers. Editorial content and owned newsrooms fare better.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-search-barely-cites-syndicated-news-or-press-releases/569854/\">AI Search Barely Cites Syndicated News Or Press Releases</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-16T17:09:56+00:00",
-      "fetched": "2026-03-16T21:28:55.336927+00:00"
-    },
-    {
-      "id": "186183b0-79f8-410f-ba9c-a1ea5a2a1561",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "You\u2019re Not Scaling Content. You\u2019re Scaling Disappointment",
-      "link": "https://www.searchenginejournal.com/youre-not-scaling-content-youre-scaling-disappointment/569235/",
-      "summary": "Pedro Dias traces the recurring cycle of mass-produced SEO content and explains why the \u201cpublish more pages\u201d playbook always ends the same way.\n\nThe post <a href=\"https://www.searchenginejournal.com/youre-not-scaling-content-youre-scaling-disappointment/569235/\">You\u2019re Not Scaling Content. You\u2019re Scaling Disappointment</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-16T13:30:07+00:00",
-      "fetched": "2026-03-16T21:28:55.336956+00:00"
     }
   ],
-  "last_updated": "2026-03-19T21:25:35.446266+00:00"
+  "last_updated": "2026-03-20T21:21:14.598280+00:00"
 }
