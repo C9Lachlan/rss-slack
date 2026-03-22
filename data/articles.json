@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": "a5c5fb10-c14c-4454-8817-95fa83fc02e8",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "From SEO And CRO To Agentic AI Optimization (AAIO): Why Your Website Needs To Speak To Machines via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/from-seo-and-cro-to-agentic-ai-optimization-aaio-why-your-website-needs-to-speak-to-machines/569983/",
+      "summary": "Agentic browsers and commerce protocols are redefining how users interact with websites, and who actually completes transactions.\n\nThe post <a href=\"https://www.searchenginejournal.com/from-seo-and-cro-to-agentic-ai-optimization-aaio-why-your-website-needs-to-speak-to-machines/569983/\">From SEO And CRO To Agentic AI Optimization (AAIO): Why Your Website Needs To Speak To Machines</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-22T11:00:57+00:00",
+      "fetched": "2026-03-22T21:17:03.110258+00:00"
+    },
+    {
       "id": "3a0ab0c5-5ebc-4162-a534-9df8f87109aa",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -208,18 +219,7 @@
       "summary": "The official WordPress Plugin Checker provides automated code review for security and best practices, perfect for checking vibe coded plugins.\n\nThe post <a href=\"https://www.searchenginejournal.com/vibe-coding-plugins-validate-with-official-wordpress-plugin-checker/569895/\">Vibe Coding Plugins? Validate With Official WordPress Plugin Checker</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-03-17T09:17:15+00:00",
       "fetched": "2026-03-17T21:28:00.415142+00:00"
-    },
-    {
-      "id": "edec6036-1e1c-476e-9545-9cd91a16aee5",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Track AI Visibility & Prompts The Right Way via @sejournal, @lorenbaker",
-      "link": "https://www.searchenginejournal.com/how-to-track-ai-visibility-prompts-the-right-way/569866/",
-      "summary": "Learn how to effectively track AI prompts for better insights and smarter decision-making in search and content strategies.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-track-ai-visibility-prompts-the-right-way/569866/\">How To Track AI Visibility &#038; Prompts The Right Way</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-17T09:00:28+00:00",
-      "fetched": "2026-03-17T21:28:00.415158+00:00"
     }
   ],
-  "last_updated": "2026-03-21T21:15:37.037449+00:00"
+  "last_updated": "2026-03-22T21:17:04.263431+00:00"
 }
