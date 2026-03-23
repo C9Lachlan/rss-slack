@@ -1,6 +1,83 @@
 {
   "articles": [
     {
+      "id": "ed264b4a-461e-481b-b169-e26ff6b5231a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Responds To Error That Causes Old Branding To Persist In SERPs via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-responds-to-error-that-causes-old-branding-to-persist-in-serps/570315/",
+      "summary": "Google's John Mueller responds to a question about search results that display outdated branding for a site that rebranded over ten years ago.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-responds-to-error-that-causes-old-branding-to-persist-in-serps/570315/\">Google Responds To Error That Causes Old Branding To Persist In SERPs</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-23T21:23:14+00:00",
+      "fetched": "2026-03-23T21:26:56.467269+00:00"
+    },
+    {
+      "id": "2f6609bd-78db-41bb-9447-e0af05999096",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "3 Strategies That Can Survive AI Search In 2026: What I Shared At SEJ Live via @sejournal, @theshelleywalsh",
+      "link": "https://www.searchenginejournal.com/strategies-that-can-survive-ai-search-in-2026-what-i-shared-at-sej-live/570260/",
+      "summary": "Stop chasing rankings and start building visibility that matters with three practical strategies for SEO in 2026.\n\nThe post <a href=\"https://www.searchenginejournal.com/strategies-that-can-survive-ai-search-in-2026-what-i-shared-at-sej-live/570260/\">3 Strategies That Can Survive AI Search In 2026: What I Shared At SEJ Live</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-23T14:00:47+00:00",
+      "fetched": "2026-03-23T21:26:56.467295+00:00"
+    },
+    {
+      "id": "f5bdc61d-87ca-4e63-b902-dd2164a87dbf",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "7 Google Ads Shortcuts Every PPC Manager Should Be Using via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/google-ads-shortcuts-every-ppc-manager-should-be-using/568045/",
+      "summary": "Save time in Google Ads using seven practical shortcuts that simplify workflows and highlight optimization opportunities.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ads-shortcuts-every-ppc-manager-should-be-using/568045/\">7 Google Ads Shortcuts Every PPC Manager Should Be Using</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-23T12:00:05+00:00",
+      "fetched": "2026-03-23T21:26:56.467316+00:00"
+    },
+    {
+      "id": "14c276fc-ae76-48ad-a4ac-b9391d9c2c1f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The SEO Skills Gap: Why Technical Expertise Alone Won\u2019t Cut It Anymore",
+      "link": "https://www.searchenginejournal.com/seo-skills-gap-why-technical-expertise-alone-wont-cut-it-anymore/568356/",
+      "summary": "Technical SEO expertise is table stakes. The real skills gap? Business acumen, strategic thinking, and the ability to prove ROI. Here's what CMOs need.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-skills-gap-why-technical-expertise-alone-wont-cut-it-anymore/568356/\">The SEO Skills Gap: Why Technical Expertise Alone Won&#8217;t Cut It Anymore</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-23T11:15:13+00:00",
+      "fetched": "2026-03-23T21:26:56.467342+00:00"
+    },
+    {
+      "id": "8bcb66b0-9ec1-4380-b3e7-047b0f1664de",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Is WordPress Too Complex For Most Sites? via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/is-wordpress-too-complex-for-most-sites/570274/",
+      "summary": "Yoast SEO co-founder shares that most sites don't need content management systems like WordPress anymore.\n\nThe post <a href=\"https://www.searchenginejournal.com/is-wordpress-too-complex-for-most-sites/570274/\">Is WordPress Too Complex For Most Sites?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-23T10:50:19+00:00",
+      "fetched": "2026-03-23T21:26:56.467360+00:00"
+    },
+    {
+      "id": "f9f55d54-746a-4a3d-98f4-7952527e74fe",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "5 GEO Strategies To Make AI Search Engines Recommend Your Brand In 2026",
+      "link": "https://www.searchenginejournal.com/geo-strategies-ai-visibility-geoptie-spa/568644/",
+      "summary": "Stop being invisible to AI search. These 5 strategies will get your brand cited and recommended by AI engines.\n\nThe post <a href=\"https://www.searchenginejournal.com/geo-strategies-ai-visibility-geoptie-spa/568644/\">5 GEO Strategies To Make AI Search Engines Recommend Your Brand In 2026</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-23T05:00:43+00:00",
+      "fetched": "2026-03-23T21:26:56.467378+00:00"
+    },
+    {
+      "id": "b313d847-8fc6-4658-9199-d0aad3f42d0e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Tested AI Headlines In Discover. Now It\u2019s Testing Them In Search via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-ai-headlines-in-search/570208/",
+      "summary": "Google is testing AI headline rewrites in Search using similar language to the earlier Discover test that became a feature. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-ai-headlines-in-search/570208/\">Google Tested AI Headlines In Discover. Now It&#8217;s Testing Them In Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-22T23:44:35+00:00",
+      "fetched": "2026-03-23T21:26:56.467394+00:00"
+    },
+    {
       "id": "a5c5fb10-c14c-4454-8817-95fa83fc02e8",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -142,84 +219,7 @@
       "summary": "Chartbeat data shows search referral traffic fell 60% for small publishers over two years, compared with 22% for large publishers, per an Axios report.\n\nThe post <a href=\"https://www.searchenginejournal.com/search-referral-traffic-down-60-for-small-publishers-data-shows/569959/\">Search Referral Traffic Down 60% For Small Publishers, Data Shows</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-03-17T23:55:47+00:00",
       "fetched": "2026-03-18T21:25:49.020183+00:00"
-    },
-    {
-      "id": "1f71a883-1690-4202-a54c-90340edc7aed",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google AI Overviews Cut Germany\u2019s Top Organic CTR By 59% via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-ai-overviews-cut-germanys-top-organic-ctr-by-59/569954/",
-      "summary": "SISTRIX analyzed over 100 million German keywords and found AI Overviews reduce the position one click rate from 27% to 11%. Impact varies by industry.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ai-overviews-cut-germanys-top-organic-ctr-by-59/569954/\">Google AI Overviews Cut Germany&#8217;s Top Organic CTR By 59%</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-17T23:19:03+00:00",
-      "fetched": "2026-03-18T21:25:49.020200+00:00"
-    },
-    {
-      "id": "94d1dd85-428b-4231-9c25-f71390683a26",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Removes \u2018What People Suggest,\u2019 Expands Health AI Tools via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-removes-what-people-suggest-expands-health-ai-tools/569942/",
-      "summary": "Google confirmed it removed \"What People Suggest\" from health searches. Additionally, the company announced new AI health tools for YouTube. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-removes-what-people-suggest-expands-health-ai-tools/569942/\">Google Removes &#8216;What People Suggest,&#8217; Expands Health AI Tools</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-17T18:49:48+00:00",
-      "fetched": "2026-03-17T21:28:00.415034+00:00"
-    },
-    {
-      "id": "93e219e3-ed49-46c4-9146-a15fcfc035fb",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google AI Mode\u2019s Personal Intelligence Now Free In U.S. via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-ai-modes-personal-intelligence-now-free-in-u-s/569932/",
-      "summary": "Google is expanding Personal Intelligence to free U.S. users in AI Mode, connecting Gmail and Photos to search. Gemini app and Chrome rollout starting. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-ai-modes-personal-intelligence-now-free-in-u-s/569932/\">Google AI Mode&#8217;s Personal Intelligence Now Free In U.S.</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-17T17:01:20+00:00",
-      "fetched": "2026-03-17T21:28:00.415060+00:00"
-    },
-    {
-      "id": "4e931eab-b2fe-40d1-8682-3dda34a6feb1",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Brand Tax: How Google Profits From Demand You Already Own via @sejournal, @Kevin_Indig",
-      "link": "https://www.searchenginejournal.com/the-brand-tax-how-google-profits-from-demand-you-already-own/569887/",
-      "summary": "If your paid search looks efficient, branded keywords may be hiding the truth. Learn how to measure real performance.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-brand-tax-how-google-profits-from-demand-you-already-own/569887/\">The Brand Tax: How Google Profits From Demand You Already Own</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-17T13:30:08+00:00",
-      "fetched": "2026-03-17T21:28:00.415081+00:00"
-    },
-    {
-      "id": "13c14127-1593-4d80-9521-b619894e7881",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "What\u2019s Hot, What\u2019s Not: AI Search Changes In Q1 2026 [Recap] via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/whats-hot-whats-not-ai-search-changes-in-q1-2026-recap/569652/",
-      "summary": "At SEJ Live, we sorted Q1's AI search changes into what's hot and what's not. Here's what we covered and where to watch it.\n\nThe post <a href=\"https://www.searchenginejournal.com/whats-hot-whats-not-ai-search-changes-in-q1-2026-recap/569652/\">What&#8217;s Hot, What&#8217;s Not: AI Search Changes In Q1 2026 [Recap]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-17T13:00:51+00:00",
-      "fetched": "2026-03-17T21:28:00.415107+00:00"
-    },
-    {
-      "id": "f6e5a721-8e14-48fa-be74-d3ee78983df1",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "PPC Automation Layering: How Smart Advertisers Combine Automation With Strategy via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/ppc-automation-layering-how-smart-advertisers-combine-automation-with-strategy/568043/",
-      "summary": "See how PPC automation layering helps marketers shape automated campaign performance instead of relying on a single feature.\n\nThe post <a href=\"https://www.searchenginejournal.com/ppc-automation-layering-how-smart-advertisers-combine-automation-with-strategy/568043/\">PPC Automation Layering: How Smart Advertisers Combine Automation With Strategy</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-17T12:00:24+00:00",
-      "fetched": "2026-03-17T21:28:00.415125+00:00"
-    },
-    {
-      "id": "db7bd613-a1cb-47ff-a105-048524d56f3d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Vibe Coding Plugins? Validate With Official WordPress Plugin Checker via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/vibe-coding-plugins-validate-with-official-wordpress-plugin-checker/569895/",
-      "summary": "The official WordPress Plugin Checker provides automated code review for security and best practices, perfect for checking vibe coded plugins.\n\nThe post <a href=\"https://www.searchenginejournal.com/vibe-coding-plugins-validate-with-official-wordpress-plugin-checker/569895/\">Vibe Coding Plugins? Validate With Official WordPress Plugin Checker</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-17T09:17:15+00:00",
-      "fetched": "2026-03-17T21:28:00.415142+00:00"
     }
   ],
-  "last_updated": "2026-03-22T21:17:04.263431+00:00"
+  "last_updated": "2026-03-23T21:26:57.199866+00:00"
 }
