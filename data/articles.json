@@ -1,6 +1,94 @@
 {
   "articles": [
     {
+      "id": "f62a3ef6-d739-4985-83ab-58b79d08b6f6",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Adds AI & Bot Labels To Forum, Q&A Structured Data via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-adds-ai-bot-labels-to-forum-qa-structured-data/570425/",
+      "summary": "Google updated its Discussion Forum and Q&amp;A Page structured data docs with new properties, including a way to label AI- and machine-generated content. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-adds-ai-bot-labels-to-forum-qa-structured-data/570425/\">Google Adds AI &#038; Bot Labels To Forum, Q&#038;A Structured Data</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-24T19:50:55+00:00",
+      "fetched": "2026-03-24T21:28:14.828090+00:00"
+    },
+    {
+      "id": "8644ad72-4727-493c-b533-77e024091d28",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Begins Rolling Out The March 2026 Spam Update via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-begins-rolling-out-the-march-2026-spam-update/570428/",
+      "summary": "Google started rolling out the March 2026 spam update. The update applies globally and to all languages, with rollout taking a few days.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-begins-rolling-out-the-march-2026-spam-update/570428/\">Google Begins Rolling Out The March 2026 Spam Update</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-24T19:38:20+00:00",
+      "fetched": "2026-03-24T21:28:14.828117+00:00"
+    },
+    {
+      "id": "9ac0fcca-bfa9-41c0-9467-7a1834e02d10",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Science Of How AI Picks Its Sources via @sejournal, @Kevin_Indig",
+      "link": "https://www.searchenginejournal.com/the-science-of-how-ai-picks-its-sources/570328/",
+      "summary": "New ChatGPT citation data shows a small group of domains owns most visibility, while broad, cluster-based pages outperform single-intent content.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-science-of-how-ai-picks-its-sources/570328/\">The Science Of How AI Picks Its Sources</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-24T13:30:52+00:00",
+      "fetched": "2026-03-24T21:28:14.828138+00:00"
+    },
+    {
+      "id": "ce557e4a-5b36-489e-88af-7ad26d08980a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Research: \u201cYou Are An Expert\u201d Prompts Can Damage Factual Accuracy via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/research-you-are-an-expert-prompts-can-damage-factual-accuracy/570397/",
+      "summary": "Research finds that persona prompts \"reliably damage\" factual accuracy in certain kinds of tasks but work well in others.\n\nThe post <a href=\"https://www.searchenginejournal.com/research-you-are-an-expert-prompts-can-damage-factual-accuracy/570397/\">Research: &#8220;You Are An Expert&#8221; Prompts Can Damage Factual Accuracy</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-24T12:38:07+00:00",
+      "fetched": "2026-03-24T21:28:14.828162+00:00"
+    },
+    {
+      "id": "26a6259f-01d5-4f5d-92a7-e9326b1a5d8b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Determine What Paid Media Channels Are Right for You via @sejournal, @timothyjjensen",
+      "link": "https://www.searchenginejournal.com/how-to-determine-what-paid-media-channels-are-right-for-you/569731/",
+      "summary": "Choosing the right PPC channels starts with clear goals, budget alignment, and understanding where your audience actually converts.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-determine-what-paid-media-channels-are-right-for-you/569731/\">How To Determine What Paid Media Channels Are Right for You</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-24T12:00:34+00:00",
+      "fetched": "2026-03-24T21:28:14.828181+00:00"
+    },
+    {
+      "id": "df0e9614-3417-403c-9d67-acf7dbad4786",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Agency Playbook for Surviving the Agentic AI Era",
+      "link": "https://www.searchenginejournal.com/rundowns/the-agency-playbook-for-surviving-the-agentic-ai-era/",
+      "summary": "The post <a href=\"https://www.searchenginejournal.com/rundowns/the-agency-playbook-for-surviving-the-agentic-ai-era/\">The Agency Playbook for Surviving the Agentic AI Era</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-24T07:50:34+00:00",
+      "fetched": "2026-03-24T21:28:14.828199+00:00"
+    },
+    {
+      "id": "4208e5c2-aa58-4cd3-819a-27e2dd8e9cba",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "SEO 2.0: How Content Marketing Drives Visibility in AI Search via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/seo-2-0-how-content-marketing-drives-visibility-in-ai-search/570308/",
+      "summary": "Join our on-demand webinar to understand the intersection of AI and SEO. Learn how to leverage AI for improved search results.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-2-0-how-content-marketing-drives-visibility-in-ai-search/570308/\">SEO 2.0: How Content Marketing Drives Visibility in AI Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-24T07:45:16+00:00",
+      "fetched": "2026-03-24T21:28:14.828222+00:00"
+    },
+    {
+      "id": "97858196-5a97-41ab-958d-471368d0e8b2",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Bing AI Dashboard Maps Grounding Queries To Cited Pages via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/bing-ai-dashboard-maps-grounding-queries-to-cited-pages/570323/",
+      "summary": "Bing's AI Performance dashboard now maps grounding queries to cited pages, letting you connect AI citation data to specific URLs on your site.\n\nThe post <a href=\"https://www.searchenginejournal.com/bing-ai-dashboard-maps-grounding-queries-to-cited-pages/570323/\">Bing AI Dashboard Maps Grounding Queries To Cited Pages</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-24T05:00:14+00:00",
+      "fetched": "2026-03-24T21:28:14.828249+00:00"
+    },
+    {
       "id": "ed264b4a-461e-481b-b169-e26ff6b5231a",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -131,95 +219,7 @@
       "summary": "Well-written guides are no longer enough. This analysis shows why AI visibility now depends on publishing irreplaceable context.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-content-moat-is-dead-the-context-moat-is-what-survives/569778/\">The Content Moat Is Dead. The Context Moat Is What Survives</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-03-19T13:30:49+00:00",
       "fetched": "2026-03-19T21:25:34.388397+00:00"
-    },
-    {
-      "id": "6f38f905-1d99-40c1-8fcb-6ddfbcae5810",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "What Can Log File Data Tell Me That Tools Can\u2019t? \u2013 Ask An SEO via @sejournal, @HelenPollitt1",
-      "link": "https://www.searchenginejournal.com/ask-an-seo-should-seos-use-log-file-data/567932/",
-      "summary": "Take a deeper look at crawl behavior, bot verification, and technical SEO signals through log file analysis.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-an-seo-should-seos-use-log-file-data/567932/\">What Can Log File Data Tell Me That Tools Can&#8217;t? \u2013 Ask An SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-19T12:30:50+00:00",
-      "fetched": "2026-03-19T21:25:34.388419+00:00"
-    },
-    {
-      "id": "2605c3f5-95c5-49dc-9eef-9b6a6a174e1a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google: 404 Crawling Means Google Is Open To More Of Your Content via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-404-crawling-means-google-is-open-to-more-of-your-content/570029/",
-      "summary": "Google's John Mueller implies that Googlebot crawling 404 pages is a positive sign about that site's content.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-404-crawling-means-google-is-open-to-more-of-your-content/570029/\">Google: 404 Crawling Means Google Is Open To More Of Your Content</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-19T10:13:04+00:00",
-      "fetched": "2026-03-19T21:25:34.388443+00:00"
-    },
-    {
-      "id": "0bcfd447-1067-43ab-bc3a-dc0c05ba2787",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Authentic Human Conversation\u2122",
-      "link": "https://www.searchenginejournal.com/authentic-human-conversation/569924/",
-      "summary": "Digg\u2019s collapse, Reddit\u2019s lawsuit, and a bot-filled ecosystem expose the fragile economics behind \u201cauthentic human conversation\u201d in the AI era.\n\nThe post <a href=\"https://www.searchenginejournal.com/authentic-human-conversation/569924/\">Authentic Human Conversation\u2122</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-18T13:30:44+00:00",
-      "fetched": "2026-03-18T21:25:49.020076+00:00"
-    },
-    {
-      "id": "17fb91e3-cd03-4d22-967c-68a6f11d05e2",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Build An SEO Commissioning Workflow: From Tickets To Requirements via @sejournal, @billhunt",
-      "link": "https://www.searchenginejournal.com/how-to-build-an-seo-commissioning-workflow/566093/",
-      "summary": "Future-ready organizations shift SEO upstream, defining discoverability requirements before content, templates, and platforms go live.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-build-an-seo-commissioning-workflow/566093/\">How To Build An SEO Commissioning Workflow: From Tickets To Requirements</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-18T13:00:27+00:00",
-      "fetched": "2026-03-18T21:25:49.020103+00:00"
-    },
-    {
-      "id": "b22c58ee-e36c-451e-b461-f3154b6dfe72",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Use AI To Streamline Time-Consuming SEO Tasks via @sejournal, @coreydmorris",
-      "link": "https://www.searchenginejournal.com/how-to-use-ai-to-streamline-time-consuming-seo-tasks/566499/",
-      "summary": "How SEO teams can reclaim time and budget by streamlining labor-intensive tasks with human-guided automation.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-use-ai-to-streamline-time-consuming-seo-tasks/566499/\">How To Use AI To Streamline Time-Consuming SEO Tasks</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-18T12:00:20+00:00",
-      "fetched": "2026-03-18T21:25:49.020123+00:00"
-    },
-    {
-      "id": "be819183-956e-41f3-85ed-039e184b5af9",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "SEO Test Shows It\u2019s Trivial To Rank Misinformation On Google via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/seo-test-shows-its-trivial-to-rank-misinformation-on-google/569980/",
-      "summary": "An SEO experiment shows how easily misinformation ranks in Google Search and spreads to other sites.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-test-shows-its-trivial-to-rank-misinformation-on-google/569980/\">SEO Test Shows It&#8217;s Trivial To Rank Misinformation On Google</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-18T09:38:02+00:00",
-      "fetched": "2026-03-18T21:25:49.020146+00:00"
-    },
-    {
-      "id": "32f1bc69-f8fc-4611-9eb9-2176ae0ac4d7",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Explains Why HTTPS Migration May Negatively Impact SEO via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-explains-why-https-migration-may-negatively-impact-seo/569969/",
-      "summary": "Google's John Mueller says why migrating a site to HTTPS may cause a site to lose all rankings.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-explains-why-https-migration-may-negatively-impact-seo/569969/\">Google Explains Why HTTPS Migration May Negatively Impact SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-18T08:25:41+00:00",
-      "fetched": "2026-03-18T21:25:49.020165+00:00"
-    },
-    {
-      "id": "dfd0c938-6c84-4a37-af87-11dadca547cf",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Search Referral Traffic Down 60% For Small Publishers, Data Shows via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/search-referral-traffic-down-60-for-small-publishers-data-shows/569959/",
-      "summary": "Chartbeat data shows search referral traffic fell 60% for small publishers over two years, compared with 22% for large publishers, per an Axios report.\n\nThe post <a href=\"https://www.searchenginejournal.com/search-referral-traffic-down-60-for-small-publishers-data-shows/569959/\">Search Referral Traffic Down 60% For Small Publishers, Data Shows</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-17T23:55:47+00:00",
-      "fetched": "2026-03-18T21:25:49.020183+00:00"
     }
   ],
-  "last_updated": "2026-03-23T21:26:57.199866+00:00"
+  "last_updated": "2026-03-24T21:28:16.277174+00:00"
 }
