@@ -1,6 +1,50 @@
 {
   "articles": [
     {
+      "id": "fca0b66e-fd6c-4519-94a1-6d001f207c89",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Analytics Launches Scenario Planner and Projections via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/google-analytics-launches-scenario-planner-and-projections/570520/",
+      "summary": "Google Analytics launched Scenario Planner and Projections to help advertisers forecast performance, optimize budgets, and plan cross-channel media spend more strategically.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-analytics-launches-scenario-planner-and-projections/570520/\">Google Analytics Launches Scenario Planner and Projections</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-25T17:07:42+00:00",
+      "fetched": "2026-03-25T21:28:23.488834+00:00"
+    },
+    {
+      "id": "fe02dfaa-91ac-4d15-abb2-a32b3251ce7f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Half Your Traffic Left. The SEO Industry Sent Thoughts and Frameworks",
+      "link": "https://www.searchenginejournal.com/half-your-traffic-left-the-seo-industry-sent-thoughts-and-frameworks/570380/",
+      "summary": "Nearly half of publisher search traffic has disappeared post-AI Overviews, raising urgent questions about how content gets funded next.\n\nThe post <a href=\"https://www.searchenginejournal.com/half-your-traffic-left-the-seo-industry-sent-thoughts-and-frameworks/570380/\">Half Your Traffic Left. The SEO Industry Sent Thoughts and Frameworks</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-25T13:30:38+00:00",
+      "fetched": "2026-03-25T21:28:23.488862+00:00"
+    },
+    {
+      "id": "13054f8d-4a7f-48e5-afaf-4b3945222267",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How Zero-Party & First-Party Data Can Fuel Your Intent-Based SEO Strategy via @sejournal, @rio_seo",
+      "link": "https://www.searchenginejournal.com/zero-party-data-how-to-use-first-party-insights-to-power-intent-based-content-strategy/568189/",
+      "summary": "Marketing leaders are grounding SEO in zero- and first-party data to better align content with real-world customer behavior and needs.\n\nThe post <a href=\"https://www.searchenginejournal.com/zero-party-data-how-to-use-first-party-insights-to-power-intent-based-content-strategy/568189/\">How Zero-Party &#038; First-Party Data Can Fuel Your Intent-Based SEO Strategy</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-25T11:00:38+00:00",
+      "fetched": "2026-03-25T21:28:23.488882+00:00"
+    },
+    {
+      "id": "e5d5cbb7-9491-42e3-b46b-f0620da06a39",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Is Your Website Ready for AI Search? A Practical Audit for CMOs via @sejournal, @lorenbaker",
+      "link": "https://www.searchenginejournal.com/is-your-website-ready-for-ai-search-a-practical-audit-for-cmos/570413/",
+      "summary": "Is your website ready for the AI-powered search revolution? Discover practical insights on adapting your CMS for modern needs.\n\nThe post <a href=\"https://www.searchenginejournal.com/is-your-website-ready-for-ai-search-a-practical-audit-for-cmos/570413/\">Is Your Website Ready for AI Search? A Practical Audit for CMOs</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-25T07:45:26+00:00",
+      "fetched": "2026-03-25T21:28:23.488906+00:00"
+    },
+    {
       "id": "f62a3ef6-d739-4985-83ab-58b79d08b6f6",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -175,51 +219,7 @@
       "summary": "Agentic browsers and commerce protocols are redefining how users interact with websites, and who actually completes transactions.\n\nThe post <a href=\"https://www.searchenginejournal.com/from-seo-and-cro-to-agentic-ai-optimization-aaio-why-your-website-needs-to-speak-to-machines/569983/\">From SEO And CRO To Agentic AI Optimization (AAIO): Why Your Website Needs To Speak To Machines</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-03-22T11:00:57+00:00",
       "fetched": "2026-03-22T21:17:03.110258+00:00"
-    },
-    {
-      "id": "3a0ab0c5-5ebc-4162-a534-9df8f87109aa",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google AI Mode Goes Personal, Crawl Limits Clarified \u2013 SEO Pulse via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-google-ai-mode-goes-personal-crawl-limits-clarified/570110/",
-      "summary": "In SEO Pulse: Google opens Personal Intelligence to free users, Illyes clarifies crawl limits, and new data adds context to AIO and traffic trends.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-google-ai-mode-goes-personal-crawl-limits-clarified/570110/\">Google AI Mode Goes Personal, Crawl Limits Clarified \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-20T12:30:24+00:00",
-      "fetched": "2026-03-20T21:21:13.688285+00:00"
-    },
-    {
-      "id": "3966c34c-5e74-415f-aab0-e91126b2bfbf",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Ads Creative Tools Expand, Microsoft Simplifies Bidding \u2013 PPC Pulse via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/ppc-pulse-google-ads-creative-tools-expand-microsoft-simplifies-bidding/570104/",
-      "summary": "The latest PPC Pulse highlights Microsoft\u2019s bidding updates, Google\u2019s expanded creative tools, and Nano Banana Pro\u2019s availability inside Google Ads.\n\nThe post <a href=\"https://www.searchenginejournal.com/ppc-pulse-google-ads-creative-tools-expand-microsoft-simplifies-bidding/570104/\">Google Ads Creative Tools Expand, Microsoft Simplifies Bidding \u2013 PPC Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-20T11:30:55+00:00",
-      "fetched": "2026-03-20T21:21:13.688311+00:00"
-    },
-    {
-      "id": "77a93324-386f-45af-8610-724a3e45d527",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Expands UCP With Cart, Catalog, Onboarding via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-expands-ucp-with-cart-catalog-onboarding/570084/",
-      "summary": "Google's Universal Commerce Protocol adds cart management and catalog access, highlights identity linking support, and begins simplifying Merchant Center onboarding.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-expands-ucp-with-cart-catalog-onboarding/570084/\">Google Expands UCP With Cart, Catalog, Onboarding</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-19T15:35:16+00:00",
-      "fetched": "2026-03-19T21:25:34.388370+00:00"
-    },
-    {
-      "id": "8a61b9e2-690c-402b-a56d-b21bd145dd19",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Content Moat Is Dead. The Context Moat Is What Survives via @sejournal, @DuaneForrester",
-      "link": "https://www.searchenginejournal.com/the-content-moat-is-dead-the-context-moat-is-what-survives/569778/",
-      "summary": "Well-written guides are no longer enough. This analysis shows why AI visibility now depends on publishing irreplaceable context.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-content-moat-is-dead-the-context-moat-is-what-survives/569778/\">The Content Moat Is Dead. The Context Moat Is What Survives</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-19T13:30:49+00:00",
-      "fetched": "2026-03-19T21:25:34.388397+00:00"
     }
   ],
-  "last_updated": "2026-03-24T21:28:16.277174+00:00"
+  "last_updated": "2026-03-25T21:28:25.332466+00:00"
 }
