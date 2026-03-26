@@ -1,6 +1,72 @@
 {
   "articles": [
     {
+      "id": "308ec61b-e1a3-4e9d-a22f-1b852ab058df",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Takes Search Live Global With Gemini 3.1 Flash Live via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-takes-search-live-global-with-gemini-3-1-flash-live/570602/",
+      "summary": "Google expands Search Live to 200+ countries, powered by its new Gemini 3.1 Flash Live model with multilingual voice and camera search in AI Mode. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-takes-search-live-global-with-gemini-3-1-flash-live/570602/\">Google Takes Search Live Global With Gemini 3.1 Flash Live</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-26T19:11:08+00:00",
+      "fetched": "2026-03-26T21:22:33.044475+00:00"
+    },
+    {
+      "id": "a34b391f-f9d0-4729-81af-db68d74156a9",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Adds New Performance Max Controls And Reporting Features via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/google-adds-new-performance-max-controls-and-reporting-features/570588/",
+      "summary": "Google introduces Performance Max updates, including audience exclusions, budget projections, and expanded reporting to give advertisers more visibility and control over campaign performance.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-adds-new-performance-max-controls-and-reporting-features/570588/\">Google Adds New Performance Max Controls And Reporting Features</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-26T16:56:16+00:00",
+      "fetched": "2026-03-26T21:22:33.044501+00:00"
+    },
+    {
+      "id": "9d5c8d21-8456-40da-b97d-a4922c194851",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Avoid Top Down SEO Systems Failures With The Visibility Governance Maturity Model via @sejournal, @theshelleywalsh",
+      "link": "https://www.searchenginejournal.com/how-to-avoid-top-down-seo-systems-failures-with-the-visibility-governance-maturity-model/570509/",
+      "summary": "In this IMHO interview, Ash Nallawalla explains why governance is the missing layer behind most visibility breakdowns.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-avoid-top-down-seo-systems-failures-with-the-visibility-governance-maturity-model/570509/\">How To Avoid Top Down SEO Systems Failures With The Visibility Governance Maturity Model</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-26T13:29:39+00:00",
+      "fetched": "2026-03-26T21:22:33.044521+00:00"
+    },
+    {
+      "id": "0ca1ca82-b74c-41f2-8f5b-5b51202a60d2",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "When The Training Data Cutoff Becomes A Ranking Factor via @sejournal, @DuaneForrester",
+      "link": "https://www.searchenginejournal.com/when-the-training-data-cutoff-becomes-a-ranking-factor/570438/",
+      "summary": "Content published before and after a model\u2019s cutoff lives in different systems, shaping how brands appear in AI-generated answers.\n\nThe post <a href=\"https://www.searchenginejournal.com/when-the-training-data-cutoff-becomes-a-ranking-factor/570438/\">When The Training Data Cutoff Becomes A Ranking Factor</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-26T12:50:00+00:00",
+      "fetched": "2026-03-26T21:22:33.044545+00:00"
+    },
+    {
+      "id": "2e40b2e8-8266-4d03-a85f-72463d95b54a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Are We Due Another Florida-Style Update? via @sejournal, @TaylorDanRW",
+      "link": "https://www.searchenginejournal.com/are-we-due-another-florida-style-update/570102/",
+      "summary": "Why the return of scaled, low-differentiation content is putting pressure on Google\u2019s systems and raising the risk of a broader intervention.\n\nThe post <a href=\"https://www.searchenginejournal.com/are-we-due-another-florida-style-update/570102/\">Are We Due Another Florida-Style Update?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-26T12:00:44+00:00",
+      "fetched": "2026-03-26T21:22:33.044564+00:00"
+    },
+    {
+      "id": "2b1845e8-aa97-4a1e-a8be-9744ef4c9836",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s March Spam Update Felt Muted But May Signal Bigger Changes via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/googles-march-spam-update-felt-muted-but-may-signal-bigger-changes/570541/",
+      "summary": "Why Google's recently finished Spam Update could be the beginning of something bigger that is yet to come.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-march-spam-update-felt-muted-but-may-signal-bigger-changes/570541/\">Google&#8217;s March Spam Update Felt Muted But May Signal Bigger Changes</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-26T10:43:08+00:00",
+      "fetched": "2026-03-26T21:22:33.044582+00:00"
+    },
+    {
       "id": "fca0b66e-fd6c-4519-94a1-6d001f207c89",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -153,73 +219,7 @@
       "summary": "Stop chasing rankings and start building visibility that matters with three practical strategies for SEO in 2026.\n\nThe post <a href=\"https://www.searchenginejournal.com/strategies-that-can-survive-ai-search-in-2026-what-i-shared-at-sej-live/570260/\">3 Strategies That Can Survive AI Search In 2026: What I Shared At SEJ Live</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-03-23T14:00:47+00:00",
       "fetched": "2026-03-23T21:26:56.467295+00:00"
-    },
-    {
-      "id": "f5bdc61d-87ca-4e63-b902-dd2164a87dbf",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "7 Google Ads Shortcuts Every PPC Manager Should Be Using via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/google-ads-shortcuts-every-ppc-manager-should-be-using/568045/",
-      "summary": "Save time in Google Ads using seven practical shortcuts that simplify workflows and highlight optimization opportunities.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ads-shortcuts-every-ppc-manager-should-be-using/568045/\">7 Google Ads Shortcuts Every PPC Manager Should Be Using</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-23T12:00:05+00:00",
-      "fetched": "2026-03-23T21:26:56.467316+00:00"
-    },
-    {
-      "id": "14c276fc-ae76-48ad-a4ac-b9391d9c2c1f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The SEO Skills Gap: Why Technical Expertise Alone Won\u2019t Cut It Anymore",
-      "link": "https://www.searchenginejournal.com/seo-skills-gap-why-technical-expertise-alone-wont-cut-it-anymore/568356/",
-      "summary": "Technical SEO expertise is table stakes. The real skills gap? Business acumen, strategic thinking, and the ability to prove ROI. Here's what CMOs need.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-skills-gap-why-technical-expertise-alone-wont-cut-it-anymore/568356/\">The SEO Skills Gap: Why Technical Expertise Alone Won&#8217;t Cut It Anymore</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-23T11:15:13+00:00",
-      "fetched": "2026-03-23T21:26:56.467342+00:00"
-    },
-    {
-      "id": "8bcb66b0-9ec1-4380-b3e7-047b0f1664de",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Is WordPress Too Complex For Most Sites? via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/is-wordpress-too-complex-for-most-sites/570274/",
-      "summary": "Yoast SEO co-founder shares that most sites don't need content management systems like WordPress anymore.\n\nThe post <a href=\"https://www.searchenginejournal.com/is-wordpress-too-complex-for-most-sites/570274/\">Is WordPress Too Complex For Most Sites?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-23T10:50:19+00:00",
-      "fetched": "2026-03-23T21:26:56.467360+00:00"
-    },
-    {
-      "id": "f9f55d54-746a-4a3d-98f4-7952527e74fe",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "5 GEO Strategies To Make AI Search Engines Recommend Your Brand In 2026",
-      "link": "https://www.searchenginejournal.com/geo-strategies-ai-visibility-geoptie-spa/568644/",
-      "summary": "Stop being invisible to AI search. These 5 strategies will get your brand cited and recommended by AI engines.\n\nThe post <a href=\"https://www.searchenginejournal.com/geo-strategies-ai-visibility-geoptie-spa/568644/\">5 GEO Strategies To Make AI Search Engines Recommend Your Brand In 2026</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-23T05:00:43+00:00",
-      "fetched": "2026-03-23T21:26:56.467378+00:00"
-    },
-    {
-      "id": "b313d847-8fc6-4658-9199-d0aad3f42d0e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Tested AI Headlines In Discover. Now It\u2019s Testing Them In Search via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-ai-headlines-in-search/570208/",
-      "summary": "Google is testing AI headline rewrites in Search using similar language to the earlier Discover test that became a feature. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-ai-headlines-in-search/570208/\">Google Tested AI Headlines In Discover. Now It&#8217;s Testing Them In Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-22T23:44:35+00:00",
-      "fetched": "2026-03-23T21:26:56.467394+00:00"
-    },
-    {
-      "id": "a5c5fb10-c14c-4454-8817-95fa83fc02e8",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "From SEO And CRO To Agentic AI Optimization (AAIO): Why Your Website Needs To Speak To Machines via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/from-seo-and-cro-to-agentic-ai-optimization-aaio-why-your-website-needs-to-speak-to-machines/569983/",
-      "summary": "Agentic browsers and commerce protocols are redefining how users interact with websites, and who actually completes transactions.\n\nThe post <a href=\"https://www.searchenginejournal.com/from-seo-and-cro-to-agentic-ai-optimization-aaio-why-your-website-needs-to-speak-to-machines/569983/\">From SEO And CRO To Agentic AI Optimization (AAIO): Why Your Website Needs To Speak To Machines</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-22T11:00:57+00:00",
-      "fetched": "2026-03-22T21:17:03.110258+00:00"
     }
   ],
-  "last_updated": "2026-03-25T21:28:25.332466+00:00"
+  "last_updated": "2026-03-26T21:22:34.180436+00:00"
 }
