@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "baf66b46-09e3-4494-8d30-00310412f2be",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why Google\u2019s New \u201cGoogle-Agent\u201d Is The Biggest Mindset Shift In SEO History via @sejournal, @marie_haynes",
+      "link": "https://www.searchenginejournal.com/why-googles-new-google-agent-is-the-biggest-mindset-shift-in-seo-history/570590/",
+      "summary": "Learn how the agentic web is transforming search into AI-driven action, and why SEOs must adapt beyond traditional optimization.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-googles-new-google-agent-is-the-biggest-mindset-shift-in-seo-history/570590/\">Why Google&#8217;s New &#8220;Google-Agent&#8221; Is The Biggest Mindset Shift In SEO History</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-27T13:30:12+00:00",
+      "fetched": "2026-03-27T21:25:24.332247+00:00"
+    },
+    {
+      "id": "c645b415-93a4-4d9b-ba11-81c2fda914dd",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Tests AI Headlines, Rolls Out Spam Update \u2013 SEO Pulse via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/seo-pulse-google-tests-ai-headlines-rolls-out-spam-update/570613/",
+      "summary": "Google tests AI headline rewrites in Search, completes the March spam update in under 20 hours, and adds AI content labeling to structured data docs. \n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-google-tests-ai-headlines-rolls-out-spam-update/570613/\">Google Tests AI Headlines, Rolls Out Spam Update \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-27T12:30:42+00:00",
+      "fetched": "2026-03-27T21:25:24.332275+00:00"
+    },
+    {
+      "id": "50b14741-d952-4963-9b20-81fbebd5e4c8",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Adds Scenario Planner, Performance Max Updates, And Veo \u2013 PPC Pulse via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/ppc-pulse-google-adds-scenario-planner-performance-max-updates-and-veo/570617/",
+      "summary": "This week\u2019s PPC Pulse covers Performance Max reporting updates, GA4 budget planning tools, and Veo AI video in Google Ads.\n\nThe post <a href=\"https://www.searchenginejournal.com/ppc-pulse-google-adds-scenario-planner-performance-max-updates-and-veo/570617/\">Google Adds Scenario Planner, Performance Max Updates, And Veo &#8211; PPC Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-27T11:30:20+00:00",
+      "fetched": "2026-03-27T21:25:24.332294+00:00"
+    },
+    {
+      "id": "99b45b27-8071-4c42-84c6-f4522c4e5e7c",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Begins Rolling Out March 2026 Core Update via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-begins-rolling-out-march-2026-core-update/570657/",
+      "summary": "Google has started rolling out the March 2026 core update. The rollout may take up to two weeks to complete. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-begins-rolling-out-march-2026-core-update/570657/\">Google Begins Rolling Out March 2026 Core Update</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-27T10:28:20+00:00",
+      "fetched": "2026-03-27T21:25:24.332317+00:00"
+    },
+    {
+      "id": "9c163d50-bc9f-49c6-8e8b-104075eec81e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Wikipedia Bans Use Of AI-Generated Content via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/wikipedia-bans-use-of-ai-generated-content/570651/",
+      "summary": "Wikipedia's new AI guidelines prohibit editors from using LLMs for writing or rewriting content, with two exceptions.\n\nThe post <a href=\"https://www.searchenginejournal.com/wikipedia-bans-use-of-ai-generated-content/570651/\">Wikipedia Bans Use Of AI-Generated Content</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-27T09:24:48+00:00",
+      "fetched": "2026-03-27T21:25:24.332334+00:00"
+    },
+    {
       "id": "308ec61b-e1a3-4e9d-a22f-1b852ab058df",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -164,62 +219,7 @@
       "summary": "Choosing the right PPC channels starts with clear goals, budget alignment, and understanding where your audience actually converts.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-determine-what-paid-media-channels-are-right-for-you/569731/\">How To Determine What Paid Media Channels Are Right for You</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-03-24T12:00:34+00:00",
       "fetched": "2026-03-24T21:28:14.828181+00:00"
-    },
-    {
-      "id": "df0e9614-3417-403c-9d67-acf7dbad4786",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Agency Playbook for Surviving the Agentic AI Era",
-      "link": "https://www.searchenginejournal.com/rundowns/the-agency-playbook-for-surviving-the-agentic-ai-era/",
-      "summary": "The post <a href=\"https://www.searchenginejournal.com/rundowns/the-agency-playbook-for-surviving-the-agentic-ai-era/\">The Agency Playbook for Surviving the Agentic AI Era</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-24T07:50:34+00:00",
-      "fetched": "2026-03-24T21:28:14.828199+00:00"
-    },
-    {
-      "id": "4208e5c2-aa58-4cd3-819a-27e2dd8e9cba",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "SEO 2.0: How Content Marketing Drives Visibility in AI Search via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/seo-2-0-how-content-marketing-drives-visibility-in-ai-search/570308/",
-      "summary": "Join our on-demand webinar to understand the intersection of AI and SEO. Learn how to leverage AI for improved search results.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-2-0-how-content-marketing-drives-visibility-in-ai-search/570308/\">SEO 2.0: How Content Marketing Drives Visibility in AI Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-24T07:45:16+00:00",
-      "fetched": "2026-03-24T21:28:14.828222+00:00"
-    },
-    {
-      "id": "97858196-5a97-41ab-958d-471368d0e8b2",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Bing AI Dashboard Maps Grounding Queries To Cited Pages via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/bing-ai-dashboard-maps-grounding-queries-to-cited-pages/570323/",
-      "summary": "Bing's AI Performance dashboard now maps grounding queries to cited pages, letting you connect AI citation data to specific URLs on your site.\n\nThe post <a href=\"https://www.searchenginejournal.com/bing-ai-dashboard-maps-grounding-queries-to-cited-pages/570323/\">Bing AI Dashboard Maps Grounding Queries To Cited Pages</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-24T05:00:14+00:00",
-      "fetched": "2026-03-24T21:28:14.828249+00:00"
-    },
-    {
-      "id": "ed264b4a-461e-481b-b169-e26ff6b5231a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Responds To Error That Causes Old Branding To Persist In SERPs via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-responds-to-error-that-causes-old-branding-to-persist-in-serps/570315/",
-      "summary": "Google's John Mueller responds to a question about search results that display outdated branding for a site that rebranded over ten years ago.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-responds-to-error-that-causes-old-branding-to-persist-in-serps/570315/\">Google Responds To Error That Causes Old Branding To Persist In SERPs</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-23T21:23:14+00:00",
-      "fetched": "2026-03-23T21:26:56.467269+00:00"
-    },
-    {
-      "id": "2f6609bd-78db-41bb-9447-e0af05999096",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "3 Strategies That Can Survive AI Search In 2026: What I Shared At SEJ Live via @sejournal, @theshelleywalsh",
-      "link": "https://www.searchenginejournal.com/strategies-that-can-survive-ai-search-in-2026-what-i-shared-at-sej-live/570260/",
-      "summary": "Stop chasing rankings and start building visibility that matters with three practical strategies for SEO in 2026.\n\nThe post <a href=\"https://www.searchenginejournal.com/strategies-that-can-survive-ai-search-in-2026-what-i-shared-at-sej-live/570260/\">3 Strategies That Can Survive AI Search In 2026: What I Shared At SEJ Live</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-23T14:00:47+00:00",
-      "fetched": "2026-03-23T21:26:56.467295+00:00"
     }
   ],
-  "last_updated": "2026-03-26T21:22:34.180436+00:00"
+  "last_updated": "2026-03-27T21:25:25.137581+00:00"
 }
