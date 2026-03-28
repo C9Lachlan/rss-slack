@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": "888bd64a-db70-404e-9565-17e6a65a4941",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Answer Engine Optimization: How To Get Your Content Into AI Responses via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/answer-engine-optimization-how-to-get-your-content-into-ai-responses/570055/",
+      "summary": "This guide explains how AI systems choose content, what research says about citation patterns, and where brands should focus first.\n\nThe post <a href=\"https://www.searchenginejournal.com/answer-engine-optimization-how-to-get-your-content-into-ai-responses/570055/\">Answer Engine Optimization: How To Get Your Content Into AI Responses</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-28T12:00:24+00:00",
+      "fetched": "2026-03-28T21:20:35.032660+00:00"
+    },
+    {
       "id": "baf66b46-09e3-4494-8d30-00310412f2be",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -208,18 +219,7 @@
       "summary": "Research finds that persona prompts \"reliably damage\" factual accuracy in certain kinds of tasks but work well in others.\n\nThe post <a href=\"https://www.searchenginejournal.com/research-you-are-an-expert-prompts-can-damage-factual-accuracy/570397/\">Research: &#8220;You Are An Expert&#8221; Prompts Can Damage Factual Accuracy</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-03-24T12:38:07+00:00",
       "fetched": "2026-03-24T21:28:14.828162+00:00"
-    },
-    {
-      "id": "26a6259f-01d5-4f5d-92a7-e9326b1a5d8b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Determine What Paid Media Channels Are Right for You via @sejournal, @timothyjjensen",
-      "link": "https://www.searchenginejournal.com/how-to-determine-what-paid-media-channels-are-right-for-you/569731/",
-      "summary": "Choosing the right PPC channels starts with clear goals, budget alignment, and understanding where your audience actually converts.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-determine-what-paid-media-channels-are-right-for-you/569731/\">How To Determine What Paid Media Channels Are Right for You</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-24T12:00:34+00:00",
-      "fetched": "2026-03-24T21:28:14.828181+00:00"
     }
   ],
-  "last_updated": "2026-03-27T21:25:25.137581+00:00"
+  "last_updated": "2026-03-28T21:20:35.851528+00:00"
 }
