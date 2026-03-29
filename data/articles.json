@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": "f70440fb-6522-4383-a444-17e461495bca",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Death Of The Static GBP: Why Dynamic Profiles Are The New Local Ranking Factor via @sejournal, @AdamHeitzman",
+      "link": "https://www.searchenginejournal.com/why-dynamic-profiles-are-the-new-local-ranking-factor/568200/",
+      "summary": "Businesses that treat GBP as a live engagement channel are outperforming competitors still relying on outdated \u201cset it and forget it\u201d tactics.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-dynamic-profiles-are-the-new-local-ranking-factor/568200/\">The Death Of The Static GBP: Why Dynamic Profiles Are The New Local Ranking Factor</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-29T12:00:48+00:00",
+      "fetched": "2026-03-29T21:22:35.779505+00:00"
+    },
+    {
       "id": "888bd64a-db70-404e-9565-17e6a65a4941",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -208,18 +219,7 @@
       "summary": "New ChatGPT citation data shows a small group of domains owns most visibility, while broad, cluster-based pages outperform single-intent content.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-science-of-how-ai-picks-its-sources/570328/\">The Science Of How AI Picks Its Sources</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-03-24T13:30:52+00:00",
       "fetched": "2026-03-24T21:28:14.828138+00:00"
-    },
-    {
-      "id": "ce557e4a-5b36-489e-88af-7ad26d08980a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Research: \u201cYou Are An Expert\u201d Prompts Can Damage Factual Accuracy via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/research-you-are-an-expert-prompts-can-damage-factual-accuracy/570397/",
-      "summary": "Research finds that persona prompts \"reliably damage\" factual accuracy in certain kinds of tasks but work well in others.\n\nThe post <a href=\"https://www.searchenginejournal.com/research-you-are-an-expert-prompts-can-damage-factual-accuracy/570397/\">Research: &#8220;You Are An Expert&#8221; Prompts Can Damage Factual Accuracy</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-24T12:38:07+00:00",
-      "fetched": "2026-03-24T21:28:14.828162+00:00"
     }
   ],
-  "last_updated": "2026-03-28T21:20:35.851528+00:00"
+  "last_updated": "2026-03-29T21:22:36.649030+00:00"
 }
