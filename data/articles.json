@@ -1,6 +1,72 @@
 {
   "articles": [
     {
+      "id": "4aa5d5d1-bbe9-4069-a294-078546c0699a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google: Pages Are Getting Larger & It Still Matters via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-pages-are-getting-larger-it-still-matters/570875/",
+      "summary": "Google's Gary Illyes and Martin Splitt discuss page weight growth, the 15MB crawl limit, and whether structured data is adding bloat to web pages. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-pages-are-getting-larger-it-still-matters/570875/\">Google: Pages Are Getting Larger &#038; It Still Matters</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-30T17:09:42+00:00",
+      "fetched": "2026-03-30T21:33:02.143441+00:00"
+    },
+    {
+      "id": "9a749234-0bc8-4dc1-b390-0350c02e9f38",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "New AI Jobs Index Ranks 784 Occupations By Loss Risk via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/new-ai-jobs-index-ranks-784-occupations-by-loss-risk/570867/",
+      "summary": "Tufts index projects 9M U.S. jobs at risk from AI. Writers and Authors, Computer Programmers, and Web and Digital Interface Designers top the risk list.\n\nThe post <a href=\"https://www.searchenginejournal.com/new-ai-jobs-index-ranks-784-occupations-by-loss-risk/570867/\">New AI Jobs Index Ranks 784 Occupations By Loss Risk</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-30T16:26:59+00:00",
+      "fetched": "2026-03-30T21:33:02.143469+00:00"
+    },
+    {
+      "id": "f0b79360-9c88-4bb2-8559-2fcbe0cae470",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "TurboQuant Has The Potential To Fundamentally Change How Search (And AI) Works via @sejournal, @marie_haynes",
+      "link": "https://www.searchenginejournal.com/turboquant-has-the-potential-to-fundamentally-change-how-search-and-ai-works/570728/",
+      "summary": "See how Google\u2019s TurboQuant breakthrough could unlock real-time semantic search, faster indexing, and more powerful AI-driven rankings.\n\nThe post <a href=\"https://www.searchenginejournal.com/turboquant-has-the-potential-to-fundamentally-change-how-search-and-ai-works/570728/\">TurboQuant Has The Potential To Fundamentally Change How Search (And AI) Works</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-30T13:00:54+00:00",
+      "fetched": "2026-03-30T21:33:02.143497+00:00"
+    },
+    {
+      "id": "5e674749-2a5a-4dc5-bcf1-0991680abd89",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Reporting Uncertainty Without Losing Credibility via @sejournal, @bngsrc",
+      "link": "https://www.searchenginejournal.com/reporting-uncertainty-without-losing-credibility/569141/",
+      "summary": "Communicate what your data can and cannot prove to avoid costly decisions driven by incomplete insights.\n\nThe post <a href=\"https://www.searchenginejournal.com/reporting-uncertainty-without-losing-credibility/569141/\">Reporting Uncertainty Without Losing Credibility</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-30T12:00:46+00:00",
+      "fetched": "2026-03-30T21:33:02.143520+00:00"
+    },
+    {
+      "id": "97ec835b-faee-422e-b963-3bb76e845ed6",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why New Google-Agent May Be A Pivot Related To OpenClaw Trend via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/why-new-google-agent-may-be-a-pivot-related-to-openclaw-trend/570764/",
+      "summary": "Why Google's new AI user agent may be tied to shift of resources from Project Mariner To Gemini Agent\n\nThe post <a href=\"https://www.searchenginejournal.com/why-new-google-agent-may-be-a-pivot-related-to-openclaw-trend/570764/\">Why New Google-Agent May Be A Pivot Related To OpenClaw Trend</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-30T09:42:56+00:00",
+      "fetched": "2026-03-30T21:33:02.143538+00:00"
+    },
+    {
+      "id": "412f0379-8369-4ac5-9d02-1e26083527e7",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Gemini Sends More Traffic To Sites Than Perplexity: Report via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-gemini-sends-more-traffic-to-sites-than-perplexity-report/570714/",
+      "summary": "Google Gemini more than doubled its referral traffic to websites in two months while ChatGPT declined from its peak, SE Ranking data shows. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-gemini-sends-more-traffic-to-sites-than-perplexity-report/570714/\">Google Gemini Sends More Traffic To Sites Than Perplexity: Report</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-30T05:00:13+00:00",
+      "fetched": "2026-03-30T21:33:02.143555+00:00"
+    },
+    {
       "id": "f70440fb-6522-4383-a444-17e461495bca",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -153,73 +219,7 @@
       "summary": "Google Analytics launched Scenario Planner and Projections to help advertisers forecast performance, optimize budgets, and plan cross-channel media spend more strategically.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-analytics-launches-scenario-planner-and-projections/570520/\">Google Analytics Launches Scenario Planner and Projections</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-03-25T17:07:42+00:00",
       "fetched": "2026-03-25T21:28:23.488834+00:00"
-    },
-    {
-      "id": "fe02dfaa-91ac-4d15-abb2-a32b3251ce7f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Half Your Traffic Left. The SEO Industry Sent Thoughts and Frameworks",
-      "link": "https://www.searchenginejournal.com/half-your-traffic-left-the-seo-industry-sent-thoughts-and-frameworks/570380/",
-      "summary": "Nearly half of publisher search traffic has disappeared post-AI Overviews, raising urgent questions about how content gets funded next.\n\nThe post <a href=\"https://www.searchenginejournal.com/half-your-traffic-left-the-seo-industry-sent-thoughts-and-frameworks/570380/\">Half Your Traffic Left. The SEO Industry Sent Thoughts and Frameworks</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-25T13:30:38+00:00",
-      "fetched": "2026-03-25T21:28:23.488862+00:00"
-    },
-    {
-      "id": "13054f8d-4a7f-48e5-afaf-4b3945222267",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How Zero-Party & First-Party Data Can Fuel Your Intent-Based SEO Strategy via @sejournal, @rio_seo",
-      "link": "https://www.searchenginejournal.com/zero-party-data-how-to-use-first-party-insights-to-power-intent-based-content-strategy/568189/",
-      "summary": "Marketing leaders are grounding SEO in zero- and first-party data to better align content with real-world customer behavior and needs.\n\nThe post <a href=\"https://www.searchenginejournal.com/zero-party-data-how-to-use-first-party-insights-to-power-intent-based-content-strategy/568189/\">How Zero-Party &#038; First-Party Data Can Fuel Your Intent-Based SEO Strategy</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-25T11:00:38+00:00",
-      "fetched": "2026-03-25T21:28:23.488882+00:00"
-    },
-    {
-      "id": "e5d5cbb7-9491-42e3-b46b-f0620da06a39",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Is Your Website Ready for AI Search? A Practical Audit for CMOs via @sejournal, @lorenbaker",
-      "link": "https://www.searchenginejournal.com/is-your-website-ready-for-ai-search-a-practical-audit-for-cmos/570413/",
-      "summary": "Is your website ready for the AI-powered search revolution? Discover practical insights on adapting your CMS for modern needs.\n\nThe post <a href=\"https://www.searchenginejournal.com/is-your-website-ready-for-ai-search-a-practical-audit-for-cmos/570413/\">Is Your Website Ready for AI Search? A Practical Audit for CMOs</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-25T07:45:26+00:00",
-      "fetched": "2026-03-25T21:28:23.488906+00:00"
-    },
-    {
-      "id": "f62a3ef6-d739-4985-83ab-58b79d08b6f6",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Adds AI & Bot Labels To Forum, Q&A Structured Data via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-adds-ai-bot-labels-to-forum-qa-structured-data/570425/",
-      "summary": "Google updated its Discussion Forum and Q&amp;A Page structured data docs with new properties, including a way to label AI- and machine-generated content. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-adds-ai-bot-labels-to-forum-qa-structured-data/570425/\">Google Adds AI &#038; Bot Labels To Forum, Q&#038;A Structured Data</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-24T19:50:55+00:00",
-      "fetched": "2026-03-24T21:28:14.828090+00:00"
-    },
-    {
-      "id": "8644ad72-4727-493c-b533-77e024091d28",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Begins Rolling Out The March 2026 Spam Update via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-begins-rolling-out-the-march-2026-spam-update/570428/",
-      "summary": "Google started rolling out the March 2026 spam update. The update applies globally and to all languages, with rollout taking a few days.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-begins-rolling-out-the-march-2026-spam-update/570428/\">Google Begins Rolling Out The March 2026 Spam Update</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-24T19:38:20+00:00",
-      "fetched": "2026-03-24T21:28:14.828117+00:00"
-    },
-    {
-      "id": "9ac0fcca-bfa9-41c0-9467-7a1834e02d10",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Science Of How AI Picks Its Sources via @sejournal, @Kevin_Indig",
-      "link": "https://www.searchenginejournal.com/the-science-of-how-ai-picks-its-sources/570328/",
-      "summary": "New ChatGPT citation data shows a small group of domains owns most visibility, while broad, cluster-based pages outperform single-intent content.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-science-of-how-ai-picks-its-sources/570328/\">The Science Of How AI Picks Its Sources</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-24T13:30:52+00:00",
-      "fetched": "2026-03-24T21:28:14.828138+00:00"
     }
   ],
-  "last_updated": "2026-03-29T21:22:36.649030+00:00"
+  "last_updated": "2026-03-30T21:33:04.394001+00:00"
 }
