@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "d41d9205-81a4-4d2b-9a3b-9f887d50591d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Explains Googlebot Byte Limits And Crawling Architecture via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-explains-googlebot-byte-limits-and-crawling-architecture/570961/",
+      "summary": "Google's Gary Illyes published a blog post explaining how Googlebot works as one client of a centralized crawling platform, with new byte-level details.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-explains-googlebot-byte-limits-and-crawling-architecture/570961/\">Google Explains Googlebot Byte Limits And Crawling Architecture</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-31T15:28:38+00:00",
+      "fetched": "2026-03-31T21:28:51.559405+00:00"
+    },
+    {
+      "id": "391addb3-f818-4d63-8b6d-55e818610ab3",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Science Of What AI Actually Rewards via @sejournal, @Kevin_Indig",
+      "link": "https://www.searchenginejournal.com/the-science-of-what-ai-actually-rewards/570849/",
+      "summary": "Part 3 of this analysis reveals what AI actually rewards in content, from entity types to structure, across seven verticals.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-science-of-what-ai-actually-rewards/570849/\">The Science Of What AI Actually Rewards</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-31T13:30:37+00:00",
+      "fetched": "2026-03-31T21:28:51.559431+00:00"
+    },
+    {
+      "id": "00998f1e-b021-4994-a781-89365bcb9721",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "So Your Traffic Tanked: What Smart CMOs Do Next",
+      "link": "https://www.searchenginejournal.com/so-your-traffic-tanked-what-smart-cmos-do-next/570708/",
+      "summary": "Organic traffic is declining, but answer engines are driving higher-intent conversions. Here\u2019s how CMOs should rethink strategy, structure, and measurement. \n\nThe post <a href=\"https://www.searchenginejournal.com/so-your-traffic-tanked-what-smart-cmos-do-next/570708/\">So Your Traffic Tanked: What Smart CMOs Do Next</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-31T13:00:55+00:00",
+      "fetched": "2026-03-31T21:28:51.559478+00:00"
+    },
+    {
+      "id": "4a3df77a-8cb4-49d1-8766-48845550205f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "WordPress Delays Release Of Version 7.0 To Focus On Stability via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/wordpress-delays-release-of-version-7-0-to-focus-on-stability/570944/",
+      "summary": "Delay in release of WordPress 7.0 stems from concerns over the real-time collaboration feature. The focus is on targeting \"extreme stability.\"\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-delays-release-of-version-7-0-to-focus-on-stability/570944/\">WordPress Delays Release Of Version 7.0 To Focus On Stability</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-31T10:48:59+00:00",
+      "fetched": "2026-03-31T21:28:51.559502+00:00"
+    },
+    {
+      "id": "762a270c-69b4-4bae-8b61-a7cc79ad2584",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Identify Which LLM Is Actually Working For You [Webinar] via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/how-to-identify-which-llm-is-actually-working-for-your-or-your-clients-brand-webinar/570019/",
+      "summary": "Learn how different LLMs impact conversions in your industry. Do not miss our expert panel webinar for practical advice.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-identify-which-llm-is-actually-working-for-your-or-your-clients-brand-webinar/570019/\">How To Identify Which LLM Is Actually Working For You [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-03-31T07:45:37+00:00",
+      "fetched": "2026-03-31T21:28:51.559521+00:00"
+    },
+    {
       "id": "4aa5d5d1-bbe9-4069-a294-078546c0699a",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -164,62 +219,7 @@
       "summary": "Google introduces Performance Max updates, including audience exclusions, budget projections, and expanded reporting to give advertisers more visibility and control over campaign performance.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-adds-new-performance-max-controls-and-reporting-features/570588/\">Google Adds New Performance Max Controls And Reporting Features</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-03-26T16:56:16+00:00",
       "fetched": "2026-03-26T21:22:33.044501+00:00"
-    },
-    {
-      "id": "9d5c8d21-8456-40da-b97d-a4922c194851",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Avoid Top Down SEO Systems Failures With The Visibility Governance Maturity Model via @sejournal, @theshelleywalsh",
-      "link": "https://www.searchenginejournal.com/how-to-avoid-top-down-seo-systems-failures-with-the-visibility-governance-maturity-model/570509/",
-      "summary": "In this IMHO interview, Ash Nallawalla explains why governance is the missing layer behind most visibility breakdowns.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-avoid-top-down-seo-systems-failures-with-the-visibility-governance-maturity-model/570509/\">How To Avoid Top Down SEO Systems Failures With The Visibility Governance Maturity Model</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-26T13:29:39+00:00",
-      "fetched": "2026-03-26T21:22:33.044521+00:00"
-    },
-    {
-      "id": "0ca1ca82-b74c-41f2-8f5b-5b51202a60d2",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "When The Training Data Cutoff Becomes A Ranking Factor via @sejournal, @DuaneForrester",
-      "link": "https://www.searchenginejournal.com/when-the-training-data-cutoff-becomes-a-ranking-factor/570438/",
-      "summary": "Content published before and after a model\u2019s cutoff lives in different systems, shaping how brands appear in AI-generated answers.\n\nThe post <a href=\"https://www.searchenginejournal.com/when-the-training-data-cutoff-becomes-a-ranking-factor/570438/\">When The Training Data Cutoff Becomes A Ranking Factor</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-26T12:50:00+00:00",
-      "fetched": "2026-03-26T21:22:33.044545+00:00"
-    },
-    {
-      "id": "2e40b2e8-8266-4d03-a85f-72463d95b54a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Are We Due Another Florida-Style Update? via @sejournal, @TaylorDanRW",
-      "link": "https://www.searchenginejournal.com/are-we-due-another-florida-style-update/570102/",
-      "summary": "Why the return of scaled, low-differentiation content is putting pressure on Google\u2019s systems and raising the risk of a broader intervention.\n\nThe post <a href=\"https://www.searchenginejournal.com/are-we-due-another-florida-style-update/570102/\">Are We Due Another Florida-Style Update?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-26T12:00:44+00:00",
-      "fetched": "2026-03-26T21:22:33.044564+00:00"
-    },
-    {
-      "id": "2b1845e8-aa97-4a1e-a8be-9744ef4c9836",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s March Spam Update Felt Muted But May Signal Bigger Changes via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/googles-march-spam-update-felt-muted-but-may-signal-bigger-changes/570541/",
-      "summary": "Why Google's recently finished Spam Update could be the beginning of something bigger that is yet to come.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-march-spam-update-felt-muted-but-may-signal-bigger-changes/570541/\">Google&#8217;s March Spam Update Felt Muted But May Signal Bigger Changes</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-26T10:43:08+00:00",
-      "fetched": "2026-03-26T21:22:33.044582+00:00"
-    },
-    {
-      "id": "fca0b66e-fd6c-4519-94a1-6d001f207c89",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Analytics Launches Scenario Planner and Projections via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/google-analytics-launches-scenario-planner-and-projections/570520/",
-      "summary": "Google Analytics launched Scenario Planner and Projections to help advertisers forecast performance, optimize budgets, and plan cross-channel media spend more strategically.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-analytics-launches-scenario-planner-and-projections/570520/\">Google Analytics Launches Scenario Planner and Projections</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-25T17:07:42+00:00",
-      "fetched": "2026-03-25T21:28:23.488834+00:00"
     }
   ],
-  "last_updated": "2026-03-30T21:33:04.394001+00:00"
+  "last_updated": "2026-03-31T21:28:52.393085+00:00"
 }
