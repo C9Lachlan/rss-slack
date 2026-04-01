@@ -1,6 +1,50 @@
 {
   "articles": [
     {
+      "id": "c3a45234-5a42-494a-9e14-6ad79b738ac1",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Do Evergreen Content In 2026 (And Beyond)",
+      "link": "https://www.searchenginejournal.com/how-to-do-evergreen-content-in-2026-and-beyond/570903/",
+      "summary": "Why traditional evergreen SEO content is losing impact and how to reframe it around information gain, audience value, and business outcomes.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-do-evergreen-content-in-2026-and-beyond/570903/\">How To Do Evergreen Content In 2026 (And Beyond)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-01T13:30:00+00:00",
+      "fetched": "2026-04-01T21:33:00.357950+00:00"
+    },
+    {
+      "id": "b4d593f7-fcc0-4808-8001-2556d8b5d7e0",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Building An In-House PPC Team: Why A Hybrid Model May Protect Your Ad Spend via @sejournal, @LisaRocksSEM",
+      "link": "https://www.searchenginejournal.com/building-an-in-house-ppc-team-why-a-hybrid-model-may-protect-your-ad-spend/569020/",
+      "summary": "How CMOs should structure PPC teams to manage AI-driven campaigns, avoid blind spots, and align spend with profit, not platform metrics.\n\nThe post <a href=\"https://www.searchenginejournal.com/building-an-in-house-ppc-team-why-a-hybrid-model-may-protect-your-ad-spend/569020/\">Building An In-House PPC Team: Why A Hybrid Model May Protect Your Ad Spend</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-01T12:30:40+00:00",
+      "fetched": "2026-04-01T21:33:00.357977+00:00"
+    },
+    {
+      "id": "8101e83b-de9a-40ab-85ee-33edef3a36ae",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Who Owns SEO In The Enterprise? The Accountability Gap That Kills Performance via @sejournal, @billhunt",
+      "link": "https://www.searchenginejournal.com/who-owns-seo-in-the-enterprise-the-accountability-gap-that-kills-performance/566095/",
+      "summary": "Bill Hunt explains why enterprise SEO performance improves when accountability matches authority across content, technology, and governance.\n\nThe post <a href=\"https://www.searchenginejournal.com/who-owns-seo-in-the-enterprise-the-accountability-gap-that-kills-performance/566095/\">Who Owns SEO In The Enterprise? The Accountability Gap That Kills Performance</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-01T11:30:02+00:00",
+      "fetched": "2026-04-01T21:33:00.357998+00:00"
+    },
+    {
+      "id": "a5c1c8d5-bb29-497e-a22f-f99708a86934",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Answers Why Core Updates Can Roll Out In Stages via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-answers-why-core-updates-can-roll-out-in-stages/571003/",
+      "summary": "Google's John Mueller answered a question about the nature of core updates: Are they rolled out in steps or all at once then refined?\n\nThe post <a href=\"https://www.searchenginejournal.com/google-answers-why-core-updates-can-roll-out-in-stages/571003/\">Google Answers Why Core Updates Can Roll Out In Stages</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-01T09:14:57+00:00",
+      "fetched": "2026-04-01T21:33:00.358020+00:00"
+    },
+    {
       "id": "d41d9205-81a4-4d2b-9a3b-9f887d50591d",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -175,51 +219,7 @@
       "summary": "This week\u2019s PPC Pulse covers Performance Max reporting updates, GA4 budget planning tools, and Veo AI video in Google Ads.\n\nThe post <a href=\"https://www.searchenginejournal.com/ppc-pulse-google-adds-scenario-planner-performance-max-updates-and-veo/570617/\">Google Adds Scenario Planner, Performance Max Updates, And Veo &#8211; PPC Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-03-27T11:30:20+00:00",
       "fetched": "2026-03-27T21:25:24.332294+00:00"
-    },
-    {
-      "id": "99b45b27-8071-4c42-84c6-f4522c4e5e7c",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Begins Rolling Out March 2026 Core Update via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-begins-rolling-out-march-2026-core-update/570657/",
-      "summary": "Google has started rolling out the March 2026 core update. The rollout may take up to two weeks to complete. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-begins-rolling-out-march-2026-core-update/570657/\">Google Begins Rolling Out March 2026 Core Update</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-27T10:28:20+00:00",
-      "fetched": "2026-03-27T21:25:24.332317+00:00"
-    },
-    {
-      "id": "9c163d50-bc9f-49c6-8e8b-104075eec81e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Wikipedia Bans Use Of AI-Generated Content via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/wikipedia-bans-use-of-ai-generated-content/570651/",
-      "summary": "Wikipedia's new AI guidelines prohibit editors from using LLMs for writing or rewriting content, with two exceptions.\n\nThe post <a href=\"https://www.searchenginejournal.com/wikipedia-bans-use-of-ai-generated-content/570651/\">Wikipedia Bans Use Of AI-Generated Content</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-27T09:24:48+00:00",
-      "fetched": "2026-03-27T21:25:24.332334+00:00"
-    },
-    {
-      "id": "308ec61b-e1a3-4e9d-a22f-1b852ab058df",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Takes Search Live Global With Gemini 3.1 Flash Live via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-takes-search-live-global-with-gemini-3-1-flash-live/570602/",
-      "summary": "Google expands Search Live to 200+ countries, powered by its new Gemini 3.1 Flash Live model with multilingual voice and camera search in AI Mode. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-takes-search-live-global-with-gemini-3-1-flash-live/570602/\">Google Takes Search Live Global With Gemini 3.1 Flash Live</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-26T19:11:08+00:00",
-      "fetched": "2026-03-26T21:22:33.044475+00:00"
-    },
-    {
-      "id": "a34b391f-f9d0-4729-81af-db68d74156a9",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Adds New Performance Max Controls And Reporting Features via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/google-adds-new-performance-max-controls-and-reporting-features/570588/",
-      "summary": "Google introduces Performance Max updates, including audience exclusions, budget projections, and expanded reporting to give advertisers more visibility and control over campaign performance.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-adds-new-performance-max-controls-and-reporting-features/570588/\">Google Adds New Performance Max Controls And Reporting Features</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-26T16:56:16+00:00",
-      "fetched": "2026-03-26T21:22:33.044501+00:00"
     }
   ],
-  "last_updated": "2026-03-31T21:28:52.393085+00:00"
+  "last_updated": "2026-04-01T21:33:02.365348+00:00"
 }
