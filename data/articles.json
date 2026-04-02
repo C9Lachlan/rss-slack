@@ -1,6 +1,50 @@
 {
   "articles": [
     {
+      "id": "b80e0a39-d178-43ae-a9c7-f19073eec4dd",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Leads All Reasons For U.S. Job Cuts In March, Report Says via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/ai-leads-all-reasons-for-u-s-job-cuts-in-march-report-says/571065/",
+      "summary": "AI led all cited reasons for U.S. job cuts in March at 25% of the total, according to outplacement firm Challenger, Gray & Christmas. \n\nThe post <a href=\"https://www.searchenginejournal.com/ai-leads-all-reasons-for-u-s-job-cuts-in-march-report-says/571065/\">AI Leads All Reasons For U.S. Job Cuts In March, Report Says</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-02T17:29:09+00:00",
+      "fetched": "2026-04-02T21:27:47.560613+00:00"
+    },
+    {
+      "id": "ac63e107-6a94-4685-bf70-d54ed0df4c6f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Llms.txt Was Step One. Here\u2019s The Architecture That Comes Next via @sejournal, @DuaneForrester",
+      "link": "https://www.searchenginejournal.com/llms-txt-was-step-one-heres-the-architecture-that-comes-next/570925/",
+      "summary": "Brands must move beyond llms.txt toward structured APIs, entity graphs, and provenance to earn accurate AI citations.\n\nThe post <a href=\"https://www.searchenginejournal.com/llms-txt-was-step-one-heres-the-architecture-that-comes-next/570925/\">Llms.txt Was Step One. Here\u2019s The Architecture That Comes Next</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-02T13:30:36+00:00",
+      "fetched": "2026-04-02T21:27:47.560639+00:00"
+    },
+    {
+      "id": "f9404bd4-ec21-4bd6-8a12-ab6209b3fadf",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Identify And Solve Click Fraud In Paid Media \u2013 Ask A PPC via @sejournal, @navahf",
+      "link": "https://www.searchenginejournal.com/ask-a-ppc-how-to-identify-and-solve-click-fraud-in-paid-media/568112/",
+      "summary": "This week's Ask A PPC dives into how to identify and solve click fraud in paid media to optimize your advertising efforts.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-a-ppc-how-to-identify-and-solve-click-fraud-in-paid-media/568112/\">How To Identify And Solve Click Fraud In Paid Media \u2013 Ask A PPC</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-02T12:00:51+00:00",
+      "fetched": "2026-04-02T21:27:47.560659+00:00"
+    },
+    {
+      "id": "d7a2f0fe-d35f-4484-a885-9fb7351fc8bc",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "6 Reasons Why Cloudflare\u2019s EmDash Can\u2019t Compete With WordPress via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/6-reasons-why-cloudflares-emdash-cant-compete-with-wordpress/571053/",
+      "summary": "Cloudflare's WordPress competitor EmDash may be the future of CMSs, but there are six reasons why it's not that CMS today.\n\nThe post <a href=\"https://www.searchenginejournal.com/6-reasons-why-cloudflares-emdash-cant-compete-with-wordpress/571053/\">6 Reasons Why Cloudflare&#8217;s EmDash Can&#8217;t Compete With WordPress</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-02T11:16:37+00:00",
+      "fetched": "2026-04-02T21:27:47.560681+00:00"
+    },
+    {
       "id": "c3a45234-5a42-494a-9e14-6ad79b738ac1",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -175,51 +219,7 @@
       "summary": "Businesses that treat GBP as a live engagement channel are outperforming competitors still relying on outdated \u201cset it and forget it\u201d tactics.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-dynamic-profiles-are-the-new-local-ranking-factor/568200/\">The Death Of The Static GBP: Why Dynamic Profiles Are The New Local Ranking Factor</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-03-29T12:00:48+00:00",
       "fetched": "2026-03-29T21:22:35.779505+00:00"
-    },
-    {
-      "id": "888bd64a-db70-404e-9565-17e6a65a4941",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Answer Engine Optimization: How To Get Your Content Into AI Responses via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/answer-engine-optimization-how-to-get-your-content-into-ai-responses/570055/",
-      "summary": "This guide explains how AI systems choose content, what research says about citation patterns, and where brands should focus first.\n\nThe post <a href=\"https://www.searchenginejournal.com/answer-engine-optimization-how-to-get-your-content-into-ai-responses/570055/\">Answer Engine Optimization: How To Get Your Content Into AI Responses</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-28T12:00:24+00:00",
-      "fetched": "2026-03-28T21:20:35.032660+00:00"
-    },
-    {
-      "id": "baf66b46-09e3-4494-8d30-00310412f2be",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why Google\u2019s New \u201cGoogle-Agent\u201d Is The Biggest Mindset Shift In SEO History via @sejournal, @marie_haynes",
-      "link": "https://www.searchenginejournal.com/why-googles-new-google-agent-is-the-biggest-mindset-shift-in-seo-history/570590/",
-      "summary": "Learn how the agentic web is transforming search into AI-driven action, and why SEOs must adapt beyond traditional optimization.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-googles-new-google-agent-is-the-biggest-mindset-shift-in-seo-history/570590/\">Why Google&#8217;s New &#8220;Google-Agent&#8221; Is The Biggest Mindset Shift In SEO History</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-27T13:30:12+00:00",
-      "fetched": "2026-03-27T21:25:24.332247+00:00"
-    },
-    {
-      "id": "c645b415-93a4-4d9b-ba11-81c2fda914dd",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Tests AI Headlines, Rolls Out Spam Update \u2013 SEO Pulse via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-google-tests-ai-headlines-rolls-out-spam-update/570613/",
-      "summary": "Google tests AI headline rewrites in Search, completes the March spam update in under 20 hours, and adds AI content labeling to structured data docs. \n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-google-tests-ai-headlines-rolls-out-spam-update/570613/\">Google Tests AI Headlines, Rolls Out Spam Update \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-27T12:30:42+00:00",
-      "fetched": "2026-03-27T21:25:24.332275+00:00"
-    },
-    {
-      "id": "50b14741-d952-4963-9b20-81fbebd5e4c8",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Adds Scenario Planner, Performance Max Updates, And Veo \u2013 PPC Pulse via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/ppc-pulse-google-adds-scenario-planner-performance-max-updates-and-veo/570617/",
-      "summary": "This week\u2019s PPC Pulse covers Performance Max reporting updates, GA4 budget planning tools, and Veo AI video in Google Ads.\n\nThe post <a href=\"https://www.searchenginejournal.com/ppc-pulse-google-adds-scenario-planner-performance-max-updates-and-veo/570617/\">Google Adds Scenario Planner, Performance Max Updates, And Veo &#8211; PPC Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-27T11:30:20+00:00",
-      "fetched": "2026-03-27T21:25:24.332294+00:00"
     }
   ],
-  "last_updated": "2026-04-01T21:33:02.365348+00:00"
+  "last_updated": "2026-04-02T21:27:48.680033+00:00"
 }
