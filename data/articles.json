@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "d15909c1-60e5-44ec-8a03-b8ea8d1ea3e0",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why Agentic AI Shopping Feels Unnatural And May Not Threaten SEO via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/why-agentic-ai-shopping-feels-unnatural-and-may-not-threaten-seo/571122/",
+      "summary": "Agentic AI shopping may not be good for SEO. But there's a reason why SEOs won't need to worry about it.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-agentic-ai-shopping-feels-unnatural-and-may-not-threaten-seo/571122/\">Why Agentic AI Shopping Feels Unnatural And May Not Threaten SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-03T13:02:31+00:00",
+      "fetched": "2026-04-03T21:23:58.296121+00:00"
+    },
+    {
+      "id": "dbf8568e-831f-4982-8aec-b6fa9cda802f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Core Update, Crawl Limits & Gemini Traffic Data \u2013 SEO Pulse via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/seo-pulse-google-core-update-crawl-limits-gemini-traffic-data/571089/",
+      "summary": "Google's March core update is rolling out. Illyes explains Googlebot's crawling architecture, and Gemini referral traffic doubles. \n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-google-core-update-crawl-limits-gemini-traffic-data/571089/\">Google Core Update, Crawl Limits &#038; Gemini Traffic Data \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-03T12:30:16+00:00",
+      "fetched": "2026-04-03T21:23:58.296144+00:00"
+    },
+    {
+      "id": "d7502ac3-2f1b-4209-91bd-73fd76c88744",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "ChatGPT Ads: New Acquisition Channel Or Just Another Brand Tax? via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/chatgpt-ads-new-acquisition-channel-or-just-another-brand-tax/571042/",
+      "summary": "OpenAI is expanding ChatGPT Ads and launching self-serve access. Here\u2019s what PPC managers should know before deciding whether it deserves real budget.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-ads-new-acquisition-channel-or-just-another-brand-tax/571042/\">ChatGPT Ads: New Acquisition Channel Or Just Another Brand Tax?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-03T11:30:05+00:00",
+      "fetched": "2026-04-03T21:23:58.296161+00:00"
+    },
+    {
+      "id": "abf4fd06-6861-4720-98c4-673516adbf68",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Mullenweg To Cloudflare: Keep WordPress Out Of Your Mouth via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/mullenweg-to-cloudflare-keep-wordpress-out-of-your-mouth/571119/",
+      "summary": "Matt Mullenweg invokes Will Smith's Oscars slap in response to Cloudflare's boat that EmDash is a successor to WordPress.\n\nThe post <a href=\"https://www.searchenginejournal.com/mullenweg-to-cloudflare-keep-wordpress-out-of-your-mouth/571119/\">Mullenweg To Cloudflare: Keep WordPress Out Of Your Mouth</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-03T10:55:26+00:00",
+      "fetched": "2026-04-03T21:23:58.296181+00:00"
+    },
+    {
+      "id": "f9f81413-92a8-4f7c-85d8-9f730e258c27",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Answers Why Some SEOs Split Their Sitemap Into Multiple Files via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-answers-why-some-seos-split-their-sitemap-into-multiple-files/571097/",
+      "summary": "Google's John Mueller answers question of whether splitting a sitemap is worth the extra work.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-answers-why-some-seos-split-their-sitemap-into-multiple-files/571097/\">Google Answers Why Some SEOs Split Their Sitemap Into Multiple Files</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-03T09:17:56+00:00",
+      "fetched": "2026-04-03T21:23:58.296196+00:00"
+    },
+    {
       "id": "b80e0a39-d178-43ae-a9c7-f19073eec4dd",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -164,62 +219,7 @@
       "summary": "Tufts index projects 9M U.S. jobs at risk from AI. Writers and Authors, Computer Programmers, and Web and Digital Interface Designers top the risk list.\n\nThe post <a href=\"https://www.searchenginejournal.com/new-ai-jobs-index-ranks-784-occupations-by-loss-risk/570867/\">New AI Jobs Index Ranks 784 Occupations By Loss Risk</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-03-30T16:26:59+00:00",
       "fetched": "2026-03-30T21:33:02.143469+00:00"
-    },
-    {
-      "id": "f0b79360-9c88-4bb2-8559-2fcbe0cae470",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "TurboQuant Has The Potential To Fundamentally Change How Search (And AI) Works via @sejournal, @marie_haynes",
-      "link": "https://www.searchenginejournal.com/turboquant-has-the-potential-to-fundamentally-change-how-search-and-ai-works/570728/",
-      "summary": "See how Google\u2019s TurboQuant breakthrough could unlock real-time semantic search, faster indexing, and more powerful AI-driven rankings.\n\nThe post <a href=\"https://www.searchenginejournal.com/turboquant-has-the-potential-to-fundamentally-change-how-search-and-ai-works/570728/\">TurboQuant Has The Potential To Fundamentally Change How Search (And AI) Works</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-30T13:00:54+00:00",
-      "fetched": "2026-03-30T21:33:02.143497+00:00"
-    },
-    {
-      "id": "5e674749-2a5a-4dc5-bcf1-0991680abd89",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Reporting Uncertainty Without Losing Credibility via @sejournal, @bngsrc",
-      "link": "https://www.searchenginejournal.com/reporting-uncertainty-without-losing-credibility/569141/",
-      "summary": "Communicate what your data can and cannot prove to avoid costly decisions driven by incomplete insights.\n\nThe post <a href=\"https://www.searchenginejournal.com/reporting-uncertainty-without-losing-credibility/569141/\">Reporting Uncertainty Without Losing Credibility</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-30T12:00:46+00:00",
-      "fetched": "2026-03-30T21:33:02.143520+00:00"
-    },
-    {
-      "id": "97ec835b-faee-422e-b963-3bb76e845ed6",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why New Google-Agent May Be A Pivot Related To OpenClaw Trend via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/why-new-google-agent-may-be-a-pivot-related-to-openclaw-trend/570764/",
-      "summary": "Why Google's new AI user agent may be tied to shift of resources from Project Mariner To Gemini Agent\n\nThe post <a href=\"https://www.searchenginejournal.com/why-new-google-agent-may-be-a-pivot-related-to-openclaw-trend/570764/\">Why New Google-Agent May Be A Pivot Related To OpenClaw Trend</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-30T09:42:56+00:00",
-      "fetched": "2026-03-30T21:33:02.143538+00:00"
-    },
-    {
-      "id": "412f0379-8369-4ac5-9d02-1e26083527e7",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Gemini Sends More Traffic To Sites Than Perplexity: Report via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-gemini-sends-more-traffic-to-sites-than-perplexity-report/570714/",
-      "summary": "Google Gemini more than doubled its referral traffic to websites in two months while ChatGPT declined from its peak, SE Ranking data shows. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-gemini-sends-more-traffic-to-sites-than-perplexity-report/570714/\">Google Gemini Sends More Traffic To Sites Than Perplexity: Report</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-30T05:00:13+00:00",
-      "fetched": "2026-03-30T21:33:02.143555+00:00"
-    },
-    {
-      "id": "f70440fb-6522-4383-a444-17e461495bca",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Death Of The Static GBP: Why Dynamic Profiles Are The New Local Ranking Factor via @sejournal, @AdamHeitzman",
-      "link": "https://www.searchenginejournal.com/why-dynamic-profiles-are-the-new-local-ranking-factor/568200/",
-      "summary": "Businesses that treat GBP as a live engagement channel are outperforming competitors still relying on outdated \u201cset it and forget it\u201d tactics.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-dynamic-profiles-are-the-new-local-ranking-factor/568200/\">The Death Of The Static GBP: Why Dynamic Profiles Are The New Local Ranking Factor</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-29T12:00:48+00:00",
-      "fetched": "2026-03-29T21:22:35.779505+00:00"
     }
   ],
-  "last_updated": "2026-04-02T21:27:48.680033+00:00"
+  "last_updated": "2026-04-03T21:23:59.599082+00:00"
 }
