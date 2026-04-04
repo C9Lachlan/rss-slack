@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": "90211a4a-d3b3-4f58-9ca3-3ca8ea15a74e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The 5-Pillar Framework For AI Content That Audiences Actually Trust via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/the-5-pillar-framework-for-ai-content-that-audiences-actually-trust/568860/",
+      "summary": "More AI-generated content isn\u2019t the answer. This guide outlines how to balance scale with authenticity to create content audiences actually value.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-5-pillar-framework-for-ai-content-that-audiences-actually-trust/568860/\">The 5-Pillar Framework For AI Content That Audiences Actually Trust</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-04T12:00:46+00:00",
+      "fetched": "2026-04-04T21:21:46.487842+00:00"
+    },
+    {
       "id": "d15909c1-60e5-44ec-8a03-b8ea8d1ea3e0",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -208,18 +219,7 @@
       "summary": "Google's Gary Illyes and Martin Splitt discuss page weight growth, the 15MB crawl limit, and whether structured data is adding bloat to web pages. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-pages-are-getting-larger-it-still-matters/570875/\">Google: Pages Are Getting Larger &#038; It Still Matters</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-03-30T17:09:42+00:00",
       "fetched": "2026-03-30T21:33:02.143441+00:00"
-    },
-    {
-      "id": "9a749234-0bc8-4dc1-b390-0350c02e9f38",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "New AI Jobs Index Ranks 784 Occupations By Loss Risk via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/new-ai-jobs-index-ranks-784-occupations-by-loss-risk/570867/",
-      "summary": "Tufts index projects 9M U.S. jobs at risk from AI. Writers and Authors, Computer Programmers, and Web and Digital Interface Designers top the risk list.\n\nThe post <a href=\"https://www.searchenginejournal.com/new-ai-jobs-index-ranks-784-occupations-by-loss-risk/570867/\">New AI Jobs Index Ranks 784 Occupations By Loss Risk</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-30T16:26:59+00:00",
-      "fetched": "2026-03-30T21:33:02.143469+00:00"
     }
   ],
-  "last_updated": "2026-04-03T21:23:59.599082+00:00"
+  "last_updated": "2026-04-04T21:21:48.008921+00:00"
 }
