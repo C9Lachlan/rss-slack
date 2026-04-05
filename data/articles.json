@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": "816b1ddd-1a1b-4b79-863e-8514236011f2",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "MCP, A2A, NLWeb, And AGENTS.md: The Standards Powering The Agentic Web via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/mcp-a2a-nlweb-and-agents-md-the-standards-powering-the-agentic-web/570092/",
+      "summary": "The agentic web is taking shape through shared protocols, and they matter more than most businesses realize.\n\nThe post <a href=\"https://www.searchenginejournal.com/mcp-a2a-nlweb-and-agents-md-the-standards-powering-the-agentic-web/570092/\">MCP, A2A, NLWeb, And AGENTS.md: The Standards Powering The Agentic Web</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-05T12:00:24+00:00",
+      "fetched": "2026-04-05T21:22:52.544227+00:00"
+    },
+    {
       "id": "90211a4a-d3b3-4f58-9ca3-3ca8ea15a74e",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -208,18 +219,7 @@
       "summary": "Learn how different LLMs impact conversions in your industry. Do not miss our expert panel webinar for practical advice.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-identify-which-llm-is-actually-working-for-your-or-your-clients-brand-webinar/570019/\">How To Identify Which LLM Is Actually Working For You [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-03-31T07:45:37+00:00",
       "fetched": "2026-03-31T21:28:51.559521+00:00"
-    },
-    {
-      "id": "4aa5d5d1-bbe9-4069-a294-078546c0699a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google: Pages Are Getting Larger & It Still Matters via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-pages-are-getting-larger-it-still-matters/570875/",
-      "summary": "Google's Gary Illyes and Martin Splitt discuss page weight growth, the 15MB crawl limit, and whether structured data is adding bloat to web pages. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-pages-are-getting-larger-it-still-matters/570875/\">Google: Pages Are Getting Larger &#038; It Still Matters</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-30T17:09:42+00:00",
-      "fetched": "2026-03-30T21:33:02.143441+00:00"
     }
   ],
-  "last_updated": "2026-04-04T21:21:48.008921+00:00"
+  "last_updated": "2026-04-05T21:22:54.026741+00:00"
 }
