@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "7a87b183-c355-4df3-9202-aaaea1058260",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Trust In AI Search Could Drop With Ads, Survey Shows via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/trust-in-ai-search-could-drop-with-ads-survey-shows/571240/",
+      "summary": "An Ipsos survey of U.S. adults found 63% say ads in AI search results would reduce trust. Early advertiser data offers limited, mixed signals.\n\nThe post <a href=\"https://www.searchenginejournal.com/trust-in-ai-search-could-drop-with-ads-survey-shows/571240/\">Trust In AI Search Could Drop With Ads, Survey Shows</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-06T19:40:53+00:00",
+      "fetched": "2026-04-06T21:29:24.633552+00:00"
+    },
+    {
+      "id": "519c1806-01d2-4ff3-ad25-1e1cbb055c80",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "ChatGPT Search Is Citing Fewer Sites, Data Shows via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/chatgpt-search-is-citing-fewer-sites-data-shows/571219/",
+      "summary": "ChatGPT Search is citing fewer websites per response after GPT-5.3 Instant became the default experience.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-search-is-citing-fewer-sites-data-shows/571219/\">ChatGPT Search Is Citing Fewer Sites, Data Shows</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-06T13:18:03+00:00",
+      "fetched": "2026-04-06T21:29:24.633579+00:00"
+    },
+    {
+      "id": "1a4d668a-57c2-4bc1-b91e-1b1b28ebf47e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Top 6 Search Engines Market Share & The AI Search Engines To Watch via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/seo/the-top-6-search-engines-market-share-the-ai-search-engines-to-watch/",
+      "summary": "Declining Google share and rising AI search usage signal a shift in where discovery happens and how SEO teams should allocate resources.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo/the-top-6-search-engines-market-share-the-ai-search-engines-to-watch/\">The Top 6 Search Engines Market Share &#038; The AI Search Engines To Watch</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-06T12:30:49+00:00",
+      "fetched": "2026-04-06T21:29:24.633598+00:00"
+    },
+    {
+      "id": "d928be68-068c-4917-a58d-c768c9b4aabf",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "WordPress\u2019s Troubled Real-Time Collaboration Feature via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/wordpresss-troubled-real-time-collaboration-feature/571201/",
+      "summary": "Will WordPress's troubled real-time collaboration feature be worth delaying the release of WP 7.0?\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpresss-troubled-real-time-collaboration-feature/571201/\">WordPress&#8217;s Troubled Real-Time Collaboration Feature</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-06T10:23:23+00:00",
+      "fetched": "2026-04-06T21:29:24.633630+00:00"
+    },
+    {
+      "id": "b1c3d00e-6b48-4571-9ee3-34603e2ac07d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How AI Is Changing Lead Generation: 3 Key Things SEO & PPC Teams Need To Do Now via @sejournal, @CallRail",
+      "link": "https://www.searchenginejournal.com/lead-gen-seo-ppc-callrail-spcs/570572/",
+      "summary": "Maximize your marketing potential with powerful lead gen techniques to drive engagement and sales effectively.\n\nThe post <a href=\"https://www.searchenginejournal.com/lead-gen-seo-ppc-callrail-spcs/570572/\">How AI Is Changing Lead Generation: 3 Key Things SEO &#038; PPC Teams Need To Do Now</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-06T05:00:18+00:00",
+      "fetched": "2026-04-06T21:29:24.633649+00:00"
+    },
+    {
       "id": "816b1ddd-1a1b-4b79-863e-8514236011f2",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -164,62 +219,7 @@
       "summary": "Google's John Mueller answered a question about the nature of core updates: Are they rolled out in steps or all at once then refined?\n\nThe post <a href=\"https://www.searchenginejournal.com/google-answers-why-core-updates-can-roll-out-in-stages/571003/\">Google Answers Why Core Updates Can Roll Out In Stages</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-04-01T09:14:57+00:00",
       "fetched": "2026-04-01T21:33:00.358020+00:00"
-    },
-    {
-      "id": "d41d9205-81a4-4d2b-9a3b-9f887d50591d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Explains Googlebot Byte Limits And Crawling Architecture via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-explains-googlebot-byte-limits-and-crawling-architecture/570961/",
-      "summary": "Google's Gary Illyes published a blog post explaining how Googlebot works as one client of a centralized crawling platform, with new byte-level details.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-explains-googlebot-byte-limits-and-crawling-architecture/570961/\">Google Explains Googlebot Byte Limits And Crawling Architecture</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-31T15:28:38+00:00",
-      "fetched": "2026-03-31T21:28:51.559405+00:00"
-    },
-    {
-      "id": "391addb3-f818-4d63-8b6d-55e818610ab3",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Science Of What AI Actually Rewards via @sejournal, @Kevin_Indig",
-      "link": "https://www.searchenginejournal.com/the-science-of-what-ai-actually-rewards/570849/",
-      "summary": "Part 3 of this analysis reveals what AI actually rewards in content, from entity types to structure, across seven verticals.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-science-of-what-ai-actually-rewards/570849/\">The Science Of What AI Actually Rewards</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-31T13:30:37+00:00",
-      "fetched": "2026-03-31T21:28:51.559431+00:00"
-    },
-    {
-      "id": "00998f1e-b021-4994-a781-89365bcb9721",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "So Your Traffic Tanked: What Smart CMOs Do Next",
-      "link": "https://www.searchenginejournal.com/so-your-traffic-tanked-what-smart-cmos-do-next/570708/",
-      "summary": "Organic traffic is declining, but answer engines are driving higher-intent conversions. Here\u2019s how CMOs should rethink strategy, structure, and measurement. \n\nThe post <a href=\"https://www.searchenginejournal.com/so-your-traffic-tanked-what-smart-cmos-do-next/570708/\">So Your Traffic Tanked: What Smart CMOs Do Next</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-31T13:00:55+00:00",
-      "fetched": "2026-03-31T21:28:51.559478+00:00"
-    },
-    {
-      "id": "4a3df77a-8cb4-49d1-8766-48845550205f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "WordPress Delays Release Of Version 7.0 To Focus On Stability via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/wordpress-delays-release-of-version-7-0-to-focus-on-stability/570944/",
-      "summary": "Delay in release of WordPress 7.0 stems from concerns over the real-time collaboration feature. The focus is on targeting \"extreme stability.\"\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-delays-release-of-version-7-0-to-focus-on-stability/570944/\">WordPress Delays Release Of Version 7.0 To Focus On Stability</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-31T10:48:59+00:00",
-      "fetched": "2026-03-31T21:28:51.559502+00:00"
-    },
-    {
-      "id": "762a270c-69b4-4bae-8b61-a7cc79ad2584",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Identify Which LLM Is Actually Working For You [Webinar] via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/how-to-identify-which-llm-is-actually-working-for-your-or-your-clients-brand-webinar/570019/",
-      "summary": "Learn how different LLMs impact conversions in your industry. Do not miss our expert panel webinar for practical advice.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-identify-which-llm-is-actually-working-for-your-or-your-clients-brand-webinar/570019/\">How To Identify Which LLM Is Actually Working For You [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-03-31T07:45:37+00:00",
-      "fetched": "2026-03-31T21:28:51.559521+00:00"
     }
   ],
-  "last_updated": "2026-04-05T21:22:54.026741+00:00"
+  "last_updated": "2026-04-06T21:29:25.507613+00:00"
 }
