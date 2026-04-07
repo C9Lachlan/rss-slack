@@ -1,6 +1,72 @@
 {
   "articles": [
     {
+      "id": "2ad40811-ddeb-4f94-9008-af19c7f341b6",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Pichai Says AI Could \u2018Break Pretty Much All Software\u2019 via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/pichai-says-ai-could-break-pretty-much-all-software/571387/",
+      "summary": "Google CEO Sundar Pichai said AI models could expose more software vulnerabilities and agreed it was plausible AI is affecting zero-day exploit markets. \n\nThe post <a href=\"https://www.searchenginejournal.com/pichai-says-ai-could-break-pretty-much-all-software/571387/\">Pichai Says AI Could &#8216;Break Pretty Much All Software&#8217;</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-07T20:47:28+00:00",
+      "fetched": "2026-04-07T21:34:15.668832+00:00"
+    },
+    {
+      "id": "680c7f04-0f5f-4cb9-a82c-95e2c65881c2",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How Consumers Navigate High-Stakes Purchases In AI Mode via @sejournal, @Kevin_Indig",
+      "link": "https://www.searchenginejournal.com/how-consumers-navigate-high-stakes-purchases-in-ai-mode/571361/",
+      "summary": "New research shows AI Mode is reshaping buying decisions. Learn how to secure visibility, trust, and top placement.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-consumers-navigate-high-stakes-purchases-in-ai-mode/571361/\">How Consumers Navigate High-Stakes Purchases In AI Mode</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-07T13:30:28+00:00",
+      "fetched": "2026-04-07T21:34:15.668857+00:00"
+    },
+    {
+      "id": "2f168d32-d925-43f4-9a28-f0467a3e4403",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "From T-Shaped To M-Shaped: The PPC Career Evolution Nobody Is Talking About",
+      "link": "https://www.searchenginejournal.com/from-t-shaped-to-m-shaped-the-ppc-career-evolution-nobody-is-talking-about/570722/",
+      "summary": "PPC professionals commanding higher compensation are moving beyond T-shaped skill sets toward M-shaped expertise with multiple deep, complementary disciplines.\n\nThe post <a href=\"https://www.searchenginejournal.com/from-t-shaped-to-m-shaped-the-ppc-career-evolution-nobody-is-talking-about/570722/\">From T-Shaped To M-Shaped: The PPC Career Evolution Nobody Is Talking About</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-07T12:30:58+00:00",
+      "fetched": "2026-04-07T21:34:15.668876+00:00"
+    },
+    {
+      "id": "f65edd4c-b81f-4cb0-b529-4d8c82e4154e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Explains Why It Doesn\u2019t Matter That Websites Are Getting Larger via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-explains-why-it-doesnt-matter-that-websites-are-getting-larger/571333/",
+      "summary": "Google explains why it doesn't matter if websites are getting heavier and the takeaway has everything to do with SEO.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-explains-why-it-doesnt-matter-that-websites-are-getting-larger/571333/\">Google Explains Why It Doesn&#8217;t Matter That Websites Are Getting Larger</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-07T11:13:00+00:00",
+      "fetched": "2026-04-07T21:34:15.668897+00:00"
+    },
+    {
+      "id": "3644e154-bf4e-4c91-9aac-ec3ee84cecee",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Mueller On SEO Gurus Who Are \u201cClueless Imposters\u201d via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/googles-mueller-on-seo-gurus-who-are-clueless-imposters/571290/",
+      "summary": "Google's John Mueller says that those who self-identify as SEO gurus are clueless imposters.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-mueller-on-seo-gurus-who-are-clueless-imposters/571290/\">Google&#8217;s Mueller On SEO Gurus Who Are &#8220;Clueless Imposters&#8221;</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-07T08:57:57+00:00",
+      "fetched": "2026-04-07T21:34:15.668915+00:00"
+    },
+    {
+      "id": "f03fafb7-931d-4d91-ad5c-0e7d3c0f7a54",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "ChatGPT Now Crawls 3.6x More Than Googlebot: What 24M Requests Reveal",
+      "link": "https://www.searchenginejournal.com/chatgpt-googlebot-crawl-data-alliai-spa/570885/",
+      "summary": "Find out why Googlebot is no longer the only dominant crawler as OpenAI's ChatGPT-User takes the lead in web requests.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-googlebot-crawl-data-alliai-spa/570885/\">ChatGPT Now Crawls 3.6x More Than Googlebot: What 24M Requests Reveal</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-07T05:00:24+00:00",
+      "fetched": "2026-04-07T21:34:15.668932+00:00"
+    },
+    {
       "id": "7a87b183-c355-4df3-9202-aaaea1058260",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -153,73 +219,7 @@
       "summary": "Brands must move beyond llms.txt toward structured APIs, entity graphs, and provenance to earn accurate AI citations.\n\nThe post <a href=\"https://www.searchenginejournal.com/llms-txt-was-step-one-heres-the-architecture-that-comes-next/570925/\">Llms.txt Was Step One. Here\u2019s The Architecture That Comes Next</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-04-02T13:30:36+00:00",
       "fetched": "2026-04-02T21:27:47.560639+00:00"
-    },
-    {
-      "id": "f9404bd4-ec21-4bd6-8a12-ab6209b3fadf",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Identify And Solve Click Fraud In Paid Media \u2013 Ask A PPC via @sejournal, @navahf",
-      "link": "https://www.searchenginejournal.com/ask-a-ppc-how-to-identify-and-solve-click-fraud-in-paid-media/568112/",
-      "summary": "This week's Ask A PPC dives into how to identify and solve click fraud in paid media to optimize your advertising efforts.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-a-ppc-how-to-identify-and-solve-click-fraud-in-paid-media/568112/\">How To Identify And Solve Click Fraud In Paid Media \u2013 Ask A PPC</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-02T12:00:51+00:00",
-      "fetched": "2026-04-02T21:27:47.560659+00:00"
-    },
-    {
-      "id": "d7a2f0fe-d35f-4484-a885-9fb7351fc8bc",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "6 Reasons Why Cloudflare\u2019s EmDash Can\u2019t Compete With WordPress via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/6-reasons-why-cloudflares-emdash-cant-compete-with-wordpress/571053/",
-      "summary": "Cloudflare's WordPress competitor EmDash may be the future of CMSs, but there are six reasons why it's not that CMS today.\n\nThe post <a href=\"https://www.searchenginejournal.com/6-reasons-why-cloudflares-emdash-cant-compete-with-wordpress/571053/\">6 Reasons Why Cloudflare&#8217;s EmDash Can&#8217;t Compete With WordPress</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-02T11:16:37+00:00",
-      "fetched": "2026-04-02T21:27:47.560681+00:00"
-    },
-    {
-      "id": "c3a45234-5a42-494a-9e14-6ad79b738ac1",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Do Evergreen Content In 2026 (And Beyond)",
-      "link": "https://www.searchenginejournal.com/how-to-do-evergreen-content-in-2026-and-beyond/570903/",
-      "summary": "Why traditional evergreen SEO content is losing impact and how to reframe it around information gain, audience value, and business outcomes.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-do-evergreen-content-in-2026-and-beyond/570903/\">How To Do Evergreen Content In 2026 (And Beyond)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-01T13:30:00+00:00",
-      "fetched": "2026-04-01T21:33:00.357950+00:00"
-    },
-    {
-      "id": "b4d593f7-fcc0-4808-8001-2556d8b5d7e0",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Building An In-House PPC Team: Why A Hybrid Model May Protect Your Ad Spend via @sejournal, @LisaRocksSEM",
-      "link": "https://www.searchenginejournal.com/building-an-in-house-ppc-team-why-a-hybrid-model-may-protect-your-ad-spend/569020/",
-      "summary": "How CMOs should structure PPC teams to manage AI-driven campaigns, avoid blind spots, and align spend with profit, not platform metrics.\n\nThe post <a href=\"https://www.searchenginejournal.com/building-an-in-house-ppc-team-why-a-hybrid-model-may-protect-your-ad-spend/569020/\">Building An In-House PPC Team: Why A Hybrid Model May Protect Your Ad Spend</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-01T12:30:40+00:00",
-      "fetched": "2026-04-01T21:33:00.357977+00:00"
-    },
-    {
-      "id": "8101e83b-de9a-40ab-85ee-33edef3a36ae",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Who Owns SEO In The Enterprise? The Accountability Gap That Kills Performance via @sejournal, @billhunt",
-      "link": "https://www.searchenginejournal.com/who-owns-seo-in-the-enterprise-the-accountability-gap-that-kills-performance/566095/",
-      "summary": "Bill Hunt explains why enterprise SEO performance improves when accountability matches authority across content, technology, and governance.\n\nThe post <a href=\"https://www.searchenginejournal.com/who-owns-seo-in-the-enterprise-the-accountability-gap-that-kills-performance/566095/\">Who Owns SEO In The Enterprise? The Accountability Gap That Kills Performance</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-01T11:30:02+00:00",
-      "fetched": "2026-04-01T21:33:00.357998+00:00"
-    },
-    {
-      "id": "a5c1c8d5-bb29-497e-a22f-f99708a86934",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Answers Why Core Updates Can Roll Out In Stages via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-answers-why-core-updates-can-roll-out-in-stages/571003/",
-      "summary": "Google's John Mueller answered a question about the nature of core updates: Are they rolled out in steps or all at once then refined?\n\nThe post <a href=\"https://www.searchenginejournal.com/google-answers-why-core-updates-can-roll-out-in-stages/571003/\">Google Answers Why Core Updates Can Roll Out In Stages</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-01T09:14:57+00:00",
-      "fetched": "2026-04-01T21:33:00.358020+00:00"
     }
   ],
-  "last_updated": "2026-04-06T21:29:25.507613+00:00"
+  "last_updated": "2026-04-07T21:34:17.573007+00:00"
 }
