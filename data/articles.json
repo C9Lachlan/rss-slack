@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "f07ee539-95b8-48b7-8119-285f07c30de4",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Confirms March 2026 Core Update Is Complete via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-confirms-march-2026-core-update-is-complete/571459/",
+      "summary": "Google's March core update finished rolling out. Here's what to know about the rollout and when to check your data. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-confirms-march-2026-core-update-is-complete/571459/\">Google Confirms March 2026 Core Update Is Complete</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-08T13:33:15+00:00",
+      "fetched": "2026-04-08T21:33:43.958709+00:00"
+    },
+    {
+      "id": "c662ebc9-acf7-4cf1-a324-344abefd086a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "GEO Was Invented On Sand Hill Road",
+      "link": "https://www.searchenginejournal.com/geo-was-invented-on-sand-hill-road/571316/",
+      "summary": "Behind the GEO trend is a familiar cycle: new acronym, same tactics, and a market built on fear of falling behind.\n\nThe post <a href=\"https://www.searchenginejournal.com/geo-was-invented-on-sand-hill-road/571316/\">GEO Was Invented On Sand Hill Road</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-08T13:30:37+00:00",
+      "fetched": "2026-04-08T21:33:43.958734+00:00"
+    },
+    {
+      "id": "14b3fd3c-c2a5-4607-a413-ddf9f5537501",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why Product Feeds Shouldn\u2019t Be The Most Ignored SEO System In Ecommerce",
+      "link": "https://www.searchenginejournal.com/why-product-feeds-shouldnt-be-the-most-ignored-seo-system-in-ecommerce/569211/",
+      "summary": "Strengthen ecommerce visibility by optimizing product feeds for search intent, structured data, and AI-driven discovery.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-product-feeds-shouldnt-be-the-most-ignored-seo-system-in-ecommerce/569211/\">Why Product Feeds Shouldn\u2019t Be The Most Ignored SEO System In Ecommerce</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-08T12:00:29+00:00",
+      "fetched": "2026-04-08T21:33:43.958754+00:00"
+    },
+    {
+      "id": "06701cfd-8449-4019-a542-316c690b62ee",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Says It Can Handle Multiple URLs To The Same Content via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-says-it-can-handle-multiple-urls-to-the-same-content/571424/",
+      "summary": "Google's John Mueller answers question about how Google handles multiple URLs and duplicate content.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-says-it-can-handle-multiple-urls-to-the-same-content/571424/\">Google Says It Can Handle Multiple URLs To The Same Content</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-08T09:53:56+00:00",
+      "fetched": "2026-04-08T21:33:43.958777+00:00"
+    },
+    {
+      "id": "57b2fd4c-bf28-4297-a134-e18cd4292449",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Turn AI Search Visibility Data Into a GEO Strategy That Closes Citation Gaps [Webinar] via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/how-to-turn-ai-search-visibility-data-into-a-geo-strategy-that-closes-citation-gaps-webinar/570420/",
+      "summary": "Learn how to optimize your GEO strategy by understanding which AI search signals truly drive brand citations.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-turn-ai-search-visibility-data-into-a-geo-strategy-that-closes-citation-gaps-webinar/570420/\">How To Turn AI Search Visibility Data Into a GEO Strategy That Closes Citation Gaps [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-08T07:45:37+00:00",
+      "fetched": "2026-04-08T21:33:43.958797+00:00"
+    },
+    {
       "id": "2ad40811-ddeb-4f94-9008-af19c7f341b6",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -164,62 +219,7 @@
       "summary": "Google's March core update is rolling out. Illyes explains Googlebot's crawling architecture, and Gemini referral traffic doubles. \n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-google-core-update-crawl-limits-gemini-traffic-data/571089/\">Google Core Update, Crawl Limits &#038; Gemini Traffic Data \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-04-03T12:30:16+00:00",
       "fetched": "2026-04-03T21:23:58.296144+00:00"
-    },
-    {
-      "id": "d7502ac3-2f1b-4209-91bd-73fd76c88744",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "ChatGPT Ads: New Acquisition Channel Or Just Another Brand Tax? via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/chatgpt-ads-new-acquisition-channel-or-just-another-brand-tax/571042/",
-      "summary": "OpenAI is expanding ChatGPT Ads and launching self-serve access. Here\u2019s what PPC managers should know before deciding whether it deserves real budget.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-ads-new-acquisition-channel-or-just-another-brand-tax/571042/\">ChatGPT Ads: New Acquisition Channel Or Just Another Brand Tax?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-03T11:30:05+00:00",
-      "fetched": "2026-04-03T21:23:58.296161+00:00"
-    },
-    {
-      "id": "abf4fd06-6861-4720-98c4-673516adbf68",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Mullenweg To Cloudflare: Keep WordPress Out Of Your Mouth via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/mullenweg-to-cloudflare-keep-wordpress-out-of-your-mouth/571119/",
-      "summary": "Matt Mullenweg invokes Will Smith's Oscars slap in response to Cloudflare's boat that EmDash is a successor to WordPress.\n\nThe post <a href=\"https://www.searchenginejournal.com/mullenweg-to-cloudflare-keep-wordpress-out-of-your-mouth/571119/\">Mullenweg To Cloudflare: Keep WordPress Out Of Your Mouth</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-03T10:55:26+00:00",
-      "fetched": "2026-04-03T21:23:58.296181+00:00"
-    },
-    {
-      "id": "f9f81413-92a8-4f7c-85d8-9f730e258c27",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Answers Why Some SEOs Split Their Sitemap Into Multiple Files via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-answers-why-some-seos-split-their-sitemap-into-multiple-files/571097/",
-      "summary": "Google's John Mueller answers question of whether splitting a sitemap is worth the extra work.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-answers-why-some-seos-split-their-sitemap-into-multiple-files/571097/\">Google Answers Why Some SEOs Split Their Sitemap Into Multiple Files</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-03T09:17:56+00:00",
-      "fetched": "2026-04-03T21:23:58.296196+00:00"
-    },
-    {
-      "id": "b80e0a39-d178-43ae-a9c7-f19073eec4dd",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Leads All Reasons For U.S. Job Cuts In March, Report Says via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/ai-leads-all-reasons-for-u-s-job-cuts-in-march-report-says/571065/",
-      "summary": "AI led all cited reasons for U.S. job cuts in March at 25% of the total, according to outplacement firm Challenger, Gray & Christmas. \n\nThe post <a href=\"https://www.searchenginejournal.com/ai-leads-all-reasons-for-u-s-job-cuts-in-march-report-says/571065/\">AI Leads All Reasons For U.S. Job Cuts In March, Report Says</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-02T17:29:09+00:00",
-      "fetched": "2026-04-02T21:27:47.560613+00:00"
-    },
-    {
-      "id": "ac63e107-6a94-4685-bf70-d54ed0df4c6f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Llms.txt Was Step One. Here\u2019s The Architecture That Comes Next via @sejournal, @DuaneForrester",
-      "link": "https://www.searchenginejournal.com/llms-txt-was-step-one-heres-the-architecture-that-comes-next/570925/",
-      "summary": "Brands must move beyond llms.txt toward structured APIs, entity graphs, and provenance to earn accurate AI citations.\n\nThe post <a href=\"https://www.searchenginejournal.com/llms-txt-was-step-one-heres-the-architecture-that-comes-next/570925/\">Llms.txt Was Step One. Here\u2019s The Architecture That Comes Next</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-02T13:30:36+00:00",
-      "fetched": "2026-04-02T21:27:47.560639+00:00"
     }
   ],
-  "last_updated": "2026-04-07T21:34:17.573007+00:00"
+  "last_updated": "2026-04-08T21:33:44.895479+00:00"
 }
