@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "0f8ab648-2921-453a-b63a-d8a3e91bbd93",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Your Owned Content Is Losing To A Stranger\u2019s Reddit Comment via @sejournal, @DuaneForrester",
+      "link": "https://www.searchenginejournal.com/your-owned-content-is-losing-to-a-strangers-reddit-comment/571167/",
+      "summary": "AI recommendations increasingly rely on Reddit and community signals, reshaping how brands earn visibility, trust, and influence in the AI-driven discovery layer.\n\nThe post <a href=\"https://www.searchenginejournal.com/your-owned-content-is-losing-to-a-strangers-reddit-comment/571167/\">Your Owned Content Is Losing To A Stranger\u2019s Reddit Comment</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-09T13:30:50+00:00",
+      "fetched": "2026-04-09T21:37:57.057157+00:00"
+    },
+    {
+      "id": "53dd0a95-01e8-4735-8066-b3426774e313",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why Your New SEO Vendor Can\u2019t Build on a Broken Foundation via @sejournal, @TaylorDanRW",
+      "link": "https://www.searchenginejournal.com/why-your-new-seo-vendor-cant-build-on-a-broken-foundation/570716/",
+      "summary": "Why inherited technical debt, content quality, and link history limit early SEO gains despite new expertise.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-your-new-seo-vendor-cant-build-on-a-broken-foundation/570716/\">Why Your New SEO Vendor Can\u2019t Build on a Broken Foundation</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-09T12:30:40+00:00",
+      "fetched": "2026-04-09T21:37:57.057183+00:00"
+    },
+    {
+      "id": "b6efa413-493b-4528-9ddc-fbb933c7bd1a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s CEO Predicts Search Will Become An AI Agent Manager via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/googles-ceo-predicts-search-will-become-an-ai-agent-manager/571526/",
+      "summary": "Google's CEO says that informational queries will become agentic search and that search itself will be an agent manager.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-ceo-predicts-search-will-become-an-ai-agent-manager/571526/\">Google&#8217;s CEO Predicts Search Will Become An AI Agent Manager</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-09T11:12:57+00:00",
+      "fetched": "2026-04-09T21:37:57.057230+00:00"
+    },
+    {
+      "id": "8a04c8e5-6061-4910-be22-69256134911e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Breaking Content & SEO Silos To Build Entity Authority in AI Search",
+      "link": "https://www.searchenginejournal.com/entity-authority-ai-search-victorious-spa/570686/",
+      "summary": "Discover the importance of AI search in modern marketing. Learn how to close the gap between content and SEO teams for success.\n\nThe post <a href=\"https://www.searchenginejournal.com/entity-authority-ai-search-victorious-spa/570686/\">Breaking Content &#038; SEO Silos To Build Entity Authority in AI Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-09T05:00:49+00:00",
+      "fetched": "2026-04-09T21:37:57.057253+00:00"
+    },
+    {
+      "id": "b404dc5e-9b32-4802-987f-46611be624b6",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "OpenAI, Meta, ByteDance Lead AI Bot Traffic In Publishing via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/openai-meta-bytedance-lead-ai-bot-traffic-in-publishing/571483/",
+      "summary": "Akamai breaks down which AI bots are hitting publishing, who operates them, and why fetcher bots may pose a more immediate risk.\n\nThe post <a href=\"https://www.searchenginejournal.com/openai-meta-bytedance-lead-ai-bot-traffic-in-publishing/571483/\">OpenAI, Meta, ByteDance Lead AI Bot Traffic In Publishing</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-09T04:20:50+00:00",
+      "fetched": "2026-04-09T21:37:57.057271+00:00"
+    },
+    {
       "id": "f07ee539-95b8-48b7-8119-285f07c30de4",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -164,62 +219,7 @@
       "summary": "Will WordPress's troubled real-time collaboration feature be worth delaying the release of WP 7.0?\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpresss-troubled-real-time-collaboration-feature/571201/\">WordPress&#8217;s Troubled Real-Time Collaboration Feature</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-04-06T10:23:23+00:00",
       "fetched": "2026-04-06T21:29:24.633630+00:00"
-    },
-    {
-      "id": "b1c3d00e-6b48-4571-9ee3-34603e2ac07d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How AI Is Changing Lead Generation: 3 Key Things SEO & PPC Teams Need To Do Now via @sejournal, @CallRail",
-      "link": "https://www.searchenginejournal.com/lead-gen-seo-ppc-callrail-spcs/570572/",
-      "summary": "Maximize your marketing potential with powerful lead gen techniques to drive engagement and sales effectively.\n\nThe post <a href=\"https://www.searchenginejournal.com/lead-gen-seo-ppc-callrail-spcs/570572/\">How AI Is Changing Lead Generation: 3 Key Things SEO &#038; PPC Teams Need To Do Now</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-06T05:00:18+00:00",
-      "fetched": "2026-04-06T21:29:24.633649+00:00"
-    },
-    {
-      "id": "816b1ddd-1a1b-4b79-863e-8514236011f2",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "MCP, A2A, NLWeb, And AGENTS.md: The Standards Powering The Agentic Web via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/mcp-a2a-nlweb-and-agents-md-the-standards-powering-the-agentic-web/570092/",
-      "summary": "The agentic web is taking shape through shared protocols, and they matter more than most businesses realize.\n\nThe post <a href=\"https://www.searchenginejournal.com/mcp-a2a-nlweb-and-agents-md-the-standards-powering-the-agentic-web/570092/\">MCP, A2A, NLWeb, And AGENTS.md: The Standards Powering The Agentic Web</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-05T12:00:24+00:00",
-      "fetched": "2026-04-05T21:22:52.544227+00:00"
-    },
-    {
-      "id": "90211a4a-d3b3-4f58-9ca3-3ca8ea15a74e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The 5-Pillar Framework For AI Content That Audiences Actually Trust via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/the-5-pillar-framework-for-ai-content-that-audiences-actually-trust/568860/",
-      "summary": "More AI-generated content isn\u2019t the answer. This guide outlines how to balance scale with authenticity to create content audiences actually value.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-5-pillar-framework-for-ai-content-that-audiences-actually-trust/568860/\">The 5-Pillar Framework For AI Content That Audiences Actually Trust</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-04T12:00:46+00:00",
-      "fetched": "2026-04-04T21:21:46.487842+00:00"
-    },
-    {
-      "id": "d15909c1-60e5-44ec-8a03-b8ea8d1ea3e0",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why Agentic AI Shopping Feels Unnatural And May Not Threaten SEO via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/why-agentic-ai-shopping-feels-unnatural-and-may-not-threaten-seo/571122/",
-      "summary": "Agentic AI shopping may not be good for SEO. But there's a reason why SEOs won't need to worry about it.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-agentic-ai-shopping-feels-unnatural-and-may-not-threaten-seo/571122/\">Why Agentic AI Shopping Feels Unnatural And May Not Threaten SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-03T13:02:31+00:00",
-      "fetched": "2026-04-03T21:23:58.296121+00:00"
-    },
-    {
-      "id": "dbf8568e-831f-4982-8aec-b6fa9cda802f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Core Update, Crawl Limits & Gemini Traffic Data \u2013 SEO Pulse via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-google-core-update-crawl-limits-gemini-traffic-data/571089/",
-      "summary": "Google's March core update is rolling out. Illyes explains Googlebot's crawling architecture, and Gemini referral traffic doubles. \n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-google-core-update-crawl-limits-gemini-traffic-data/571089/\">Google Core Update, Crawl Limits &#038; Gemini Traffic Data \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-03T12:30:16+00:00",
-      "fetched": "2026-04-03T21:23:58.296144+00:00"
     }
   ],
-  "last_updated": "2026-04-08T21:33:44.895479+00:00"
+  "last_updated": "2026-04-09T21:37:58.144680+00:00"
 }
