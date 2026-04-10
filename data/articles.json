@@ -1,6 +1,83 @@
 {
   "articles": [
     {
+      "id": "a33bcec4-5818-4277-aa57-4dadf9d4ffb0",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "What I Learned About The Future Of Search And AI From Sundar Pichai\u2019s Latest Interview via @sejournal, @marie_haynes",
+      "link": "https://www.searchenginejournal.com/what-i-learned-about-the-future-of-search-and-ai-from-sundar-pichais-latest-interview/571376/",
+      "summary": "Explore key takeaways from Sundar Pichai on agentic systems, robotics, and the future of AI-driven search and productivity.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-i-learned-about-the-future-of-search-and-ai-from-sundar-pichais-latest-interview/571376/\">What I Learned About The Future Of Search And AI From Sundar Pichai&#8217;s Latest Interview</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-10T13:30:47+00:00",
+      "fetched": "2026-04-10T21:27:33.952615+00:00"
+    },
+    {
+      "id": "5cee98ff-7312-4799-b186-8d35e89dfd39",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Core Update Done, GSC Bug Fixed, Mueller On Gurus \u2013 SEO Pulse via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/seo-pulse-core-update-done-gsc-bug-fixed-mueller-on-gurus/571626/",
+      "summary": "Google's March core update finished rolling out. A Search Console bug inflated impressions for nearly a year. Pichai warns AI will break software security.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-core-update-done-gsc-bug-fixed-mueller-on-gurus/571626/\">Core Update Done, GSC Bug Fixed, Mueller On Gurus &#8211; SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-10T12:30:00+00:00",
+      "fetched": "2026-04-10T21:27:33.952641+00:00"
+    },
+    {
+      "id": "03275c43-81ad-44c5-91d4-061cd74c9ce9",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Push For Data Strength Is Really A Push For Better Bidding via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/googles-push-for-data-strength-is-really-a-push-for-better-bidding/571621/",
+      "summary": "Google is doubling down on Data Strength as conversion signals become more critical to bidding, performance, and how campaigns are optimized.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-push-for-data-strength-is-really-a-push-for-better-bidding/571621/\">Google\u2019s Push For Data Strength Is Really A Push For Better Bidding</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-10T11:30:42+00:00",
+      "fetched": "2026-04-10T21:27:33.952662+00:00"
+    },
+    {
+      "id": "0269c424-318a-4e7b-8436-a1a502e0a43c",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Answers If Outbound Links Pass \u201cPoor Signals\u201d via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-answers-if-outbound-links-pass-poor-signals/571687/",
+      "summary": "Google's Mueller answers whether links pass negative signals and says unhelpful links may be ignored.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-answers-if-outbound-links-pass-poor-signals/571687/\">Google Answers If Outbound Links Pass &#8220;Poor Signals&#8221;</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-10T10:52:01+00:00",
+      "fetched": "2026-04-10T21:27:33.952689+00:00"
+    },
+    {
+      "id": "2b863701-cfc9-43b5-a8a9-88dcf6ebace1",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google March Core Update Left 4 Losers For Every Winner In Germany via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-march-core-update-left-4-losers-for-every-winner-in-germany/571639/",
+      "summary": "SISTRIX analyzed German search results after the March core update and found uneven visibility shifts across categories, with some site types hit harder than others.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-march-core-update-left-4-losers-for-every-winner-in-germany/571639/\">Google March Core Update Left 4 Losers For Every Winner In Germany</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-10T05:15:41+00:00",
+      "fetched": "2026-04-10T21:27:33.952708+00:00"
+    },
+    {
+      "id": "5a8249b2-8371-4248-b463-72d84590edc5",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "What 400 Sites Reveal About Organic Traffic Gains via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/what-400-sites-reveal-about-organic-traffic-gains/571632/",
+      "summary": "An analysis of 400+ websites found five characteristics associated with estimated organic traffic gains. \n\nThe post <a href=\"https://www.searchenginejournal.com/what-400-sites-reveal-about-organic-traffic-gains/571632/\">What 400 Sites Reveal About Organic Traffic Gains</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-10T04:15:37+00:00",
+      "fetched": "2026-04-10T21:27:33.952724+00:00"
+    },
+    {
+      "id": "5f013988-e042-4b36-902b-07d4ffc4b50a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Don\u2019t Go Chasing AI Yet: A Framework for Prioritizing SEO vs. AI Search via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/dont-go-chasing-ai-yet-a-framework-for-prioritizing-seo-vs-ai-search/571603/",
+      "summary": "Discover the essential questions to consider before investing in AI visibility over traditional SEO in our informative webinar.\n\nThe post <a href=\"https://www.searchenginejournal.com/dont-go-chasing-ai-yet-a-framework-for-prioritizing-seo-vs-ai-search/571603/\">Don&#8217;t Go Chasing AI Yet: A Framework for Prioritizing SEO vs. AI Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-09T22:10:34+00:00",
+      "fetched": "2026-04-10T21:27:33.952740+00:00"
+    },
+    {
       "id": "0f8ab648-2921-453a-b63a-d8a3e91bbd93",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -142,84 +219,7 @@
       "summary": "PPC professionals commanding higher compensation are moving beyond T-shaped skill sets toward M-shaped expertise with multiple deep, complementary disciplines.\n\nThe post <a href=\"https://www.searchenginejournal.com/from-t-shaped-to-m-shaped-the-ppc-career-evolution-nobody-is-talking-about/570722/\">From T-Shaped To M-Shaped: The PPC Career Evolution Nobody Is Talking About</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-04-07T12:30:58+00:00",
       "fetched": "2026-04-07T21:34:15.668876+00:00"
-    },
-    {
-      "id": "f65edd4c-b81f-4cb0-b529-4d8c82e4154e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Explains Why It Doesn\u2019t Matter That Websites Are Getting Larger via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-explains-why-it-doesnt-matter-that-websites-are-getting-larger/571333/",
-      "summary": "Google explains why it doesn't matter if websites are getting heavier and the takeaway has everything to do with SEO.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-explains-why-it-doesnt-matter-that-websites-are-getting-larger/571333/\">Google Explains Why It Doesn&#8217;t Matter That Websites Are Getting Larger</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-07T11:13:00+00:00",
-      "fetched": "2026-04-07T21:34:15.668897+00:00"
-    },
-    {
-      "id": "3644e154-bf4e-4c91-9aac-ec3ee84cecee",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Mueller On SEO Gurus Who Are \u201cClueless Imposters\u201d via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/googles-mueller-on-seo-gurus-who-are-clueless-imposters/571290/",
-      "summary": "Google's John Mueller says that those who self-identify as SEO gurus are clueless imposters.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-mueller-on-seo-gurus-who-are-clueless-imposters/571290/\">Google&#8217;s Mueller On SEO Gurus Who Are &#8220;Clueless Imposters&#8221;</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-07T08:57:57+00:00",
-      "fetched": "2026-04-07T21:34:15.668915+00:00"
-    },
-    {
-      "id": "f03fafb7-931d-4d91-ad5c-0e7d3c0f7a54",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "ChatGPT Now Crawls 3.6x More Than Googlebot: What 24M Requests Reveal",
-      "link": "https://www.searchenginejournal.com/chatgpt-googlebot-crawl-data-alliai-spa/570885/",
-      "summary": "Find out why Googlebot is no longer the only dominant crawler as OpenAI's ChatGPT-User takes the lead in web requests.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-googlebot-crawl-data-alliai-spa/570885/\">ChatGPT Now Crawls 3.6x More Than Googlebot: What 24M Requests Reveal</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-07T05:00:24+00:00",
-      "fetched": "2026-04-07T21:34:15.668932+00:00"
-    },
-    {
-      "id": "7a87b183-c355-4df3-9202-aaaea1058260",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Trust In AI Search Could Drop With Ads, Survey Shows via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/trust-in-ai-search-could-drop-with-ads-survey-shows/571240/",
-      "summary": "An Ipsos survey of U.S. adults found 63% say ads in AI search results would reduce trust. Early advertiser data offers limited, mixed signals.\n\nThe post <a href=\"https://www.searchenginejournal.com/trust-in-ai-search-could-drop-with-ads-survey-shows/571240/\">Trust In AI Search Could Drop With Ads, Survey Shows</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-06T19:40:53+00:00",
-      "fetched": "2026-04-06T21:29:24.633552+00:00"
-    },
-    {
-      "id": "519c1806-01d2-4ff3-ad25-1e1cbb055c80",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "ChatGPT Search Is Citing Fewer Sites, Data Shows via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/chatgpt-search-is-citing-fewer-sites-data-shows/571219/",
-      "summary": "ChatGPT Search is citing fewer websites per response after GPT-5.3 Instant became the default experience.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-search-is-citing-fewer-sites-data-shows/571219/\">ChatGPT Search Is Citing Fewer Sites, Data Shows</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-06T13:18:03+00:00",
-      "fetched": "2026-04-06T21:29:24.633579+00:00"
-    },
-    {
-      "id": "1a4d668a-57c2-4bc1-b91e-1b1b28ebf47e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Top 6 Search Engines Market Share & The AI Search Engines To Watch via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo/the-top-6-search-engines-market-share-the-ai-search-engines-to-watch/",
-      "summary": "Declining Google share and rising AI search usage signal a shift in where discovery happens and how SEO teams should allocate resources.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo/the-top-6-search-engines-market-share-the-ai-search-engines-to-watch/\">The Top 6 Search Engines Market Share &#038; The AI Search Engines To Watch</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-06T12:30:49+00:00",
-      "fetched": "2026-04-06T21:29:24.633598+00:00"
-    },
-    {
-      "id": "d928be68-068c-4917-a58d-c768c9b4aabf",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "WordPress\u2019s Troubled Real-Time Collaboration Feature via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/wordpresss-troubled-real-time-collaboration-feature/571201/",
-      "summary": "Will WordPress's troubled real-time collaboration feature be worth delaying the release of WP 7.0?\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpresss-troubled-real-time-collaboration-feature/571201/\">WordPress&#8217;s Troubled Real-Time Collaboration Feature</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-06T10:23:23+00:00",
-      "fetched": "2026-04-06T21:29:24.633630+00:00"
     }
   ],
-  "last_updated": "2026-04-09T21:37:58.144680+00:00"
+  "last_updated": "2026-04-10T21:27:34.662162+00:00"
 }
