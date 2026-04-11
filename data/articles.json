@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": "f55bb91f-4457-405c-b66a-0a77d3c25c45",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "What Pichai\u2019s Interview Reveals About Google\u2019s Search Direction via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/what-pichais-interview-reveals-about-googles-search-direction/571574/",
+      "summary": "Sundar Pichai outlines search as an \u201cagent manager,\u201d signaling a shift from link-based results to task completion and multi-step workflows.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-pichais-interview-reveals-about-googles-search-direction/571574/\">What Pichai\u2019s Interview Reveals About Google\u2019s Search Direction</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-11T12:00:21+00:00",
+      "fetched": "2026-04-11T21:23:19.213252+00:00"
+    },
+    {
       "id": "a33bcec4-5818-4277-aa57-4dadf9d4ffb0",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -208,18 +219,7 @@
       "summary": "New research shows AI Mode is reshaping buying decisions. Learn how to secure visibility, trust, and top placement.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-consumers-navigate-high-stakes-purchases-in-ai-mode/571361/\">How Consumers Navigate High-Stakes Purchases In AI Mode</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-04-07T13:30:28+00:00",
       "fetched": "2026-04-07T21:34:15.668857+00:00"
-    },
-    {
-      "id": "2f168d32-d925-43f4-9a28-f0467a3e4403",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "From T-Shaped To M-Shaped: The PPC Career Evolution Nobody Is Talking About",
-      "link": "https://www.searchenginejournal.com/from-t-shaped-to-m-shaped-the-ppc-career-evolution-nobody-is-talking-about/570722/",
-      "summary": "PPC professionals commanding higher compensation are moving beyond T-shaped skill sets toward M-shaped expertise with multiple deep, complementary disciplines.\n\nThe post <a href=\"https://www.searchenginejournal.com/from-t-shaped-to-m-shaped-the-ppc-career-evolution-nobody-is-talking-about/570722/\">From T-Shaped To M-Shaped: The PPC Career Evolution Nobody Is Talking About</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-07T12:30:58+00:00",
-      "fetched": "2026-04-07T21:34:15.668876+00:00"
     }
   ],
-  "last_updated": "2026-04-10T21:27:34.662162+00:00"
+  "last_updated": "2026-04-11T21:23:20.067708+00:00"
 }
