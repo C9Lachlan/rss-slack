@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": "dcc8fba1-7b34-4b24-a93d-e31019e7b20d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How AI Agents See Your Website (And How To Build For Them) via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/how-ai-agents-see-your-website-and-how-to-build-for-them/570443/",
+      "summary": "Websites built with semantic HTML, accessible patterns, and visible server-rendered content are better positioned for the agentic web.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-ai-agents-see-your-website-and-how-to-build-for-them/570443/\">How AI Agents See Your Website (And How To Build For Them)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-12T12:00:14+00:00",
+      "fetched": "2026-04-12T21:24:09.543269+00:00"
+    },
+    {
       "id": "f55bb91f-4457-405c-b66a-0a77d3c25c45",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -208,18 +219,7 @@
       "summary": "Google CEO Sundar Pichai said AI models could expose more software vulnerabilities and agreed it was plausible AI is affecting zero-day exploit markets. \n\nThe post <a href=\"https://www.searchenginejournal.com/pichai-says-ai-could-break-pretty-much-all-software/571387/\">Pichai Says AI Could &#8216;Break Pretty Much All Software&#8217;</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-04-07T20:47:28+00:00",
       "fetched": "2026-04-07T21:34:15.668832+00:00"
-    },
-    {
-      "id": "680c7f04-0f5f-4cb9-a82c-95e2c65881c2",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How Consumers Navigate High-Stakes Purchases In AI Mode via @sejournal, @Kevin_Indig",
-      "link": "https://www.searchenginejournal.com/how-consumers-navigate-high-stakes-purchases-in-ai-mode/571361/",
-      "summary": "New research shows AI Mode is reshaping buying decisions. Learn how to secure visibility, trust, and top placement.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-consumers-navigate-high-stakes-purchases-in-ai-mode/571361/\">How Consumers Navigate High-Stakes Purchases In AI Mode</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-07T13:30:28+00:00",
-      "fetched": "2026-04-07T21:34:15.668857+00:00"
     }
   ],
-  "last_updated": "2026-04-11T21:23:20.067708+00:00"
+  "last_updated": "2026-04-12T21:24:10.089257+00:00"
 }
