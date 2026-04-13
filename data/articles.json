@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "c9559741-730d-4b23-818b-0d3b87b6c8db",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "New Google Spam Policy Targets Back Button Hijacking via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/new-google-spam-policy-targets-back-button-hijacking/571859/",
+      "summary": "Google added back button hijacking to its malicious practices spam policy. Enforcement starts June 15, 2026. Sites have two months to remove offending code. \n\nThe post <a href=\"https://www.searchenginejournal.com/new-google-spam-policy-targets-back-button-hijacking/571859/\">New Google Spam Policy Targets Back Button Hijacking</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-13T16:43:40+00:00",
+      "fetched": "2026-04-13T21:38:53.857623+00:00"
+    },
+    {
+      "id": "ad00ce27-a3a6-4541-bea5-6c38ee4289e2",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Dangerous Seduction Of Click-Chasing",
+      "link": "https://www.searchenginejournal.com/the-dangerous-seduction-of-click-chasing/571533/",
+      "summary": "News publishers chasing SEO-driven clicks often sacrifice audience trust, and pay the price when rankings collapse.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-dangerous-seduction-of-click-chasing/571533/\">The Dangerous Seduction Of Click-Chasing</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-13T13:30:13+00:00",
+      "fetched": "2026-04-13T21:38:53.857655+00:00"
+    },
+    {
+      "id": "b8361f5f-1d18-4831-91b2-ac50b69cd29d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Measure PPC Performance When AI Controls The Auction via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/how-to-measure-ppc-performance-when-ai-controls-the-auction/570184/",
+      "summary": "Measure PPC performance in 2026 with AI-driven auctions, smarter attribution, profit-based metrics, and reporting frameworks built for Google Ads automation and AI search.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-measure-ppc-performance-when-ai-controls-the-auction/570184/\">How To Measure PPC Performance When AI Controls The Auction</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-13T13:00:22+00:00",
+      "fetched": "2026-04-13T21:38:53.857677+00:00"
+    },
+    {
+      "id": "ae2f8750-9cab-46bb-a88f-8243021ec7f1",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Task-Based Agentic Search Is Disrupting SEO Today, Not Tomorrow via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/googles-task-based-search/571800/",
+      "summary": "A recent announcement by Google signals the start of a massive change in how the internet and search work.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-task-based-search/571800/\">Google&#8217;s Task-Based Agentic Search Is Disrupting SEO Today, Not Tomorrow</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-13T12:13:11+00:00",
+      "fetched": "2026-04-13T21:38:53.857699+00:00"
+    },
+    {
+      "id": "97a539a5-d222-4a7c-9dbb-a2c7e193307e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How AI Chooses Which Brands To Recommend: From Relational Knowledge To Topical Presence via @sejournal, @Dixon_Jones",
+      "link": "https://www.searchenginejournal.com/relational-knowledge-topical-presence-how-ai-chooses-which-brands-to-recommend/570482/",
+      "summary": "Research on language models reveals how brands win or lose in AI-generated recommendations based on association strength.\n\nThe post <a href=\"https://www.searchenginejournal.com/relational-knowledge-topical-presence-how-ai-chooses-which-brands-to-recommend/570482/\">How AI Chooses Which Brands To Recommend: From Relational Knowledge To Topical Presence</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-13T12:00:20+00:00",
+      "fetched": "2026-04-13T21:38:53.857718+00:00"
+    },
+    {
       "id": "dcc8fba1-7b34-4b24-a93d-e31019e7b20d",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -164,62 +219,7 @@
       "summary": "Google's March core update finished rolling out. Here's what to know about the rollout and when to check your data. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-confirms-march-2026-core-update-is-complete/571459/\">Google Confirms March 2026 Core Update Is Complete</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-04-08T13:33:15+00:00",
       "fetched": "2026-04-08T21:33:43.958709+00:00"
-    },
-    {
-      "id": "c662ebc9-acf7-4cf1-a324-344abefd086a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "GEO Was Invented On Sand Hill Road",
-      "link": "https://www.searchenginejournal.com/geo-was-invented-on-sand-hill-road/571316/",
-      "summary": "Behind the GEO trend is a familiar cycle: new acronym, same tactics, and a market built on fear of falling behind.\n\nThe post <a href=\"https://www.searchenginejournal.com/geo-was-invented-on-sand-hill-road/571316/\">GEO Was Invented On Sand Hill Road</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-08T13:30:37+00:00",
-      "fetched": "2026-04-08T21:33:43.958734+00:00"
-    },
-    {
-      "id": "14b3fd3c-c2a5-4607-a413-ddf9f5537501",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why Product Feeds Shouldn\u2019t Be The Most Ignored SEO System In Ecommerce",
-      "link": "https://www.searchenginejournal.com/why-product-feeds-shouldnt-be-the-most-ignored-seo-system-in-ecommerce/569211/",
-      "summary": "Strengthen ecommerce visibility by optimizing product feeds for search intent, structured data, and AI-driven discovery.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-product-feeds-shouldnt-be-the-most-ignored-seo-system-in-ecommerce/569211/\">Why Product Feeds Shouldn\u2019t Be The Most Ignored SEO System In Ecommerce</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-08T12:00:29+00:00",
-      "fetched": "2026-04-08T21:33:43.958754+00:00"
-    },
-    {
-      "id": "06701cfd-8449-4019-a542-316c690b62ee",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Says It Can Handle Multiple URLs To The Same Content via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-says-it-can-handle-multiple-urls-to-the-same-content/571424/",
-      "summary": "Google's John Mueller answers question about how Google handles multiple URLs and duplicate content.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-says-it-can-handle-multiple-urls-to-the-same-content/571424/\">Google Says It Can Handle Multiple URLs To The Same Content</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-08T09:53:56+00:00",
-      "fetched": "2026-04-08T21:33:43.958777+00:00"
-    },
-    {
-      "id": "57b2fd4c-bf28-4297-a134-e18cd4292449",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Turn AI Search Visibility Data Into a GEO Strategy That Closes Citation Gaps [Webinar] via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/how-to-turn-ai-search-visibility-data-into-a-geo-strategy-that-closes-citation-gaps-webinar/570420/",
-      "summary": "Learn how to optimize your GEO strategy by understanding which AI search signals truly drive brand citations.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-turn-ai-search-visibility-data-into-a-geo-strategy-that-closes-citation-gaps-webinar/570420/\">How To Turn AI Search Visibility Data Into a GEO Strategy That Closes Citation Gaps [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-08T07:45:37+00:00",
-      "fetched": "2026-04-08T21:33:43.958797+00:00"
-    },
-    {
-      "id": "2ad40811-ddeb-4f94-9008-af19c7f341b6",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Pichai Says AI Could \u2018Break Pretty Much All Software\u2019 via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/pichai-says-ai-could-break-pretty-much-all-software/571387/",
-      "summary": "Google CEO Sundar Pichai said AI models could expose more software vulnerabilities and agreed it was plausible AI is affecting zero-day exploit markets. \n\nThe post <a href=\"https://www.searchenginejournal.com/pichai-says-ai-could-break-pretty-much-all-software/571387/\">Pichai Says AI Could &#8216;Break Pretty Much All Software&#8217;</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-07T20:47:28+00:00",
-      "fetched": "2026-04-07T21:34:15.668832+00:00"
     }
   ],
-  "last_updated": "2026-04-12T21:24:10.089257+00:00"
+  "last_updated": "2026-04-13T21:38:54.890476+00:00"
 }
