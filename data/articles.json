@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "fe0edd63-d356-4fa7-a373-ed5bbd3f7279",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Chrome Skills Turn Gemini Prompts Into Reusable Workflows via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-chrome-skills-turn-gemini-prompts-into-reusable-workflows/571994/",
+      "summary": "Google is rolling out Skills to Gemini in Chrome on desktop, letting users save prompts as reusable one-click tools and run them across selected tabs.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-chrome-skills-turn-gemini-prompts-into-reusable-workflows/571994/\">Google Chrome Skills Turn Gemini Prompts Into Reusable Workflows</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-14T19:10:44+00:00",
+      "fetched": "2026-04-14T21:41:23.608859+00:00"
+    },
+    {
+      "id": "0c5c0a7a-96f8-4921-86b4-ac7a16f9d10a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why Your Webinar Program Isn\u2019t Working (So, Copy Ours) via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/why-your-webinar-program-isnt-working-so-copy-ours/571950/",
+      "summary": "5 years ago, I stepped into the role of webinar ringmaster. I said yes to moderating, but it was all the background work that gave me butterflies. I\u2019d second and third guess everything. Is the title right? What if it flops? Is the content level right for the attendees? Will the right attendees sign up? Is my hair ok?! But the program grew, and you all were so welcoming. Through the years we\u2019ve tested on you all (it\u2019s fun for us!) And I\u2019ve learned so many tricks that I want to give back to my fel",
+      "published": "2026-04-14T16:48:05+00:00",
+      "fetched": "2026-04-14T21:41:23.608889+00:00"
+    },
+    {
+      "id": "ccada18d-edb5-4ca1-b3f3-0e982d31b543",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Shorter, Focused Content Wins In ChatGPT via @sejournal, @Kevin_Indig",
+      "link": "https://www.searchenginejournal.com/shorter-focused-content-wins-in-chatgpt/571857/",
+      "summary": "Learn why covering fewer subtopics can outperform exhaustive guides in ChatGPT citations, backed by large-scale data.\n\nThe post <a href=\"https://www.searchenginejournal.com/shorter-focused-content-wins-in-chatgpt/571857/\">Shorter, Focused Content Wins In ChatGPT</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-14T13:30:08+00:00",
+      "fetched": "2026-04-14T21:41:23.608910+00:00"
+    },
+    {
+      "id": "673a61f0-3e99-47b0-b9d2-31899d57f0da",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Break Through An Affiliate Site Plateau & Find New Growth \u2013 Ask An SEO via @sejournal, @rollerblader",
+      "link": "https://www.searchenginejournal.com/ask-an-seo-how-to-break-through-an-affiliate-site-plateau/566270/",
+      "summary": "Get actionable ways to break affiliate plateaus using data, audience research, and new content distribution channels.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-an-seo-how-to-break-through-an-affiliate-site-plateau/566270/\">How To Break Through An Affiliate Site Plateau &#038; Find New Growth &#8211; Ask An SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-14T11:30:15+00:00",
+      "fetched": "2026-04-14T21:41:23.608932+00:00"
+    },
+    {
+      "id": "2b04b599-cb9c-47df-aa9e-247b01787bf6",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Lists 9 Scenarios That Explain How It Picks Canonical URLs via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/how-google-picks-canonical-urls/571914/",
+      "summary": "Google's John Mueller lists nine scenarios that lead Google to choose one URL as the canonical over another.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-google-picks-canonical-urls/571914/\">Google Lists 9 Scenarios That Explain How It Picks Canonical URLs</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-14T11:11:38+00:00",
+      "fetched": "2026-04-14T21:41:23.608949+00:00"
+    },
+    {
       "id": "c9559741-730d-4b23-818b-0d3b87b6c8db",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -164,62 +219,7 @@
       "summary": "AI recommendations increasingly rely on Reddit and community signals, reshaping how brands earn visibility, trust, and influence in the AI-driven discovery layer.\n\nThe post <a href=\"https://www.searchenginejournal.com/your-owned-content-is-losing-to-a-strangers-reddit-comment/571167/\">Your Owned Content Is Losing To A Stranger\u2019s Reddit Comment</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-04-09T13:30:50+00:00",
       "fetched": "2026-04-09T21:37:57.057157+00:00"
-    },
-    {
-      "id": "53dd0a95-01e8-4735-8066-b3426774e313",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why Your New SEO Vendor Can\u2019t Build on a Broken Foundation via @sejournal, @TaylorDanRW",
-      "link": "https://www.searchenginejournal.com/why-your-new-seo-vendor-cant-build-on-a-broken-foundation/570716/",
-      "summary": "Why inherited technical debt, content quality, and link history limit early SEO gains despite new expertise.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-your-new-seo-vendor-cant-build-on-a-broken-foundation/570716/\">Why Your New SEO Vendor Can\u2019t Build on a Broken Foundation</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-09T12:30:40+00:00",
-      "fetched": "2026-04-09T21:37:57.057183+00:00"
-    },
-    {
-      "id": "b6efa413-493b-4528-9ddc-fbb933c7bd1a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s CEO Predicts Search Will Become An AI Agent Manager via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/googles-ceo-predicts-search-will-become-an-ai-agent-manager/571526/",
-      "summary": "Google's CEO says that informational queries will become agentic search and that search itself will be an agent manager.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-ceo-predicts-search-will-become-an-ai-agent-manager/571526/\">Google&#8217;s CEO Predicts Search Will Become An AI Agent Manager</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-09T11:12:57+00:00",
-      "fetched": "2026-04-09T21:37:57.057230+00:00"
-    },
-    {
-      "id": "8a04c8e5-6061-4910-be22-69256134911e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Breaking Content & SEO Silos To Build Entity Authority in AI Search",
-      "link": "https://www.searchenginejournal.com/entity-authority-ai-search-victorious-spa/570686/",
-      "summary": "Discover the importance of AI search in modern marketing. Learn how to close the gap between content and SEO teams for success.\n\nThe post <a href=\"https://www.searchenginejournal.com/entity-authority-ai-search-victorious-spa/570686/\">Breaking Content &#038; SEO Silos To Build Entity Authority in AI Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-09T05:00:49+00:00",
-      "fetched": "2026-04-09T21:37:57.057253+00:00"
-    },
-    {
-      "id": "b404dc5e-9b32-4802-987f-46611be624b6",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "OpenAI, Meta, ByteDance Lead AI Bot Traffic In Publishing via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/openai-meta-bytedance-lead-ai-bot-traffic-in-publishing/571483/",
-      "summary": "Akamai breaks down which AI bots are hitting publishing, who operates them, and why fetcher bots may pose a more immediate risk.\n\nThe post <a href=\"https://www.searchenginejournal.com/openai-meta-bytedance-lead-ai-bot-traffic-in-publishing/571483/\">OpenAI, Meta, ByteDance Lead AI Bot Traffic In Publishing</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-09T04:20:50+00:00",
-      "fetched": "2026-04-09T21:37:57.057271+00:00"
-    },
-    {
-      "id": "f07ee539-95b8-48b7-8119-285f07c30de4",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Confirms March 2026 Core Update Is Complete via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-confirms-march-2026-core-update-is-complete/571459/",
-      "summary": "Google's March core update finished rolling out. Here's what to know about the rollout and when to check your data. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-confirms-march-2026-core-update-is-complete/571459/\">Google Confirms March 2026 Core Update Is Complete</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-08T13:33:15+00:00",
-      "fetched": "2026-04-08T21:33:43.958709+00:00"
     }
   ],
-  "last_updated": "2026-04-13T21:38:54.890476+00:00"
+  "last_updated": "2026-04-14T21:41:25.705682+00:00"
 }
