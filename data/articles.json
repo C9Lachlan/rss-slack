@@ -1,6 +1,83 @@
 {
   "articles": [
     {
+      "id": "2c1f937a-9a83-400e-99eb-45cff51c2a49",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Become The AI Search Authority In Your Company [Webinar] via @sejournal, @lorenbaker",
+      "link": "https://www.searchenginejournal.com/how-to-become-the-ai-search-authority-in-your-company-webinar/572189/",
+      "summary": "Explore the impact of AI search on SEO roles and how brands can manage their online presence in AI outputs effectively.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-become-the-ai-search-authority-in-your-company-webinar/572189/\">How To Become The AI Search Authority In Your Company [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-15T19:24:58+00:00",
+      "fetched": "2026-04-15T21:41:33.903350+00:00"
+    },
+    {
+      "id": "98982a1a-2564-434b-9549-16b442f06277",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The AI Slop Loop via @sejournal, @lilyraynyc",
+      "link": "https://www.searchenginejournal.com/the-ai-slop-loop/572090/",
+      "summary": "New examples show how AI search tools confidently cite fabricated SEO updates, exposing a growing risk in relying on LLM-generated information.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-ai-slop-loop/572090/\">The AI Slop Loop</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-15T13:30:55+00:00",
+      "fetched": "2026-04-15T21:41:33.903376+00:00"
+    },
+    {
+      "id": "712da6c3-6562-455b-b613-5ca989a6bca6",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Is Replacing Dynamic Search Ads With AI Max via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/google-is-replacing-dynamic-search-ads-with-ai-max/571949/",
+      "summary": "Google replaces Dynamic Search Ads with AI Max. Learn what\u2019s changing, when migrations begin, and what advertisers should do before September upgrades.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-is-replacing-dynamic-search-ads-with-ai-max/571949/\">Google Is Replacing Dynamic Search Ads With AI Max</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-15T13:00:03+00:00",
+      "fetched": "2026-04-15T21:41:33.903397+00:00"
+    },
+    {
+      "id": "112c2a1e-9832-4f45-aa79-c3a6d6872ad4",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Modern SEO Center Of Excellence: Governance, Not Guidelines via @sejournal, @billhunt",
+      "link": "https://www.searchenginejournal.com/the-modern-seo-center-of-excellence-governance-not-guidelines/566097/",
+      "summary": "Replace optional SEO guidelines with enforceable governance to ensure consistent signals and scalable visibility across the enterprise.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-modern-seo-center-of-excellence-governance-not-guidelines/566097/\">The Modern SEO Center Of Excellence: Governance, Not Guidelines</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-15T12:30:13+00:00",
+      "fetched": "2026-04-15T21:41:33.903424+00:00"
+    },
+    {
+      "id": "4afe2fb5-eea7-4771-b6c0-33cfeb0779e8",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why Your Search Data Doesn\u2019t Agree (And What To Do About It) via @sejournal, @coreydmorris",
+      "link": "https://www.searchenginejournal.com/why-your-search-data-doesnt-agree-and-what-to-do-about-it/570180/",
+      "summary": "Attribution gaps, platform silos, privacy changes: Conflicting data is only getting worse. Here's how to lead with clarity when the numbers don't match.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-your-search-data-doesnt-agree-and-what-to-do-about-it/570180/\">Why Your Search Data Doesn\u2019t Agree (And What To Do About It)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-15T11:00:50+00:00",
+      "fetched": "2026-04-15T21:41:33.903444+00:00"
+    },
+    {
+      "id": "9b005934-964d-4634-a505-139a67cfd12a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Just Made It Easy For SEOs To Kick Out Spammy Sites via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-just-made-it-easy-for-seos-to-kick-out-spammy-sites/572118/",
+      "summary": "Google just handed SEOs a new way to hit spammy sites with manual actions and get them deindexed from search results.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-just-made-it-easy-for-seos-to-kick-out-spammy-sites/572118/\">Google Just Made It Easy For SEOs To Kick Out Spammy Sites</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-15T10:00:40+00:00",
+      "fetched": "2026-04-15T21:41:33.903461+00:00"
+    },
+    {
+      "id": "13583c8e-0cb7-4741-b21a-3f70f203926c",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "New Google Search Console Message Glitch Gives SEOs A Scare via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/new-google-search-console-message-glitch-gives-seos-a-scare/572072/",
+      "summary": "A Google Search Console glitch resulted in a message to site owners implying that impressions have only just started being reported.\n\nThe post <a href=\"https://www.searchenginejournal.com/new-google-search-console-message-glitch-gives-seos-a-scare/572072/\">New Google Search Console Message Glitch Gives SEOs A Scare</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-14T22:22:03+00:00",
+      "fetched": "2026-04-15T21:41:33.903478+00:00"
+    },
+    {
       "id": "fe0edd63-d356-4fa7-a373-ed5bbd3f7279",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -142,84 +219,7 @@
       "summary": "Explore key takeaways from Sundar Pichai on agentic systems, robotics, and the future of AI-driven search and productivity.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-i-learned-about-the-future-of-search-and-ai-from-sundar-pichais-latest-interview/571376/\">What I Learned About The Future Of Search And AI From Sundar Pichai&#8217;s Latest Interview</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-04-10T13:30:47+00:00",
       "fetched": "2026-04-10T21:27:33.952615+00:00"
-    },
-    {
-      "id": "5cee98ff-7312-4799-b186-8d35e89dfd39",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Core Update Done, GSC Bug Fixed, Mueller On Gurus \u2013 SEO Pulse via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-core-update-done-gsc-bug-fixed-mueller-on-gurus/571626/",
-      "summary": "Google's March core update finished rolling out. A Search Console bug inflated impressions for nearly a year. Pichai warns AI will break software security.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-core-update-done-gsc-bug-fixed-mueller-on-gurus/571626/\">Core Update Done, GSC Bug Fixed, Mueller On Gurus &#8211; SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-10T12:30:00+00:00",
-      "fetched": "2026-04-10T21:27:33.952641+00:00"
-    },
-    {
-      "id": "03275c43-81ad-44c5-91d4-061cd74c9ce9",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Push For Data Strength Is Really A Push For Better Bidding via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/googles-push-for-data-strength-is-really-a-push-for-better-bidding/571621/",
-      "summary": "Google is doubling down on Data Strength as conversion signals become more critical to bidding, performance, and how campaigns are optimized.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-push-for-data-strength-is-really-a-push-for-better-bidding/571621/\">Google\u2019s Push For Data Strength Is Really A Push For Better Bidding</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-10T11:30:42+00:00",
-      "fetched": "2026-04-10T21:27:33.952662+00:00"
-    },
-    {
-      "id": "0269c424-318a-4e7b-8436-a1a502e0a43c",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Answers If Outbound Links Pass \u201cPoor Signals\u201d via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-answers-if-outbound-links-pass-poor-signals/571687/",
-      "summary": "Google's Mueller answers whether links pass negative signals and says unhelpful links may be ignored.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-answers-if-outbound-links-pass-poor-signals/571687/\">Google Answers If Outbound Links Pass &#8220;Poor Signals&#8221;</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-10T10:52:01+00:00",
-      "fetched": "2026-04-10T21:27:33.952689+00:00"
-    },
-    {
-      "id": "2b863701-cfc9-43b5-a8a9-88dcf6ebace1",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google March Core Update Left 4 Losers For Every Winner In Germany via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-march-core-update-left-4-losers-for-every-winner-in-germany/571639/",
-      "summary": "SISTRIX analyzed German search results after the March core update and found uneven visibility shifts across categories, with some site types hit harder than others.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-march-core-update-left-4-losers-for-every-winner-in-germany/571639/\">Google March Core Update Left 4 Losers For Every Winner In Germany</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-10T05:15:41+00:00",
-      "fetched": "2026-04-10T21:27:33.952708+00:00"
-    },
-    {
-      "id": "5a8249b2-8371-4248-b463-72d84590edc5",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "What 400 Sites Reveal About Organic Traffic Gains via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/what-400-sites-reveal-about-organic-traffic-gains/571632/",
-      "summary": "An analysis of 400+ websites found five characteristics associated with estimated organic traffic gains. \n\nThe post <a href=\"https://www.searchenginejournal.com/what-400-sites-reveal-about-organic-traffic-gains/571632/\">What 400 Sites Reveal About Organic Traffic Gains</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-10T04:15:37+00:00",
-      "fetched": "2026-04-10T21:27:33.952724+00:00"
-    },
-    {
-      "id": "5f013988-e042-4b36-902b-07d4ffc4b50a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Don\u2019t Go Chasing AI Yet: A Framework for Prioritizing SEO vs. AI Search via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/dont-go-chasing-ai-yet-a-framework-for-prioritizing-seo-vs-ai-search/571603/",
-      "summary": "Discover the essential questions to consider before investing in AI visibility over traditional SEO in our informative webinar.\n\nThe post <a href=\"https://www.searchenginejournal.com/dont-go-chasing-ai-yet-a-framework-for-prioritizing-seo-vs-ai-search/571603/\">Don&#8217;t Go Chasing AI Yet: A Framework for Prioritizing SEO vs. AI Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-09T22:10:34+00:00",
-      "fetched": "2026-04-10T21:27:33.952740+00:00"
-    },
-    {
-      "id": "0f8ab648-2921-453a-b63a-d8a3e91bbd93",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Your Owned Content Is Losing To A Stranger\u2019s Reddit Comment via @sejournal, @DuaneForrester",
-      "link": "https://www.searchenginejournal.com/your-owned-content-is-losing-to-a-strangers-reddit-comment/571167/",
-      "summary": "AI recommendations increasingly rely on Reddit and community signals, reshaping how brands earn visibility, trust, and influence in the AI-driven discovery layer.\n\nThe post <a href=\"https://www.searchenginejournal.com/your-owned-content-is-losing-to-a-strangers-reddit-comment/571167/\">Your Owned Content Is Losing To A Stranger\u2019s Reddit Comment</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-09T13:30:50+00:00",
-      "fetched": "2026-04-09T21:37:57.057157+00:00"
     }
   ],
-  "last_updated": "2026-04-14T21:41:25.705682+00:00"
+  "last_updated": "2026-04-15T21:41:35.705365+00:00"
 }
