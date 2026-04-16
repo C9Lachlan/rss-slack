@@ -1,6 +1,94 @@
 {
   "articles": [
     {
+      "id": "e704288a-881b-4fbf-ba76-df8bc06bb01f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google AI Mode in Chrome Gets Side-by-Side Browsing via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-ai-mode-in-chrome-gets-side-by-side-browsing/572273/",
+      "summary": "Google is updating AI Mode in Chrome with side-by-side page viewing and a plus menu for adding tabs, images, and files as context.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ai-mode-in-chrome-gets-side-by-side-browsing/572273/\">Google AI Mode in Chrome Gets Side-by-Side Browsing</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-16T21:02:14+00:00",
+      "fetched": "2026-04-16T21:34:26.414188+00:00"
+    },
+    {
+      "id": "7af3562d-f944-40c8-9ae3-c233cf52d064",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "ChatGPT Often Retrieves But Rarely Cites Reddit Pages, Data Shows via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/chatgpt-often-retrieves-but-rarely-cites-reddit-pages-data-shows/572243/",
+      "summary": "New Ahrefs data shows Reddit pages appeared often in ChatGPT retrievals but rarely as visible citations.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-often-retrieves-but-rarely-cites-reddit-pages-data-shows/572243/\">ChatGPT Often Retrieves But Rarely Cites Reddit Pages, Data Shows</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-16T16:54:56+00:00",
+      "fetched": "2026-04-16T21:34:26.414214+00:00"
+    },
+    {
+      "id": "a9488a80-b5ca-4c14-a9f4-b9a95c20cab6",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Gen Z Workers Pick Human-Only Output Over AI-Assisted via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/gen-z-workers-pick-human-only-output-over-ai-assisted/572230/",
+      "summary": "Gen Z workers surveyed by Gallup said they would trust work done without AI over AI-assisted output by more than 2-to-1, with the gap widening.\n\nThe post <a href=\"https://www.searchenginejournal.com/gen-z-workers-pick-human-only-output-over-ai-assisted/572230/\">Gen Z Workers Pick Human-Only Output Over AI-Assisted</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-16T14:47:19+00:00",
+      "fetched": "2026-04-16T21:34:26.414233+00:00"
+    },
+    {
+      "id": "4862f89b-e117-4d7d-b32b-4adb2f9ed9b7",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Your AI Visibility Strategy Doesn\u2019t Work Outside English via @sejournal, @DuaneForrester",
+      "link": "https://www.searchenginejournal.com/your-ai-visibility-strategy-doesnt-work-outside-english/571742/",
+      "summary": "Language bias in AI models creates hidden visibility gaps, forcing brands to rethink how they approach multilingual search and content strategy.\n\nThe post <a href=\"https://www.searchenginejournal.com/your-ai-visibility-strategy-doesnt-work-outside-english/571742/\">Your AI Visibility Strategy Doesn\u2019t Work Outside English</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-16T13:30:36+00:00",
+      "fetched": "2026-04-16T21:34:26.414256+00:00"
+    },
+    {
+      "id": "2dab3f20-ec51-489d-99c1-2793b3824d8e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Machine-First Architecture: AI Agents Are Here And Your Website Isn\u2019t Ready, Says No Hacks Podcast Host via @sejournal, @theshelleywalsh",
+      "link": "https://www.searchenginejournal.com/machine-first-architecture-ai-agents-are-here-and-your-website-isnt-ready-says-nohacks-podcast-host/571898/",
+      "summary": "Websites aren\u2019t built for AI agents, and that\u2019s a problem. Slobodan Manic explains what needs to change.\n\nThe post <a href=\"https://www.searchenginejournal.com/machine-first-architecture-ai-agents-are-here-and-your-website-isnt-ready-says-nohacks-podcast-host/571898/\">Machine-First Architecture: AI Agents Are Here And Your Website Isn&#8217;t Ready, Says No Hacks Podcast Host</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-16T12:45:59+00:00",
+      "fetched": "2026-04-16T21:34:26.414273+00:00"
+    },
+    {
+      "id": "a01d0a9c-c6ee-47cd-ba1b-b5bf7a6751fe",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Search Ad Growth Slows As Social & Video Gain Faster via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/search-ad-growth-slows-as-social-video-gain-faster/572179/",
+      "summary": "IAB's annual report shows search ad growth fell while social media and digital video posted stronger year-over-year gains.\n\nThe post <a href=\"https://www.searchenginejournal.com/search-ad-growth-slows-as-social-video-gain-faster/572179/\">Search Ad Growth Slows As Social &#038; Video Gain Faster</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-16T12:30:31+00:00",
+      "fetched": "2026-04-16T21:34:26.414289+00:00"
+    },
+    {
+      "id": "64fc7e1a-8ff1-46de-ade4-03ac3a5376d6",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Should You Use Auto-Generated Creative? \u2013 Ask A PPC via @sejournal, @navahf",
+      "link": "https://www.searchenginejournal.com/ask-a-ppc-should-you-use-autogenerated-creative/571280/",
+      "summary": "The role of auto-generated creative continues to evolve as advertisers weigh efficiency and scale against control and compliance.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-a-ppc-should-you-use-autogenerated-creative/571280/\">Should You Use Auto-Generated Creative? \u2013 Ask A PPC</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-16T12:00:11+00:00",
+      "fetched": "2026-04-16T21:34:26.414305+00:00"
+    },
+    {
+      "id": "978660a9-fbd0-4131-8616-567c45b2b4d3",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Patent On Autonomous Search Results via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/googles-patent-on-autonomous-search-results/572216/",
+      "summary": "A recently updated patent describes how an automated assistant can circle back to a user when an answer is available at a later date.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-patent-on-autonomous-search-results/572216/\">Google&#8217;s Patent On Autonomous Search Results</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-16T10:14:51+00:00",
+      "fetched": "2026-04-16T21:34:26.414329+00:00"
+    },
+    {
       "id": "2c1f937a-9a83-400e-99eb-45cff51c2a49",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -131,95 +219,7 @@
       "summary": "Google's John Mueller lists nine scenarios that lead Google to choose one URL as the canonical over another.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-google-picks-canonical-urls/571914/\">Google Lists 9 Scenarios That Explain How It Picks Canonical URLs</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-04-14T11:11:38+00:00",
       "fetched": "2026-04-14T21:41:23.608949+00:00"
-    },
-    {
-      "id": "c9559741-730d-4b23-818b-0d3b87b6c8db",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "New Google Spam Policy Targets Back Button Hijacking via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/new-google-spam-policy-targets-back-button-hijacking/571859/",
-      "summary": "Google added back button hijacking to its malicious practices spam policy. Enforcement starts June 15, 2026. Sites have two months to remove offending code. \n\nThe post <a href=\"https://www.searchenginejournal.com/new-google-spam-policy-targets-back-button-hijacking/571859/\">New Google Spam Policy Targets Back Button Hijacking</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-13T16:43:40+00:00",
-      "fetched": "2026-04-13T21:38:53.857623+00:00"
-    },
-    {
-      "id": "ad00ce27-a3a6-4541-bea5-6c38ee4289e2",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Dangerous Seduction Of Click-Chasing",
-      "link": "https://www.searchenginejournal.com/the-dangerous-seduction-of-click-chasing/571533/",
-      "summary": "News publishers chasing SEO-driven clicks often sacrifice audience trust, and pay the price when rankings collapse.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-dangerous-seduction-of-click-chasing/571533/\">The Dangerous Seduction Of Click-Chasing</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-13T13:30:13+00:00",
-      "fetched": "2026-04-13T21:38:53.857655+00:00"
-    },
-    {
-      "id": "b8361f5f-1d18-4831-91b2-ac50b69cd29d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Measure PPC Performance When AI Controls The Auction via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/how-to-measure-ppc-performance-when-ai-controls-the-auction/570184/",
-      "summary": "Measure PPC performance in 2026 with AI-driven auctions, smarter attribution, profit-based metrics, and reporting frameworks built for Google Ads automation and AI search.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-measure-ppc-performance-when-ai-controls-the-auction/570184/\">How To Measure PPC Performance When AI Controls The Auction</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-13T13:00:22+00:00",
-      "fetched": "2026-04-13T21:38:53.857677+00:00"
-    },
-    {
-      "id": "ae2f8750-9cab-46bb-a88f-8243021ec7f1",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Task-Based Agentic Search Is Disrupting SEO Today, Not Tomorrow via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/googles-task-based-search/571800/",
-      "summary": "A recent announcement by Google signals the start of a massive change in how the internet and search work.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-task-based-search/571800/\">Google&#8217;s Task-Based Agentic Search Is Disrupting SEO Today, Not Tomorrow</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-13T12:13:11+00:00",
-      "fetched": "2026-04-13T21:38:53.857699+00:00"
-    },
-    {
-      "id": "97a539a5-d222-4a7c-9dbb-a2c7e193307e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How AI Chooses Which Brands To Recommend: From Relational Knowledge To Topical Presence via @sejournal, @Dixon_Jones",
-      "link": "https://www.searchenginejournal.com/relational-knowledge-topical-presence-how-ai-chooses-which-brands-to-recommend/570482/",
-      "summary": "Research on language models reveals how brands win or lose in AI-generated recommendations based on association strength.\n\nThe post <a href=\"https://www.searchenginejournal.com/relational-knowledge-topical-presence-how-ai-chooses-which-brands-to-recommend/570482/\">How AI Chooses Which Brands To Recommend: From Relational Knowledge To Topical Presence</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-13T12:00:20+00:00",
-      "fetched": "2026-04-13T21:38:53.857718+00:00"
-    },
-    {
-      "id": "dcc8fba1-7b34-4b24-a93d-e31019e7b20d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How AI Agents See Your Website (And How To Build For Them) via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/how-ai-agents-see-your-website-and-how-to-build-for-them/570443/",
-      "summary": "Websites built with semantic HTML, accessible patterns, and visible server-rendered content are better positioned for the agentic web.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-ai-agents-see-your-website-and-how-to-build-for-them/570443/\">How AI Agents See Your Website (And How To Build For Them)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-12T12:00:14+00:00",
-      "fetched": "2026-04-12T21:24:09.543269+00:00"
-    },
-    {
-      "id": "f55bb91f-4457-405c-b66a-0a77d3c25c45",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "What Pichai\u2019s Interview Reveals About Google\u2019s Search Direction via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/what-pichais-interview-reveals-about-googles-search-direction/571574/",
-      "summary": "Sundar Pichai outlines search as an \u201cagent manager,\u201d signaling a shift from link-based results to task completion and multi-step workflows.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-pichais-interview-reveals-about-googles-search-direction/571574/\">What Pichai\u2019s Interview Reveals About Google\u2019s Search Direction</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-11T12:00:21+00:00",
-      "fetched": "2026-04-11T21:23:19.213252+00:00"
-    },
-    {
-      "id": "a33bcec4-5818-4277-aa57-4dadf9d4ffb0",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "What I Learned About The Future Of Search And AI From Sundar Pichai\u2019s Latest Interview via @sejournal, @marie_haynes",
-      "link": "https://www.searchenginejournal.com/what-i-learned-about-the-future-of-search-and-ai-from-sundar-pichais-latest-interview/571376/",
-      "summary": "Explore key takeaways from Sundar Pichai on agentic systems, robotics, and the future of AI-driven search and productivity.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-i-learned-about-the-future-of-search-and-ai-from-sundar-pichais-latest-interview/571376/\">What I Learned About The Future Of Search And AI From Sundar Pichai&#8217;s Latest Interview</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-10T13:30:47+00:00",
-      "fetched": "2026-04-10T21:27:33.952615+00:00"
     }
   ],
-  "last_updated": "2026-04-15T21:41:35.705365+00:00"
+  "last_updated": "2026-04-16T21:34:27.171657+00:00"
 }
