@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "id": "f39129d8-870f-4eae-8440-78d72692527e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Bans Back Button Hijacking, Agentic Search Grows \u2013 SEO Pulse via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/seo-pulse-google-targets-back-button-hijacking-agentic-search-grows/572282/",
+      "summary": "Google targets back button hijacking as a spam violation, says spam reports may trigger manual actions, and expands agentic restaurant booking to more markets.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-google-targets-back-button-hijacking-agentic-search-grows/572282/\">Google Bans Back Button Hijacking, Agentic Search Grows &#8211; SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-17T12:30:22+00:00",
+      "fetched": "2026-04-17T21:32:47.201762+00:00"
+    },
+    {
+      "id": "e05723c4-9e67-45fa-8850-0e1f5f920932",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Product Feed Strategy Points To The Future Of Retail Discovery via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/googles-product-feed-strategy-points-to-the-future-of-retail-discovery/572291/",
+      "summary": "Google\u2019s product data push goes beyond Shopping ads. Learn why feed optimization now matters for AI search, free listings, YouTube, and retail visibility.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-product-feed-strategy-points-to-the-future-of-retail-discovery/572291/\">Google\u2019s Product Feed Strategy Points To The Future Of Retail Discovery</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-17T11:30:50+00:00",
+      "fetched": "2026-04-17T21:32:47.201789+00:00"
+    },
+    {
       "id": "e704288a-881b-4fbf-ba76-df8bc06bb01f",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -197,29 +219,7 @@
       "summary": "Learn why covering fewer subtopics can outperform exhaustive guides in ChatGPT citations, backed by large-scale data.\n\nThe post <a href=\"https://www.searchenginejournal.com/shorter-focused-content-wins-in-chatgpt/571857/\">Shorter, Focused Content Wins In ChatGPT</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-04-14T13:30:08+00:00",
       "fetched": "2026-04-14T21:41:23.608910+00:00"
-    },
-    {
-      "id": "673a61f0-3e99-47b0-b9d2-31899d57f0da",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Break Through An Affiliate Site Plateau & Find New Growth \u2013 Ask An SEO via @sejournal, @rollerblader",
-      "link": "https://www.searchenginejournal.com/ask-an-seo-how-to-break-through-an-affiliate-site-plateau/566270/",
-      "summary": "Get actionable ways to break affiliate plateaus using data, audience research, and new content distribution channels.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-an-seo-how-to-break-through-an-affiliate-site-plateau/566270/\">How To Break Through An Affiliate Site Plateau &#038; Find New Growth &#8211; Ask An SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-14T11:30:15+00:00",
-      "fetched": "2026-04-14T21:41:23.608932+00:00"
-    },
-    {
-      "id": "2b04b599-cb9c-47df-aa9e-247b01787bf6",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Lists 9 Scenarios That Explain How It Picks Canonical URLs via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/how-google-picks-canonical-urls/571914/",
-      "summary": "Google's John Mueller lists nine scenarios that lead Google to choose one URL as the canonical over another.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-google-picks-canonical-urls/571914/\">Google Lists 9 Scenarios That Explain How It Picks Canonical URLs</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-14T11:11:38+00:00",
-      "fetched": "2026-04-14T21:41:23.608949+00:00"
     }
   ],
-  "last_updated": "2026-04-16T21:34:27.171657+00:00"
+  "last_updated": "2026-04-17T21:32:48.043930+00:00"
 }
