@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": "d525eafd-d640-46ad-b539-77f609d686a4",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Adoption Outpaced The PC & Internet: Dive Into The Stanford Report Data via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/ai-adoption-outpaced-the-pc-internet-dive-into-the-stanford-report-data/572305/",
+      "summary": "Stanford's 2026 AI Index covers 400+ pages of data. Here's what search professionals should take from the adoption numbers, reliability gaps, and transparency decline.  \n\nThe post <a href=\"https://www.searchenginejournal.com/ai-adoption-outpaced-the-pc-internet-dive-into-the-stanford-report-data/572305/\">AI Adoption Outpaced The PC &#038; Internet: Dive Into The Stanford Report Data</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-18T12:00:58+00:00",
+      "fetched": "2026-04-18T21:24:04.302448+00:00"
+    },
+    {
       "id": "f39129d8-870f-4eae-8440-78d72692527e",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -208,18 +219,7 @@
       "summary": "5 years ago, I stepped into the role of webinar ringmaster. I said yes to moderating, but it was all the background work that gave me butterflies. I\u2019d second and third guess everything. Is the title right? What if it flops? Is the content level right for the attendees? Will the right attendees sign up? Is my hair ok?! But the program grew, and you all were so welcoming. Through the years we\u2019ve tested on you all (it\u2019s fun for us!) And I\u2019ve learned so many tricks that I want to give back to my fel",
       "published": "2026-04-14T16:48:05+00:00",
       "fetched": "2026-04-14T21:41:23.608889+00:00"
-    },
-    {
-      "id": "ccada18d-edb5-4ca1-b3f3-0e982d31b543",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Shorter, Focused Content Wins In ChatGPT via @sejournal, @Kevin_Indig",
-      "link": "https://www.searchenginejournal.com/shorter-focused-content-wins-in-chatgpt/571857/",
-      "summary": "Learn why covering fewer subtopics can outperform exhaustive guides in ChatGPT citations, backed by large-scale data.\n\nThe post <a href=\"https://www.searchenginejournal.com/shorter-focused-content-wins-in-chatgpt/571857/\">Shorter, Focused Content Wins In ChatGPT</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-14T13:30:08+00:00",
-      "fetched": "2026-04-14T21:41:23.608910+00:00"
     }
   ],
-  "last_updated": "2026-04-17T21:32:48.043930+00:00"
+  "last_updated": "2026-04-18T21:24:05.251385+00:00"
 }
