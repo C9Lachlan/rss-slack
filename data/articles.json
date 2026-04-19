@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": "80e58382-4487-4eaf-85bb-82689ddb61b9",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Selling To AI: The Complete Guide To Agentic Commerce via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/selling-to-ai-the-complete-guide-to-agentic-commerce/570452/",
+      "summary": "The next phase of ecommerce is being shaped by AI agents, open commerce protocols, and payment systems built for transactions without a human at checkout.\n\nThe post <a href=\"https://www.searchenginejournal.com/selling-to-ai-the-complete-guide-to-agentic-commerce/570452/\">Selling To AI: The Complete Guide To Agentic Commerce</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-19T12:00:04+00:00",
+      "fetched": "2026-04-19T21:25:33.038247+00:00"
+    },
+    {
       "id": "d525eafd-d640-46ad-b539-77f609d686a4",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -208,18 +219,7 @@
       "summary": "Google is rolling out Skills to Gemini in Chrome on desktop, letting users save prompts as reusable one-click tools and run them across selected tabs.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-chrome-skills-turn-gemini-prompts-into-reusable-workflows/571994/\">Google Chrome Skills Turn Gemini Prompts Into Reusable Workflows</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-04-14T19:10:44+00:00",
       "fetched": "2026-04-14T21:41:23.608859+00:00"
-    },
-    {
-      "id": "0c5c0a7a-96f8-4921-86b4-ac7a16f9d10a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why Your Webinar Program Isn\u2019t Working (So, Copy Ours) via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/why-your-webinar-program-isnt-working-so-copy-ours/571950/",
-      "summary": "5 years ago, I stepped into the role of webinar ringmaster. I said yes to moderating, but it was all the background work that gave me butterflies. I\u2019d second and third guess everything. Is the title right? What if it flops? Is the content level right for the attendees? Will the right attendees sign up? Is my hair ok?! But the program grew, and you all were so welcoming. Through the years we\u2019ve tested on you all (it\u2019s fun for us!) And I\u2019ve learned so many tricks that I want to give back to my fel",
-      "published": "2026-04-14T16:48:05+00:00",
-      "fetched": "2026-04-14T21:41:23.608889+00:00"
     }
   ],
-  "last_updated": "2026-04-18T21:24:05.251385+00:00"
+  "last_updated": "2026-04-19T21:25:33.969436+00:00"
 }
