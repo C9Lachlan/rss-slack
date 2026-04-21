@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "bdd3199c-41c2-49d4-94ed-8ff384d9a399",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "ChatGPT Ads Now Offer CPC Bidding Between $3 And $5: Report via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/chatgpt-ads-now-offer-cpc-bidding-between-3-and-5-report/572652/",
+      "summary": "Digiday reports an early ChatGPT ads manager build now shows $3-$5 CPC bids for some pilot advertisers, as OpenAI continues expanding its ad tools.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-ads-now-offer-cpc-bidding-between-3-and-5-report/572652/\">ChatGPT Ads Now Offer CPC Bidding Between $3 And $5: Report</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-21T19:53:13+00:00",
+      "fetched": "2026-04-21T21:36:40.769673+00:00"
+    },
+    {
+      "id": "d22d8077-d5db-4589-87c6-8d3066c0912f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Ads Makes Call Recording Default For AI Lead Calls via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-ads-makes-call-recording-default-for-ai-lead-calls/572613/",
+      "summary": "Google Ads now enables call recording by default for eligible AI-qualified call leads, changing how call conversions are evaluated in the U.S. and Canada.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ads-makes-call-recording-default-for-ai-lead-calls/572613/\">Google Ads Makes Call Recording Default For AI Lead Calls</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-21T15:16:00+00:00",
+      "fetched": "2026-04-21T21:36:40.769698+00:00"
+    },
+    {
+      "id": "8fbdb71e-ebbc-4f86-b352-356140ca7e6e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Ghost Citation Problem via @sejournal, @Kevin_Indig",
+      "link": "https://www.searchenginejournal.com/the-ghost-citation-problem/572453/",
+      "summary": "Analysis across four LLMs reveals how citation and mention behavior differs, and why it matters.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-ghost-citation-problem/572453/\">The Ghost Citation Problem</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-21T13:30:38+00:00",
+      "fetched": "2026-04-21T21:36:40.769718+00:00"
+    },
+    {
+      "id": "b87a4ae5-fe8e-40c9-98a2-afcd32f74d79",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "What\u2019s The Biggest Technical SEO Blind Spot From Over-Relying On Tools? \u2013 Ask An SEO via @sejournal, @HelenPollitt1",
+      "link": "https://www.searchenginejournal.com/ask-an-seo-biggest-technical-seo-blind-spot-from-overrelying-on-tools/570188/",
+      "summary": "SEO tools are useful, but over-relying on them creates blind spots. Here's what raw data reveals that tools never will.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-an-seo-biggest-technical-seo-blind-spot-from-overrelying-on-tools/570188/\">What&#8217;s The Biggest Technical SEO Blind Spot From Over-Relying On Tools? &#8211; Ask An SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-21T12:30:10+00:00",
+      "fetched": "2026-04-21T21:36:40.769739+00:00"
+    },
+    {
+      "id": "6ea68837-ff8a-4712-bb3d-d655323d20e8",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Adds New Tasked-Based Search Features via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-adds-new-tasked-based-search-features/572547/",
+      "summary": "Google announced new tools that further transforms Search to a tasked-based platform. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-adds-new-tasked-based-search-features/572547/\">Google Adds New Tasked-Based Search Features</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-21T09:47:31+00:00",
+      "fetched": "2026-04-21T21:36:40.769756+00:00"
+    },
+    {
       "id": "1c9eae94-9f79-4180-a024-c88525bef915",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -164,62 +219,7 @@
       "summary": "Websites aren\u2019t built for AI agents, and that\u2019s a problem. Slobodan Manic explains what needs to change.\n\nThe post <a href=\"https://www.searchenginejournal.com/machine-first-architecture-ai-agents-are-here-and-your-website-isnt-ready-says-nohacks-podcast-host/571898/\">Machine-First Architecture: AI Agents Are Here And Your Website Isn&#8217;t Ready, Says No Hacks Podcast Host</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-04-16T12:45:59+00:00",
       "fetched": "2026-04-16T21:34:26.414273+00:00"
-    },
-    {
-      "id": "a01d0a9c-c6ee-47cd-ba1b-b5bf7a6751fe",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Search Ad Growth Slows As Social & Video Gain Faster via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/search-ad-growth-slows-as-social-video-gain-faster/572179/",
-      "summary": "IAB's annual report shows search ad growth fell while social media and digital video posted stronger year-over-year gains.\n\nThe post <a href=\"https://www.searchenginejournal.com/search-ad-growth-slows-as-social-video-gain-faster/572179/\">Search Ad Growth Slows As Social &#038; Video Gain Faster</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-16T12:30:31+00:00",
-      "fetched": "2026-04-16T21:34:26.414289+00:00"
-    },
-    {
-      "id": "64fc7e1a-8ff1-46de-ade4-03ac3a5376d6",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Should You Use Auto-Generated Creative? \u2013 Ask A PPC via @sejournal, @navahf",
-      "link": "https://www.searchenginejournal.com/ask-a-ppc-should-you-use-autogenerated-creative/571280/",
-      "summary": "The role of auto-generated creative continues to evolve as advertisers weigh efficiency and scale against control and compliance.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-a-ppc-should-you-use-autogenerated-creative/571280/\">Should You Use Auto-Generated Creative? \u2013 Ask A PPC</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-16T12:00:11+00:00",
-      "fetched": "2026-04-16T21:34:26.414305+00:00"
-    },
-    {
-      "id": "978660a9-fbd0-4131-8616-567c45b2b4d3",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Patent On Autonomous Search Results via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/googles-patent-on-autonomous-search-results/572216/",
-      "summary": "A recently updated patent describes how an automated assistant can circle back to a user when an answer is available at a later date.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-patent-on-autonomous-search-results/572216/\">Google&#8217;s Patent On Autonomous Search Results</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-16T10:14:51+00:00",
-      "fetched": "2026-04-16T21:34:26.414329+00:00"
-    },
-    {
-      "id": "2c1f937a-9a83-400e-99eb-45cff51c2a49",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Become The AI Search Authority In Your Company [Webinar] via @sejournal, @lorenbaker",
-      "link": "https://www.searchenginejournal.com/how-to-become-the-ai-search-authority-in-your-company-webinar/572189/",
-      "summary": "Explore the impact of AI search on SEO roles and how brands can manage their online presence in AI outputs effectively.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-become-the-ai-search-authority-in-your-company-webinar/572189/\">How To Become The AI Search Authority In Your Company [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-15T19:24:58+00:00",
-      "fetched": "2026-04-15T21:41:33.903350+00:00"
-    },
-    {
-      "id": "98982a1a-2564-434b-9549-16b442f06277",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The AI Slop Loop via @sejournal, @lilyraynyc",
-      "link": "https://www.searchenginejournal.com/the-ai-slop-loop/572090/",
-      "summary": "New examples show how AI search tools confidently cite fabricated SEO updates, exposing a growing risk in relying on LLM-generated information.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-ai-slop-loop/572090/\">The AI Slop Loop</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-15T13:30:55+00:00",
-      "fetched": "2026-04-15T21:41:33.903376+00:00"
     }
   ],
-  "last_updated": "2026-04-20T21:37:30.428926+00:00"
+  "last_updated": "2026-04-21T21:36:42.608001+00:00"
 }
