@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "7bdafe1e-0a1a-41b2-bd0f-9aa2b75fb4dd",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Ads Posts GEO Partner Manager Role via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-ads-posts-geo-partner-manager-role/572741/",
+      "summary": "Google posted a GEO Partner Manager role in its ads sales organization, using \u201cGenerative Engine Optimization\u201d terminology in an ads-side job description.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ads-posts-geo-partner-manager-role/572741/\">Google Ads Posts GEO Partner Manager Role</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-22T18:37:29+00:00",
+      "fetched": "2026-04-22T21:41:52.083404+00:00"
+    },
+    {
+      "id": "0150d25e-ab97-48f8-bdb8-81688c4cd205",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Search Is Eating Itself & The SEO Industry Is The Source",
+      "link": "https://www.searchenginejournal.com/ai-search-is-eating-itself-the-seo-industry-is-the-source/572537/",
+      "summary": "AI search is caught in a self-reinforcing loop, where synthetic content feeds retrieval systems that present it back as fact.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-search-is-eating-itself-the-seo-industry-is-the-source/572537/\">AI Search Is Eating Itself &#038; The SEO Industry Is The Source</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-22T13:30:25+00:00",
+      "fetched": "2026-04-22T21:41:52.083433+00:00"
+    },
+    {
+      "id": "8ed1671d-9e85-45d2-9334-3da62cb068e4",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Does AI Actually Reward Quality Content?",
+      "link": "https://www.searchenginejournal.com/does-ai-actually-reward-quality-content/570627/",
+      "summary": "We keep reading that high quality content is important, but what actually is it? Research suggests the answer is not so clear cut.\n\nThe post <a href=\"https://www.searchenginejournal.com/does-ai-actually-reward-quality-content/570627/\">Does AI Actually Reward Quality Content?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-22T12:30:13+00:00",
+      "fetched": "2026-04-22T21:41:52.083453+00:00"
+    },
+    {
+      "id": "137da64d-5622-437d-9e42-e0481148aafa",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "WooCommerce Stores Can Now Sell Products Via YouTube Videos via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/woocommerce-youtube-shopping/572690/",
+      "summary": "Google and WooCommerce announced today that the Google for WooCommerce extension now enables merchants to sell products directly through YouTube. The update connects WooCommerce stores to YouTube channels enabling them to tap into 2.7 billion shoppers. Merchants can tag products in videos and Shorts, where they appear as shoppable cards during playback and in a dedicated shopping tab on the channel. The cards are pulled from the merchant\u2019s existing product catalog They stay synced automatically ",
+      "published": "2026-04-22T12:00:17+00:00",
+      "fetched": "2026-04-22T21:41:52.083480+00:00"
+    },
+    {
+      "id": "57dfdeae-7796-4143-9d51-bb28df0c39b0",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Overviews & Local SEO: What Multi-Location Brands Must Do [Webinar] via @sejournal, @lorenbaker",
+      "link": "https://www.searchenginejournal.com/ai-overviews-local-seo-what-multi-location-brands-must-do-webinar/572476/",
+      "summary": "Discover how AI is shaping local SEO. Find out what factors influence your local rankings and visibility on search engines.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-overviews-local-seo-what-multi-location-brands-must-do-webinar/572476/\">AI Overviews &#038; Local SEO: What Multi-Location Brands Must Do [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-22T07:45:36+00:00",
+      "fetched": "2026-04-22T21:41:52.083498+00:00"
+    },
+    {
       "id": "bdd3199c-41c2-49d4-94ed-8ff384d9a399",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -164,62 +219,7 @@
       "summary": "Google\u2019s product data push goes beyond Shopping ads. Learn why feed optimization now matters for AI search, free listings, YouTube, and retail visibility.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-product-feed-strategy-points-to-the-future-of-retail-discovery/572291/\">Google\u2019s Product Feed Strategy Points To The Future Of Retail Discovery</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-04-17T11:30:50+00:00",
       "fetched": "2026-04-17T21:32:47.201789+00:00"
-    },
-    {
-      "id": "e704288a-881b-4fbf-ba76-df8bc06bb01f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google AI Mode in Chrome Gets Side-by-Side Browsing via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-ai-mode-in-chrome-gets-side-by-side-browsing/572273/",
-      "summary": "Google is updating AI Mode in Chrome with side-by-side page viewing and a plus menu for adding tabs, images, and files as context.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ai-mode-in-chrome-gets-side-by-side-browsing/572273/\">Google AI Mode in Chrome Gets Side-by-Side Browsing</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-16T21:02:14+00:00",
-      "fetched": "2026-04-16T21:34:26.414188+00:00"
-    },
-    {
-      "id": "7af3562d-f944-40c8-9ae3-c233cf52d064",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "ChatGPT Often Retrieves But Rarely Cites Reddit Pages, Data Shows via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/chatgpt-often-retrieves-but-rarely-cites-reddit-pages-data-shows/572243/",
-      "summary": "New Ahrefs data shows Reddit pages appeared often in ChatGPT retrievals but rarely as visible citations.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-often-retrieves-but-rarely-cites-reddit-pages-data-shows/572243/\">ChatGPT Often Retrieves But Rarely Cites Reddit Pages, Data Shows</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-16T16:54:56+00:00",
-      "fetched": "2026-04-16T21:34:26.414214+00:00"
-    },
-    {
-      "id": "a9488a80-b5ca-4c14-a9f4-b9a95c20cab6",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Gen Z Workers Pick Human-Only Output Over AI-Assisted via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/gen-z-workers-pick-human-only-output-over-ai-assisted/572230/",
-      "summary": "Gen Z workers surveyed by Gallup said they would trust work done without AI over AI-assisted output by more than 2-to-1, with the gap widening.\n\nThe post <a href=\"https://www.searchenginejournal.com/gen-z-workers-pick-human-only-output-over-ai-assisted/572230/\">Gen Z Workers Pick Human-Only Output Over AI-Assisted</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-16T14:47:19+00:00",
-      "fetched": "2026-04-16T21:34:26.414233+00:00"
-    },
-    {
-      "id": "4862f89b-e117-4d7d-b32b-4adb2f9ed9b7",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Your AI Visibility Strategy Doesn\u2019t Work Outside English via @sejournal, @DuaneForrester",
-      "link": "https://www.searchenginejournal.com/your-ai-visibility-strategy-doesnt-work-outside-english/571742/",
-      "summary": "Language bias in AI models creates hidden visibility gaps, forcing brands to rethink how they approach multilingual search and content strategy.\n\nThe post <a href=\"https://www.searchenginejournal.com/your-ai-visibility-strategy-doesnt-work-outside-english/571742/\">Your AI Visibility Strategy Doesn\u2019t Work Outside English</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-16T13:30:36+00:00",
-      "fetched": "2026-04-16T21:34:26.414256+00:00"
-    },
-    {
-      "id": "2dab3f20-ec51-489d-99c1-2793b3824d8e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Machine-First Architecture: AI Agents Are Here And Your Website Isn\u2019t Ready, Says No Hacks Podcast Host via @sejournal, @theshelleywalsh",
-      "link": "https://www.searchenginejournal.com/machine-first-architecture-ai-agents-are-here-and-your-website-isnt-ready-says-nohacks-podcast-host/571898/",
-      "summary": "Websites aren\u2019t built for AI agents, and that\u2019s a problem. Slobodan Manic explains what needs to change.\n\nThe post <a href=\"https://www.searchenginejournal.com/machine-first-architecture-ai-agents-are-here-and-your-website-isnt-ready-says-nohacks-podcast-host/571898/\">Machine-First Architecture: AI Agents Are Here And Your Website Isn&#8217;t Ready, Says No Hacks Podcast Host</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-16T12:45:59+00:00",
-      "fetched": "2026-04-16T21:34:26.414273+00:00"
     }
   ],
-  "last_updated": "2026-04-21T21:36:42.608001+00:00"
+  "last_updated": "2026-04-22T21:41:52.863319+00:00"
 }
