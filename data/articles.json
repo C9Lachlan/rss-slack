@@ -1,6 +1,83 @@
 {
   "articles": [
     {
+      "id": "fc4f7871-56b9-45d6-82d6-a9d9a658d338",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google May Expand Unsupported Robots.txt Rules List via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-may-expand-unsupported-robots-txt-rules-list/572866/",
+      "summary": "Google may expand its unsupported robots.txt rules list using HTTP Archive data and could broaden how it handles common misspellings of disallow.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-may-expand-unsupported-robots-txt-rules-list/572866/\">Google May Expand Unsupported Robots.txt Rules List</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-23T16:40:21+00:00",
+      "fetched": "2026-04-23T21:36:51.650641+00:00"
+    },
+    {
+      "id": "627c1b27-8ff8-40f0-b85e-1c6df5a83529",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "OpenAI\u2019s Crawler Docs Now List OAI-AdsBot For ChatGPT Ads via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/openais-crawler-docs-now-list-oai-adsbot-for-chatgpt-ads/572861/",
+      "summary": "OpenAI's public crawler docs now list OAI-AdsBot, a bot that may visit pages submitted as ChatGPT ads to check policy compliance and ad relevance.\n\nThe post <a href=\"https://www.searchenginejournal.com/openais-crawler-docs-now-list-oai-adsbot-for-chatgpt-ads/572861/\">OpenAI&#8217;s Crawler Docs Now List OAI-AdsBot For ChatGPT Ads</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-23T16:10:03+00:00",
+      "fetched": "2026-04-23T21:36:51.650664+00:00"
+    },
+    {
+      "id": "49e8fd68-72b2-41a4-b770-b154f331b65f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Adds View-Through Conversion Optimization To Demand Gen via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-adds-view-through-conversion-optimization-to-demand-gen/572840/",
+      "summary": "Google adds view-through conversion optimization to Demand Gen and expands Commerce Media Suite support.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-adds-view-through-conversion-optimization-to-demand-gen/572840/\">Google Adds View-Through Conversion Optimization To Demand Gen</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-23T16:00:49+00:00",
+      "fetched": "2026-04-23T21:36:51.650680+00:00"
+    },
+    {
+      "id": "8df7955c-9f65-4a55-aaf9-b67ba75f75d9",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Real Reason Your SEO Team Hasn\u2019t Made The AI Transition Yet via @sejournal, @DuaneForrester",
+      "link": "https://www.searchenginejournal.com/the-real-reason-your-seo-team-hasnt-made-the-ai-transition-yet/572445/",
+      "summary": "Enterprise teams must run parallel SEO and AI workflows while building dedicated ownership and measurable transition frameworks.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-real-reason-your-seo-team-hasnt-made-the-ai-transition-yet/572445/\">The Real Reason Your SEO Team Hasn&#8217;t Made The AI Transition Yet</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-23T13:30:55+00:00",
+      "fetched": "2026-04-23T21:36:51.650700+00:00"
+    },
+    {
+      "id": "026a2228-a9e6-4037-8e94-a2174f211f1a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why Google Has Changed & Who\u2019s Really Paying for It",
+      "link": "https://www.searchenginejournal.com/why-google-has-changed-whos-really-paying-for-it/572796/",
+      "summary": "Why Google is evolving into a more \u201cengaging\u201d platform, and what declining engagement from younger users means for search and publishers.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-google-has-changed-whos-really-paying-for-it/572796/\">Why Google Has Changed &#038; Who&#8217;s Really Paying for It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-23T13:00:41+00:00",
+      "fetched": "2026-04-23T21:36:51.650718+00:00"
+    },
+    {
+      "id": "55e3fa7e-39bc-4c7e-ad43-2a02e62c4052",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why Great Content Is No Longer Enough & What Beats It In AI Search via @sejournal, @TaylorDanRW",
+      "link": "https://www.searchenginejournal.com/why-great-content-is-no-longer-enough-what-beats-it-in-ai-search/572001/",
+      "summary": "How AI-driven search is redefining success by prioritizing cited, retrievable content over traditional traffic and clicks.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-great-content-is-no-longer-enough-what-beats-it-in-ai-search/572001/\">Why Great Content Is No Longer Enough &#038; What Beats It In AI Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-23T12:30:11+00:00",
+      "fetched": "2026-04-23T21:36:51.650733+00:00"
+    },
+    {
+      "id": "0b95dd5c-232d-4d37-8525-d3856b019858",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Facts About Google Click Signals, Rankings, And SEO via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/the-facts-about-google-click-signals-rankings-and-seo/572827/",
+      "summary": "What Google's systems actually do with click data and what it means for SEO and rankings. \n\nThe post <a href=\"https://www.searchenginejournal.com/the-facts-about-google-click-signals-rankings-and-seo/572827/\">The Facts About Google Click Signals, Rankings, And SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-23T11:24:12+00:00",
+      "fetched": "2026-04-23T21:36:51.650751+00:00"
+    },
+    {
       "id": "7bdafe1e-0a1a-41b2-bd0f-9aa2b75fb4dd",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -142,84 +219,7 @@
       "summary": "Many ecommerce brands misapply Meta-style thinking to Google Ads, leading to wasted spend and weak performance from poorly structured accounts. \n\nThe post <a href=\"https://www.searchenginejournal.com/winning-google-ads-campaign-structures-for-dtc-ecommerce/571400/\">Winning Google Ads Campaign Structures For DTC Ecommerce</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-04-20T12:30:09+00:00",
       "fetched": "2026-04-20T21:37:29.588959+00:00"
-    },
-    {
-      "id": "10fe3fd8-04e5-46d0-a9f8-d3fed2080db9",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Lists Best Practices For Read More Deep Links via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-lists-best-practices-for-read-more-deep-links/572423/",
-      "summary": "Google has outlined best practices that can increase the likelihood of \"Read more\" deep links appearing. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-lists-best-practices-for-read-more-deep-links/572423/\">Google Lists Best Practices For Read More Deep Links</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-20T12:15:05+00:00",
-      "fetched": "2026-04-20T21:37:29.588986+00:00"
-    },
-    {
-      "id": "e2cb68a9-0273-426b-b52b-3dc1c9c86f1c",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "What Search Engines Trust Now: Authority, Freshness & First-Party Signals via @sejournal, @cshel",
-      "link": "https://www.searchenginejournal.com/what-search-engines-trust-now-authority-freshness-first-party-signals/570553/",
-      "summary": "Trust in search is now dynamic, requiring ongoing authority building, content maintenance, and structured delivery to remain visible.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-search-engines-trust-now-authority-freshness-first-party-signals/570553/\">What Search Engines Trust Now: Authority, Freshness &#038; First-Party Signals</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-20T12:00:07+00:00",
-      "fetched": "2026-04-20T21:37:29.589004+00:00"
-    },
-    {
-      "id": "0d80177d-24b6-4bab-ba1f-d48b6f06578c",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "68 Million AI Crawler Visits Show What Drives AI Search Visibility via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/68-million-ai-crawler-visits-show-what-drives-ai-search-visibility/572386/",
-      "summary": "Research on 68 million AI crawler visits show what SEOs should do to improve AI search performance\n\nThe post <a href=\"https://www.searchenginejournal.com/68-million-ai-crawler-visits-show-what-drives-ai-search-visibility/572386/\">68 Million AI Crawler Visits Show What Drives AI Search Visibility</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-20T10:15:26+00:00",
-      "fetched": "2026-04-20T21:37:29.589023+00:00"
-    },
-    {
-      "id": "80e58382-4487-4eaf-85bb-82689ddb61b9",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Selling To AI: The Complete Guide To Agentic Commerce via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/selling-to-ai-the-complete-guide-to-agentic-commerce/570452/",
-      "summary": "The next phase of ecommerce is being shaped by AI agents, open commerce protocols, and payment systems built for transactions without a human at checkout.\n\nThe post <a href=\"https://www.searchenginejournal.com/selling-to-ai-the-complete-guide-to-agentic-commerce/570452/\">Selling To AI: The Complete Guide To Agentic Commerce</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-19T12:00:04+00:00",
-      "fetched": "2026-04-19T21:25:33.038247+00:00"
-    },
-    {
-      "id": "d525eafd-d640-46ad-b539-77f609d686a4",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Adoption Outpaced The PC & Internet: Dive Into The Stanford Report Data via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/ai-adoption-outpaced-the-pc-internet-dive-into-the-stanford-report-data/572305/",
-      "summary": "Stanford's 2026 AI Index covers 400+ pages of data. Here's what search professionals should take from the adoption numbers, reliability gaps, and transparency decline.  \n\nThe post <a href=\"https://www.searchenginejournal.com/ai-adoption-outpaced-the-pc-internet-dive-into-the-stanford-report-data/572305/\">AI Adoption Outpaced The PC &#038; Internet: Dive Into The Stanford Report Data</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-18T12:00:58+00:00",
-      "fetched": "2026-04-18T21:24:04.302448+00:00"
-    },
-    {
-      "id": "f39129d8-870f-4eae-8440-78d72692527e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Bans Back Button Hijacking, Agentic Search Grows \u2013 SEO Pulse via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-google-targets-back-button-hijacking-agentic-search-grows/572282/",
-      "summary": "Google targets back button hijacking as a spam violation, says spam reports may trigger manual actions, and expands agentic restaurant booking to more markets.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-google-targets-back-button-hijacking-agentic-search-grows/572282/\">Google Bans Back Button Hijacking, Agentic Search Grows &#8211; SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-17T12:30:22+00:00",
-      "fetched": "2026-04-17T21:32:47.201762+00:00"
-    },
-    {
-      "id": "e05723c4-9e67-45fa-8850-0e1f5f920932",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Product Feed Strategy Points To The Future Of Retail Discovery via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/googles-product-feed-strategy-points-to-the-future-of-retail-discovery/572291/",
-      "summary": "Google\u2019s product data push goes beyond Shopping ads. Learn why feed optimization now matters for AI search, free listings, YouTube, and retail visibility.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-product-feed-strategy-points-to-the-future-of-retail-discovery/572291/\">Google\u2019s Product Feed Strategy Points To The Future Of Retail Discovery</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-17T11:30:50+00:00",
-      "fetched": "2026-04-17T21:32:47.201789+00:00"
     }
   ],
-  "last_updated": "2026-04-22T21:41:52.863319+00:00"
+  "last_updated": "2026-04-23T21:36:52.550585+00:00"
 }
