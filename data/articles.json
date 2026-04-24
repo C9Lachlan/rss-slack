@@ -1,6 +1,50 @@
 {
   "articles": [
     {
+      "id": "e2c42f68-d2ec-4369-aa48-d86ee0830af9",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Robots.txt Docs Expand, Deep Links Get Rules, EU Steps In \u2013 SEO Pulse via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/seo-pulse-googles-robots-txt-docs-expand-deep-links-get-rules-eu-steps-in/572877/",
+      "summary": "Google documents deep link best practices and signals robots.txt doc expansion. The EU proposes Google share search data with rivals and AI chatbots.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-googles-robots-txt-docs-expand-deep-links-get-rules-eu-steps-in/572877/\">Google&#8217;s Robots.txt Docs Expand, Deep Links Get Rules, EU Steps In &#8211; SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-24T12:30:27+00:00",
+      "fetched": "2026-04-24T21:38:34.251561+00:00"
+    },
+    {
+      "id": "5fae5775-5357-4312-b576-de3a377b784f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why Microsoft\u2019s AI Ad Strategy Deserves More Attention From PPC Managers via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/why-microsofts-ai-ad-strategy-deserves-more-attention-from-ppc-managers/572874/",
+      "summary": "Microsoft\u2019s AI ad strategy looks different from Google\u2019s. Here\u2019s what PPC managers may be missing and which updates deserve a closer look.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-microsofts-ai-ad-strategy-deserves-more-attention-from-ppc-managers/572874/\">Why Microsoft&#8217;s AI Ad Strategy Deserves More Attention From PPC Managers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-24T11:30:00+00:00",
+      "fetched": "2026-04-24T21:38:34.251589+00:00"
+    },
+    {
+      "id": "e9d96345-c8b6-4574-b50b-36501b17ba0b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Localized Distribution In The AI Era: The DIRHAM Framework via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/localized-distribution-in-the-ai-era-the-dirham-framework/569851/",
+      "summary": "Why traditional frameworks fall short, and how the DIRHAM framework helps marketers build trust, relevance, and measurable impact in today\u2019s content ecosystem.\n\nThe post <a href=\"https://www.searchenginejournal.com/localized-distribution-in-the-ai-era-the-dirham-framework/569851/\">Localized Distribution In The AI Era: The DIRHAM Framework</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-24T10:45:06+00:00",
+      "fetched": "2026-04-24T21:38:34.251609+00:00"
+    },
+    {
+      "id": "0ade5435-c51d-433a-b161-1c5c7871b62c",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Won\u2019t Act On Spam Reports If They Contain Personal Information via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-wont-act-on-spam-reports-if-they-contain-personal-information/572929/",
+      "summary": "Google updated their spam reporting tool to warn they won't process reports that contain personal information.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-wont-act-on-spam-reports-if-they-contain-personal-information/572929/\">Google Won&#8217;t Act On Spam Reports If They Contain Personal Information</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-24T10:10:02+00:00",
+      "fetched": "2026-04-24T21:38:34.251632+00:00"
+    },
+    {
       "id": "fc4f7871-56b9-45d6-82d6-a9d9a658d338",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -175,51 +219,7 @@
       "summary": "SEO tools are useful, but over-relying on them creates blind spots. Here's what raw data reveals that tools never will.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-an-seo-biggest-technical-seo-blind-spot-from-overrelying-on-tools/570188/\">What&#8217;s The Biggest Technical SEO Blind Spot From Over-Relying On Tools? &#8211; Ask An SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-04-21T12:30:10+00:00",
       "fetched": "2026-04-21T21:36:40.769739+00:00"
-    },
-    {
-      "id": "6ea68837-ff8a-4712-bb3d-d655323d20e8",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Adds New Tasked-Based Search Features via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-adds-new-tasked-based-search-features/572547/",
-      "summary": "Google announced new tools that further transforms Search to a tasked-based platform. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-adds-new-tasked-based-search-features/572547/\">Google Adds New Tasked-Based Search Features</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-21T09:47:31+00:00",
-      "fetched": "2026-04-21T21:36:40.769756+00:00"
-    },
-    {
-      "id": "1c9eae94-9f79-4180-a024-c88525bef915",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Build AI Visibility In 90 Days [Webinar] via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/how-to-build-ai-visibility-in-90-days-webinar/572471/",
-      "summary": "Explore effective frameworks for enhancing AI visibility to attract buyers and adapt to the new search dynamics.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-build-ai-visibility-in-90-days-webinar/572471/\">How To Build AI Visibility In 90 Days [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-20T18:01:12+00:00",
-      "fetched": "2026-04-20T21:37:29.588908+00:00"
-    },
-    {
-      "id": "d8e7cfb7-340d-43c7-8c08-303083a7259e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google May Have To Share Search Data With Rivals via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-may-have-to-share-search-data-with-rivals/572434/",
-      "summary": "The European Commission proposed Google share data with rival search engines and qualifying AI chatbots in the EU/EEA.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-may-have-to-share-search-data-with-rivals/572434/\">Google May Have To Share Search Data With Rivals</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-20T12:41:36+00:00",
-      "fetched": "2026-04-20T21:37:29.588934+00:00"
-    },
-    {
-      "id": "a9ac3c00-4850-4705-80d7-b967b164f538",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Winning Google Ads Campaign Structures For DTC Ecommerce via @sejournal, @MenachemAni",
-      "link": "https://www.searchenginejournal.com/winning-google-ads-campaign-structures-for-dtc-ecommerce/571400/",
-      "summary": "Many ecommerce brands misapply Meta-style thinking to Google Ads, leading to wasted spend and weak performance from poorly structured accounts. \n\nThe post <a href=\"https://www.searchenginejournal.com/winning-google-ads-campaign-structures-for-dtc-ecommerce/571400/\">Winning Google Ads Campaign Structures For DTC Ecommerce</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-20T12:30:09+00:00",
-      "fetched": "2026-04-20T21:37:29.588959+00:00"
     }
   ],
-  "last_updated": "2026-04-23T21:36:52.550585+00:00"
+  "last_updated": "2026-04-24T21:38:35.112653+00:00"
 }
