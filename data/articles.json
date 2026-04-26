@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "id": "f9539574-3c15-4c2f-9c00-cbb27f52d5c5",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Fully Non-Human Web: No One Builds The Page, No One Visits It via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/the-fully-non-human-web-no-one-builds-the-page-no-one-visits-it/571406/",
+      "summary": "The web is splitting into transactional systems run by AI and experiential spaces for humans, forcing brands to rethink visibility, trust, and measurement.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-fully-non-human-web-no-one-builds-the-page-no-one-visits-it/571406/\">The Fully Non-Human Web: No One Builds The Page, No One Visits It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-26T12:00:08+00:00",
+      "fetched": "2026-04-26T21:28:29.965417+00:00"
+    },
+    {
+      "id": "b48e8d55-7773-433f-8ff6-700401536476",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Overview CTR Fell 61%, But Clicks Didn\u2019t Collapse via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/ai-overview-ctr-fell-61-but-clicks-didnt-collapse/572993/",
+      "summary": "Seer Interactive says brand-cited AI Overview CTR fell 61% as impressions grew faster than clicks across cited pages. \n\nThe post <a href=\"https://www.searchenginejournal.com/ai-overview-ctr-fell-61-but-clicks-didnt-collapse/572993/\">AI Overview CTR Fell 61%, But Clicks Didn\u2019t Collapse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-26T05:00:17+00:00",
+      "fetched": "2026-04-26T21:28:29.965448+00:00"
+    },
+    {
       "id": "5bbe44c8-f52a-492e-9bb3-a01fc8424318",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -197,29 +219,7 @@
       "summary": "Discover how AI is shaping local SEO. Find out what factors influence your local rankings and visibility on search engines.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-overviews-local-seo-what-multi-location-brands-must-do-webinar/572476/\">AI Overviews &#038; Local SEO: What Multi-Location Brands Must Do [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-04-22T07:45:36+00:00",
       "fetched": "2026-04-22T21:41:52.083498+00:00"
-    },
-    {
-      "id": "bdd3199c-41c2-49d4-94ed-8ff384d9a399",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "ChatGPT Ads Now Offer CPC Bidding Between $3 And $5: Report via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/chatgpt-ads-now-offer-cpc-bidding-between-3-and-5-report/572652/",
-      "summary": "Digiday reports an early ChatGPT ads manager build now shows $3-$5 CPC bids for some pilot advertisers, as OpenAI continues expanding its ad tools.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-ads-now-offer-cpc-bidding-between-3-and-5-report/572652/\">ChatGPT Ads Now Offer CPC Bidding Between $3 And $5: Report</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-21T19:53:13+00:00",
-      "fetched": "2026-04-21T21:36:40.769673+00:00"
-    },
-    {
-      "id": "d22d8077-d5db-4589-87c6-8d3066c0912f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Ads Makes Call Recording Default For AI Lead Calls via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-ads-makes-call-recording-default-for-ai-lead-calls/572613/",
-      "summary": "Google Ads now enables call recording by default for eligible AI-qualified call leads, changing how call conversions are evaluated in the U.S. and Canada.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ads-makes-call-recording-default-for-ai-lead-calls/572613/\">Google Ads Makes Call Recording Default For AI Lead Calls</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-21T15:16:00+00:00",
-      "fetched": "2026-04-21T21:36:40.769698+00:00"
     }
   ],
-  "last_updated": "2026-04-25T21:27:07.403897+00:00"
+  "last_updated": "2026-04-26T21:28:31.102786+00:00"
 }
