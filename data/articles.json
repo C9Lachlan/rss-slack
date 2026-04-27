@@ -1,6 +1,39 @@
 {
   "articles": [
     {
+      "id": "ce286c46-b425-4432-9050-9487f2514f92",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s AI Overviews Cut Clicks Without Satisfaction Gain: Report via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/ai-overviews-cut-organic-clicks-38-field-study-finds/573145/",
+      "summary": "A randomized field experiment found Google AI Overviews reduced organic clicks on triggered queries by 38%, while user experience ratings stayed unchanged.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-overviews-cut-organic-clicks-38-field-study-finds/573145/\">Google&#8217;s AI Overviews Cut Clicks Without Satisfaction Gain: Report</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-27T18:11:37+00:00",
+      "fetched": "2026-04-27T21:44:35.512633+00:00"
+    },
+    {
+      "id": "3ef249af-0f4b-4c06-8304-cf8612937ead",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The High CPC Paradox: When Expensive Clicks Are A Sign Of Success",
+      "link": "https://www.searchenginejournal.com/the-high-cpc-paradox-when-expensive-clicks-are-a-sign-of-success/570978/",
+      "summary": "Higher CPCs frequently align with improved lead quality and conversion rates, challenging the assumption that cheaper traffic performs better. \n\nThe post <a href=\"https://www.searchenginejournal.com/the-high-cpc-paradox-when-expensive-clicks-are-a-sign-of-success/570978/\">The High CPC Paradox: When Expensive Clicks Are A Sign Of Success</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-27T13:00:35+00:00",
+      "fetched": "2026-04-27T21:44:35.512658+00:00"
+    },
+    {
+      "id": "8a452ac2-22cf-434c-bc7b-8e1d99114eb6",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Technical SEO Audit Needs A New Layer via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/technical-seo-audit-new-layer/571583/",
+      "summary": "AI visibility now depends on crawl access, server-rendered content, semantic HTML, and machine-readable structure beyond Googlebot.\n\nThe post <a href=\"https://www.searchenginejournal.com/technical-seo-audit-new-layer/571583/\">The Technical SEO Audit Needs A New Layer</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-27T12:00:10+00:00",
+      "fetched": "2026-04-27T21:44:35.512676+00:00"
+    },
+    {
       "id": "f9539574-3c15-4c2f-9c00-cbb27f52d5c5",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -186,40 +219,7 @@
       "summary": "AI search is caught in a self-reinforcing loop, where synthetic content feeds retrieval systems that present it back as fact.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-search-is-eating-itself-the-seo-industry-is-the-source/572537/\">AI Search Is Eating Itself &#038; The SEO Industry Is The Source</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-04-22T13:30:25+00:00",
       "fetched": "2026-04-22T21:41:52.083433+00:00"
-    },
-    {
-      "id": "8ed1671d-9e85-45d2-9334-3da62cb068e4",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Does AI Actually Reward Quality Content?",
-      "link": "https://www.searchenginejournal.com/does-ai-actually-reward-quality-content/570627/",
-      "summary": "We keep reading that high quality content is important, but what actually is it? Research suggests the answer is not so clear cut.\n\nThe post <a href=\"https://www.searchenginejournal.com/does-ai-actually-reward-quality-content/570627/\">Does AI Actually Reward Quality Content?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-22T12:30:13+00:00",
-      "fetched": "2026-04-22T21:41:52.083453+00:00"
-    },
-    {
-      "id": "137da64d-5622-437d-9e42-e0481148aafa",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "WooCommerce Stores Can Now Sell Products Via YouTube Videos via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/woocommerce-youtube-shopping/572690/",
-      "summary": "Google and WooCommerce announced today that the Google for WooCommerce extension now enables merchants to sell products directly through YouTube. The update connects WooCommerce stores to YouTube channels enabling them to tap into 2.7 billion shoppers. Merchants can tag products in videos and Shorts, where they appear as shoppable cards during playback and in a dedicated shopping tab on the channel. The cards are pulled from the merchant\u2019s existing product catalog They stay synced automatically ",
-      "published": "2026-04-22T12:00:17+00:00",
-      "fetched": "2026-04-22T21:41:52.083480+00:00"
-    },
-    {
-      "id": "57dfdeae-7796-4143-9d51-bb28df0c39b0",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Overviews & Local SEO: What Multi-Location Brands Must Do [Webinar] via @sejournal, @lorenbaker",
-      "link": "https://www.searchenginejournal.com/ai-overviews-local-seo-what-multi-location-brands-must-do-webinar/572476/",
-      "summary": "Discover how AI is shaping local SEO. Find out what factors influence your local rankings and visibility on search engines.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-overviews-local-seo-what-multi-location-brands-must-do-webinar/572476/\">AI Overviews &#038; Local SEO: What Multi-Location Brands Must Do [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-22T07:45:36+00:00",
-      "fetched": "2026-04-22T21:41:52.083498+00:00"
     }
   ],
-  "last_updated": "2026-04-26T21:28:31.102786+00:00"
+  "last_updated": "2026-04-27T21:44:36.855721+00:00"
 }
