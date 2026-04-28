@@ -1,6 +1,94 @@
 {
   "articles": [
     {
+      "id": "e594ef07-d186-43be-9e2f-5e8b982e34fa",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The AI Skills Salary Premium via @sejournal, @Kevin_Indig",
+      "link": "https://www.searchenginejournal.com/the-ai-skills-salary-premium/573067/",
+      "summary": "AI skills are now embedded in most SEO roles. Learn how they influence salary and hiring expectations.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-ai-skills-salary-premium/573067/\">The AI Skills Salary Premium</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-28T13:30:43+00:00",
+      "fetched": "2026-04-28T21:49:34.993837+00:00"
+    },
+    {
+      "id": "3ca0a90c-760e-429c-b89c-1110b93c945c",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "APAC Search Strategy Goes Beyond Google & Baidu via @sejournal, @motokohunt",
+      "link": "https://www.searchenginejournal.com/apac-search-strategy-goes-beyond-google-baidu/571729/",
+      "summary": "Fragmentation, local engines, and bundled AI tools are redefining competition in APAC, making multi-system visibility the new benchmark for search success.\n\nThe post <a href=\"https://www.searchenginejournal.com/apac-search-strategy-goes-beyond-google-baidu/571729/\">APAC Search Strategy Goes Beyond Google &#038; Baidu</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-28T12:00:19+00:00",
+      "fetched": "2026-04-28T21:49:34.993863+00:00"
+    },
+    {
+      "id": "5fbf3ffb-0a69-42f4-830b-7c78648d812d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AEO In 2026: Which Content Formats Earn AI Citations & How to Produce More [Webinar] via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/aeo-in-2026-which-content-formats-earn-ai-citations-how-to-produce-more-webinar/572870/",
+      "summary": "Uncover the impact of AEO on brand discovery in 2026. Learn how to optimize content for AI citations and metrics.\n\nThe post <a href=\"https://www.searchenginejournal.com/aeo-in-2026-which-content-formats-earn-ai-citations-how-to-produce-more-webinar/572870/\">AEO In 2026: Which Content Formats Earn AI Citations &#038; How to Produce More [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-28T07:45:45+00:00",
+      "fetched": "2026-04-28T21:49:34.993887+00:00"
+    },
+    {
+      "id": "747c4ad4-2ee5-4b97-b488-157da7738b95",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Search Success: How To Benchmark Website Performance In Your Industry via @sejournal, @DebugBear",
+      "link": "https://www.searchenginejournal.com/ai-search-industry-benchmark-debugbear-spa/571866/",
+      "summary": "Find out how a benchmark can guide you in optimizing your site for better visibility and user experience in search results.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-search-industry-benchmark-debugbear-spa/571866/\">AI Search Success: How To Benchmark Website Performance In Your Industry</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-28T05:00:57+00:00",
+      "fetched": "2026-04-28T21:49:34.993910+00:00"
+    },
+    {
+      "id": "ad6515f5-2dae-455c-8254-6f9162d5fc53",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How to Turn Webinars Into Your Best Lead Gen Channel in 5 Phases via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/how-to-turn-webinars-into-your-best-lead-gen-channel-in-5-phases/573137/",
+      "summary": "In this 60-minute tell-all webinar, SEJ webinar experts show you how to make your B2B webinar program your best performing lead gen channel.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-turn-webinars-into-your-best-lead-gen-channel-in-5-phases/573137/\">How to Turn Webinars Into Your Best Lead Gen Channel in 5 Phases</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-28T02:50:25+00:00",
+      "fetched": "2026-04-28T21:49:34.993927+00:00"
+    },
+    {
+      "id": "5e30d21d-7cc5-4d9a-93a6-322c68f7e0f8",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Tests \u2018Ask YouTube\u2019 Conversational Search Experiment via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-tests-ask-youtube-conversational-search-experiment/573175/",
+      "summary": "Google is testing \"Ask YouTube,\" a conversational search feature that returns AI summaries with cited videos. Available to US Premium users.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-tests-ask-youtube-conversational-search-experiment/573175/\">Google Tests &#8216;Ask YouTube&#8217; Conversational Search Experiment</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-28T00:59:43+00:00",
+      "fetched": "2026-04-28T21:49:34.993943+00:00"
+    },
+    {
+      "id": "250c503f-1fab-4486-8694-e46226c6916b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Bing Previews AI Citation Share For Webmaster Tools via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/bing-previews-ai-citation-share-for-webmaster-tools/573169/",
+      "summary": "Microsoft previewed four new AI reporting features for Bing Webmaster Tools at SEO Week, including Citation Share and grounding query intent labels.\n\nThe post <a href=\"https://www.searchenginejournal.com/bing-previews-ai-citation-share-for-webmaster-tools/573169/\">Bing Previews AI Citation Share For Webmaster Tools</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-28T00:04:25+00:00",
+      "fetched": "2026-04-28T21:49:34.993957+00:00"
+    },
+    {
+      "id": "575f3614-6c76-41a9-8653-4f4f52bc410e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "GoDaddy Transferred A Domain By Mistake And Refused To Fix It via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/godaddy-transferred-a-domain-by-mistake-and-refused-to-fix-it/573164/",
+      "summary": "GoDaddy accidentally transferred someone's domain name to someone else then refused to fix the problem.\n\nThe post <a href=\"https://www.searchenginejournal.com/godaddy-transferred-a-domain-by-mistake-and-refused-to-fix-it/573164/\">GoDaddy Transferred A Domain By Mistake And Refused To Fix It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-27T21:53:37+00:00",
+      "fetched": "2026-04-28T21:49:34.993982+00:00"
+    },
+    {
       "id": "ce286c46-b425-4432-9050-9487f2514f92",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -131,95 +219,7 @@
       "summary": "Google may expand its unsupported robots.txt rules list using HTTP Archive data and could broaden how it handles common misspellings of disallow.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-may-expand-unsupported-robots-txt-rules-list/572866/\">Google May Expand Unsupported Robots.txt Rules List</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-04-23T16:40:21+00:00",
       "fetched": "2026-04-23T21:36:51.650641+00:00"
-    },
-    {
-      "id": "627c1b27-8ff8-40f0-b85e-1c6df5a83529",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "OpenAI\u2019s Crawler Docs Now List OAI-AdsBot For ChatGPT Ads via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/openais-crawler-docs-now-list-oai-adsbot-for-chatgpt-ads/572861/",
-      "summary": "OpenAI's public crawler docs now list OAI-AdsBot, a bot that may visit pages submitted as ChatGPT ads to check policy compliance and ad relevance.\n\nThe post <a href=\"https://www.searchenginejournal.com/openais-crawler-docs-now-list-oai-adsbot-for-chatgpt-ads/572861/\">OpenAI&#8217;s Crawler Docs Now List OAI-AdsBot For ChatGPT Ads</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-23T16:10:03+00:00",
-      "fetched": "2026-04-23T21:36:51.650664+00:00"
-    },
-    {
-      "id": "49e8fd68-72b2-41a4-b770-b154f331b65f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Adds View-Through Conversion Optimization To Demand Gen via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-adds-view-through-conversion-optimization-to-demand-gen/572840/",
-      "summary": "Google adds view-through conversion optimization to Demand Gen and expands Commerce Media Suite support.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-adds-view-through-conversion-optimization-to-demand-gen/572840/\">Google Adds View-Through Conversion Optimization To Demand Gen</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-23T16:00:49+00:00",
-      "fetched": "2026-04-23T21:36:51.650680+00:00"
-    },
-    {
-      "id": "8df7955c-9f65-4a55-aaf9-b67ba75f75d9",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Real Reason Your SEO Team Hasn\u2019t Made The AI Transition Yet via @sejournal, @DuaneForrester",
-      "link": "https://www.searchenginejournal.com/the-real-reason-your-seo-team-hasnt-made-the-ai-transition-yet/572445/",
-      "summary": "Enterprise teams must run parallel SEO and AI workflows while building dedicated ownership and measurable transition frameworks.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-real-reason-your-seo-team-hasnt-made-the-ai-transition-yet/572445/\">The Real Reason Your SEO Team Hasn&#8217;t Made The AI Transition Yet</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-23T13:30:55+00:00",
-      "fetched": "2026-04-23T21:36:51.650700+00:00"
-    },
-    {
-      "id": "026a2228-a9e6-4037-8e94-a2174f211f1a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why Google Has Changed & Who\u2019s Really Paying for It",
-      "link": "https://www.searchenginejournal.com/why-google-has-changed-whos-really-paying-for-it/572796/",
-      "summary": "Why Google is evolving into a more \u201cengaging\u201d platform, and what declining engagement from younger users means for search and publishers.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-google-has-changed-whos-really-paying-for-it/572796/\">Why Google Has Changed &#038; Who&#8217;s Really Paying for It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-23T13:00:41+00:00",
-      "fetched": "2026-04-23T21:36:51.650718+00:00"
-    },
-    {
-      "id": "55e3fa7e-39bc-4c7e-ad43-2a02e62c4052",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why Great Content Is No Longer Enough & What Beats It In AI Search via @sejournal, @TaylorDanRW",
-      "link": "https://www.searchenginejournal.com/why-great-content-is-no-longer-enough-what-beats-it-in-ai-search/572001/",
-      "summary": "How AI-driven search is redefining success by prioritizing cited, retrievable content over traditional traffic and clicks.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-great-content-is-no-longer-enough-what-beats-it-in-ai-search/572001/\">Why Great Content Is No Longer Enough &#038; What Beats It In AI Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-23T12:30:11+00:00",
-      "fetched": "2026-04-23T21:36:51.650733+00:00"
-    },
-    {
-      "id": "0b95dd5c-232d-4d37-8525-d3856b019858",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Facts About Google Click Signals, Rankings, And SEO via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/the-facts-about-google-click-signals-rankings-and-seo/572827/",
-      "summary": "What Google's systems actually do with click data and what it means for SEO and rankings. \n\nThe post <a href=\"https://www.searchenginejournal.com/the-facts-about-google-click-signals-rankings-and-seo/572827/\">The Facts About Google Click Signals, Rankings, And SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-23T11:24:12+00:00",
-      "fetched": "2026-04-23T21:36:51.650751+00:00"
-    },
-    {
-      "id": "7bdafe1e-0a1a-41b2-bd0f-9aa2b75fb4dd",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Ads Posts GEO Partner Manager Role via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-ads-posts-geo-partner-manager-role/572741/",
-      "summary": "Google posted a GEO Partner Manager role in its ads sales organization, using \u201cGenerative Engine Optimization\u201d terminology in an ads-side job description.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ads-posts-geo-partner-manager-role/572741/\">Google Ads Posts GEO Partner Manager Role</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-22T18:37:29+00:00",
-      "fetched": "2026-04-22T21:41:52.083404+00:00"
-    },
-    {
-      "id": "0150d25e-ab97-48f8-bdb8-81688c4cd205",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Search Is Eating Itself & The SEO Industry Is The Source",
-      "link": "https://www.searchenginejournal.com/ai-search-is-eating-itself-the-seo-industry-is-the-source/572537/",
-      "summary": "AI search is caught in a self-reinforcing loop, where synthetic content feeds retrieval systems that present it back as fact.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-search-is-eating-itself-the-seo-industry-is-the-source/572537/\">AI Search Is Eating Itself &#038; The SEO Industry Is The Source</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-22T13:30:25+00:00",
-      "fetched": "2026-04-22T21:41:52.083433+00:00"
     }
   ],
-  "last_updated": "2026-04-27T21:44:36.855721+00:00"
+  "last_updated": "2026-04-28T21:49:36.632692+00:00"
 }
