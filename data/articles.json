@@ -1,6 +1,127 @@
 {
   "articles": [
     {
+      "id": "a26666bd-6227-4462-a242-c2ee99e5c55e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "ChatGPT vs. Perplexity vs. Gemini: Which LLMs Are Driving Real Conversions? [Expert Panel] via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/chatgpt-vs-perplexity-vs-gemini-which-llms-are-driving-real-conversions-expert-panel/573459/",
+      "summary": "Which LLMs are crucial for conversions? Get data-driven insights and optimize your AI search efforts for better results.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-vs-perplexity-vs-gemini-which-llms-are-driving-real-conversions-expert-panel/573459/\">ChatGPT vs. Perplexity vs. Gemini: Which LLMs Are Driving Real Conversions? [Expert Panel]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-30T15:30:38+00:00",
+      "fetched": "2026-04-30T21:47:17.258717+00:00"
+    },
+    {
+      "id": "038590b6-a341-439e-8cda-8efcdac1223c",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How Brands Are Increasing AI Visibility By Up To 2,000% [Webinar] via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/how-brands-are-increasing-ai-visibility-by-up-to-2000-webinar/572474/",
+      "summary": "Unlock AI visibility through Reddit. Discover how using Reddit strategically can enhance brand credibility and drive sales.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-brands-are-increasing-ai-visibility-by-up-to-2000-webinar/572474/\">How Brands Are Increasing AI Visibility By Up To 2,000% [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-30T15:09:28+00:00",
+      "fetched": "2026-04-30T21:47:17.258743+00:00"
+    },
+    {
+      "id": "6277fe41-bd49-40b4-bfe5-3974738aef47",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Gives You The Vocabulary. It Doesn\u2019t Give You The Expertise via @sejournal, @DuaneForrester",
+      "link": "https://www.searchenginejournal.com/ai-gives-you-the-vocabulary-it-doesnt-give-you-the-expertise/573004/",
+      "summary": "The real divide isn\u2019t human vs. AI, but retrieval vs. judgment, where long-term value is built through experience, not automation.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-gives-you-the-vocabulary-it-doesnt-give-you-the-expertise/573004/\">AI Gives You The Vocabulary. It Doesn\u2019t Give You The Expertise</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-30T13:30:13+00:00",
+      "fetched": "2026-04-30T21:47:17.258765+00:00"
+    },
+    {
+      "id": "6fc2428e-4ed3-48e2-a9ff-9e0c198cbcf5",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Search Clicks Often Go To Local Domains: Report via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/ai-search-clicks-often-go-to-local-domains-report/573448/",
+      "summary": "Aleyda Solis's Similarweb analysis of 10 markets shows that AI search clicks frequently redirect to local domains, with the distribution differing by industry.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-search-clicks-often-go-to-local-domains-report/573448/\">AI Search Clicks Often Go To Local Domains: Report</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-30T13:21:44+00:00",
+      "fetched": "2026-04-30T21:47:17.258788+00:00"
+    },
+    {
+      "id": "5bc8451a-9482-4e91-9711-7ca61eccfc1f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "New: AI Brief And Text Disclaimers Come To Google AI Max via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/new-ai-brief-and-text-disclaimers-come-to-google-ai-max/573401/",
+      "summary": "Google adds AI Brief and text disclaimers to AI Max. See how new controls help regulated advertisers adopt automation while maintaining compliance and messaging accuracy.\n\nThe post <a href=\"https://www.searchenginejournal.com/new-ai-brief-and-text-disclaimers-come-to-google-ai-max/573401/\">New: AI Brief And Text Disclaimers Come To Google AI Max</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-30T13:01:00+00:00",
+      "fetched": "2026-04-30T21:47:17.258807+00:00"
+    },
+    {
+      "id": "99a7dff8-4ba1-43a1-9f23-bd30480a6ce7",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Launches AI Max For Shopping and Travel Campaigns via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/google-launches-ai-max-for-shopping-and-travel-campaigns/573375/",
+      "summary": "Google expands AI Max to Shopping and Travel campaigns. Learn what\u2019s changing, how it works, and what advertisers should prepare for ahead of broader rollout.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-launches-ai-max-for-shopping-and-travel-campaigns/573375/\">Google Launches AI Max For Shopping and Travel Campaigns</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-30T13:00:24+00:00",
+      "fetched": "2026-04-30T21:47:17.258825+00:00"
+    },
+    {
+      "id": "8dcecbc1-66dd-4edd-a36c-afe4de8e09ba",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Microsoft Says Bing Reached 1B Monthly Active Users via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/microsoft-says-bing-reached-1b-monthly-active-users/573444/",
+      "summary": "Microsoft says Bing reached 1B monthly active users, as search ad revenue grew 12% and Edge gained share for the 20th straight quarter.\n\nThe post <a href=\"https://www.searchenginejournal.com/microsoft-says-bing-reached-1b-monthly-active-users/573444/\">Microsoft Says Bing Reached 1B Monthly Active Users</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-30T12:45:45+00:00",
+      "fetched": "2026-04-30T21:47:17.258841+00:00"
+    },
+    {
+      "id": "61e2acc8-b467-494f-be9e-d80c592f1c88",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Can AI Mode Ads Actually Drive Conversions, Or Is It Just Awareness? \u2013 Ask A PPC via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/ask-a-ppc-can-ai-mode-ads-actually-drive-conversions-or-is-it-just-awareness/572103/",
+      "summary": "Can AI Mode ads drive conversions or just awareness? Learn how to evaluate performance, set realistic expectations, and measure incremental growth.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-a-ppc-can-ai-mode-ads-actually-drive-conversions-or-is-it-just-awareness/572103/\">Can AI Mode Ads Actually Drive Conversions, Or Is It Just Awareness? \u2013 Ask A PPC</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-30T12:30:33+00:00",
+      "fetched": "2026-04-30T21:47:17.258865+00:00"
+    },
+    {
+      "id": "dcfba658-bff6-432c-98ef-b19bc7ef947b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Your AI Visibility Tracker Is Quietly Breaking Your Analytics And Your Strategy via @sejournal, @TaylorDanRW",
+      "link": "https://www.searchenginejournal.com/your-ai-visibility-tracker-is-quietly-breaking-your-analytics/573000/",
+      "summary": "Measurement noise from AI tracking tools is making it harder for brands to separate real visibility from artificial signals.\n\nThe post <a href=\"https://www.searchenginejournal.com/your-ai-visibility-tracker-is-quietly-breaking-your-analytics/573000/\">Your AI Visibility Tracker Is Quietly Breaking Your Analytics And Your Strategy</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-30T12:00:08+00:00",
+      "fetched": "2026-04-30T21:47:17.258883+00:00"
+    },
+    {
+      "id": "2471635e-b289-4244-84f0-c0af94d54be1",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The 90-Day GEO Playbook for Local Search: How To Show Up When AI Does The Searching",
+      "link": "https://www.searchenginejournal.com/geo-playbook-local-search-spa/572960/",
+      "summary": "Explore the impact of GEO on consumer behavior and how AI-powered search is changing marketing strategies for local businesses.\n\nThe post <a href=\"https://www.searchenginejournal.com/geo-playbook-local-search-spa/572960/\">The 90-Day GEO Playbook for Local Search: How To Show Up When AI Does The Searching</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-30T05:00:21+00:00",
+      "fetched": "2026-04-30T21:47:17.258900+00:00"
+    },
+    {
+      "id": "692b7dce-5ec1-4838-9daf-56f094253c8f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Search Revenue Grew 19% In Q1, Pichai Cites AI via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-search-revenue-grew-19-in-q1-pichai-cites-ai/573378/",
+      "summary": "Alphabet's Q1 2026 earnings put Google Search revenue at $60.4 billion, up 19% YoY, as Pichai tied AI experiences to higher Search usage. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-search-revenue-grew-19-in-q1-pichai-cites-ai/573378/\">Google Search Revenue Grew 19% In Q1, Pichai Cites AI</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-04-29T22:00:02+00:00",
+      "fetched": "2026-04-30T21:47:17.258919+00:00"
+    },
+    {
       "id": "25b71b17-26ae-4632-ab81-a5b76f51160c",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -98,128 +219,7 @@
       "summary": "Fragmentation, local engines, and bundled AI tools are redefining competition in APAC, making multi-system visibility the new benchmark for search success.\n\nThe post <a href=\"https://www.searchenginejournal.com/apac-search-strategy-goes-beyond-google-baidu/571729/\">APAC Search Strategy Goes Beyond Google &#038; Baidu</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-04-28T12:00:19+00:00",
       "fetched": "2026-04-28T21:49:34.993863+00:00"
-    },
-    {
-      "id": "5fbf3ffb-0a69-42f4-830b-7c78648d812d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AEO In 2026: Which Content Formats Earn AI Citations & How to Produce More [Webinar] via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/aeo-in-2026-which-content-formats-earn-ai-citations-how-to-produce-more-webinar/572870/",
-      "summary": "Uncover the impact of AEO on brand discovery in 2026. Learn how to optimize content for AI citations and metrics.\n\nThe post <a href=\"https://www.searchenginejournal.com/aeo-in-2026-which-content-formats-earn-ai-citations-how-to-produce-more-webinar/572870/\">AEO In 2026: Which Content Formats Earn AI Citations &#038; How to Produce More [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-28T07:45:45+00:00",
-      "fetched": "2026-04-28T21:49:34.993887+00:00"
-    },
-    {
-      "id": "747c4ad4-2ee5-4b97-b488-157da7738b95",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Search Success: How To Benchmark Website Performance In Your Industry via @sejournal, @DebugBear",
-      "link": "https://www.searchenginejournal.com/ai-search-industry-benchmark-debugbear-spa/571866/",
-      "summary": "Find out how a benchmark can guide you in optimizing your site for better visibility and user experience in search results.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-search-industry-benchmark-debugbear-spa/571866/\">AI Search Success: How To Benchmark Website Performance In Your Industry</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-28T05:00:57+00:00",
-      "fetched": "2026-04-28T21:49:34.993910+00:00"
-    },
-    {
-      "id": "ad6515f5-2dae-455c-8254-6f9162d5fc53",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How to Turn Webinars Into Your Best Lead Gen Channel in 5 Phases via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/how-to-turn-webinars-into-your-best-lead-gen-channel-in-5-phases/573137/",
-      "summary": "In this 60-minute tell-all webinar, SEJ webinar experts show you how to make your B2B webinar program your best performing lead gen channel.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-turn-webinars-into-your-best-lead-gen-channel-in-5-phases/573137/\">How to Turn Webinars Into Your Best Lead Gen Channel in 5 Phases</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-28T02:50:25+00:00",
-      "fetched": "2026-04-28T21:49:34.993927+00:00"
-    },
-    {
-      "id": "5e30d21d-7cc5-4d9a-93a6-322c68f7e0f8",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Tests \u2018Ask YouTube\u2019 Conversational Search Experiment via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-tests-ask-youtube-conversational-search-experiment/573175/",
-      "summary": "Google is testing \"Ask YouTube,\" a conversational search feature that returns AI summaries with cited videos. Available to US Premium users.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-tests-ask-youtube-conversational-search-experiment/573175/\">Google Tests &#8216;Ask YouTube&#8217; Conversational Search Experiment</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-28T00:59:43+00:00",
-      "fetched": "2026-04-28T21:49:34.993943+00:00"
-    },
-    {
-      "id": "250c503f-1fab-4486-8694-e46226c6916b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Bing Previews AI Citation Share For Webmaster Tools via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/bing-previews-ai-citation-share-for-webmaster-tools/573169/",
-      "summary": "Microsoft previewed four new AI reporting features for Bing Webmaster Tools at SEO Week, including Citation Share and grounding query intent labels.\n\nThe post <a href=\"https://www.searchenginejournal.com/bing-previews-ai-citation-share-for-webmaster-tools/573169/\">Bing Previews AI Citation Share For Webmaster Tools</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-28T00:04:25+00:00",
-      "fetched": "2026-04-28T21:49:34.993957+00:00"
-    },
-    {
-      "id": "575f3614-6c76-41a9-8653-4f4f52bc410e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "GoDaddy Transferred A Domain By Mistake And Refused To Fix It via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/godaddy-transferred-a-domain-by-mistake-and-refused-to-fix-it/573164/",
-      "summary": "GoDaddy accidentally transferred someone's domain name to someone else then refused to fix the problem.\n\nThe post <a href=\"https://www.searchenginejournal.com/godaddy-transferred-a-domain-by-mistake-and-refused-to-fix-it/573164/\">GoDaddy Transferred A Domain By Mistake And Refused To Fix It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-27T21:53:37+00:00",
-      "fetched": "2026-04-28T21:49:34.993982+00:00"
-    },
-    {
-      "id": "ce286c46-b425-4432-9050-9487f2514f92",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s AI Overviews Cut Clicks Without Satisfaction Gain: Report via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/ai-overviews-cut-organic-clicks-38-field-study-finds/573145/",
-      "summary": "A randomized field experiment found Google AI Overviews reduced organic clicks on triggered queries by 38%, while user experience ratings stayed unchanged.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-overviews-cut-organic-clicks-38-field-study-finds/573145/\">Google&#8217;s AI Overviews Cut Clicks Without Satisfaction Gain: Report</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-27T18:11:37+00:00",
-      "fetched": "2026-04-27T21:44:35.512633+00:00"
-    },
-    {
-      "id": "3ef249af-0f4b-4c06-8304-cf8612937ead",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The High CPC Paradox: When Expensive Clicks Are A Sign Of Success",
-      "link": "https://www.searchenginejournal.com/the-high-cpc-paradox-when-expensive-clicks-are-a-sign-of-success/570978/",
-      "summary": "Higher CPCs frequently align with improved lead quality and conversion rates, challenging the assumption that cheaper traffic performs better. \n\nThe post <a href=\"https://www.searchenginejournal.com/the-high-cpc-paradox-when-expensive-clicks-are-a-sign-of-success/570978/\">The High CPC Paradox: When Expensive Clicks Are A Sign Of Success</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-27T13:00:35+00:00",
-      "fetched": "2026-04-27T21:44:35.512658+00:00"
-    },
-    {
-      "id": "8a452ac2-22cf-434c-bc7b-8e1d99114eb6",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Technical SEO Audit Needs A New Layer via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/technical-seo-audit-new-layer/571583/",
-      "summary": "AI visibility now depends on crawl access, server-rendered content, semantic HTML, and machine-readable structure beyond Googlebot.\n\nThe post <a href=\"https://www.searchenginejournal.com/technical-seo-audit-new-layer/571583/\">The Technical SEO Audit Needs A New Layer</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-27T12:00:10+00:00",
-      "fetched": "2026-04-27T21:44:35.512676+00:00"
-    },
-    {
-      "id": "f9539574-3c15-4c2f-9c00-cbb27f52d5c5",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Fully Non-Human Web: No One Builds The Page, No One Visits It via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/the-fully-non-human-web-no-one-builds-the-page-no-one-visits-it/571406/",
-      "summary": "The web is splitting into transactional systems run by AI and experiential spaces for humans, forcing brands to rethink visibility, trust, and measurement.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-fully-non-human-web-no-one-builds-the-page-no-one-visits-it/571406/\">The Fully Non-Human Web: No One Builds The Page, No One Visits It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-26T12:00:08+00:00",
-      "fetched": "2026-04-26T21:28:29.965417+00:00"
-    },
-    {
-      "id": "b48e8d55-7773-433f-8ff6-700401536476",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Overview CTR Fell 61%, But Clicks Didn\u2019t Collapse via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/ai-overview-ctr-fell-61-but-clicks-didnt-collapse/572993/",
-      "summary": "Seer Interactive says brand-cited AI Overview CTR fell 61% as impressions grew faster than clicks across cited pages. \n\nThe post <a href=\"https://www.searchenginejournal.com/ai-overview-ctr-fell-61-but-clicks-didnt-collapse/572993/\">AI Overview CTR Fell 61%, But Clicks Didn\u2019t Collapse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-26T05:00:17+00:00",
-      "fetched": "2026-04-26T21:28:29.965448+00:00"
     }
   ],
-  "last_updated": "2026-04-29T21:51:33.231080+00:00"
+  "last_updated": "2026-04-30T21:47:18.413530+00:00"
 }
