@@ -1,6 +1,50 @@
 {
   "articles": [
     {
+      "id": "18cfded5-588e-4a30-94f0-59dfc6ef565f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "500M AI Searches Later: How To Actually Improve AI Search Visibility & Citations via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/500m-ai-searches-later-how-to-actually-improve-ai-search-visibility-citations/573564/",
+      "summary": "Learn how AI search signals impact visibility. Enhance your SEO strategies with insights from leading experts in the field.\n\nThe post <a href=\"https://www.searchenginejournal.com/500m-ai-searches-later-how-to-actually-improve-ai-search-visibility-citations/573564/\">500M AI Searches Later: How To Actually Improve AI Search Visibility &#038; Citations</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-01T16:39:12+00:00",
+      "fetched": "2026-05-01T21:42:21.395562+00:00"
+    },
+    {
+      "id": "6cd6d4d5-efd4-4adc-b1ae-4a015a8995fd",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google AI Mode In Chrome Isn\u2019t Killing SEO; It\u2019s Exposing Weak SEO via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/google-ai-mode-in-chrome-isnt-killing-seo-its-exposing-weak-seo/573366/",
+      "summary": "Google\u2019s latest update exposes weak SEO strategies while rewarding original, structured, and credible content.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ai-mode-in-chrome-isnt-killing-seo-its-exposing-weak-seo/573366/\">Google AI Mode In Chrome Isn\u2019t Killing SEO; It\u2019s Exposing Weak SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-01T13:15:37+00:00",
+      "fetched": "2026-05-01T21:42:21.395589+00:00"
+    },
+    {
+      "id": "5b58e989-2459-40a3-8c8a-e9ffe68eb1f8",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Overviews Clicks Get Tested, Earnings Tell Two Stories \u2013 SEO Pulse via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/seo-pulse-ai-overviews-clicks-get-tested-earnings-tell-two-stories/573505/",
+      "summary": "Google repeats the bounce clicks claim. Alphabet and Microsoft report from the revenue side. More in this week's SEO Pulse.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-ai-overviews-clicks-get-tested-earnings-tell-two-stories/573505/\">AI Overviews Clicks Get Tested, Earnings Tell Two Stories \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-01T12:30:34+00:00",
+      "fetched": "2026-05-01T21:42:21.395609+00:00"
+    },
+    {
+      "id": "b107a869-0dba-4758-9a77-28a66cd3df43",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How AI Overviews Surface Negative Reviews, Without Anyone Searching for Them via @sejournal, @EraseDotCom",
+      "link": "https://www.searchenginejournal.com/negative-reviews-ai-overviews-erase-spa/571880/",
+      "summary": "Discover the importance of AI in reviews and brand visibility. Learn how AI tools affect perceptions in our latest review.\n\nThe post <a href=\"https://www.searchenginejournal.com/negative-reviews-ai-overviews-erase-spa/571880/\">How AI Overviews Surface Negative Reviews, Without Anyone Searching for Them</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-01T05:00:50+00:00",
+      "fetched": "2026-05-01T21:42:21.395630+00:00"
+    },
+    {
       "id": "a26666bd-6227-4462-a242-c2ee99e5c55e",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -175,51 +219,7 @@
       "summary": "A comparison of 5 AI search engines show they cite different sources but converge on citing brands, a key to SEO for AI search.\n\nThe post <a href=\"https://www.searchenginejournal.com/comparison-of-ai-citation-patterns-offers-strategic-seo-insights/573327/\">Comparison Of AI Citation Patterns Offers Strategic SEO Insights</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-04-29T10:16:55+00:00",
       "fetched": "2026-04-29T21:51:32.366807+00:00"
-    },
-    {
-      "id": "87a34f25-4474-4427-8413-d1e18d43324f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why Your Content Isn\u2019t Being Cited in AI Answers (And How to Fix It) [Webinar] via @sejournal, @lorenbaker",
-      "link": "https://www.searchenginejournal.com/why-your-content-isnt-being-cited-in-ai-answers-and-how-to-fix-it-webinar/572482/",
-      "summary": "Discover the criteria behind AI answers. Learn how to optimize your content for visibility in AI-driven environments.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-your-content-isnt-being-cited-in-ai-answers-and-how-to-fix-it-webinar/572482/\">Why Your Content Isn\u2019t Being Cited in AI Answers (And How to Fix It) [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-29T07:45:07+00:00",
-      "fetched": "2026-04-29T21:51:32.366825+00:00"
-    },
-    {
-      "id": "16e6653a-320d-4f40-91ee-afdb264483d9",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "OpenAI Crawl Activity Tripled Since GPT-5, Data Shows via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/openai-crawl-activity-tripled-since-gpt-5-data-shows/573316/",
-      "summary": "OpenAI crawl activity roughly tripled after GPT-5, with OAI-SearchBot now generating more log events than GPTBot.\n\nThe post <a href=\"https://www.searchenginejournal.com/openai-crawl-activity-tripled-since-gpt-5-data-shows/573316/\">OpenAI Crawl Activity Tripled Since GPT-5, Data Shows</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-29T00:23:39+00:00",
-      "fetched": "2026-04-29T21:51:32.366841+00:00"
-    },
-    {
-      "id": "e594ef07-d186-43be-9e2f-5e8b982e34fa",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The AI Skills Salary Premium via @sejournal, @Kevin_Indig",
-      "link": "https://www.searchenginejournal.com/the-ai-skills-salary-premium/573067/",
-      "summary": "AI skills are now embedded in most SEO roles. Learn how they influence salary and hiring expectations.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-ai-skills-salary-premium/573067/\">The AI Skills Salary Premium</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-28T13:30:43+00:00",
-      "fetched": "2026-04-28T21:49:34.993837+00:00"
-    },
-    {
-      "id": "3ca0a90c-760e-429c-b89c-1110b93c945c",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "APAC Search Strategy Goes Beyond Google & Baidu via @sejournal, @motokohunt",
-      "link": "https://www.searchenginejournal.com/apac-search-strategy-goes-beyond-google-baidu/571729/",
-      "summary": "Fragmentation, local engines, and bundled AI tools are redefining competition in APAC, making multi-system visibility the new benchmark for search success.\n\nThe post <a href=\"https://www.searchenginejournal.com/apac-search-strategy-goes-beyond-google-baidu/571729/\">APAC Search Strategy Goes Beyond Google &#038; Baidu</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-28T12:00:19+00:00",
-      "fetched": "2026-04-28T21:49:34.993863+00:00"
     }
   ],
-  "last_updated": "2026-04-30T21:47:18.413530+00:00"
+  "last_updated": "2026-05-01T21:42:22.406534+00:00"
 }
