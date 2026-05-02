@@ -1,6 +1,39 @@
 {
   "articles": [
     {
+      "id": "6661f033-64dc-42a0-bdbd-31c24bdffe0d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "What Google & Microsoft Earnings Say About Search via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/what-google-microsoft-earnings-say-about-search/573499/",
+      "summary": "Alphabet and Microsoft earnings show search ad revenue growing while Google Network revenue fell to $6.97B, continuing a multi-quarter decline.  \n\nThe post <a href=\"https://www.searchenginejournal.com/what-google-microsoft-earnings-say-about-search/573499/\">What Google &#038; Microsoft Earnings Say About Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-02T12:00:53+00:00",
+      "fetched": "2026-05-02T21:30:17.645447+00:00"
+    },
+    {
+      "id": "044b7609-6b11-4202-951a-3bd3ac94c7e8",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Preferred Sources Is Now A Global SEO Signal via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/googles-preferred-sources-feature-is-now-a-global-seo-signal/573591/",
+      "summary": "Google's Preferred Sources is now available as a global signal that can help SEO for Top Stories and Google Discover.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-preferred-sources-feature-is-now-a-global-seo-signal/573591/\">Google&#8217;s Preferred Sources Is Now A Global SEO Signal</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-01T23:15:53+00:00",
+      "fetched": "2026-05-02T21:30:17.645473+00:00"
+    },
+    {
+      "id": "c5b045fe-ee2d-4bdb-a62d-9d6e2fa07504",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Tells Developers To Build For AI Agents, Not Just Humans via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-tells-developers-to-build-for-ai-agents-not-just-humans/573587/",
+      "summary": "Google's web.dev guidance advises developers to treat AI agents as a distinct visitor type and recommends practices similar to accessibility practices. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-tells-developers-to-build-for-ai-agents-not-just-humans/573587/\">Google Tells Developers To Build For AI Agents, Not Just Humans</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-01T21:42:23+00:00",
+      "fetched": "2026-05-02T21:30:17.645492+00:00"
+    },
+    {
       "id": "18cfded5-588e-4a30-94f0-59dfc6ef565f",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -186,40 +219,7 @@
       "summary": "Misalignment between SEO, product, and engineering has created a system where accountability exists without control, and predictable failures follow.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-is-filed-under-marketing-thats-the-whole-problem/573200/\">SEO Is Filed Under Marketing \u2014 That&#8217;s The Whole Problem</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-04-29T13:30:59+00:00",
       "fetched": "2026-04-29T21:51:32.366744+00:00"
-    },
-    {
-      "id": "20f9bc15-22ea-482c-93de-3676fbe69be1",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How Brands Block AI Crawlers & Then Pay To Get Seen: The Protection Paradox via @sejournal, @billhunt",
-      "link": "https://www.searchenginejournal.com/how-brands-block-ai-crawlers-then-pay-to-get-seen-the-protection-paradox/572267/",
-      "summary": "Break the Protection Paradox by aligning content strategy with how modern search and AI systems discover and surface information.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-brands-block-ai-crawlers-then-pay-to-get-seen-the-protection-paradox/572267/\">How Brands Block AI Crawlers &#038; Then Pay To Get Seen: The Protection Paradox</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-29T13:00:24+00:00",
-      "fetched": "2026-04-29T21:51:32.366764+00:00"
-    },
-    {
-      "id": "80a3393f-eac4-403c-96da-5c405b82022b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "B2B Buyers Choose A Vendor Before They Reach Out \u2013 3 Ways To Be Visible When It Counts via @sejournal, @alexanderkesler",
-      "link": "https://www.searchenginejournal.com/b2b-buyers-choose-a-vendor-before-they-reach-out-3-ways-to-be-visible-when-it-counts/570499/",
-      "summary": "Learn three tactics for AEO/GEO, review platform optimization, peer community engagement, and technical validation that inform B2B buyer shortlists of vendors. \n\nThe post <a href=\"https://www.searchenginejournal.com/b2b-buyers-choose-a-vendor-before-they-reach-out-3-ways-to-be-visible-when-it-counts/570499/\">B2B Buyers Choose A Vendor Before They Reach Out \u2013 3 Ways To Be Visible When It Counts</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-29T12:00:38+00:00",
-      "fetched": "2026-04-29T21:51:32.366789+00:00"
-    },
-    {
-      "id": "15749906-c96f-4228-afc8-98913baad111",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Comparison Of AI Citation Patterns Offers Strategic SEO Insights via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/comparison-of-ai-citation-patterns-offers-strategic-seo-insights/573327/",
-      "summary": "A comparison of 5 AI search engines show they cite different sources but converge on citing brands, a key to SEO for AI search.\n\nThe post <a href=\"https://www.searchenginejournal.com/comparison-of-ai-citation-patterns-offers-strategic-seo-insights/573327/\">Comparison Of AI Citation Patterns Offers Strategic SEO Insights</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-29T10:16:55+00:00",
-      "fetched": "2026-04-29T21:51:32.366807+00:00"
     }
   ],
-  "last_updated": "2026-05-01T21:42:22.406534+00:00"
+  "last_updated": "2026-05-02T21:30:19.069242+00:00"
 }
