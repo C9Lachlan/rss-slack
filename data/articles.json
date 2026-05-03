@@ -1,6 +1,39 @@
 {
   "articles": [
     {
+      "id": "30815a64-b4e0-4521-9d46-e26d1a74b99a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s March Core Update Shifted Visibility Away From Aggregators via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/googles-march-core-update-shifted-visibility-away-from-aggregators/573621/",
+      "summary": "Data shows YouTube, Reddit, and aggregators lost US search visibility after Google's March core update, while brand and government sites gained.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-march-core-update-shifted-visibility-away-from-aggregators/573621/\">Google&#8217;s March Core Update Shifted Visibility Away From Aggregators</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-03T20:40:34+00:00",
+      "fetched": "2026-05-03T21:32:29.917098+00:00"
+    },
+    {
+      "id": "5f81e411-c061-4ef6-94c7-1ce3e81ed0be",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Ask Jeeves Is Gone After Nearly 30 Years Of Search via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/ask-jeeves-is-gone-after-nearly-30-years-of-search/573617/",
+      "summary": "Ask.com, the search engine formerly known as Ask Jeeves, has shut down. IAC discontinued the search business after nearly 30 years. \n\nThe post <a href=\"https://www.searchenginejournal.com/ask-jeeves-is-gone-after-nearly-30-years-of-search/573617/\">Ask Jeeves Is Gone After Nearly 30 Years Of Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-03T19:49:46+00:00",
+      "fetched": "2026-05-03T21:32:29.917124+00:00"
+    },
+    {
+      "id": "09036ee1-f74c-4396-bb61-0d367a48d279",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Your Website Is A Source, Not A Megaphone via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/your-website-is-a-source-not-a-megaphone/571490/",
+      "summary": "AI-driven consumption is forcing brands to rethink content structure, clarity, and portability beyond traditional page-based experiences.\n\nThe post <a href=\"https://www.searchenginejournal.com/your-website-is-a-source-not-a-megaphone/571490/\">Your Website Is A Source, Not A Megaphone</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-03T12:00:07+00:00",
+      "fetched": "2026-05-03T21:32:29.917144+00:00"
+    },
+    {
       "id": "6661f033-64dc-42a0-bdbd-31c24bdffe0d",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -186,40 +219,7 @@
       "summary": "Explore the impact of GEO on consumer behavior and how AI-powered search is changing marketing strategies for local businesses.\n\nThe post <a href=\"https://www.searchenginejournal.com/geo-playbook-local-search-spa/572960/\">The 90-Day GEO Playbook for Local Search: How To Show Up When AI Does The Searching</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-04-30T05:00:21+00:00",
       "fetched": "2026-04-30T21:47:17.258900+00:00"
-    },
-    {
-      "id": "692b7dce-5ec1-4838-9daf-56f094253c8f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Search Revenue Grew 19% In Q1, Pichai Cites AI via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-search-revenue-grew-19-in-q1-pichai-cites-ai/573378/",
-      "summary": "Alphabet's Q1 2026 earnings put Google Search revenue at $60.4 billion, up 19% YoY, as Pichai tied AI experiences to higher Search usage. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-search-revenue-grew-19-in-q1-pichai-cites-ai/573378/\">Google Search Revenue Grew 19% In Q1, Pichai Cites AI</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-29T22:00:02+00:00",
-      "fetched": "2026-04-30T21:47:17.258919+00:00"
-    },
-    {
-      "id": "25b71b17-26ae-4632-ab81-a5b76f51160c",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Earn AI Citations: What Your Content Needs To Look Like [A 4-Article Playbook] via @sejournal, @AirOpsHQ",
-      "link": "https://www.searchenginejournal.com/rundowns/earn-ai-citations-what-your-content-needs-to-look-like-a-4-article-playbook/",
-      "summary": "The post <a href=\"https://www.searchenginejournal.com/rundowns/earn-ai-citations-what-your-content-needs-to-look-like-a-4-article-playbook/\">Earn AI Citations: What Your Content Needs To Look Like [A 4-Article Playbook]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-29T16:40:22+00:00",
-      "fetched": "2026-04-29T21:51:32.366716+00:00"
-    },
-    {
-      "id": "def87a87-64db-4cbc-aa9e-1fdb634e2a24",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "SEO Is Filed Under Marketing \u2014 That\u2019s The Whole Problem via @sejournal, @pedrodias",
-      "link": "https://www.searchenginejournal.com/seo-is-filed-under-marketing-thats-the-whole-problem/573200/",
-      "summary": "Misalignment between SEO, product, and engineering has created a system where accountability exists without control, and predictable failures follow.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-is-filed-under-marketing-thats-the-whole-problem/573200/\">SEO Is Filed Under Marketing \u2014 That&#8217;s The Whole Problem</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-29T13:30:59+00:00",
-      "fetched": "2026-04-29T21:51:32.366744+00:00"
     }
   ],
-  "last_updated": "2026-05-02T21:30:19.069242+00:00"
+  "last_updated": "2026-05-03T21:32:31.997101+00:00"
 }
