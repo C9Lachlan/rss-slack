@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "01f02d2e-4c53-49d5-8cd3-a9e8c0e36489",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Optmyzr Report Finds Google Ads Engagement Rising While Efficiency Holds via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/optmyzr-report-finds-google-ads-engagement-rising-while-efficiency-holds/573718/",
+      "summary": "Google Ads CTR is rising, but conversions remain flat. New Optmyzr data explains why performance is shifting and what it means for advertisers.\n\nThe post <a href=\"https://www.searchenginejournal.com/optmyzr-report-finds-google-ads-engagement-rising-while-efficiency-holds/573718/\">Optmyzr Report Finds Google Ads Engagement Rising While Efficiency Holds</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-04T16:55:33+00:00",
+      "fetched": "2026-05-04T21:52:18.802014+00:00"
+    },
+    {
+      "id": "0d506a17-74fc-4ffb-a4d2-d0c5d79112fa",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Run A Webinar Program That Actually Drives ROI",
+      "link": "https://www.searchenginejournal.com/how-to-run-a-webinar-program-that-actually-drives-roi/573544/",
+      "summary": "With the right approach, webinars can evolve from awareness tools into consistent drivers of pipeline and revenue.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-run-a-webinar-program-that-actually-drives-roi/573544/\">How To Run A Webinar Program That Actually Drives ROI</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-04T13:55:14+00:00",
+      "fetched": "2026-05-04T21:52:18.802037+00:00"
+    },
+    {
+      "id": "1aa0a229-cd7f-4de2-b638-af66f918de4d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Performance Max For Ecommerce In 2026: Why The Hybrid Strategy Is Better via @sejournal, @tonyadam",
+      "link": "https://www.searchenginejournal.com/performance-max-for-ecommerce-the-hybrid-strategy-thats-actually-working/571885/",
+      "summary": "The most effective ecommerce advertisers are pairing Performance Max with Standard Shopping to balance automation with control and maximize ROAS.\n\nThe post <a href=\"https://www.searchenginejournal.com/performance-max-for-ecommerce-the-hybrid-strategy-thats-actually-working/571885/\">Performance Max For Ecommerce In 2026: Why The Hybrid Strategy Is Better</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-04T12:30:22+00:00",
+      "fetched": "2026-05-04T21:52:18.802054+00:00"
+    },
+    {
+      "id": "0f284f55-e5df-4958-9ba6-99a083bd1047",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Advises Using AI In Best Possible Way For AI Search via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-advises-using-ai-in-best-possible-way-for-ai-search/573671/",
+      "summary": "Google's Director of Software Engineering recommended using AI to boost providing value and said, \"clearly, this is something we can advise.\"\n\nThe post <a href=\"https://www.searchenginejournal.com/google-advises-using-ai-in-best-possible-way-for-ai-search/573671/\">Google Advises Using AI In Best Possible Way For AI Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-04T11:10:45+00:00",
+      "fetched": "2026-05-04T21:52:18.802075+00:00"
+    },
+    {
+      "id": "625775e8-3d58-487c-8e4c-06f8cdd65e45",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Black Box AI Models: What Search Professionals Need To Understand via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-engineer-explains-black-box-ai-models-in-search/573625/",
+      "summary": "Google's Nikola Todorovic said AI can act \"like a kind of a black box\" while explaining why machine learning was hard to deploy in Search.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-engineer-explains-black-box-ai-models-in-search/573625/\">Google&#8217;s Black Box AI Models: What Search Professionals Need To Understand</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-04T04:15:42+00:00",
+      "fetched": "2026-05-04T21:52:18.802090+00:00"
+    },
+    {
       "id": "30815a64-b4e0-4521-9d46-e26d1a74b99a",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -164,62 +219,7 @@
       "summary": "Google adds AI Brief and text disclaimers to AI Max. See how new controls help regulated advertisers adopt automation while maintaining compliance and messaging accuracy.\n\nThe post <a href=\"https://www.searchenginejournal.com/new-ai-brief-and-text-disclaimers-come-to-google-ai-max/573401/\">New: AI Brief And Text Disclaimers Come To Google AI Max</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-04-30T13:01:00+00:00",
       "fetched": "2026-04-30T21:47:17.258807+00:00"
-    },
-    {
-      "id": "99a7dff8-4ba1-43a1-9f23-bd30480a6ce7",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Launches AI Max For Shopping and Travel Campaigns via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/google-launches-ai-max-for-shopping-and-travel-campaigns/573375/",
-      "summary": "Google expands AI Max to Shopping and Travel campaigns. Learn what\u2019s changing, how it works, and what advertisers should prepare for ahead of broader rollout.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-launches-ai-max-for-shopping-and-travel-campaigns/573375/\">Google Launches AI Max For Shopping and Travel Campaigns</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-30T13:00:24+00:00",
-      "fetched": "2026-04-30T21:47:17.258825+00:00"
-    },
-    {
-      "id": "8dcecbc1-66dd-4edd-a36c-afe4de8e09ba",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Microsoft Says Bing Reached 1B Monthly Active Users via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/microsoft-says-bing-reached-1b-monthly-active-users/573444/",
-      "summary": "Microsoft says Bing reached 1B monthly active users, as search ad revenue grew 12% and Edge gained share for the 20th straight quarter.\n\nThe post <a href=\"https://www.searchenginejournal.com/microsoft-says-bing-reached-1b-monthly-active-users/573444/\">Microsoft Says Bing Reached 1B Monthly Active Users</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-30T12:45:45+00:00",
-      "fetched": "2026-04-30T21:47:17.258841+00:00"
-    },
-    {
-      "id": "61e2acc8-b467-494f-be9e-d80c592f1c88",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Can AI Mode Ads Actually Drive Conversions, Or Is It Just Awareness? \u2013 Ask A PPC via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/ask-a-ppc-can-ai-mode-ads-actually-drive-conversions-or-is-it-just-awareness/572103/",
-      "summary": "Can AI Mode ads drive conversions or just awareness? Learn how to evaluate performance, set realistic expectations, and measure incremental growth.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-a-ppc-can-ai-mode-ads-actually-drive-conversions-or-is-it-just-awareness/572103/\">Can AI Mode Ads Actually Drive Conversions, Or Is It Just Awareness? \u2013 Ask A PPC</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-30T12:30:33+00:00",
-      "fetched": "2026-04-30T21:47:17.258865+00:00"
-    },
-    {
-      "id": "dcfba658-bff6-432c-98ef-b19bc7ef947b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Your AI Visibility Tracker Is Quietly Breaking Your Analytics And Your Strategy via @sejournal, @TaylorDanRW",
-      "link": "https://www.searchenginejournal.com/your-ai-visibility-tracker-is-quietly-breaking-your-analytics/573000/",
-      "summary": "Measurement noise from AI tracking tools is making it harder for brands to separate real visibility from artificial signals.\n\nThe post <a href=\"https://www.searchenginejournal.com/your-ai-visibility-tracker-is-quietly-breaking-your-analytics/573000/\">Your AI Visibility Tracker Is Quietly Breaking Your Analytics And Your Strategy</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-30T12:00:08+00:00",
-      "fetched": "2026-04-30T21:47:17.258883+00:00"
-    },
-    {
-      "id": "2471635e-b289-4244-84f0-c0af94d54be1",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The 90-Day GEO Playbook for Local Search: How To Show Up When AI Does The Searching",
-      "link": "https://www.searchenginejournal.com/geo-playbook-local-search-spa/572960/",
-      "summary": "Explore the impact of GEO on consumer behavior and how AI-powered search is changing marketing strategies for local businesses.\n\nThe post <a href=\"https://www.searchenginejournal.com/geo-playbook-local-search-spa/572960/\">The 90-Day GEO Playbook for Local Search: How To Show Up When AI Does The Searching</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-30T05:00:21+00:00",
-      "fetched": "2026-04-30T21:47:17.258900+00:00"
     }
   ],
-  "last_updated": "2026-05-03T21:32:31.997101+00:00"
+  "last_updated": "2026-05-04T21:52:19.562794+00:00"
 }
