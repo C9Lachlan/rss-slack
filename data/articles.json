@@ -1,6 +1,127 @@
 {
   "articles": [
     {
+      "id": "a0e594f7-e9c6-400e-bf81-6b7e11d47d6f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Testing Web Bot Auth To Verify AI Agent Requests via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-testing-web-bot-auth-to-verify-ai-agent-requests/573949/",
+      "summary": "Google is testing Web Bot Auth, an experimental protocol for verifying some AI agent requests with cryptographic signatures alongside existing checks. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-testing-web-bot-auth-to-verify-ai-agent-requests/573949/\">Google Testing Web Bot Auth To Verify AI Agent Requests</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-05T20:51:02+00:00",
+      "fetched": "2026-05-05T21:52:56.801949+00:00"
+    },
+    {
+      "id": "6db6ad66-6c88-478c-b2b0-a00ed5a1ccea",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Sued Over False AI Overview About Musician via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-sued-over-false-ai-overview-about-musician/573944/",
+      "summary": "A lawsuit alleges Google's AI Overview falsely identified musician Ashley MacIsaac as a sex offender. It seeks $1.5M in damages.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-sued-over-false-ai-overview-about-musician/573944/\">Google Sued Over False AI Overview About Musician</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-05T17:45:27+00:00",
+      "fetched": "2026-05-05T21:52:56.801973+00:00"
+    },
+    {
+      "id": "0ed6bf7e-97ac-4731-add7-f6a5f9af659a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Changed My Work. And Yours, Too via @sejournal, @Kevin_Indig",
+      "link": "https://www.searchenginejournal.com/ai-changed-my-work-and-yours-too/573700/",
+      "summary": "Advisor or builder? How agentic vibe coding is redefining what marketing and product work actually means.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-changed-my-work-and-yours-too/573700/\">AI Changed My Work. And Yours, Too</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-05T13:30:49+00:00",
+      "fetched": "2026-05-05T21:52:56.801990+00:00"
+    },
+    {
+      "id": "329c2876-4385-4cfa-9a13-cf7d8641f8c5",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Previews Meridian GeoX, Data Manager Measurement Updates via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-previews-meridian-geox-data-manager-measurement-updates/573885/",
+      "summary": "Google previews Meridian GeoX, Meridian Studio, Data Manager updates, and visual Google tag setup ahead of Google Marketing Live.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-previews-meridian-geox-data-manager-measurement-updates/573885/\">Google Previews Meridian GeoX, Data Manager Measurement Updates</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-05T13:00:58+00:00",
+      "fetched": "2026-05-05T21:52:56.802011+00:00"
+    },
+    {
+      "id": "4166c660-09bf-4778-b889-5293c14c97f7",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Test A New Bid Strategy In Google Ads",
+      "link": "https://www.searchenginejournal.com/how-to-test-a-new-bid-strategy-in-google-ads/571237/",
+      "summary": "How PPC strategists can validate bid strategy changes using conversion value by time and CRM data instead of relying on surface-level metrics.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-test-a-new-bid-strategy-in-google-ads/571237/\">How To Test A New Bid Strategy In Google Ads</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-05T12:30:32+00:00",
+      "fetched": "2026-05-05T21:52:56.802028+00:00"
+    },
+    {
+      "id": "8c66d5ac-94c9-4a71-a630-7e6f4581064a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Says A New Wave Of AI Users Is Transforming Search via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-says-a-new-wave-of-ai-users-is-transforming-search/573873/",
+      "summary": "Google says a new wave of users are learning that Search can handle more complex questions, changing how they search.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-says-a-new-wave-of-ai-users-is-transforming-search/573873/\">Google Says A New Wave Of AI Users Is Transforming Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-05T11:42:13+00:00",
+      "fetched": "2026-05-05T21:52:56.802044+00:00"
+    },
+    {
+      "id": "19860826-c7b3-4bc2-8506-d4480f949cc3",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Says Search Is Fine, AI Insiders Say the Median Person Has No Future via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/google-says-search-is-fine-ai-insiders-say-the-median-person-has-no-future/573557/",
+      "summary": "Google celebrates AI search growth while industry insiders warn of widespread job displacement. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-says-search-is-fine-ai-insiders-say-the-median-person-has-no-future/573557/\">Google Says Search Is Fine, AI Insiders Say the Median Person Has No Future</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-05T11:00:42+00:00",
+      "fetched": "2026-05-05T21:52:56.802060+00:00"
+    },
+    {
+      "id": "54b61130-42b7-4390-9894-f4e581fa135b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google: AI Makes Human Experience More Important For Content via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-ai-makes-human-experience-more-important-for-content/573862/",
+      "summary": "Google says AI's ability to surface common information makes human experience and subjective insights more valuable for content.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ai-makes-human-experience-more-important-for-content/573862/\">Google: AI Makes Human Experience More Important For Content</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-05T10:59:29+00:00",
+      "fetched": "2026-05-05T21:52:56.802088+00:00"
+    },
+    {
+      "id": "077e0f42-b10b-4239-974a-be4ac5e7447b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why AI Search Skips Your Content (And How to Diagnose Where It\u2019s Failing) via @sejournal, @jeffrey_coyle",
+      "link": "https://www.searchenginejournal.com/why-ai-search-skips-your-content-siteimprove-spa/573264/",
+      "summary": "This post was sponsored by Siteimprove.\u00a0The opinions expressed in this article are the sponsor\u2019s own.\u00a0 Why does my content get crawled but never cited in ChatGPT or Perplexity? How do I tell if my AI visibility problem is technical or content-quality related? What actually decides whether AI picks my page over a competitor\u2019s? The gap between appearing in an AI answer and being retrieved by an AI system is where the actual AI search strategy lives. This article breaks down that AI search strategy",
+      "published": "2026-05-05T05:00:08+00:00",
+      "fetched": "2026-05-05T21:52:56.802109+00:00"
+    },
+    {
+      "id": "cd4e4c76-5e3f-49b2-b31c-3e602f230427",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google On Keyword Fragmentation And User Needs In AI Search via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-on-keyword-fragmentation-and-user-needs-in-ai-search/573834/",
+      "summary": "Google's Liz Reid unpacks consequential changes to user search behavior that also impact how to approach SEO.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-on-keyword-fragmentation-and-user-needs-in-ai-search/573834/\">Google On Keyword Fragmentation And User Needs In AI Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-05T01:52:07+00:00",
+      "fetched": "2026-05-05T21:52:56.802124+00:00"
+    },
+    {
+      "id": "8e503963-7c15-4659-843c-837ec306f8f6",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google: Browsy Queries May Favor Full SERPs, Not AI via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-on-ai-search-why-browsy-queries-favor-full-serps/573822/",
+      "summary": "Google's Liz Reid says AI Mode is suited to complex follow-up queries, while browsy searches may still benefit from the full search results\n\nThe post <a href=\"https://www.searchenginejournal.com/google-on-ai-search-why-browsy-queries-favor-full-serps/573822/\">Google: Browsy Queries May Favor Full SERPs, Not AI</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-04T23:29:53+00:00",
+      "fetched": "2026-05-05T21:52:56.802140+00:00"
+    },
+    {
       "id": "01f02d2e-4c53-49d5-8cd3-a9e8c0e36489",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -98,128 +219,7 @@
       "summary": "Alphabet and Microsoft earnings show search ad revenue growing while Google Network revenue fell to $6.97B, continuing a multi-quarter decline.  \n\nThe post <a href=\"https://www.searchenginejournal.com/what-google-microsoft-earnings-say-about-search/573499/\">What Google &#038; Microsoft Earnings Say About Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-05-02T12:00:53+00:00",
       "fetched": "2026-05-02T21:30:17.645447+00:00"
-    },
-    {
-      "id": "044b7609-6b11-4202-951a-3bd3ac94c7e8",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Preferred Sources Is Now A Global SEO Signal via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/googles-preferred-sources-feature-is-now-a-global-seo-signal/573591/",
-      "summary": "Google's Preferred Sources is now available as a global signal that can help SEO for Top Stories and Google Discover.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-preferred-sources-feature-is-now-a-global-seo-signal/573591/\">Google&#8217;s Preferred Sources Is Now A Global SEO Signal</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-01T23:15:53+00:00",
-      "fetched": "2026-05-02T21:30:17.645473+00:00"
-    },
-    {
-      "id": "c5b045fe-ee2d-4bdb-a62d-9d6e2fa07504",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Tells Developers To Build For AI Agents, Not Just Humans via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-tells-developers-to-build-for-ai-agents-not-just-humans/573587/",
-      "summary": "Google's web.dev guidance advises developers to treat AI agents as a distinct visitor type and recommends practices similar to accessibility practices. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-tells-developers-to-build-for-ai-agents-not-just-humans/573587/\">Google Tells Developers To Build For AI Agents, Not Just Humans</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-01T21:42:23+00:00",
-      "fetched": "2026-05-02T21:30:17.645492+00:00"
-    },
-    {
-      "id": "18cfded5-588e-4a30-94f0-59dfc6ef565f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "500M AI Searches Later: How To Actually Improve AI Search Visibility & Citations via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/500m-ai-searches-later-how-to-actually-improve-ai-search-visibility-citations/573564/",
-      "summary": "Learn how AI search signals impact visibility. Enhance your SEO strategies with insights from leading experts in the field.\n\nThe post <a href=\"https://www.searchenginejournal.com/500m-ai-searches-later-how-to-actually-improve-ai-search-visibility-citations/573564/\">500M AI Searches Later: How To Actually Improve AI Search Visibility &#038; Citations</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-01T16:39:12+00:00",
-      "fetched": "2026-05-01T21:42:21.395562+00:00"
-    },
-    {
-      "id": "6cd6d4d5-efd4-4adc-b1ae-4a015a8995fd",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google AI Mode In Chrome Isn\u2019t Killing SEO; It\u2019s Exposing Weak SEO via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/google-ai-mode-in-chrome-isnt-killing-seo-its-exposing-weak-seo/573366/",
-      "summary": "Google\u2019s latest update exposes weak SEO strategies while rewarding original, structured, and credible content.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ai-mode-in-chrome-isnt-killing-seo-its-exposing-weak-seo/573366/\">Google AI Mode In Chrome Isn\u2019t Killing SEO; It\u2019s Exposing Weak SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-01T13:15:37+00:00",
-      "fetched": "2026-05-01T21:42:21.395589+00:00"
-    },
-    {
-      "id": "5b58e989-2459-40a3-8c8a-e9ffe68eb1f8",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Overviews Clicks Get Tested, Earnings Tell Two Stories \u2013 SEO Pulse via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-ai-overviews-clicks-get-tested-earnings-tell-two-stories/573505/",
-      "summary": "Google repeats the bounce clicks claim. Alphabet and Microsoft report from the revenue side. More in this week's SEO Pulse.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-ai-overviews-clicks-get-tested-earnings-tell-two-stories/573505/\">AI Overviews Clicks Get Tested, Earnings Tell Two Stories \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-01T12:30:34+00:00",
-      "fetched": "2026-05-01T21:42:21.395609+00:00"
-    },
-    {
-      "id": "b107a869-0dba-4758-9a77-28a66cd3df43",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How AI Overviews Surface Negative Reviews, Without Anyone Searching for Them via @sejournal, @EraseDotCom",
-      "link": "https://www.searchenginejournal.com/negative-reviews-ai-overviews-erase-spa/571880/",
-      "summary": "Discover the importance of AI in reviews and brand visibility. Learn how AI tools affect perceptions in our latest review.\n\nThe post <a href=\"https://www.searchenginejournal.com/negative-reviews-ai-overviews-erase-spa/571880/\">How AI Overviews Surface Negative Reviews, Without Anyone Searching for Them</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-01T05:00:50+00:00",
-      "fetched": "2026-05-01T21:42:21.395630+00:00"
-    },
-    {
-      "id": "a26666bd-6227-4462-a242-c2ee99e5c55e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "ChatGPT vs. Perplexity vs. Gemini: Which LLMs Are Driving Real Conversions? [Expert Panel] via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/chatgpt-vs-perplexity-vs-gemini-which-llms-are-driving-real-conversions-expert-panel/573459/",
-      "summary": "Which LLMs are crucial for conversions? Get data-driven insights and optimize your AI search efforts for better results.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-vs-perplexity-vs-gemini-which-llms-are-driving-real-conversions-expert-panel/573459/\">ChatGPT vs. Perplexity vs. Gemini: Which LLMs Are Driving Real Conversions? [Expert Panel]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-30T15:30:38+00:00",
-      "fetched": "2026-04-30T21:47:17.258717+00:00"
-    },
-    {
-      "id": "038590b6-a341-439e-8cda-8efcdac1223c",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How Brands Are Increasing AI Visibility By Up To 2,000% [Webinar] via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/how-brands-are-increasing-ai-visibility-by-up-to-2000-webinar/572474/",
-      "summary": "Unlock AI visibility through Reddit. Discover how using Reddit strategically can enhance brand credibility and drive sales.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-brands-are-increasing-ai-visibility-by-up-to-2000-webinar/572474/\">How Brands Are Increasing AI Visibility By Up To 2,000% [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-30T15:09:28+00:00",
-      "fetched": "2026-04-30T21:47:17.258743+00:00"
-    },
-    {
-      "id": "6277fe41-bd49-40b4-bfe5-3974738aef47",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Gives You The Vocabulary. It Doesn\u2019t Give You The Expertise via @sejournal, @DuaneForrester",
-      "link": "https://www.searchenginejournal.com/ai-gives-you-the-vocabulary-it-doesnt-give-you-the-expertise/573004/",
-      "summary": "The real divide isn\u2019t human vs. AI, but retrieval vs. judgment, where long-term value is built through experience, not automation.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-gives-you-the-vocabulary-it-doesnt-give-you-the-expertise/573004/\">AI Gives You The Vocabulary. It Doesn\u2019t Give You The Expertise</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-30T13:30:13+00:00",
-      "fetched": "2026-04-30T21:47:17.258765+00:00"
-    },
-    {
-      "id": "6fc2428e-4ed3-48e2-a9ff-9e0c198cbcf5",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Search Clicks Often Go To Local Domains: Report via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/ai-search-clicks-often-go-to-local-domains-report/573448/",
-      "summary": "Aleyda Solis's Similarweb analysis of 10 markets shows that AI search clicks frequently redirect to local domains, with the distribution differing by industry.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-search-clicks-often-go-to-local-domains-report/573448/\">AI Search Clicks Often Go To Local Domains: Report</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-30T13:21:44+00:00",
-      "fetched": "2026-04-30T21:47:17.258788+00:00"
-    },
-    {
-      "id": "5bc8451a-9482-4e91-9711-7ca61eccfc1f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "New: AI Brief And Text Disclaimers Come To Google AI Max via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/new-ai-brief-and-text-disclaimers-come-to-google-ai-max/573401/",
-      "summary": "Google adds AI Brief and text disclaimers to AI Max. See how new controls help regulated advertisers adopt automation while maintaining compliance and messaging accuracy.\n\nThe post <a href=\"https://www.searchenginejournal.com/new-ai-brief-and-text-disclaimers-come-to-google-ai-max/573401/\">New: AI Brief And Text Disclaimers Come To Google AI Max</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-04-30T13:01:00+00:00",
-      "fetched": "2026-04-30T21:47:17.258807+00:00"
     }
   ],
-  "last_updated": "2026-05-04T21:52:19.562794+00:00"
+  "last_updated": "2026-05-05T21:52:57.491807+00:00"
 }
