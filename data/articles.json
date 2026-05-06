@@ -1,15 +1,114 @@
 {
   "articles": [
     {
-      "id": "a0e594f7-e9c6-400e-bf81-6b7e11d47d6f",
+      "id": "37817abd-84b8-4cd9-b707-947c228af0a0",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
       "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Testing Web Bot Auth To Verify AI Agent Requests via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-testing-web-bot-auth-to-verify-ai-agent-requests/573949/",
-      "summary": "Google is testing Web Bot Auth, an experimental protocol for verifying some AI agent requests with cryptographic signatures alongside existing checks. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-testing-web-bot-auth-to-verify-ai-agent-requests/573949/\">Google Testing Web Bot Auth To Verify AI Agent Requests</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-05T20:51:02+00:00",
-      "fetched": "2026-05-05T21:52:56.801949+00:00"
+      "title": "Google Says AI Creative Should Help Brands Differentiate, Not Blend In via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/google-says-ai-creative-should-help-brands-differentiate-not-blend-in/574118/",
+      "summary": "Google addressed growing concerns around repetitive AI-generated ads, advertiser controls, and how brands can maintain differentiation at scale.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-says-ai-creative-should-help-brands-differentiate-not-blend-in/574118/\">Google Says AI Creative Should Help Brands Differentiate, Not Blend In</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-06T21:42:07+00:00",
+      "fetched": "2026-05-06T21:50:36.827710+00:00"
+    },
+    {
+      "id": "b2cb1f1e-5dd3-4a6b-ae89-a83576e181a8",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Bing Team Describes How Grounding Differs From Search Indexing via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/bing-team-describes-how-grounding-differs-from-search-indexing/574119/",
+      "summary": "Microsoft's Bing team published a framework describing how grounding for AI-generated answers differs from traditional search across five measurement areas.  \n\nThe post <a href=\"https://www.searchenginejournal.com/bing-team-describes-how-grounding-differs-from-search-indexing/574119/\">Bing Team Describes How Grounding Differs From Search Indexing</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-06T21:27:06+00:00",
+      "fetched": "2026-05-06T21:50:36.827736+00:00"
+    },
+    {
+      "id": "4859c764-c502-4cf7-b99d-8679df80dc2d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Adds More Links & Link Context To AI Search via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-adds-more-links-link-context-to-ai-search/574008/",
+      "summary": "Google is adding subscription labels, inline links, discussion previews, and desktop link previews to its AI Search experiences.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-adds-more-links-link-context-to-ai-search/574008/\">Google Adds More Links &#038; Link Context To AI Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-06T13:00:18+00:00",
+      "fetched": "2026-05-06T21:50:36.827755+00:00"
+    },
+    {
+      "id": "74af56d5-3678-4276-907f-8f9b90be92cb",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Whole Point Was The Mess via @sejournal, @pedrodias",
+      "link": "https://www.searchenginejournal.com/the-whole-point-was-the-mess/573977/",
+      "summary": "GEO vendors are selling the same SEO playbook with a new acronym. The academic paper they cite actually points the other way.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-whole-point-was-the-mess/573977/\">The Whole Point Was The Mess</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-06T12:55:10+00:00",
+      "fetched": "2026-05-06T21:50:36.827777+00:00"
+    },
+    {
+      "id": "53b2e9a3-e35a-403b-8e92-b9bbb284cb97",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Just Handed PR Its Best Opportunity In SEO & Most Teams Are Missing It via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/ai-just-handed-pr-its-best-opportunity-in-seo-most-teams-are-missing-it/573520/",
+      "summary": "AI search engines surface the same brands regardless of which sources they cite. PR and SEO professionals need to stop pretending those are different jobs. \n\nThe post <a href=\"https://www.searchenginejournal.com/ai-just-handed-pr-its-best-opportunity-in-seo-most-teams-are-missing-it/573520/\">AI Just Handed PR Its Best Opportunity In SEO &#038; Most Teams Are Missing It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-06T12:32:11+00:00",
+      "fetched": "2026-05-06T21:50:36.827795+00:00"
+    },
+    {
+      "id": "86a5d234-a2e8-44a3-84ed-54cfef06655e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "WordPress Loses Marketshare. Is Astro Eroding Their User Base? via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/wordpress-loses-marketshare-is-astro-eroding-their-user-base/574003/",
+      "summary": "WordPress is losing market share, with over 10% of sites abandoned. Astro is downloaded 2.5 million times a week.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-loses-marketshare-is-astro-eroding-their-user-base/574003/\">WordPress Loses Marketshare. Is Astro Eroding Their User Base?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-06T12:09:21+00:00",
+      "fetched": "2026-05-06T21:50:36.827810+00:00"
+    },
+    {
+      "id": "66453378-57c5-405d-9e9f-9b43289abb74",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Design URL Structures For AI Retrieval, Not Just Rankings",
+      "link": "https://www.searchenginejournal.com/how-to-design-url-structures-for-ai-retrieval-not-just-rankings/571939/",
+      "summary": "Improve how products are surfaced and recommended by applying SEO principles directly to product feed optimization.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-design-url-structures-for-ai-retrieval-not-just-rankings/571939/\">How To Design URL Structures For AI Retrieval, Not Just Rankings</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-06T12:00:33+00:00",
+      "fetched": "2026-05-06T21:50:36.827826+00:00"
+    },
+    {
+      "id": "c8c30433-9fa1-4b32-ae12-eccd061f4a17",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Is Your Small Business Showing Up in Local Search? Here\u2019s How To Find Out [Webinar] via @sejournal, @lorenbaker",
+      "link": "https://www.searchenginejournal.com/is-your-small-business-showing-up-in-local-search-heres-how-to-find-out-webinar/572608/",
+      "summary": "Maximize your local search visibility by optimizing your Google Business Profile and staying consistent on every platform.\n\nThe post <a href=\"https://www.searchenginejournal.com/is-your-small-business-showing-up-in-local-search-heres-how-to-find-out-webinar/572608/\">Is Your Small Business Showing Up in Local Search? Here&#8217;s How To Find Out [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-06T07:45:29+00:00",
+      "fetched": "2026-05-06T21:50:36.827850+00:00"
+    },
+    {
+      "id": "06dde9d4-4ee5-48b6-a504-7186475ef254",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "It\u2019s Official: OpenAI Launches Self-Serve Ads Manager for ChatGPT via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/openai-launches-self-serve-ads-manager-for-chatgpt/573971/",
+      "summary": "OpenAI officially launches self-serve ChatGPT ads with CPC bidding, conversion tracking, and expanded advertiser access through its new Ads Manager platform.\n\nThe post <a href=\"https://www.searchenginejournal.com/openai-launches-self-serve-ads-manager-for-chatgpt/573971/\">It&#8217;s Official: OpenAI Launches Self-Serve Ads Manager for ChatGPT</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-06T00:45:22+00:00",
+      "fetched": "2026-05-06T21:50:36.827868+00:00"
+    },
+    {
+      "id": "b84048ca-8bc0-4e98-bcad-3bc511f7a280",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Is Testing New Bot Authorization Standard via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-is-testing-new-bot-authorization-standard/573957/",
+      "summary": "Google is testing a cryptographic protocol for verifying bot traffic that could make unwanted crawlers easier to identify.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-is-testing-new-bot-authorization-standard/573957/\">Google Is Testing New Bot Authorization Standard</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-05T23:07:27+00:00",
+      "fetched": "2026-05-06T21:50:36.827883+00:00"
     },
     {
       "id": "6db6ad66-6c88-478c-b2b0-a00ed5a1ccea",
@@ -120,106 +219,7 @@
       "summary": "Google's Liz Reid says AI Mode is suited to complex follow-up queries, while browsy searches may still benefit from the full search results\n\nThe post <a href=\"https://www.searchenginejournal.com/google-on-ai-search-why-browsy-queries-favor-full-serps/573822/\">Google: Browsy Queries May Favor Full SERPs, Not AI</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-05-04T23:29:53+00:00",
       "fetched": "2026-05-05T21:52:56.802140+00:00"
-    },
-    {
-      "id": "01f02d2e-4c53-49d5-8cd3-a9e8c0e36489",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Optmyzr Report Finds Google Ads Engagement Rising While Efficiency Holds via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/optmyzr-report-finds-google-ads-engagement-rising-while-efficiency-holds/573718/",
-      "summary": "Google Ads CTR is rising, but conversions remain flat. New Optmyzr data explains why performance is shifting and what it means for advertisers.\n\nThe post <a href=\"https://www.searchenginejournal.com/optmyzr-report-finds-google-ads-engagement-rising-while-efficiency-holds/573718/\">Optmyzr Report Finds Google Ads Engagement Rising While Efficiency Holds</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-04T16:55:33+00:00",
-      "fetched": "2026-05-04T21:52:18.802014+00:00"
-    },
-    {
-      "id": "0d506a17-74fc-4ffb-a4d2-d0c5d79112fa",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Run A Webinar Program That Actually Drives ROI",
-      "link": "https://www.searchenginejournal.com/how-to-run-a-webinar-program-that-actually-drives-roi/573544/",
-      "summary": "With the right approach, webinars can evolve from awareness tools into consistent drivers of pipeline and revenue.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-run-a-webinar-program-that-actually-drives-roi/573544/\">How To Run A Webinar Program That Actually Drives ROI</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-04T13:55:14+00:00",
-      "fetched": "2026-05-04T21:52:18.802037+00:00"
-    },
-    {
-      "id": "1aa0a229-cd7f-4de2-b638-af66f918de4d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Performance Max For Ecommerce In 2026: Why The Hybrid Strategy Is Better via @sejournal, @tonyadam",
-      "link": "https://www.searchenginejournal.com/performance-max-for-ecommerce-the-hybrid-strategy-thats-actually-working/571885/",
-      "summary": "The most effective ecommerce advertisers are pairing Performance Max with Standard Shopping to balance automation with control and maximize ROAS.\n\nThe post <a href=\"https://www.searchenginejournal.com/performance-max-for-ecommerce-the-hybrid-strategy-thats-actually-working/571885/\">Performance Max For Ecommerce In 2026: Why The Hybrid Strategy Is Better</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-04T12:30:22+00:00",
-      "fetched": "2026-05-04T21:52:18.802054+00:00"
-    },
-    {
-      "id": "0f284f55-e5df-4958-9ba6-99a083bd1047",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Advises Using AI In Best Possible Way For AI Search via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-advises-using-ai-in-best-possible-way-for-ai-search/573671/",
-      "summary": "Google's Director of Software Engineering recommended using AI to boost providing value and said, \"clearly, this is something we can advise.\"\n\nThe post <a href=\"https://www.searchenginejournal.com/google-advises-using-ai-in-best-possible-way-for-ai-search/573671/\">Google Advises Using AI In Best Possible Way For AI Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-04T11:10:45+00:00",
-      "fetched": "2026-05-04T21:52:18.802075+00:00"
-    },
-    {
-      "id": "625775e8-3d58-487c-8e4c-06f8cdd65e45",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Black Box AI Models: What Search Professionals Need To Understand via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-engineer-explains-black-box-ai-models-in-search/573625/",
-      "summary": "Google's Nikola Todorovic said AI can act \"like a kind of a black box\" while explaining why machine learning was hard to deploy in Search.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-engineer-explains-black-box-ai-models-in-search/573625/\">Google&#8217;s Black Box AI Models: What Search Professionals Need To Understand</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-04T04:15:42+00:00",
-      "fetched": "2026-05-04T21:52:18.802090+00:00"
-    },
-    {
-      "id": "30815a64-b4e0-4521-9d46-e26d1a74b99a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s March Core Update Shifted Visibility Away From Aggregators via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/googles-march-core-update-shifted-visibility-away-from-aggregators/573621/",
-      "summary": "Data shows YouTube, Reddit, and aggregators lost US search visibility after Google's March core update, while brand and government sites gained.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-march-core-update-shifted-visibility-away-from-aggregators/573621/\">Google&#8217;s March Core Update Shifted Visibility Away From Aggregators</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-03T20:40:34+00:00",
-      "fetched": "2026-05-03T21:32:29.917098+00:00"
-    },
-    {
-      "id": "5f81e411-c061-4ef6-94c7-1ce3e81ed0be",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Ask Jeeves Is Gone After Nearly 30 Years Of Search via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/ask-jeeves-is-gone-after-nearly-30-years-of-search/573617/",
-      "summary": "Ask.com, the search engine formerly known as Ask Jeeves, has shut down. IAC discontinued the search business after nearly 30 years. \n\nThe post <a href=\"https://www.searchenginejournal.com/ask-jeeves-is-gone-after-nearly-30-years-of-search/573617/\">Ask Jeeves Is Gone After Nearly 30 Years Of Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-03T19:49:46+00:00",
-      "fetched": "2026-05-03T21:32:29.917124+00:00"
-    },
-    {
-      "id": "09036ee1-f74c-4396-bb61-0d367a48d279",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Your Website Is A Source, Not A Megaphone via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/your-website-is-a-source-not-a-megaphone/571490/",
-      "summary": "AI-driven consumption is forcing brands to rethink content structure, clarity, and portability beyond traditional page-based experiences.\n\nThe post <a href=\"https://www.searchenginejournal.com/your-website-is-a-source-not-a-megaphone/571490/\">Your Website Is A Source, Not A Megaphone</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-03T12:00:07+00:00",
-      "fetched": "2026-05-03T21:32:29.917144+00:00"
-    },
-    {
-      "id": "6661f033-64dc-42a0-bdbd-31c24bdffe0d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "What Google & Microsoft Earnings Say About Search via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/what-google-microsoft-earnings-say-about-search/573499/",
-      "summary": "Alphabet and Microsoft earnings show search ad revenue growing while Google Network revenue fell to $6.97B, continuing a multi-quarter decline.  \n\nThe post <a href=\"https://www.searchenginejournal.com/what-google-microsoft-earnings-say-about-search/573499/\">What Google &#038; Microsoft Earnings Say About Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-02T12:00:53+00:00",
-      "fetched": "2026-05-02T21:30:17.645447+00:00"
     }
   ],
-  "last_updated": "2026-05-05T21:52:57.491807+00:00"
+  "last_updated": "2026-05-06T21:50:37.965611+00:00"
 }
