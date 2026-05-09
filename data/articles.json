@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": "54b1f035-0d00-4968-9a4c-d7feba2c7c27",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Expands AI Search Links Without New Click Data via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-expands-ai-search-links-without-new-click-data/574307/",
+      "summary": "Google added more link surfaces to AI Search, but not new reporting for publishers. Studies continue to show lower clicks when AI responses appear. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-expands-ai-search-links-without-new-click-data/574307/\">Google Expands AI Search Links Without New Click Data</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-09T12:00:34+00:00",
+      "fetched": "2026-05-09T21:33:37.091495+00:00"
+    },
+    {
       "id": "40999ff4-0d8c-4cd8-a7bc-2611ee8cb9e0",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -208,18 +219,7 @@
       "summary": "GEO vendors are selling the same SEO playbook with a new acronym. The academic paper they cite actually points the other way.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-whole-point-was-the-mess/573977/\">The Whole Point Was The Mess</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-05-06T12:55:10+00:00",
       "fetched": "2026-05-06T21:50:36.827777+00:00"
-    },
-    {
-      "id": "53b2e9a3-e35a-403b-8e92-b9bbb284cb97",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Just Handed PR Its Best Opportunity In SEO & Most Teams Are Missing It via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/ai-just-handed-pr-its-best-opportunity-in-seo-most-teams-are-missing-it/573520/",
-      "summary": "AI search engines surface the same brands regardless of which sources they cite. PR and SEO professionals need to stop pretending those are different jobs. \n\nThe post <a href=\"https://www.searchenginejournal.com/ai-just-handed-pr-its-best-opportunity-in-seo-most-teams-are-missing-it/573520/\">AI Just Handed PR Its Best Opportunity In SEO &#038; Most Teams Are Missing It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-06T12:32:11+00:00",
-      "fetched": "2026-05-06T21:50:36.827795+00:00"
     }
   ],
-  "last_updated": "2026-05-08T21:49:23.323025+00:00"
+  "last_updated": "2026-05-09T21:33:37.738150+00:00"
 }
