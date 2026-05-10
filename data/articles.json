@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "id": "451bdd3e-1599-4940-8511-2416be6c2b9a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s UCP Update: Carts, Catalogs, And Loyalty In AI Shopping via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/googles-ucp-update-carts-catalogs-and-loyalty-in-ai-shopping/571496/",
+      "summary": "The latest UCP updates signal a shift from experimentation to readiness as AI-driven commerce infrastructure becomes embedded in existing retail systems.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-ucp-update-carts-catalogs-and-loyalty-in-ai-shopping/571496/\">Google&#8217;s UCP Update: Carts, Catalogs, And Loyalty In AI Shopping</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-10T12:00:07+00:00",
+      "fetched": "2026-05-10T21:37:58.574051+00:00"
+    },
+    {
+      "id": "1d0bd17e-b600-4b89-9682-085de3d0567a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Drops FAQ Rich Results From Search via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-drops-faq-rich-results-from-search/574429/",
+      "summary": "Google deprecated FAQ rich results, completing a removal that started years ago. FAQ rich results were already restricted for most sites. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-drops-faq-rich-results-from-search/574429/\">Google Drops FAQ Rich Results From Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-10T08:54:15+00:00",
+      "fetched": "2026-05-10T21:37:58.574081+00:00"
+    },
+    {
       "id": "54b1f035-0d00-4968-9a4c-d7feba2c7c27",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -197,29 +219,7 @@
       "summary": "Microsoft's Bing team published a framework describing how grounding for AI-generated answers differs from traditional search across five measurement areas.  \n\nThe post <a href=\"https://www.searchenginejournal.com/bing-team-describes-how-grounding-differs-from-search-indexing/574119/\">Bing Team Describes How Grounding Differs From Search Indexing</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-05-06T21:27:06+00:00",
       "fetched": "2026-05-06T21:50:36.827736+00:00"
-    },
-    {
-      "id": "4859c764-c502-4cf7-b99d-8679df80dc2d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Adds More Links & Link Context To AI Search via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-adds-more-links-link-context-to-ai-search/574008/",
-      "summary": "Google is adding subscription labels, inline links, discussion previews, and desktop link previews to its AI Search experiences.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-adds-more-links-link-context-to-ai-search/574008/\">Google Adds More Links &#038; Link Context To AI Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-06T13:00:18+00:00",
-      "fetched": "2026-05-06T21:50:36.827755+00:00"
-    },
-    {
-      "id": "74af56d5-3678-4276-907f-8f9b90be92cb",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Whole Point Was The Mess via @sejournal, @pedrodias",
-      "link": "https://www.searchenginejournal.com/the-whole-point-was-the-mess/573977/",
-      "summary": "GEO vendors are selling the same SEO playbook with a new acronym. The academic paper they cite actually points the other way.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-whole-point-was-the-mess/573977/\">The Whole Point Was The Mess</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-06T12:55:10+00:00",
-      "fetched": "2026-05-06T21:50:36.827777+00:00"
     }
   ],
-  "last_updated": "2026-05-09T21:33:37.738150+00:00"
+  "last_updated": "2026-05-10T21:37:59.330744+00:00"
 }
