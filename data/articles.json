@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "82117ad8-c01c-42aa-8dc4-963abea35e08",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Schema Markup Didn\u2019t Move AI Citations In Ahrefs Test via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/schema-markup-didnt-move-ai-citations-in-ahrefs-test/574568/",
+      "summary": "An Ahrefs report tested whether adding schema markup to pages already cited by AI improved their citation rates. \n\nThe post <a href=\"https://www.searchenginejournal.com/schema-markup-didnt-move-ai-citations-in-ahrefs-test/574568/\">Schema Markup Didn&#8217;t Move AI Citations In Ahrefs Test</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-11T21:06:10+00:00",
+      "fetched": "2026-05-11T21:56:52.760031+00:00"
+    },
+    {
+      "id": "8d384edd-792e-4b87-a487-54a530549c84",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s AI Announcements Are Events, The New Search User Is The Trend via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/googles-ai-announcements-are-events-the-new-search-user-is-the-trend/573922/",
+      "summary": "AI announcements tell you what Google shipped. Changing user search behavior tells you where your audience is going. Are you watching the right signal?\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-ai-announcements-are-events-the-new-search-user-is-the-trend/573922/\">Google&#8217;s AI Announcements Are Events, The New Search User Is The Trend</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-11T13:00:11+00:00",
+      "fetched": "2026-05-11T21:56:52.760062+00:00"
+    },
+    {
+      "id": "89cef6e1-b6c0-4440-81fa-3e381dda875b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How We Use AI To Run A 90-Day Growth Audit",
+      "link": "https://www.searchenginejournal.com/how-we-use-ai-to-run-a-90-day-growth-audit/572458/",
+      "summary": "AI is reshaping growth audits, turning weeks of manual analysis into actionable 90-day roadmaps that prioritize execution over documentation.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-we-use-ai-to-run-a-90-day-growth-audit/572458/\">How We Use AI To Run A 90-Day Growth Audit</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-11T12:00:30+00:00",
+      "fetched": "2026-05-11T21:56:52.760082+00:00"
+    },
+    {
+      "id": "a91ce1e7-b349-4a0f-b1d0-9123124992ce",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "I Helped Build Google\u2019s Keyword System. Here\u2019s Why It\u2019s Becoming Obsolete via @sejournal, @siliconvallaeys",
+      "link": "https://www.searchenginejournal.com/i-helped-build-googles-keyword-system-heres-why-its-becoming-obsolete/572362/",
+      "summary": "PPC is moving past keywords as AI-driven systems redefine targeting, forcing marketers to focus on intent, data quality, and post-click performance.\n\nThe post <a href=\"https://www.searchenginejournal.com/i-helped-build-googles-keyword-system-heres-why-its-becoming-obsolete/572362/\">I Helped Build Google&#8217;s Keyword System. Here&#8217;s Why It&#8217;s Becoming Obsolete</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-11T11:30:56+00:00",
+      "fetched": "2026-05-11T21:56:52.760104+00:00"
+    },
+    {
+      "id": "21b73709-af16-4d54-835d-24f02b28a29a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Ads Will Limit Access To Older Reporting Data via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-ads-will-limit-access-to-older-reporting-data/574467/",
+      "summary": "Google Ads will impose new access limits on historical reporting data available to advertisers in the interface and APIs.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ads-will-limit-access-to-older-reporting-data/574467/\">Google Ads Will Limit Access To Older Reporting Data</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-11T09:39:41+00:00",
+      "fetched": "2026-05-11T21:56:52.760122+00:00"
+    },
+    {
       "id": "451bdd3e-1599-4940-8511-2416be6c2b9a",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -164,62 +219,7 @@
       "summary": "Y Combinator general partner Aaron Epstein was joined by Raphael Schaad, founder of Cron that was sold to Notion, to discuss common mistakes made with AI designed websites. They identified seven common mistakes vibe coders made with their websites that should be avoided. Positive And Negatives The podcast started out by acknowledging that being able to vibe code a website is a positive thing that doesn\u2019t have to turn out poorly just because they\u2019re not a designer. Then they started visiting vibe",
       "published": "2026-05-07T13:18:10+00:00",
       "fetched": "2026-05-07T21:44:53.830867+00:00"
-    },
-    {
-      "id": "cd2d89bf-e427-4762-a60e-ba8e19fd396b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Quality Threshold Is Quietly Killing Scaled AI Content via @sejournal, @TaylorDanRW",
-      "link": "https://www.searchenginejournal.com/googles-quality-threshold-is-quietly-killing-scaled-ai-content/574071/",
-      "summary": "Every \"Mt. AI\" traffic crash tells the same story: volume without editorial strategy will always hit Google's quality threshold eventually.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-quality-threshold-is-quietly-killing-scaled-ai-content/574071/\">Google&#8217;s Quality Threshold Is Quietly Killing Scaled AI Content</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-07T13:00:17+00:00",
-      "fetched": "2026-05-07T21:44:53.830884+00:00"
-    },
-    {
-      "id": "70c6aeaa-d62a-463b-a520-08e385fc5679",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Leverage AI Ad Placements And Are They Worth It? \u2013 Ask A PPC via @sejournal, @navahf",
-      "link": "https://www.searchenginejournal.com/ask-a-ppc-how-to-leverage-ai-ad-placements-and-are-they-worth-it/573639/",
-      "summary": "AI ads aren't mysterious once you know the rules. Here's how to access inventory, set expectations, and build budget that actually works.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-a-ppc-how-to-leverage-ai-ad-placements-and-are-they-worth-it/573639/\">How To Leverage AI Ad Placements And Are They Worth It? \u2013 Ask A PPC</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-07T12:00:02+00:00",
-      "fetched": "2026-05-07T21:44:53.830911+00:00"
-    },
-    {
-      "id": "ac0146a9-2756-45b3-aaf2-9f331538c3f4",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Answers If Preferred Sources Overrides Low Quality Signals via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-answers-if-preferred-sources-overrides-low-quality-signals/574172/",
-      "summary": "Google's John Mueller answers if Preferred Sources overrides ranking signals. Could it be a \"trust button\" signal?\n\nThe post <a href=\"https://www.searchenginejournal.com/google-answers-if-preferred-sources-overrides-low-quality-signals/574172/\">Google Answers If Preferred Sources Overrides Low Quality Signals</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-07T10:29:02+00:00",
-      "fetched": "2026-05-07T21:44:53.830929+00:00"
-    },
-    {
-      "id": "37817abd-84b8-4cd9-b707-947c228af0a0",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Says AI Creative Should Help Brands Differentiate, Not Blend In via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/google-says-ai-creative-should-help-brands-differentiate-not-blend-in/574118/",
-      "summary": "Google addressed growing concerns around repetitive AI-generated ads, advertiser controls, and how brands can maintain differentiation at scale.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-says-ai-creative-should-help-brands-differentiate-not-blend-in/574118/\">Google Says AI Creative Should Help Brands Differentiate, Not Blend In</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-06T21:42:07+00:00",
-      "fetched": "2026-05-06T21:50:36.827710+00:00"
-    },
-    {
-      "id": "b2cb1f1e-5dd3-4a6b-ae89-a83576e181a8",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Bing Team Describes How Grounding Differs From Search Indexing via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/bing-team-describes-how-grounding-differs-from-search-indexing/574119/",
-      "summary": "Microsoft's Bing team published a framework describing how grounding for AI-generated answers differs from traditional search across five measurement areas.  \n\nThe post <a href=\"https://www.searchenginejournal.com/bing-team-describes-how-grounding-differs-from-search-indexing/574119/\">Bing Team Describes How Grounding Differs From Search Indexing</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-06T21:27:06+00:00",
-      "fetched": "2026-05-06T21:50:36.827736+00:00"
     }
   ],
-  "last_updated": "2026-05-10T21:37:59.330744+00:00"
+  "last_updated": "2026-05-11T21:56:53.651957+00:00"
 }
