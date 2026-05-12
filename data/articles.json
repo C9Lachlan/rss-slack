@@ -1,6 +1,72 @@
 {
   "articles": [
     {
+      "id": "63fc955e-03b5-4fed-8a38-e363b003e253",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Build Local Pages That Win In AI-Powered Search via @sejournal, @lorenbaker",
+      "link": "https://www.searchenginejournal.com/how-to-build-local-pages-that-win-in-ai-powered-search/574668/",
+      "summary": "Unlock the power of local SEO. Discover how to build authoritative pages that improve your visibility in AI search results.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-build-local-pages-that-win-in-ai-powered-search/574668/\">How To Build Local Pages That Win In AI-Powered Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-12T21:39:18+00:00",
+      "fetched": "2026-05-12T22:02:25.693482+00:00"
+    },
+    {
+      "id": "fdbffa02-6efa-4328-bc05-c6112967af1e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Scaling AI Content Is The #1 Enterprise Priority: How Do You Scale Without Penalty? via @sejournal, @theshelleywalsh",
+      "link": "https://www.searchenginejournal.com/scaling-ai-content-is-the-1-enterprise-priority-how-do-you-scale-without-penalty/574518/",
+      "summary": "Enterprise content leaders are scaling AI output and struggling to do it well. The highest-maturity organizations already know why.\n\nThe post <a href=\"https://www.searchenginejournal.com/scaling-ai-content-is-the-1-enterprise-priority-how-do-you-scale-without-penalty/574518/\">Scaling AI Content Is The #1 Enterprise Priority: How Do You Scale Without Penalty?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-12T13:30:30+00:00",
+      "fetched": "2026-05-12T22:02:25.693508+00:00"
+    },
+    {
+      "id": "21f89541-8149-4562-ac66-cd2631238f23",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "3 Actionable Ways Affiliate Managers & SEOs Can Keep Relevant \u2013 Ask An SEO via @sejournal, @rollerblader",
+      "link": "https://www.searchenginejournal.com/ask-an-seo-3-actionable-ways-affiliate-managers-seos-can-keep-relevant/573607/",
+      "summary": "A practical look at how SEOs and affiliate marketers can adapt payment models, brand positioning, and partnerships for AI-powered discovery.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-an-seo-3-actionable-ways-affiliate-managers-seos-can-keep-relevant/573607/\">3 Actionable Ways Affiliate Managers &#038; SEOs Can Keep Relevant \u2013 Ask An SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-12T11:30:05+00:00",
+      "fetched": "2026-05-12T22:02:25.693529+00:00"
+    },
+    {
+      "id": "4aa67cf2-48a9-4454-b987-e502e1c760e0",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Consensus Gap via @sejournal, @Kevin_Indig",
+      "link": "https://www.searchenginejournal.com/the-consensus-gap/574534/",
+      "summary": "A brand can look dominant in an aggregate AI dashboard and be invisible in two of three engines. Here's the data that proves it.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-consensus-gap/574534/\">The Consensus Gap</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-12T09:30:46+00:00",
+      "fetched": "2026-05-12T22:02:25.693551+00:00"
+    },
+    {
+      "id": "8f39b5a7-23b1-453f-95a1-223e5ea63219",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The 90-Day AI Search Sprint: How To Rebuild Your Marketing For 2026 Visibility via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/the-90-day-ai-search-sprint-how-to-rebuild-your-marketing-for-2026-visibility-recap/574396/",
+      "summary": "Unlock the secrets of AI visibility. This 90-day playbook can help enhance your brand\u2019s presence in AI searches.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-90-day-ai-search-sprint-how-to-rebuild-your-marketing-for-2026-visibility-recap/574396/\">The 90-Day AI Search Sprint: How To Rebuild Your Marketing For 2026 Visibility</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-12T07:45:49+00:00",
+      "fetched": "2026-05-12T22:02:25.693570+00:00"
+    },
+    {
+      "id": "7142560a-2e42-4fde-b7f3-bc1457fb66b8",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Tech SEO Audit for the AI Search Era: How to Maximize Your AI Visibility via @sejournal, @JetOctopus",
+      "link": "https://www.searchenginejournal.com/technical-ai-seo-audit-jetoctopus-spa/572262/",
+      "summary": "Unlock the secrets of AI visibility to adapt your website for future search trends and improve technical SEO practices.\n\nThe post <a href=\"https://www.searchenginejournal.com/technical-ai-seo-audit-jetoctopus-spa/572262/\">The Tech SEO Audit for the AI Search Era: How to Maximize Your AI Visibility</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-12T05:00:15+00:00",
+      "fetched": "2026-05-12T22:02:25.693587+00:00"
+    },
+    {
       "id": "82117ad8-c01c-42aa-8dc4-963abea35e08",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -153,73 +219,7 @@
       "summary": "WordPress delays rollout of real-time collaboration. Co-founder Mullenweg cites WPE lawsuit as a distraction hampering progress.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-7-0-will-ship-without-real-time-collaboration/574330/\">WordPress 7.0 Will Ship Without Real-Time Collaboration</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-05-08T10:36:35+00:00",
       "fetched": "2026-05-08T21:49:22.638869+00:00"
-    },
-    {
-      "id": "289ea5e9-b975-4535-8041-4941e70d9d61",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "\u201cSEO Expert\u201d Became \u201cAI Search Expert\u201d (Gulp.): How To Control AI Answer Accuracy via @sejournal, @lorenbaker",
-      "link": "https://www.searchenginejournal.com/seo-expert-became-ai-search-expert-gulp-how-to-control-ai-answer-accuracy/574245/",
-      "summary": "About a year ago, your job description changed without your permission. This on-demand session helps you catch up and take the lead. Suddenly need to track both SERP rankings and AI accuracy? How do you make sure AI is saying the right things about your brand? What\u2019s the best way to transition from SEO to AI Search Expert? \ud83d\udc46 Follow our lead. Register above, get 3 strategies & become the AI search expert your org needs. You aren\u2019t just fighting for clicks anymore; you\u2019re fighting to ensure that w",
-      "published": "2026-05-07T16:41:38+00:00",
-      "fetched": "2026-05-07T21:44:53.830755+00:00"
-    },
-    {
-      "id": "067d8880-4d55-4cee-b82e-9901fd1a2fa6",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Keyword Research Has A New Strategy & It\u2019s Getting Local Businesses Into AI Results [Webinar] via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/keyword-research-has-a-new-strategy-its-getting-local-businesses-into-ai-results-webinar/573484/",
-      "summary": "Unlock the power of local SEO with effective keyword research. Learn how to leverage local trust signals for better results.\n\nThe post <a href=\"https://www.searchenginejournal.com/keyword-research-has-a-new-strategy-its-getting-local-businesses-into-ai-results-webinar/573484/\">Keyword Research Has A New Strategy &#038; It&#8217;s Getting Local Businesses Into AI Results [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-07T16:21:50+00:00",
-      "fetched": "2026-05-07T21:44:53.830782+00:00"
-    },
-    {
-      "id": "b02177ea-507b-4ef6-82de-36f2e77f545c",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Mueller: Vibe Coding Won\u2019t Handle Your SEO For You via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/googles-mueller-vibe-coding-wont-handle-your-seo-for-you/574237/",
-      "summary": "Google's John Mueller and Martin Splitt shared their vibe coding experiences, noting that AI tools still need specific SEO instructions to work well. \n\nThe post <a href=\"https://www.searchenginejournal.com/googles-mueller-vibe-coding-wont-handle-your-seo-for-you/574237/\">Google&#8217;s Mueller: Vibe Coding Won&#8217;t Handle Your SEO For You</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-07T16:02:11+00:00",
-      "fetched": "2026-05-07T21:44:53.830803+00:00"
-    },
-    {
-      "id": "788e3d44-30b2-474d-b295-4390108bb0d2",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Ads Introduces Journey-Aware Bidding And New Budget Pacing Updates via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/google-ads-introduces-journey-aware-bidding-and-new-budget-pacing-updates/574141/",
-      "summary": "Google Ads introduces Journey-aware Bidding, Smart Bidding Exploration expansion, and new budget pacing updates for Search, Shopping, and Performance Max campaigns.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ads-introduces-journey-aware-bidding-and-new-budget-pacing-updates/574141/\">Google Ads Introduces Journey-Aware Bidding And New Budget Pacing Updates</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-07T15:00:15+00:00",
-      "fetched": "2026-05-07T21:44:53.830826+00:00"
-    },
-    {
-      "id": "2bb90268-5322-4dc1-9d59-c0f546ee2cb4",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The ROI Problem With AI Traffic Nobody Is Measuring Correctly via @sejournal, @DuaneForrester",
-      "link": "https://www.searchenginejournal.com/the-roi-problem-with-ai-traffic-nobody-is-measuring-correctly/573638/",
-      "summary": "AI visibility ROI can't be measured in clicks because clicks were never part of the design. Here's the framework shift before the spreadsheet catches up.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-roi-problem-with-ai-traffic-nobody-is-measuring-correctly/573638/\">The ROI Problem With AI Traffic Nobody Is Measuring Correctly</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-07T13:30:20+00:00",
-      "fetched": "2026-05-07T21:44:53.830845+00:00"
-    },
-    {
-      "id": "edd62a9c-998f-4d5e-8217-56fdfb5edf86",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "7 Common AI Website Mistakes That Are Easy To Avoid via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/7-common-ai-website-mistakes-that-are-easy-to-avoid/574196/",
-      "summary": "Y Combinator general partner Aaron Epstein was joined by Raphael Schaad, founder of Cron that was sold to Notion, to discuss common mistakes made with AI designed websites. They identified seven common mistakes vibe coders made with their websites that should be avoided. Positive And Negatives The podcast started out by acknowledging that being able to vibe code a website is a positive thing that doesn\u2019t have to turn out poorly just because they\u2019re not a designer. Then they started visiting vibe",
-      "published": "2026-05-07T13:18:10+00:00",
-      "fetched": "2026-05-07T21:44:53.830867+00:00"
     }
   ],
-  "last_updated": "2026-05-11T21:56:53.651957+00:00"
+  "last_updated": "2026-05-12T22:02:26.377053+00:00"
 }
