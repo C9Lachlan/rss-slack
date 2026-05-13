@@ -1,6 +1,94 @@
 {
   "articles": [
     {
+      "id": "28725676-7597-4417-9673-30914d3bf45c",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Quietly Changed How Search Terms Are Reported For Some AI Queries via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/google-quietly-changed-how-search-terms-are-reported-for-some-ai-queries/574803/",
+      "summary": "Google quietly updated Search Terms reporting for AI Mode, AI Overviews, Lens, and autocomplete. Here\u2019s why advertisers may be concerned about interpreted queries.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-quietly-changed-how-search-terms-are-reported-for-some-ai-queries/574803/\">Google Quietly Changed How Search Terms Are Reported For Some AI Queries</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-13T19:07:25+00:00",
+      "fetched": "2026-05-13T22:03:36.206879+00:00"
+    },
+    {
+      "id": "75cedf76-00c5-49de-9365-064c5a1a1912",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Cond\u00e9 Nast CEO: Plan As If Search Traffic Will Be Zero via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/conde-nast-ceo-plan-as-if-search-traffic-will-be-zero/574786/",
+      "summary": "Cond\u00e9 Nast CEO Roger Lynch told teams to plan as if search traffic will be zero after three years of forecasts that underestimated actual declines.\n\nThe post <a href=\"https://www.searchenginejournal.com/conde-nast-ceo-plan-as-if-search-traffic-will-be-zero/574786/\">Cond\u00e9 Nast CEO: Plan As If Search Traffic Will Be Zero</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-13T15:10:42+00:00",
+      "fetched": "2026-05-13T22:03:36.206898+00:00"
+    },
+    {
+      "id": "ad23cf0b-0ce3-43e7-8522-a893b571a3d8",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why Your SEO Work Isn\u2019t Getting Implemented (The IT Line Of Death) via @sejournal, @billhunt",
+      "link": "https://www.searchenginejournal.com/why-your-seo-work-isnt-getting-implemented-the-it-line-of-death/573255/",
+      "summary": "SEO fails when it can\u2019t compete for resources. Learn how to win above the \u201cIT line of death.\u201d\n\nThe post <a href=\"https://www.searchenginejournal.com/why-your-seo-work-isnt-getting-implemented-the-it-line-of-death/573255/\">Why Your SEO Work Isn\u2019t Getting Implemented (The IT Line Of Death)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-13T13:00:20+00:00",
+      "fetched": "2026-05-13T22:03:36.206913+00:00"
+    },
+    {
+      "id": "b06edcd5-6029-4cd5-a1e8-a484cff8f646",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Research\u2019s ALDRIFT: AI Answers That Do More Than Sound Plausible via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-researchs-aldrift-ai-answers-that-do-more-than-sound-plausible/574754/",
+      "summary": "Google's ALDRIFT framework \"opens exciting avenues\" toward AI answers that do more than sound plausible.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-researchs-aldrift-ai-answers-that-do-more-than-sound-plausible/574754/\">Google Research&#8217;s ALDRIFT: AI Answers That Do More Than Sound Plausible</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-13T11:41:26+00:00",
+      "fetched": "2026-05-13T22:03:36.206930+00:00"
+    },
+    {
+      "id": "ea5c325c-c857-4741-9c00-07177beb84bf",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Lessons Learned From Adobe\u2019s 2026 Q2 AI Traffic Report via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/lessons-learned-from-adobes-2026-q2-ai-traffic-report/574176/",
+      "summary": "Optimization and legibility are not the same thing. Adobe's 2026 AI traffic data shows which one actually drives the 393% growth in AI-referred retail conversions.\n\nThe post <a href=\"https://www.searchenginejournal.com/lessons-learned-from-adobes-2026-q2-ai-traffic-report/574176/\">Lessons Learned From Adobe&#8217;s 2026 Q2 AI Traffic Report</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-13T11:00:47+00:00",
+      "fetched": "2026-05-13T22:03:36.206945+00:00"
+    },
+    {
+      "id": "c82515c7-0987-4999-b4e5-4d917e4dd604",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Data Shows AI Overviews Exposing Negative Reviews Without User Intent. What To Do Next via @sejournal, @EraseDotCom",
+      "link": "https://www.searchenginejournal.com/data-shows-ai-overviews-exposing-negative-reviews-spa/574755/",
+      "summary": "Discover the importance of AI in reviews and brand visibility. Learn how AI tools affect perceptions in our latest review.\n\nThe post <a href=\"https://www.searchenginejournal.com/data-shows-ai-overviews-exposing-negative-reviews-spa/574755/\">Data Shows AI Overviews Exposing Negative Reviews Without User Intent. What To Do Next</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-13T10:42:04+00:00",
+      "fetched": "2026-05-13T22:03:36.206957+00:00"
+    },
+    {
+      "id": "9d9b7480-6804-4103-8255-daab053dcd58",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "HubSpot Stock Crashed 19% \u2013 What It Means For Partner Agencies via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/hubspot-stock-crashed-19-what-it-means-for-partner-agencies/574410/",
+      "summary": "The difference between durable expertise and replaceable tactics has never mattered more for HubSpot partner agencies. Here's how to tell which one you're selling.\n\nThe post <a href=\"https://www.searchenginejournal.com/hubspot-stock-crashed-19-what-it-means-for-partner-agencies/574410/\">HubSpot Stock Crashed 19% \u2013 What It Means For Partner Agencies</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-13T09:00:13+00:00",
+      "fetched": "2026-05-13T22:03:36.206970+00:00"
+    },
+    {
+      "id": "e1b92bc4-070e-4843-9899-76a754380b06",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Measure SERP Visibility When Rankings Aren\u2019t Enough [Webinar] via @sejournal, @lorenbaker",
+      "link": "https://www.searchenginejournal.com/how-to-measure-serp-visibility-when-rankings-arent-enough-webinar/574554/",
+      "summary": "Is your rank misleading? Learn about SERP & AI visibility and how new features affect the perception of your brand online.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-measure-serp-visibility-when-rankings-arent-enough-webinar/574554/\">How To Measure SERP Visibility When Rankings Aren&#8217;t Enough [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-13T07:45:28+00:00",
+      "fetched": "2026-05-13T22:03:36.206993+00:00"
+    },
+    {
       "id": "63fc955e-03b5-4fed-8a38-e363b003e253",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -131,95 +219,7 @@
       "summary": "The latest UCP updates signal a shift from experimentation to readiness as AI-driven commerce infrastructure becomes embedded in existing retail systems.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-ucp-update-carts-catalogs-and-loyalty-in-ai-shopping/571496/\">Google&#8217;s UCP Update: Carts, Catalogs, And Loyalty In AI Shopping</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-05-10T12:00:07+00:00",
       "fetched": "2026-05-10T21:37:58.574051+00:00"
-    },
-    {
-      "id": "1d0bd17e-b600-4b89-9682-085de3d0567a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Drops FAQ Rich Results From Search via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-drops-faq-rich-results-from-search/574429/",
-      "summary": "Google deprecated FAQ rich results, completing a removal that started years ago. FAQ rich results were already restricted for most sites. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-drops-faq-rich-results-from-search/574429/\">Google Drops FAQ Rich Results From Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-10T08:54:15+00:00",
-      "fetched": "2026-05-10T21:37:58.574081+00:00"
-    },
-    {
-      "id": "54b1f035-0d00-4968-9a4c-d7feba2c7c27",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Expands AI Search Links Without New Click Data via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-expands-ai-search-links-without-new-click-data/574307/",
-      "summary": "Google added more link surfaces to AI Search, but not new reporting for publishers. Studies continue to show lower clicks when AI responses appear. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-expands-ai-search-links-without-new-click-data/574307/\">Google Expands AI Search Links Without New Click Data</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-09T12:00:34+00:00",
-      "fetched": "2026-05-09T21:33:37.091495+00:00"
-    },
-    {
-      "id": "40999ff4-0d8c-4cd8-a7bc-2611ee8cb9e0",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "From Reddit to Revenue: Building Real Community That Drives Sales and AI Visibility via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/from-reddit-to-revenue-building-real-community-that-drives-sales-and-ai-visibility-recap/574380/",
-      "summary": "Elevate your brand's multi-channel AI visibility using Reddit. Discover strategies that drive trust and revenue for your business.\n\nThe post <a href=\"https://www.searchenginejournal.com/from-reddit-to-revenue-building-real-community-that-drives-sales-and-ai-visibility-recap/574380/\">From Reddit to Revenue: Building Real Community That Drives Sales and AI Visibility</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-08T19:53:42+00:00",
-      "fetched": "2026-05-08T21:49:22.638759+00:00"
-    },
-    {
-      "id": "6b786bf5-f82f-4511-8e13-f687e4904d0a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Agent Runtime Wars Have Begun. Is Your Website Ready? via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/the-agent-runtime-wars-have-begun-is-your-website-ready/574174/",
-      "summary": "The agentic web shipped for real in April. Here's what Cloudflare, OpenAI, and Sundar Pichai all said that web professionals need to hear.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-agent-runtime-wars-have-begun-is-your-website-ready/574174/\">The Agent Runtime Wars Have Begun. Is Your Website Ready?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-08T13:00:11+00:00",
-      "fetched": "2026-05-08T21:49:22.638785+00:00"
-    },
-    {
-      "id": "88cd368b-5125-40be-a76f-f9004f9fb924",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "New AI Search Links, Core Update Winners And Losers \u2013 SEO Pulse via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-new-ai-search-links-core-update-winners-and-losers/574314/",
-      "summary": "Google adds subscription labels and inline links to AI Search. Amsive maps core update winners and losers. Plus Mueller on vibe coding and Preferred Sources.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-new-ai-search-links-core-update-winners-and-losers/574314/\">New AI Search Links, Core Update Winners And Losers &#8211; SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-08T12:30:36+00:00",
-      "fetched": "2026-05-08T21:49:22.638809+00:00"
-    },
-    {
-      "id": "bd1a6d32-d43c-4542-bc29-73173f97921a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Reddit Earnings Story Most Marketers Missed via @sejournal, @brentcsutoras",
-      "link": "https://www.searchenginejournal.com/the-reddit-earnings-story-most-marketers-missed/573727/",
-      "summary": "Ad revenue headlines missed the real story from Reddit's Q1 2026 earnings. The strategic shift for organic marketers runs much deeper than DAU numbers.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-reddit-earnings-story-most-marketers-missed/573727/\">The Reddit Earnings Story Most Marketers Missed</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-08T12:00:40+00:00",
-      "fetched": "2026-05-08T21:49:22.638832+00:00"
-    },
-    {
-      "id": "a530f321-45e4-4883-af34-b39192060da5",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Companies Are Selling Heartwarming Ads \u2013 They\u2019re Racing To Automate Your Job via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/ai-companies-are-selling-heartwarming-ads-theyre-racing-to-automate-your-job/573626/",
-      "summary": "Track your organic CTR, citation share of voice, and team capability, not the AI company narrative. Here's what the ads aren't saying.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-companies-are-selling-heartwarming-ads-theyre-racing-to-automate-your-job/573626/\">AI Companies Are Selling Heartwarming Ads \u2013 They&#8217;re Racing To Automate Your Job</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-08T11:00:37+00:00",
-      "fetched": "2026-05-08T21:49:22.638852+00:00"
-    },
-    {
-      "id": "39eeb63c-2496-4b3a-94fa-0f49892b8998",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "WordPress 7.0 Will Ship Without Real-Time Collaboration via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/wordpress-7-0-will-ship-without-real-time-collaboration/574330/",
-      "summary": "WordPress delays rollout of real-time collaboration. Co-founder Mullenweg cites WPE lawsuit as a distraction hampering progress.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-7-0-will-ship-without-real-time-collaboration/574330/\">WordPress 7.0 Will Ship Without Real-Time Collaboration</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-08T10:36:35+00:00",
-      "fetched": "2026-05-08T21:49:22.638869+00:00"
     }
   ],
-  "last_updated": "2026-05-12T22:02:26.377053+00:00"
+  "last_updated": "2026-05-13T22:03:36.739214+00:00"
 }
