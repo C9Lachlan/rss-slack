@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "7659f816-487a-4be3-af3f-31d6fadfe8dc",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Analytics Adds AI Assistant As Default Channel Group via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-analytics-adds-ai-assistant-as-default-channel-group/574974/",
+      "summary": "Google Analytics now separates AI assistant traffic from referrals with a new default channel group for recognized chatbot referrers like ChatGPT and Gemini.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-analytics-adds-ai-assistant-as-default-channel-group/574974/\">Google Analytics Adds AI Assistant As Default Channel Group</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-14T15:50:42+00:00",
+      "fetched": "2026-05-14T21:59:56.837484+00:00"
+    },
+    {
+      "id": "18ca37d3-8bb1-42bf-88d8-549608396ef8",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Stop Treating AI Visibility As One Problem. It\u2019s Actually Three, On Three Different Layers via @sejournal, @DuaneForrester",
+      "link": "https://www.searchenginejournal.com/stop-treating-ai-visibility-as-one-problem-its-actually-three-on-three-different-layers/574445/",
+      "summary": "When your brand disappears from ChatGPT or Perplexity, the fix isn't more content. It's diagnosing which layer broke down.\n\nThe post <a href=\"https://www.searchenginejournal.com/stop-treating-ai-visibility-as-one-problem-its-actually-three-on-three-different-layers/574445/\">Stop Treating AI Visibility As One Problem. It\u2019s Actually Three, On Three Different Layers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-14T13:00:19+00:00",
+      "fetched": "2026-05-14T21:59:56.837512+00:00"
+    },
+    {
+      "id": "90b5dda3-2392-4d3e-bb5a-b9f48cb356ed",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Direct Traffic & Popularity \u2013 Correlation, Not Causation via @sejournal, @TaylorDanRW",
+      "link": "https://www.searchenginejournal.com/direct-traffic-popularity-correlation-not-causation/574507/",
+      "summary": "A new AI citation study sparked a familiar SEO debate: the difference between a ranking factor and a symptom of ranking success.\n\nThe post <a href=\"https://www.searchenginejournal.com/direct-traffic-popularity-correlation-not-causation/574507/\">Direct Traffic &#038; Popularity \u2013 Correlation, Not Causation</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-14T11:30:10+00:00",
+      "fetched": "2026-05-14T21:59:56.837546+00:00"
+    },
+    {
+      "id": "cbf9e8df-fff3-4491-b32c-5e13dbb060e9",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Measure AI Search: Current KPIs You Need To Know [Webinar] via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/how-to-measure-ai-search-current-kpis-you-need-to-know/573477/",
+      "summary": "Find out how to address the measurement problem in marketing with effective KPI strategies in a changing digital landscape.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-measure-ai-search-current-kpis-you-need-to-know/573477/\">How To Measure AI Search: Current KPIs You Need To Know [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-14T07:45:54+00:00",
+      "fetched": "2026-05-14T21:59:56.837575+00:00"
+    },
+    {
+      "id": "7a3b3250-e922-4616-a620-71eb31ee812f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Liquid Web WordPress Plugin Rebrand Triggers Backlash via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/liquid-web-wordpress-plugin-rebrand-triggers-backlash/574828/",
+      "summary": "A Liquid Web rebrand of StellarWP plugins triggered backlash after users reported missing pages, login issues, and license confusion.\n\nThe post <a href=\"https://www.searchenginejournal.com/liquid-web-wordpress-plugin-rebrand-triggers-backlash/574828/\">Liquid Web WordPress Plugin Rebrand Triggers Backlash</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-13T23:28:37+00:00",
+      "fetched": "2026-05-14T21:59:56.837591+00:00"
+    },
+    {
       "id": "28725676-7597-4417-9673-30914d3bf45c",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -164,62 +219,7 @@
       "summary": "An Ahrefs report tested whether adding schema markup to pages already cited by AI improved their citation rates. \n\nThe post <a href=\"https://www.searchenginejournal.com/schema-markup-didnt-move-ai-citations-in-ahrefs-test/574568/\">Schema Markup Didn&#8217;t Move AI Citations In Ahrefs Test</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-05-11T21:06:10+00:00",
       "fetched": "2026-05-11T21:56:52.760031+00:00"
-    },
-    {
-      "id": "8d384edd-792e-4b87-a487-54a530549c84",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s AI Announcements Are Events, The New Search User Is The Trend via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/googles-ai-announcements-are-events-the-new-search-user-is-the-trend/573922/",
-      "summary": "AI announcements tell you what Google shipped. Changing user search behavior tells you where your audience is going. Are you watching the right signal?\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-ai-announcements-are-events-the-new-search-user-is-the-trend/573922/\">Google&#8217;s AI Announcements Are Events, The New Search User Is The Trend</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-11T13:00:11+00:00",
-      "fetched": "2026-05-11T21:56:52.760062+00:00"
-    },
-    {
-      "id": "89cef6e1-b6c0-4440-81fa-3e381dda875b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How We Use AI To Run A 90-Day Growth Audit",
-      "link": "https://www.searchenginejournal.com/how-we-use-ai-to-run-a-90-day-growth-audit/572458/",
-      "summary": "AI is reshaping growth audits, turning weeks of manual analysis into actionable 90-day roadmaps that prioritize execution over documentation.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-we-use-ai-to-run-a-90-day-growth-audit/572458/\">How We Use AI To Run A 90-Day Growth Audit</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-11T12:00:30+00:00",
-      "fetched": "2026-05-11T21:56:52.760082+00:00"
-    },
-    {
-      "id": "a91ce1e7-b349-4a0f-b1d0-9123124992ce",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "I Helped Build Google\u2019s Keyword System. Here\u2019s Why It\u2019s Becoming Obsolete via @sejournal, @siliconvallaeys",
-      "link": "https://www.searchenginejournal.com/i-helped-build-googles-keyword-system-heres-why-its-becoming-obsolete/572362/",
-      "summary": "PPC is moving past keywords as AI-driven systems redefine targeting, forcing marketers to focus on intent, data quality, and post-click performance.\n\nThe post <a href=\"https://www.searchenginejournal.com/i-helped-build-googles-keyword-system-heres-why-its-becoming-obsolete/572362/\">I Helped Build Google&#8217;s Keyword System. Here&#8217;s Why It&#8217;s Becoming Obsolete</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-11T11:30:56+00:00",
-      "fetched": "2026-05-11T21:56:52.760104+00:00"
-    },
-    {
-      "id": "21b73709-af16-4d54-835d-24f02b28a29a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Ads Will Limit Access To Older Reporting Data via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-ads-will-limit-access-to-older-reporting-data/574467/",
-      "summary": "Google Ads will impose new access limits on historical reporting data available to advertisers in the interface and APIs.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ads-will-limit-access-to-older-reporting-data/574467/\">Google Ads Will Limit Access To Older Reporting Data</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-11T09:39:41+00:00",
-      "fetched": "2026-05-11T21:56:52.760122+00:00"
-    },
-    {
-      "id": "451bdd3e-1599-4940-8511-2416be6c2b9a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s UCP Update: Carts, Catalogs, And Loyalty In AI Shopping via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/googles-ucp-update-carts-catalogs-and-loyalty-in-ai-shopping/571496/",
-      "summary": "The latest UCP updates signal a shift from experimentation to readiness as AI-driven commerce infrastructure becomes embedded in existing retail systems.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-ucp-update-carts-catalogs-and-loyalty-in-ai-shopping/571496/\">Google&#8217;s UCP Update: Carts, Catalogs, And Loyalty In AI Shopping</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-10T12:00:07+00:00",
-      "fetched": "2026-05-10T21:37:58.574051+00:00"
     }
   ],
-  "last_updated": "2026-05-13T22:03:36.739214+00:00"
+  "last_updated": "2026-05-14T21:59:57.814795+00:00"
 }
