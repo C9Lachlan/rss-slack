@@ -1,6 +1,39 @@
 {
   "articles": [
     {
+      "id": "508ad711-e9bb-4145-bffb-6bb8281d9a30",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s New AI Search Guide Calls AEO And GEO \u2018Still SEO\u2019 via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/googles-new-ai-search-guide-calls-aeo-and-geo-still-seo/575026/",
+      "summary": "Google's new AI Search guide says AEO and GEO are still SEO and names tactics site owners can ignore, including llms.txt, chunking, and special schema. \n\nThe post <a href=\"https://www.searchenginejournal.com/googles-new-ai-search-guide-calls-aeo-and-geo-still-seo/575026/\">Google&#8217;s New AI Search Guide Calls AEO And GEO &#8216;Still SEO&#8217;</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-15T16:14:25+00:00",
+      "fetched": "2026-05-15T21:48:57.800747+00:00"
+    },
+    {
+      "id": "50ff42da-f79b-49dc-985f-bd2a58e64305",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "GA4 Tracks AI Assistant Traffic, FAQ Results Gone \u2013 SEO Pulse via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/seo-pulse-ga4-tracks-ai-assistant-traffic-faq-results-gone/575010/",
+      "summary": "Google adds AI assistant traffic to GA4, FAQ rich results are gone, Ahrefs tests schema, and Cond\u00e9 Nast plans around near-zero search forecasts.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-ga4-tracks-ai-assistant-traffic-faq-results-gone/575010/\">GA4 Tracks AI Assistant Traffic, FAQ Results Gone &#8211; SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-15T12:30:12+00:00",
+      "fetched": "2026-05-15T21:48:57.800790+00:00"
+    },
+    {
+      "id": "e6768601-205b-42ec-9770-e5a75eaabf60",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why Your AI Ad Strategy Is Only As Good As Your Data via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/why-your-ai-ad-strategy-is-only-as-good-as-your-data/574661/",
+      "summary": "AI magnifies what you give it. Weak inputs produce accelerated inefficiency. Here's what feeding the machine better signals actually looks like in 2026.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-your-ai-ad-strategy-is-only-as-good-as-your-data/574661/\">Why Your AI Ad Strategy Is Only As Good As Your Data</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-15T09:00:23+00:00",
+      "fetched": "2026-05-15T21:48:57.800822+00:00"
+    },
+    {
       "id": "7659f816-487a-4be3-af3f-31d6fadfe8dc",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -186,40 +219,7 @@
       "summary": "A brand can look dominant in an aggregate AI dashboard and be invisible in two of three engines. Here's the data that proves it.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-consensus-gap/574534/\">The Consensus Gap</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-05-12T09:30:46+00:00",
       "fetched": "2026-05-12T22:02:25.693551+00:00"
-    },
-    {
-      "id": "8f39b5a7-23b1-453f-95a1-223e5ea63219",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The 90-Day AI Search Sprint: How To Rebuild Your Marketing For 2026 Visibility via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/the-90-day-ai-search-sprint-how-to-rebuild-your-marketing-for-2026-visibility-recap/574396/",
-      "summary": "Unlock the secrets of AI visibility. This 90-day playbook can help enhance your brand\u2019s presence in AI searches.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-90-day-ai-search-sprint-how-to-rebuild-your-marketing-for-2026-visibility-recap/574396/\">The 90-Day AI Search Sprint: How To Rebuild Your Marketing For 2026 Visibility</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-12T07:45:49+00:00",
-      "fetched": "2026-05-12T22:02:25.693570+00:00"
-    },
-    {
-      "id": "7142560a-2e42-4fde-b7f3-bc1457fb66b8",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Tech SEO Audit for the AI Search Era: How to Maximize Your AI Visibility via @sejournal, @JetOctopus",
-      "link": "https://www.searchenginejournal.com/technical-ai-seo-audit-jetoctopus-spa/572262/",
-      "summary": "Unlock the secrets of AI visibility to adapt your website for future search trends and improve technical SEO practices.\n\nThe post <a href=\"https://www.searchenginejournal.com/technical-ai-seo-audit-jetoctopus-spa/572262/\">The Tech SEO Audit for the AI Search Era: How to Maximize Your AI Visibility</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-12T05:00:15+00:00",
-      "fetched": "2026-05-12T22:02:25.693587+00:00"
-    },
-    {
-      "id": "82117ad8-c01c-42aa-8dc4-963abea35e08",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Schema Markup Didn\u2019t Move AI Citations In Ahrefs Test via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/schema-markup-didnt-move-ai-citations-in-ahrefs-test/574568/",
-      "summary": "An Ahrefs report tested whether adding schema markup to pages already cited by AI improved their citation rates. \n\nThe post <a href=\"https://www.searchenginejournal.com/schema-markup-didnt-move-ai-citations-in-ahrefs-test/574568/\">Schema Markup Didn&#8217;t Move AI Citations In Ahrefs Test</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-11T21:06:10+00:00",
-      "fetched": "2026-05-11T21:56:52.760031+00:00"
     }
   ],
-  "last_updated": "2026-05-14T21:59:57.814795+00:00"
+  "last_updated": "2026-05-15T21:48:59.085491+00:00"
 }
