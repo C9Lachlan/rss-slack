@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "id": "e242de2e-4b3b-420a-bfbd-81581350f61f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Meta Doesn\u2019t Know What Business It\u2019s In & The Traffic Data Shows It via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/meta-doesnt-know-what-business-its-in-the-traffic-data-shows-it/574375/",
+      "summary": "The traffic data doesn't lie: Google at 111 billion monthly visits, Facebook at 10 billion. Here's what Marketing Myopia says about that gap.\n\nThe post <a href=\"https://www.searchenginejournal.com/meta-doesnt-know-what-business-its-in-the-traffic-data-shows-it/574375/\">Meta Doesn&#8217;t Know What Business It&#8217;s In &#038; The Traffic Data Shows It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-16T15:00:16+00:00",
+      "fetched": "2026-05-16T21:38:59.679940+00:00"
+    },
+    {
+      "id": "40b4976b-b1d1-4bdc-8fd3-dffcd193535e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "SERP FAQ Removal & New Data Challenge Schema\u2019s AI Search Value via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/serp-faq-removal-new-data-challenge-schemas-ai-search-value/574993/",
+      "summary": "Google's FAQ removal and new Ahrefs research challenge schema's value for SERP visibility and AI citations.\n\nThe post <a href=\"https://www.searchenginejournal.com/serp-faq-removal-new-data-challenge-schemas-ai-search-value/574993/\">SERP FAQ Removal &#038; New Data Challenge Schema&#8217;s AI Search Value</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-16T12:00:54+00:00",
+      "fetched": "2026-05-16T21:38:59.679967+00:00"
+    },
+    {
       "id": "508ad711-e9bb-4145-bffb-6bb8281d9a30",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -197,29 +219,7 @@
       "summary": "Enterprise content leaders are scaling AI output and struggling to do it well. The highest-maturity organizations already know why.\n\nThe post <a href=\"https://www.searchenginejournal.com/scaling-ai-content-is-the-1-enterprise-priority-how-do-you-scale-without-penalty/574518/\">Scaling AI Content Is The #1 Enterprise Priority: How Do You Scale Without Penalty?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-05-12T13:30:30+00:00",
       "fetched": "2026-05-12T22:02:25.693508+00:00"
-    },
-    {
-      "id": "21f89541-8149-4562-ac66-cd2631238f23",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "3 Actionable Ways Affiliate Managers & SEOs Can Keep Relevant \u2013 Ask An SEO via @sejournal, @rollerblader",
-      "link": "https://www.searchenginejournal.com/ask-an-seo-3-actionable-ways-affiliate-managers-seos-can-keep-relevant/573607/",
-      "summary": "A practical look at how SEOs and affiliate marketers can adapt payment models, brand positioning, and partnerships for AI-powered discovery.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-an-seo-3-actionable-ways-affiliate-managers-seos-can-keep-relevant/573607/\">3 Actionable Ways Affiliate Managers &#038; SEOs Can Keep Relevant \u2013 Ask An SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-12T11:30:05+00:00",
-      "fetched": "2026-05-12T22:02:25.693529+00:00"
-    },
-    {
-      "id": "4aa67cf2-48a9-4454-b987-e502e1c760e0",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Consensus Gap via @sejournal, @Kevin_Indig",
-      "link": "https://www.searchenginejournal.com/the-consensus-gap/574534/",
-      "summary": "A brand can look dominant in an aggregate AI dashboard and be invisible in two of three engines. Here's the data that proves it.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-consensus-gap/574534/\">The Consensus Gap</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-12T09:30:46+00:00",
-      "fetched": "2026-05-12T22:02:25.693551+00:00"
     }
   ],
-  "last_updated": "2026-05-15T21:48:59.085491+00:00"
+  "last_updated": "2026-05-16T21:39:06.807223+00:00"
 }
