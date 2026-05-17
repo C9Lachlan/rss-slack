@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": "c2df22d8-bdd2-4781-ad64-c87cffb1cb48",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google-Agent: The Web\u2019s New Visitor Just Got An Identity via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/google-agent-the-webs-new-visitor-just-got-an-identity/571508/",
+      "summary": "Google-Agent introduces a new class of web visitor: AI agents acting on behalf of users, not crawlers indexing content.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-agent-the-webs-new-visitor-just-got-an-identity/571508/\">Google-Agent: The Web&#8217;s New Visitor Just Got An Identity</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-17T12:00:45+00:00",
+      "fetched": "2026-05-17T21:44:03.192624+00:00"
+    },
+    {
       "id": "e242de2e-4b3b-420a-bfbd-81581350f61f",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -208,18 +219,7 @@
       "summary": "Unlock the power of local SEO. Discover how to build authoritative pages that improve your visibility in AI search results.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-build-local-pages-that-win-in-ai-powered-search/574668/\">How To Build Local Pages That Win In AI-Powered Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-05-12T21:39:18+00:00",
       "fetched": "2026-05-12T22:02:25.693482+00:00"
-    },
-    {
-      "id": "fdbffa02-6efa-4328-bc05-c6112967af1e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Scaling AI Content Is The #1 Enterprise Priority: How Do You Scale Without Penalty? via @sejournal, @theshelleywalsh",
-      "link": "https://www.searchenginejournal.com/scaling-ai-content-is-the-1-enterprise-priority-how-do-you-scale-without-penalty/574518/",
-      "summary": "Enterprise content leaders are scaling AI output and struggling to do it well. The highest-maturity organizations already know why.\n\nThe post <a href=\"https://www.searchenginejournal.com/scaling-ai-content-is-the-1-enterprise-priority-how-do-you-scale-without-penalty/574518/\">Scaling AI Content Is The #1 Enterprise Priority: How Do You Scale Without Penalty?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-12T13:30:30+00:00",
-      "fetched": "2026-05-12T22:02:25.693508+00:00"
     }
   ],
-  "last_updated": "2026-05-16T21:39:06.807223+00:00"
+  "last_updated": "2026-05-17T21:44:05.320682+00:00"
 }
