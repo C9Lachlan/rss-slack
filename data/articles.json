@@ -1,6 +1,39 @@
 {
   "articles": [
     {
+      "id": "0122d69b-8187-47f3-afa7-4089b76534c1",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "It Works Until It Doesn\u2019t: AI Content Strategies That Backfire via @sejournal, @lilyraynyc",
+      "link": "https://www.searchenginejournal.com/it-works-until-it-doesnt-ai-content-strategies-that-backfire/574820/",
+      "summary": "Scaling content with AI looks like an SEO win until it doesn't. Data from 220+ sites shows a familiar boom-bust pattern Google has seen before.\n\nThe post <a href=\"https://www.searchenginejournal.com/it-works-until-it-doesnt-ai-content-strategies-that-backfire/574820/\">It Works Until It Doesn&#8217;t: AI Content Strategies That Backfire</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-18T13:00:17+00:00",
+      "fetched": "2026-05-18T21:57:33.981608+00:00"
+    },
+    {
+      "id": "9dfcfc68-56c2-47e6-bda6-c657f451faf3",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Rethinking Audience Targeting In A Signal-Loss Era (With The R.E.M. Framework) via @sejournal, @SequinsNsearch",
+      "link": "https://www.searchenginejournal.com/rethinking-audience-targeting-signal-loss-era-rem-framework/572422/",
+      "summary": "Do you really know who your audience is? In this article, we introduce the R.E.M. Framework for better audience targeting in the the signal-loss era.\n\nThe post <a href=\"https://www.searchenginejournal.com/rethinking-audience-targeting-signal-loss-era-rem-framework/572422/\">Rethinking Audience Targeting In A Signal-Loss Era (With The R.E.M. Framework)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-18T11:15:22+00:00",
+      "fetched": "2026-05-18T21:57:33.981650+00:00"
+    },
+    {
+      "id": "8ace444b-5825-4897-9be0-5a40232c1586",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Anthropic\u2019s Infrastructure Crisis \u2013 What It Means for Marketers & SEO Pros via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/anthropics-infrastructure-crisis-what-it-means-for-marketers-seo-pros/574258/",
+      "summary": "Anthropic's 80-fold growth crisis mirrors Google's 1999 infrastructure crunch. The decisions made under pressure will reshape the tools marketers rely on.\n\nThe post <a href=\"https://www.searchenginejournal.com/anthropics-infrastructure-crisis-what-it-means-for-marketers-seo-pros/574258/\">Anthropic&#8217;s Infrastructure Crisis \u2013 What It Means for Marketers &#038; SEO Pros</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-18T09:30:13+00:00",
+      "fetched": "2026-05-18T21:57:33.981691+00:00"
+    },
+    {
       "id": "c2df22d8-bdd2-4781-ad64-c87cffb1cb48",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -186,40 +219,7 @@
       "summary": "Discover the importance of AI in reviews and brand visibility. Learn how AI tools affect perceptions in our latest review.\n\nThe post <a href=\"https://www.searchenginejournal.com/data-shows-ai-overviews-exposing-negative-reviews-spa/574755/\">Data Shows AI Overviews Exposing Negative Reviews Without User Intent. What To Do Next</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-05-13T10:42:04+00:00",
       "fetched": "2026-05-13T22:03:36.206957+00:00"
-    },
-    {
-      "id": "9d9b7480-6804-4103-8255-daab053dcd58",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "HubSpot Stock Crashed 19% \u2013 What It Means For Partner Agencies via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/hubspot-stock-crashed-19-what-it-means-for-partner-agencies/574410/",
-      "summary": "The difference between durable expertise and replaceable tactics has never mattered more for HubSpot partner agencies. Here's how to tell which one you're selling.\n\nThe post <a href=\"https://www.searchenginejournal.com/hubspot-stock-crashed-19-what-it-means-for-partner-agencies/574410/\">HubSpot Stock Crashed 19% \u2013 What It Means For Partner Agencies</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-13T09:00:13+00:00",
-      "fetched": "2026-05-13T22:03:36.206970+00:00"
-    },
-    {
-      "id": "e1b92bc4-070e-4843-9899-76a754380b06",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Measure SERP Visibility When Rankings Aren\u2019t Enough [Webinar] via @sejournal, @lorenbaker",
-      "link": "https://www.searchenginejournal.com/how-to-measure-serp-visibility-when-rankings-arent-enough-webinar/574554/",
-      "summary": "Is your rank misleading? Learn about SERP & AI visibility and how new features affect the perception of your brand online.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-measure-serp-visibility-when-rankings-arent-enough-webinar/574554/\">How To Measure SERP Visibility When Rankings Aren&#8217;t Enough [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-13T07:45:28+00:00",
-      "fetched": "2026-05-13T22:03:36.206993+00:00"
-    },
-    {
-      "id": "63fc955e-03b5-4fed-8a38-e363b003e253",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Build Local Pages That Win In AI-Powered Search via @sejournal, @lorenbaker",
-      "link": "https://www.searchenginejournal.com/how-to-build-local-pages-that-win-in-ai-powered-search/574668/",
-      "summary": "Unlock the power of local SEO. Discover how to build authoritative pages that improve your visibility in AI search results.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-build-local-pages-that-win-in-ai-powered-search/574668/\">How To Build Local Pages That Win In AI-Powered Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-12T21:39:18+00:00",
-      "fetched": "2026-05-12T22:02:25.693482+00:00"
     }
   ],
-  "last_updated": "2026-05-17T21:44:05.320682+00:00"
+  "last_updated": "2026-05-18T21:57:35.681910+00:00"
 }
