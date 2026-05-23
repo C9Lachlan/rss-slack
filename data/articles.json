@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": "308f9fb4-2d9c-4031-b742-ab7e9f77bf5f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google I/O Didn\u2019t End SEO. The Risk Is Somewhere Else via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-i-o-didnt-end-seo-the-risk-is-somewhere-else/575660/",
+      "summary": "Google I/O triggered panic about the death of Search. The risk is economic, not technical, and both sides of the debate are getting it wrong. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-i-o-didnt-end-seo-the-risk-is-somewhere-else/575660/\">Google I/O Didn&#8217;t End SEO. The Risk Is Somewhere Else</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-23T12:00:44+00:00",
+      "fetched": "2026-05-23T21:43:12.875537+00:00"
+    },
+    {
       "id": "e00c303e-1320-48ef-9ed1-b11f658e60df",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -208,18 +219,7 @@
       "summary": "Is PMax stealing your branded traffic? Is Smart Bidding starved of data? Here's how to identify Google Ads budget misallocations most managers overlook.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ads-budget-misallocation-is-more-common-than-you-think-and-harder-to-spot/573615/\">Google Ads Budget Misallocation Is More Common Than You Think \u2013 And Harder To Spot</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-05-20T09:00:56+00:00",
       "fetched": "2026-05-20T22:19:06.329774+00:00"
-    },
-    {
-      "id": "2781ecb4-4c13-4124-bdad-76dcf8964d27",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "90% Of Brands Have Zero AI Search Mentions, New Study Finds 4 Key SEO Insights",
-      "link": "https://www.searchenginejournal.com/ai-seo-mentions-study-victorious-spa/575040/",
-      "summary": "Discover the connection between traditional search results and AI mentions in this in-depth SEO research study for marketing insights.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-seo-mentions-study-victorious-spa/575040/\">90% Of Brands Have Zero AI Search Mentions, New Study Finds 4 Key SEO Insights</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-19T21:27:10+00:00",
-      "fetched": "2026-05-19T22:05:32.604705+00:00"
     }
   ],
-  "last_updated": "2026-05-22T21:57:28.800192+00:00"
+  "last_updated": "2026-05-23T21:43:15.121359+00:00"
 }
