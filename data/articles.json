@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "34f335df-3dd1-4495-b255-80eac51b38d8",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Says AI Mode Can Now Scale Faster Across Languages via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-says-ai-mode-can-now-scale-faster-across-languages/575791/",
+      "summary": "In a post-keynote interview, Google's Liz Reid told NDTV that AI Mode's multilingual models have made it easier to expand across countries and languages. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-says-ai-mode-can-now-scale-faster-across-languages/575791/\">Google Says AI Mode Can Now Scale Faster Across Languages</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-25T12:51:25+00:00",
+      "fetched": "2026-05-25T22:00:35.869022+00:00"
+    },
+    {
+      "id": "34a2897e-a3d6-4590-adcf-87f2679cf924",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Reddit CEO: LLMs \u2018Would Not Exist\u2019 Without Reddit Data via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/reddit-ceo-llms-would-not-exist-without-reddit-data/575786/",
+      "summary": "Reddit CEO Steve Huffman calls user content \"modern oil\" for AI, discusses deals with Google and OpenAI, and outlines why some companies face lawsuits.\n\nThe post <a href=\"https://www.searchenginejournal.com/reddit-ceo-llms-would-not-exist-without-reddit-data/575786/\">Reddit CEO: LLMs &#8216;Would Not Exist&#8217; Without Reddit Data</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-25T12:12:14+00:00",
+      "fetched": "2026-05-25T22:00:35.869049+00:00"
+    },
+    {
+      "id": "f9e2b283-4ecb-4fab-ac9c-da7557e3d42b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Pichai Says Google Is \u2018A Bit Behind\u2019 On Agentic Coding via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/pichai-says-google-is-a-bit-behind-on-agentic-coding/575781/",
+      "summary": "Sundar Pichai says Google is \"a bit behind\" in agentic coding, citing a lack of developer-facing products as one reason for the gap.\n\nThe post <a href=\"https://www.searchenginejournal.com/pichai-says-google-is-a-bit-behind-on-agentic-coding/575781/\">Pichai Says Google Is &#8216;A Bit Behind&#8217; On Agentic Coding</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-25T11:45:14+00:00",
+      "fetched": "2026-05-25T22:00:35.869068+00:00"
+    },
+    {
+      "id": "db509cc2-5bde-4d06-adb4-1c9f27672ff7",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why High-Performing Marketers Get Stuck In Execution Mode via @sejournal, @bngsrc",
+      "link": "https://www.searchenginejournal.com/why-high-performing-marketers-get-stuck-in-execution-mode/574437/",
+      "summary": "The skills that earned your promotion are the ones you need to unlearn. Here's what separates executors from strategists in marketing careers.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-high-performing-marketers-get-stuck-in-execution-mode/574437/\">Why High-Performing Marketers Get Stuck In Execution Mode</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-25T11:00:49+00:00",
+      "fetched": "2026-05-25T22:00:35.869090+00:00"
+    },
+    {
+      "id": "a52f4593-f6ec-4263-8e54-710487d00ee8",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Digital PR Hasn\u2019t Changed \u2013 AI Search Just Made The Fundamentals More Important via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/digital-pr-hasnt-changed-ai-search-just-made-the-fundamentals-more-important/575383/",
+      "summary": "AEO, GEO, AI Mode, signal loss. Three recent SEJ articles read together reveal the same truth: the questions beneath the terminology never changed.\n\nThe post <a href=\"https://www.searchenginejournal.com/digital-pr-hasnt-changed-ai-search-just-made-the-fundamentals-more-important/575383/\">Digital PR Hasn&#8217;t Changed \u2013 AI Search Just Made The Fundamentals More Important</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-25T09:30:14+00:00",
+      "fetched": "2026-05-25T22:00:35.869110+00:00"
+    },
+    {
       "id": "b2b7431d-4d43-40d2-a239-267bc6d4fd32",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -164,62 +219,7 @@
       "summary": "Google unveils Conversational Discovery ads and Highlighted Answers in AI Mode, signaling how advertising may evolve inside conversational, AI-powered Search experiences.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-introduces-new-ad-formats-in-ai-mode/575354/\">Google Introduces New Ad Formats In AI Mode</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-05-20T16:00:06+00:00",
       "fetched": "2026-05-20T22:19:06.329644+00:00"
-    },
-    {
-      "id": "a0bc1fe3-05ca-4c06-a3d6-3115425c26c8",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Shares First AI Mode Usage Data After One Year via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-shares-first-ai-mode-usage-data-after-one-year/575443/",
-      "summary": "Google released first-party data on how people use AI Mode in the U.S. after one year.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-shares-first-ai-mode-usage-data-after-one-year/575443/\">Google Shares First AI Mode Usage Data After One Year</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-20T14:59:57+00:00",
-      "fetched": "2026-05-20T22:19:06.329663+00:00"
-    },
-    {
-      "id": "ed9e7497-ea88-4da4-8c27-b0c12bece01c",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Mt. Stupid Has A Pricing Page via @sejournal, @pedrodias",
-      "link": "https://www.searchenginejournal.com/mt-stupid-has-a-pricing-page/575079/",
-      "summary": "GEO made calibration look like the deficiency. Here's the evidence, the incentives behind it, and what it costs when the gradient runs unchecked.\n\nThe post <a href=\"https://www.searchenginejournal.com/mt-stupid-has-a-pricing-page/575079/\">Mt. Stupid Has A Pricing Page</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-20T13:30:52+00:00",
-      "fetched": "2026-05-20T22:19:06.329680+00:00"
-    },
-    {
-      "id": "644011e7-0f58-4d68-9e47-9a978eac8f24",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s llms.txt Guidance Depends On Which Product You Ask via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/googles-llms-txt-guidance-depends-on-which-product-you-ask/575431/",
-      "summary": "Google Search says llms.txt isn't needed for AI features, while Lighthouse now checks the file for agentic browsing readiness in an experimental audit.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-llms-txt-guidance-depends-on-which-product-you-ask/575431/\">Google&#8217;s llms.txt Guidance Depends On Which Product You Ask</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-20T12:47:19+00:00",
-      "fetched": "2026-05-20T22:19:06.329697+00:00"
-    },
-    {
-      "id": "4d006e50-70a2-4250-bf0b-0301b72f1708",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "More Organic Search Traffic, More Ad Revenue: 4 Publishing Workflow Fixes That Bring Both",
-      "link": "https://www.searchenginejournal.com/more-organic-search-traffic-more-ad-revenue-4-publishing-workflow-fixes-that-bring-both-spa/575424/",
-      "summary": "Discover how a modern publishing engine can eliminate the issues of legacy CMS and drive sustainable growth for media companies.\n\nThe post <a href=\"https://www.searchenginejournal.com/more-organic-search-traffic-more-ad-revenue-4-publishing-workflow-fixes-that-bring-both-spa/575424/\">More Organic Search Traffic, More Ad Revenue: 4 Publishing Workflow Fixes That Bring Both</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-20T12:01:49+00:00",
-      "fetched": "2026-05-20T22:19:06.329731+00:00"
-    },
-    {
-      "id": "571de2ec-3fce-4c85-a968-9ae7b2c41983",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Can A 300,000-Influencer Network Built On AI-Generated Content Work? via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/can-a-300000-influencer-network-built-on-ai-generated-content-work/574985/",
-      "summary": "Unilever's 300,000-creator network plus 71% of creators using AI tools equals a content machine at unprecedented scale. The real question: Will any of it work?\n\nThe post <a href=\"https://www.searchenginejournal.com/can-a-300000-influencer-network-built-on-ai-generated-content-work/574985/\">Can A 300,000-Influencer Network Built On AI-Generated Content Work?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-20T11:00:39+00:00",
-      "fetched": "2026-05-20T22:19:06.329755+00:00"
     }
   ],
-  "last_updated": "2026-05-24T21:44:22.867889+00:00"
+  "last_updated": "2026-05-25T22:00:36.526226+00:00"
 }
