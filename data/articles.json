@@ -1,6 +1,72 @@
 {
   "articles": [
     {
+      "id": "469a432c-c971-43ed-be86-6517f0178625",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google CEO On AI Overviews: \u2018More Opinionated Than It Should Be\u2019 via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-ceo-on-ai-overviews-more-opinionated-than-it-should-be/575902/",
+      "summary": "Pichai reviewed a live AI Overview and called it \"more opinionated than it should be.\" He also addressed bounce clicks and publisher traffic. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-ceo-on-ai-overviews-more-opinionated-than-it-should-be/575902/\">Google CEO On AI Overviews: &#8216;More Opinionated Than It Should Be&#8217;</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-26T19:32:30+00:00",
+      "fetched": "2026-05-26T22:14:23.040155+00:00"
+    },
+    {
+      "id": "6bbdf706-9ce2-4432-9b04-78c0ec066a28",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Is Retiring Standalone Display Campaigns In Favor Of Demand Gen via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/google-is-retiring-standalone-display-campaigns-in-favor-of-demand-gen/575889/",
+      "summary": "Google is moving Display campaigns into Demand Gen, changing how advertisers manage GDN inventory, exclusions, reporting, and campaign controls inside Google Ads.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-is-retiring-standalone-display-campaigns-in-favor-of-demand-gen/575889/\">Google Is Retiring Standalone Display Campaigns In Favor Of Demand Gen</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-26T19:20:21+00:00",
+      "fetched": "2026-05-26T22:14:23.040178+00:00"
+    },
+    {
+      "id": "40d72083-9751-4119-9821-401c05bffcc7",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To: Optimize Your Small Business For AI-Powered Search via @sejournal, @lorenbaker",
+      "link": "https://www.searchenginejournal.com/how-to-optimize-your-small-business-for-ai-powered-search-recap/575895/",
+      "summary": "Ensure your business stands out in AI Search results. Get proven strategies to improve your online presence effectively.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-optimize-your-small-business-for-ai-powered-search-recap/575895/\">How To: Optimize Your Small Business For AI-Powered Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-26T19:19:51+00:00",
+      "fetched": "2026-05-26T22:14:23.040194+00:00"
+    },
+    {
+      "id": "2339adb6-fee2-4091-a599-c013a3383299",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Machine-First Architecture: How To Build Websites Machines Can Identify, Read, Cite & Use via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/machine-first-architecture-how-to-build-websites-machines-can-identify-read-cite-use/574431/",
+      "summary": "Designing for the most constrained consumer, a machine, produces a better foundation for every visitor. Here's the full build sequence.\n\nThe post <a href=\"https://www.searchenginejournal.com/machine-first-architecture-how-to-build-websites-machines-can-identify-read-cite-use/574431/\">Machine-First Architecture: How To Build Websites Machines Can Identify, Read, Cite &#038; Use</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-26T11:30:51+00:00",
+      "fetched": "2026-05-26T22:14:23.040215+00:00"
+    },
+    {
+      "id": "c144ff3a-8b7b-410c-a99d-65214b88e2f4",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "846,000 Google Searches Reveal How AI Overviews Are Changing User Behavior via @sejournal, @ericvanbuskirk",
+      "link": "https://www.searchenginejournal.com/google-search-sessions-show-how-users-pause-scroll-reconsider-before-clicking/575243/",
+      "summary": "Users with AI Overviews scroll back up the page nearly twice as often. What that back-scrolling behavior means for how you write your search listings.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-search-sessions-show-how-users-pause-scroll-reconsider-before-clicking/575243/\">846,000 Google Searches Reveal How AI Overviews Are Changing User Behavior</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-26T09:00:18+00:00",
+      "fetched": "2026-05-26T22:14:23.040232+00:00"
+    },
+    {
+      "id": "ee18080c-6e81-4696-9bbe-f13e1ea3d545",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Modern Local SEO & AI Visibility: How To Get Clients Into AI Results via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/modern-local-seo-ai-visibility-how-to-get-clients-into-ai-results-recap/575732/",
+      "summary": "Unlock the secrets of local SEO and enhance your business visibility in AI recommendations through effective keyword research.\n\nThe post <a href=\"https://www.searchenginejournal.com/modern-local-seo-ai-visibility-how-to-get-clients-into-ai-results-recap/575732/\">Modern Local SEO &#038; AI Visibility: How To Get Clients Into AI Results</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-26T07:45:18+00:00",
+      "fetched": "2026-05-26T22:14:23.040247+00:00"
+    },
+    {
       "id": "34f335df-3dd1-4495-b255-80eac51b38d8",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -153,73 +219,7 @@
       "summary": "Launching a redesign or migration? The staging environment tests in this guide will catch SEO issues before they cost you rankings.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-an-seo-how-do-you-stress-test-a-staging-environment/573559/\">How To Stress-Test A Staging Environment To Surface Risks Pre-Launch  \u2013 Ask An SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-05-21T11:30:16+00:00",
       "fetched": "2026-05-21T22:10:45.698786+00:00"
-    },
-    {
-      "id": "d49219ee-f704-4752-be18-1b62150eff8d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "WordPress 7.0 Is A Winner: Here\u2019s What You Need To Know via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/wordpress-7-0-is-a-winner-heres-what-you-need-to-know/575510/",
-      "summary": "WordPress 7.0 may be the most consequential CMS release to date, with changes that extend far beyond the platform's new AI features.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-7-0-is-a-winner-heres-what-you-need-to-know/575510/\">WordPress 7.0 Is A Winner: Here&#8217;s What You Need To Know</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-21T10:06:34+00:00",
-      "fetched": "2026-05-21T22:10:45.698811+00:00"
-    },
-    {
-      "id": "0f743806-4892-42f7-9b99-f4fdc775db8d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Microsoft Clarity Now Shows Grounding Queries Behind AI Citations via @sejournal, @TaylorDanRW",
-      "link": "https://www.searchenginejournal.com/microsoft-clarity-now-shows-grounding-queries-behind-ai-citations/575279/",
-      "summary": "Clarity's grounding queries could reveal how AI engines decompose intent, and that logic is platform-agnostic.\n\nThe post <a href=\"https://www.searchenginejournal.com/microsoft-clarity-now-shows-grounding-queries-behind-ai-citations/575279/\">Microsoft Clarity Now Shows Grounding Queries Behind AI Citations</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-21T09:00:49+00:00",
-      "fetched": "2026-05-21T22:10:45.698829+00:00"
-    },
-    {
-      "id": "fcc3f65d-0ecd-42ef-8725-dfbbff244a8f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The New Rules of Search: Key AEO & Content Marketing Trends for 2026 via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/the-new-rules-of-search-key-aeo-content-marketing-trends-for-2026-recap/575064/",
-      "summary": "Enhance your AEO strategy with insights on content that drives visibility in AI search engines. Discover top-performing tactics now.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-new-rules-of-search-key-aeo-content-marketing-trends-for-2026-recap/575064/\">The New Rules of Search: Key AEO &#038; Content Marketing Trends for 2026</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-20T20:43:45+00:00",
-      "fetched": "2026-05-20T22:19:06.329576+00:00"
-    },
-    {
-      "id": "f9611658-f35e-4d3f-ad7a-2a03b5bd85f8",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Mueller Explains Why Google Uses Markdown On Dev Docs via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/mueller-explains-why-google-uses-markdown-on-dev-docs/575465/",
-      "summary": "Google's John Mueller says markdown pages can help developer documentation, but most sites should focus on current SEO needs before agentic traffic.\n\nThe post <a href=\"https://www.searchenginejournal.com/mueller-explains-why-google-uses-markdown-on-dev-docs/575465/\">Mueller Explains Why Google Uses Markdown On Dev Docs</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-20T19:56:41+00:00",
-      "fetched": "2026-05-20T22:19:06.329603+00:00"
-    },
-    {
-      "id": "1636c971-cef4-462d-a93b-8fed6f1cfb46",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "WordPress 7.0 Launches With Native AI Integration via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/wordpress-7-0-launches-with-native-ai-integration/575419/",
-      "summary": "WordPress 7.0 was expected to focus on real-time collaboration, but native AI integration may define the release and the platform's future.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-7-0-launches-with-native-ai-integration/575419/\">WordPress 7.0 Launches With Native AI Integration</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-20T19:14:28+00:00",
-      "fetched": "2026-05-20T22:19:06.329622+00:00"
-    },
-    {
-      "id": "48bba43b-ebfc-476d-a86b-94e9afbce3bd",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Introduces New Ad Formats In AI Mode via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/google-introduces-new-ad-formats-in-ai-mode/575354/",
-      "summary": "Google unveils Conversational Discovery ads and Highlighted Answers in AI Mode, signaling how advertising may evolve inside conversational, AI-powered Search experiences.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-introduces-new-ad-formats-in-ai-mode/575354/\">Google Introduces New Ad Formats In AI Mode</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-20T16:00:06+00:00",
-      "fetched": "2026-05-20T22:19:06.329644+00:00"
     }
   ],
-  "last_updated": "2026-05-25T22:00:36.526226+00:00"
+  "last_updated": "2026-05-26T22:14:24.058671+00:00"
 }
