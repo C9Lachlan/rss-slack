@@ -1,6 +1,83 @@
 {
   "articles": [
     {
+      "id": "300e19d7-8cce-43f5-a68b-62b3bf26ce73",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Preferred Sources Hit 345K, Expand Into AI Search via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-preferred-sources-hit-345k-expand-into-ai-search/576032/",
+      "summary": "Google says users have selected 345,000 Preferred Sources, which now appear in AI Overviews and AI Mode alongside new link carousels. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-preferred-sources-hit-345k-expand-into-ai-search/576032/\">Google Preferred Sources Hit 345K, Expand Into AI Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-27T21:40:28+00:00",
+      "fetched": "2026-05-27T22:24:12.937619+00:00"
+    },
+    {
+      "id": "2386fbf2-a8d1-41f4-8aa6-0b35a7c3bcc4",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "YouTube Now Auto-Detects AI Content, Labels It For Viewers via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/youtube-now-auto-detects-ai-content-labels-it-for-viewers/576015/",
+      "summary": "YouTube is moving AI disclosure labels to more visible spots and adding automatic detection for undisclosed photorealistic AI content on videos.  \n\nThe post <a href=\"https://www.searchenginejournal.com/youtube-now-auto-detects-ai-content-labels-it-for-viewers/576015/\">YouTube Now Auto-Detects AI Content, Labels It For Viewers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-27T18:08:07+00:00",
+      "fetched": "2026-05-27T22:24:12.937645+00:00"
+    },
+    {
+      "id": "ae0b20af-fcd3-410b-8829-3016c5327416",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why Enterprise SEO Recommendations Fail \u2013 It\u2019s Psychological, Not Technical via @sejournal, @billhunt",
+      "link": "https://www.searchenginejournal.com/why-enterprise-seo-recommendations-fail-its-psychological-not-technical/574378/",
+      "summary": "Reframing \"problems\" as \"opportunities\" isn't corporate spin. It's the psychological condition that makes enterprise change actually happen.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-enterprise-seo-recommendations-fail-its-psychological-not-technical/574378/\">Why Enterprise SEO Recommendations Fail \u2013 It&#8217;s Psychological, Not Technical</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-27T13:00:23+00:00",
+      "fetched": "2026-05-27T22:24:12.937665+00:00"
+    },
+    {
+      "id": "74a4385f-bcfa-493b-b64b-d303b75c1e14",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Standards Haven\u2019t Changed But AI Is Making That Harder To Ignore via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/googles-standards-havent-changed-but-ai-is-making-that-harder-to-ignore/575429/",
+      "summary": "Sam Sifton's commitment to human-driven journalism reflects Google's unchanged stance: quality content requires accountability, not just automation.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-standards-havent-changed-but-ai-is-making-that-harder-to-ignore/575429/\">Google&#8217;s Standards Haven&#8217;t Changed But AI Is Making That Harder To Ignore</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-27T09:30:43+00:00",
+      "fetched": "2026-05-27T22:24:12.937687+00:00"
+    },
+    {
+      "id": "3f6446e4-ac5d-416c-bd2a-061bceb7f314",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Core Web Vitals: WordPress And Astro Versus Everyone Else via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/core-web-vitals-wordpress-and-astro/575818/",
+      "summary": "WordPress and Astro emerge from the latest performance comparison as a contrast between platform complexity and lightweight publishing.\n\nThe post <a href=\"https://www.searchenginejournal.com/core-web-vitals-wordpress-and-astro/575818/\">Core Web Vitals: WordPress And Astro Versus Everyone Else</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-27T09:17:08+00:00",
+      "fetched": "2026-05-27T22:24:12.937704+00:00"
+    },
+    {
+      "id": "dd1f7c0c-2e3f-46f9-bb0e-ef6f4385f850",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why LLMs Cite Reddit Instead Of Your Brand: A Practical AI Visibility Audit [Webinar] via @sejournal, @lorenbaker",
+      "link": "https://www.searchenginejournal.com/why-llms-cite-reddit-instead-of-your-brand-a-practical-ai-visibility-audit-webinar/575727/",
+      "summary": "Understand the role Reddit plays in AI answers and how brands can capitalize on community signals to enhance visibility.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-llms-cite-reddit-instead-of-your-brand-a-practical-ai-visibility-audit-webinar/575727/\">Why LLMs Cite Reddit Instead Of Your Brand: A Practical AI Visibility Audit [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-27T07:45:29+00:00",
+      "fetched": "2026-05-27T22:24:12.937719+00:00"
+    },
+    {
+      "id": "c5ebd60b-4b68-487a-8f2b-86a8843f3a3e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Gmail Content Shows Brand Visibility Boost In AI Mode via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/gmail-content-linked-to-ai-mode-brand-visibility-lift/575917/",
+      "summary": "iPullRank tested Gmail and Photos signals in opted-in AI Mode Personal Intelligence accounts. Gmail showed the strongest brand visibility lift. \n\nThe post <a href=\"https://www.searchenginejournal.com/gmail-content-linked-to-ai-mode-brand-visibility-lift/575917/\">Gmail Content Shows Brand Visibility Boost In AI Mode</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-26T23:55:58+00:00",
+      "fetched": "2026-05-27T22:24:12.937734+00:00"
+    },
+    {
       "id": "469a432c-c971-43ed-be86-6517f0178625",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -142,84 +219,7 @@
       "summary": "Google I/O triggered panic about the death of Search. The risk is economic, not technical, and both sides of the debate are getting it wrong. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-i-o-didnt-end-seo-the-risk-is-somewhere-else/575660/\">Google I/O Didn&#8217;t End SEO. The Risk Is Somewhere Else</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-05-23T12:00:44+00:00",
       "fetched": "2026-05-23T21:43:12.875537+00:00"
-    },
-    {
-      "id": "e00c303e-1320-48ef-9ed1-b11f658e60df",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "3 Unrelated Stories About AI & Writing Tell The Same Story via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/3-unrelated-stories-about-ai-writing-tell-the-same-story/575070/",
-      "summary": "AI now generates roughly half of all web content. Google's quality systems know. So do readers. Which side of that divide are you on?\n\nThe post <a href=\"https://www.searchenginejournal.com/3-unrelated-stories-about-ai-writing-tell-the-same-story/575070/\">3 Unrelated Stories About AI &#038; Writing Tell The Same Story</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-22T14:00:37+00:00",
-      "fetched": "2026-05-22T21:57:27.639364+00:00"
-    },
-    {
-      "id": "42132829-1aa4-4ebd-8a20-01330e5df88b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Launches Core Update Amid I/O AI Search Overhaul \u2013 SEO Pulse via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-google-launches-core-update-amid-i-o-ai-search-overhaul/575676/",
-      "summary": "Google launched the May core update, redesigned Search around AI at I/O, released its first AI Mode usage data, and sent mixed signals on llms.txt.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-google-launches-core-update-amid-i-o-ai-search-overhaul/575676/\">Google Launches Core Update Amid I/O AI Search Overhaul \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-22T12:30:40+00:00",
-      "fetched": "2026-05-22T21:57:27.639394+00:00"
-    },
-    {
-      "id": "06024eaf-edd1-4764-b4bf-13b1baa43040",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Security Researcher: WordPress 7.0 Could Trigger Rush To Steal AI API Keys via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/wordpress-7-0-faces-security-concerns-over-ai-api-keys/575679/",
-      "summary": "WordPress 7.0 exposes AI API keys worth thousands of dollars. Security researcher says there \"will be an absolute rush by hackers to steal\" them.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-7-0-faces-security-concerns-over-ai-api-keys/575679/\">Security Researcher: WordPress 7.0 Could Trigger Rush To Steal AI API Keys</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-22T10:37:43+00:00",
-      "fetched": "2026-05-22T21:57:27.639415+00:00"
-    },
-    {
-      "id": "1b996534-8f0f-462a-8eb9-c4a05dc8aee5",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "When Marketing Leaders Can\u2019t Explain Search Performance via @sejournal, @coreydmorris",
-      "link": "https://www.searchenginejournal.com/when-marketing-leaders-cant-explain-search-performance/572464/",
-      "summary": "How marketing leaders can translate search metrics into business outcomes, sharper reporting, and stronger executive confidence.\n\nThe post <a href=\"https://www.searchenginejournal.com/when-marketing-leaders-cant-explain-search-performance/572464/\">When Marketing Leaders Can\u2019t Explain Search Performance</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-22T09:00:18+00:00",
-      "fetched": "2026-05-22T21:57:27.639439+00:00"
-    },
-    {
-      "id": "9d525620-c466-4aef-a066-023447416ac6",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Begins Rolling Out May 2026 Core Update via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-begins-rolling-out-may-2026-core-update/575589/",
-      "summary": "Google began rolling out the May 2026 core update, the second broad core update this year. It may take up to two weeks to complete.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-begins-rolling-out-may-2026-core-update/575589/\">Google Begins Rolling Out May 2026 Core Update</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-21T16:11:57+00:00",
-      "fetched": "2026-05-21T22:10:45.698734+00:00"
-    },
-    {
-      "id": "7040d109-1bc1-42f0-8cfa-228b15bbee17",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "LLM Guidance Doesn\u2019t Transfer The Way SEO Guidance Did via @sejournal, @DuaneForrester",
-      "link": "https://www.searchenginejournal.com/llm-guidance-doesnt-transfer-the-way-seo-guidance-did/575077/",
-      "summary": "The shared standards that once made one engine's guidance apply to all of them never got built between LLM providers. Optimization is no longer portable.\n\nThe post <a href=\"https://www.searchenginejournal.com/llm-guidance-doesnt-transfer-the-way-seo-guidance-did/575077/\">LLM Guidance Doesn&#8217;t Transfer The Way SEO Guidance Did</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-21T13:30:17+00:00",
-      "fetched": "2026-05-21T22:10:45.698763+00:00"
-    },
-    {
-      "id": "b0388b92-a51e-499f-8300-0f3830a0bf2e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Stress-Test A Staging Environment To Surface Risks Pre-Launch  \u2013 Ask An SEO via @sejournal, @HelenPollitt1",
-      "link": "https://www.searchenginejournal.com/ask-an-seo-how-do-you-stress-test-a-staging-environment/573559/",
-      "summary": "Launching a redesign or migration? The staging environment tests in this guide will catch SEO issues before they cost you rankings.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-an-seo-how-do-you-stress-test-a-staging-environment/573559/\">How To Stress-Test A Staging Environment To Surface Risks Pre-Launch  \u2013 Ask An SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-21T11:30:16+00:00",
-      "fetched": "2026-05-21T22:10:45.698786+00:00"
     }
   ],
-  "last_updated": "2026-05-26T22:14:24.058671+00:00"
+  "last_updated": "2026-05-27T22:24:13.773810+00:00"
 }
