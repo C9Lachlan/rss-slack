@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "be0a8c87-c694-4a56-aac9-293d71d13879",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To See If Competitors Are Advertising In Your Customers\u2019 ChatGPT Answers via @sejournal, @trendos_com",
+      "link": "https://www.searchenginejournal.com/see-competitor-ads-chatgpt-trendos-spa/575883/",
+      "summary": "Learn the manual process to track who is advertising in ChatGPT answers. Understand your competitors' strategies in real-time.\n\nThe post <a href=\"https://www.searchenginejournal.com/see-competitor-ads-chatgpt-trendos-spa/575883/\">How To See If Competitors Are Advertising In Your Customers&#8217; ChatGPT Answers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-28T16:27:33+00:00",
+      "fetched": "2026-05-28T22:25:49.247309+00:00"
+    },
+    {
+      "id": "3cec158e-63ac-45ea-9604-0e8eed96f7e9",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "You\u2019re Using AI At The Execution Layer. The Value Is In The Judgment Layer via @sejournal, @DuaneForrester",
+      "link": "https://www.searchenginejournal.com/youre-using-ai-at-the-execution-layer-the-value-is-in-the-judgment-layer/575747/",
+      "summary": "The six-mode taxonomy maps almost exactly onto the split between execution-layer and judgment-layer work. Most practitioners are living in the execution layer.\n\nThe post <a href=\"https://www.searchenginejournal.com/youre-using-ai-at-the-execution-layer-the-value-is-in-the-judgment-layer/575747/\">You\u2019re Using AI At The Execution Layer. The Value Is In The Judgment Layer</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-28T13:30:50+00:00",
+      "fetched": "2026-05-28T22:25:49.247337+00:00"
+    },
+    {
+      "id": "292cb5d5-53ca-476f-aedf-bef3bc682328",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The AI Sameness Trap Is Quietly Eroding Your SEO Competitive Advantage via @sejournal, @TaylorDanRW",
+      "link": "https://www.searchenginejournal.com/ai-convergence-seo/575879/",
+      "summary": "Machines writing for machines is a race to the bottom. Here's how to reintroduce human thinking before your brand disappears into the wallpaper.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-convergence-seo/575879/\">The AI Sameness Trap Is Quietly Eroding Your SEO Competitive Advantage</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-28T11:00:19+00:00",
+      "fetched": "2026-05-28T22:25:49.247355+00:00"
+    },
+    {
+      "id": "d3d751a6-72a7-45a6-91e9-564a8bcb803b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "WordPress Market Share Declines For Six Months In A Row via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/wordpress-market-share-in-decline/576042/",
+      "summary": "WordPress is losing market share for six months in a row as competing platforms hold steady or grow more popular.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-market-share-in-decline/576042/\">WordPress Market Share Declines For Six Months In A Row</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-28T09:18:49+00:00",
+      "fetched": "2026-05-28T22:25:49.247377+00:00"
+    },
+    {
+      "id": "4807cf41-447e-4606-ae2a-4c9fe6957fe3",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Is Performance Max Actually Better Than Running Separate Campaigns? \u2013 Ask A PPC via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/ask-a-ppc-is-performance-max-actually-better-than-running-separate-campaigns/573174/",
+      "summary": "See when Performance Max drives better efficiency and when separate campaigns offer necessary control.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-a-ppc-is-performance-max-actually-better-than-running-separate-campaigns/573174/\">Is Performance Max Actually Better Than Running Separate Campaigns? &#8211; Ask A PPC</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-28T08:00:12+00:00",
+      "fetched": "2026-05-28T22:25:49.247394+00:00"
+    },
+    {
       "id": "300e19d7-8cce-43f5-a68b-62b3bf26ce73",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -164,62 +219,7 @@
       "summary": "Reddit CEO Steve Huffman calls user content \"modern oil\" for AI, discusses deals with Google and OpenAI, and outlines why some companies face lawsuits.\n\nThe post <a href=\"https://www.searchenginejournal.com/reddit-ceo-llms-would-not-exist-without-reddit-data/575786/\">Reddit CEO: LLMs &#8216;Would Not Exist&#8217; Without Reddit Data</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-05-25T12:12:14+00:00",
       "fetched": "2026-05-25T22:00:35.869049+00:00"
-    },
-    {
-      "id": "f9e2b283-4ecb-4fab-ac9c-da7557e3d42b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Pichai Says Google Is \u2018A Bit Behind\u2019 On Agentic Coding via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/pichai-says-google-is-a-bit-behind-on-agentic-coding/575781/",
-      "summary": "Sundar Pichai says Google is \"a bit behind\" in agentic coding, citing a lack of developer-facing products as one reason for the gap.\n\nThe post <a href=\"https://www.searchenginejournal.com/pichai-says-google-is-a-bit-behind-on-agentic-coding/575781/\">Pichai Says Google Is &#8216;A Bit Behind&#8217; On Agentic Coding</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-25T11:45:14+00:00",
-      "fetched": "2026-05-25T22:00:35.869068+00:00"
-    },
-    {
-      "id": "db509cc2-5bde-4d06-adb4-1c9f27672ff7",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why High-Performing Marketers Get Stuck In Execution Mode via @sejournal, @bngsrc",
-      "link": "https://www.searchenginejournal.com/why-high-performing-marketers-get-stuck-in-execution-mode/574437/",
-      "summary": "The skills that earned your promotion are the ones you need to unlearn. Here's what separates executors from strategists in marketing careers.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-high-performing-marketers-get-stuck-in-execution-mode/574437/\">Why High-Performing Marketers Get Stuck In Execution Mode</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-25T11:00:49+00:00",
-      "fetched": "2026-05-25T22:00:35.869090+00:00"
-    },
-    {
-      "id": "a52f4593-f6ec-4263-8e54-710487d00ee8",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Digital PR Hasn\u2019t Changed \u2013 AI Search Just Made The Fundamentals More Important via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/digital-pr-hasnt-changed-ai-search-just-made-the-fundamentals-more-important/575383/",
-      "summary": "AEO, GEO, AI Mode, signal loss. Three recent SEJ articles read together reveal the same truth: the questions beneath the terminology never changed.\n\nThe post <a href=\"https://www.searchenginejournal.com/digital-pr-hasnt-changed-ai-search-just-made-the-fundamentals-more-important/575383/\">Digital PR Hasn&#8217;t Changed \u2013 AI Search Just Made The Fundamentals More Important</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-25T09:30:14+00:00",
-      "fetched": "2026-05-25T22:00:35.869110+00:00"
-    },
-    {
-      "id": "b2b7431d-4d43-40d2-a239-267bc6d4fd32",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "All You Need To Know About Cloudflare\u2019s Agent Readiness Score via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/all-you-need-to-know-about-cloudflares-agent-readiness-score/574226/",
-      "summary": "Most of the checks that tanked your agent-readiness score don't apply to your website type. Here's what the number actually means.\n\nThe post <a href=\"https://www.searchenginejournal.com/all-you-need-to-know-about-cloudflares-agent-readiness-score/574226/\">All You Need To Know About Cloudflare&#8217;s Agent Readiness Score</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-24T12:00:59+00:00",
-      "fetched": "2026-05-24T21:44:20.903307+00:00"
-    },
-    {
-      "id": "308f9fb4-2d9c-4031-b742-ab7e9f77bf5f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google I/O Didn\u2019t End SEO. The Risk Is Somewhere Else via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-i-o-didnt-end-seo-the-risk-is-somewhere-else/575660/",
-      "summary": "Google I/O triggered panic about the death of Search. The risk is economic, not technical, and both sides of the debate are getting it wrong. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-i-o-didnt-end-seo-the-risk-is-somewhere-else/575660/\">Google I/O Didn&#8217;t End SEO. The Risk Is Somewhere Else</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-23T12:00:44+00:00",
-      "fetched": "2026-05-23T21:43:12.875537+00:00"
     }
   ],
-  "last_updated": "2026-05-27T22:24:13.773810+00:00"
+  "last_updated": "2026-05-28T22:25:50.051134+00:00"
 }
