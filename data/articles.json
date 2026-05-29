@@ -1,6 +1,39 @@
 {
   "articles": [
     {
+      "id": "61161cbf-8d37-489b-8a91-6d89434fe26d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google SERP Layout Shift: Position 1 Now Appears Halfway Down The Page via @sejournal, @lorenbaker",
+      "link": "https://www.searchenginejournal.com/updated-serps-new-study-measures-the-serp-in-pixels-not-ranks-recap/577359/",
+      "summary": "Understand SERP visibility and why ranking #1 is no longer sufficient for brand impressions and clicks in today's digital landscape.\n\nThe post <a href=\"https://www.searchenginejournal.com/updated-serps-new-study-measures-the-serp-in-pixels-not-ranks-recap/577359/\">Google SERP Layout Shift: Position 1 Now Appears Halfway Down The Page</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-29T21:07:47+00:00",
+      "fetched": "2026-05-29T22:23:43.794824+00:00"
+    },
+    {
+      "id": "f876b340-3493-4509-961b-ba8f8236c40e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google AI Overview Data Looks Different For Commercial Queries via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-ai-overview-data-looks-different-for-commercial-queries/577350/",
+      "summary": "AI Overview tracking can tell very different stories depending on the prompts, query types, and markets included in the sample.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ai-overview-data-looks-different-for-commercial-queries/577350/\">Google AI Overview Data Looks Different For Commercial Queries</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-29T19:23:16+00:00",
+      "fetched": "2026-05-29T22:23:43.794848+00:00"
+    },
+    {
+      "id": "f95c3993-4cbe-4a58-960f-de48a691aaaa",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Preferred Sources Expand, Gmail Brand Lift, Pichai On AI Overviews via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/seo-pulse-preferred-sources-expand-gmail-brand-lift-pichai-on-ai-overviews/577173/",
+      "summary": "Google brings Preferred Sources into AI Overviews and AI Mode, iPullRank measures Gmail's pull on AI Mode brand visibility, and new ad formats arrive. \n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-preferred-sources-expand-gmail-brand-lift-pichai-on-ai-overviews/577173/\">Preferred Sources Expand, Gmail Brand Lift, Pichai On AI Overviews</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-29T12:30:07+00:00",
+      "fetched": "2026-05-29T22:23:43.794866+00:00"
+    },
+    {
       "id": "be0a8c87-c694-4a56-aac9-293d71d13879",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -186,40 +219,7 @@
       "summary": "Users with AI Overviews scroll back up the page nearly twice as often. What that back-scrolling behavior means for how you write your search listings.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-search-sessions-show-how-users-pause-scroll-reconsider-before-clicking/575243/\">846,000 Google Searches Reveal How AI Overviews Are Changing User Behavior</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-05-26T09:00:18+00:00",
       "fetched": "2026-05-26T22:14:23.040232+00:00"
-    },
-    {
-      "id": "ee18080c-6e81-4696-9bbe-f13e1ea3d545",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Modern Local SEO & AI Visibility: How To Get Clients Into AI Results via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/modern-local-seo-ai-visibility-how-to-get-clients-into-ai-results-recap/575732/",
-      "summary": "Unlock the secrets of local SEO and enhance your business visibility in AI recommendations through effective keyword research.\n\nThe post <a href=\"https://www.searchenginejournal.com/modern-local-seo-ai-visibility-how-to-get-clients-into-ai-results-recap/575732/\">Modern Local SEO &#038; AI Visibility: How To Get Clients Into AI Results</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-26T07:45:18+00:00",
-      "fetched": "2026-05-26T22:14:23.040247+00:00"
-    },
-    {
-      "id": "34f335df-3dd1-4495-b255-80eac51b38d8",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Says AI Mode Can Now Scale Faster Across Languages via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-says-ai-mode-can-now-scale-faster-across-languages/575791/",
-      "summary": "In a post-keynote interview, Google's Liz Reid told NDTV that AI Mode's multilingual models have made it easier to expand across countries and languages. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-says-ai-mode-can-now-scale-faster-across-languages/575791/\">Google Says AI Mode Can Now Scale Faster Across Languages</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-25T12:51:25+00:00",
-      "fetched": "2026-05-25T22:00:35.869022+00:00"
-    },
-    {
-      "id": "34a2897e-a3d6-4590-adcf-87f2679cf924",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Reddit CEO: LLMs \u2018Would Not Exist\u2019 Without Reddit Data via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/reddit-ceo-llms-would-not-exist-without-reddit-data/575786/",
-      "summary": "Reddit CEO Steve Huffman calls user content \"modern oil\" for AI, discusses deals with Google and OpenAI, and outlines why some companies face lawsuits.\n\nThe post <a href=\"https://www.searchenginejournal.com/reddit-ceo-llms-would-not-exist-without-reddit-data/575786/\">Reddit CEO: LLMs &#8216;Would Not Exist&#8217; Without Reddit Data</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-25T12:12:14+00:00",
-      "fetched": "2026-05-25T22:00:35.869049+00:00"
     }
   ],
-  "last_updated": "2026-05-28T22:25:50.051134+00:00"
+  "last_updated": "2026-05-29T22:23:44.258506+00:00"
 }
