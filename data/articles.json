@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "id": "3d0a4d12-3d21-4783-89f5-117987c943d0",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s I/O Demos Reveal The New Business Visibility Problem via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/googles-i-o-demos-reveal-the-new-business-visibility-problem/576217/",
+      "summary": "Many Google I/O demos ended in transactions, bookings, or task completion. The consumer path is clear, but business visibility isn't. \n\nThe post <a href=\"https://www.searchenginejournal.com/googles-i-o-demos-reveal-the-new-business-visibility-problem/576217/\">Google\u2019s I/O Demos Reveal The New Business Visibility Problem</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-30T12:00:25+00:00",
+      "fetched": "2026-05-30T21:50:52.700225+00:00"
+    },
+    {
+      "id": "5a9566f4-f23d-4af6-8b94-eb27883189d3",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Content Alone Won\u2019t Fix Your SEO Rankings (Here\u2019s What Will) via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/ai-content-alone-wont-fix-your-seo-rankings-heres-what-will/577380/",
+      "summary": "Explore the impact of AI content on modern SEO strategies and how it adapts to changing search behaviors and long-tail queries.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-content-alone-wont-fix-your-seo-rankings-heres-what-will/577380/\">AI Content Alone Won&#8217;t Fix Your SEO Rankings (Here&#8217;s What Will)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-29T22:40:05+00:00",
+      "fetched": "2026-05-30T21:50:52.700252+00:00"
+    },
+    {
       "id": "61161cbf-8d37-489b-8a91-6d89434fe26d",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -197,29 +219,7 @@
       "summary": "Ensure your business stands out in AI Search results. Get proven strategies to improve your online presence effectively.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-optimize-your-small-business-for-ai-powered-search-recap/575895/\">How To: Optimize Your Small Business For AI-Powered Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-05-26T19:19:51+00:00",
       "fetched": "2026-05-26T22:14:23.040194+00:00"
-    },
-    {
-      "id": "2339adb6-fee2-4091-a599-c013a3383299",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Machine-First Architecture: How To Build Websites Machines Can Identify, Read, Cite & Use via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/machine-first-architecture-how-to-build-websites-machines-can-identify-read-cite-use/574431/",
-      "summary": "Designing for the most constrained consumer, a machine, produces a better foundation for every visitor. Here's the full build sequence.\n\nThe post <a href=\"https://www.searchenginejournal.com/machine-first-architecture-how-to-build-websites-machines-can-identify-read-cite-use/574431/\">Machine-First Architecture: How To Build Websites Machines Can Identify, Read, Cite &#038; Use</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-26T11:30:51+00:00",
-      "fetched": "2026-05-26T22:14:23.040215+00:00"
-    },
-    {
-      "id": "c144ff3a-8b7b-410c-a99d-65214b88e2f4",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "846,000 Google Searches Reveal How AI Overviews Are Changing User Behavior via @sejournal, @ericvanbuskirk",
-      "link": "https://www.searchenginejournal.com/google-search-sessions-show-how-users-pause-scroll-reconsider-before-clicking/575243/",
-      "summary": "Users with AI Overviews scroll back up the page nearly twice as often. What that back-scrolling behavior means for how you write your search listings.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-search-sessions-show-how-users-pause-scroll-reconsider-before-clicking/575243/\">846,000 Google Searches Reveal How AI Overviews Are Changing User Behavior</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-26T09:00:18+00:00",
-      "fetched": "2026-05-26T22:14:23.040232+00:00"
     }
   ],
-  "last_updated": "2026-05-29T22:23:44.258506+00:00"
+  "last_updated": "2026-05-30T21:50:53.509418+00:00"
 }
