@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": "5962f7dc-2bd7-4801-96a0-6a26e3005240",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "White-Collar Will Be Fully Automated In 18 Months \u2013 So What Makes You Different? via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/white-collar-will-be-fully-automated-in-18-months-so-what-makes-you-different/575072/",
+      "summary": "What makes your content, strategy, or analysis different from what a system could generate? It isn't a skill set, but it's something harder to define.\n\nThe post <a href=\"https://www.searchenginejournal.com/white-collar-will-be-fully-automated-in-18-months-so-what-makes-you-different/575072/\">White-Collar Will Be Fully Automated In 18 Months \u2013 So What Makes You Different?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-05-31T09:30:29+00:00",
+      "fetched": "2026-05-31T21:48:40.510389+00:00"
+    },
+    {
       "id": "3d0a4d12-3d21-4783-89f5-117987c943d0",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -208,18 +219,7 @@
       "summary": "Google is moving Display campaigns into Demand Gen, changing how advertisers manage GDN inventory, exclusions, reporting, and campaign controls inside Google Ads.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-is-retiring-standalone-display-campaigns-in-favor-of-demand-gen/575889/\">Google Is Retiring Standalone Display Campaigns In Favor Of Demand Gen</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-05-26T19:20:21+00:00",
       "fetched": "2026-05-26T22:14:23.040178+00:00"
-    },
-    {
-      "id": "40d72083-9751-4119-9821-401c05bffcc7",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To: Optimize Your Small Business For AI-Powered Search via @sejournal, @lorenbaker",
-      "link": "https://www.searchenginejournal.com/how-to-optimize-your-small-business-for-ai-powered-search-recap/575895/",
-      "summary": "Ensure your business stands out in AI Search results. Get proven strategies to improve your online presence effectively.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-optimize-your-small-business-for-ai-powered-search-recap/575895/\">How To: Optimize Your Small Business For AI-Powered Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-26T19:19:51+00:00",
-      "fetched": "2026-05-26T22:14:23.040194+00:00"
     }
   ],
-  "last_updated": "2026-05-30T21:50:53.509418+00:00"
+  "last_updated": "2026-05-31T21:48:41.828946+00:00"
 }
