@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "a8672add-d640-4011-8933-13f3701e9d77",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "EntityMap: The Open Standard That Gives AI Systems A Structured View Of Your Business via @sejournal, @Dixon_Jones",
+      "link": "https://www.searchenginejournal.com/entitymap-the-open-standard-that-gives-ai-systems-a-structured-view-of-your-business/576146/",
+      "summary": "What if a single file could tell AI systems exactly what your organization knows and where the evidence lives? That's the EntityMap proposal.\n\nThe post <a href=\"https://www.searchenginejournal.com/entitymap-the-open-standard-that-gives-ai-systems-a-structured-view-of-your-business/576146/\">EntityMap: The Open Standard That Gives AI Systems A Structured View Of Your Business</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-01T13:00:35+00:00",
+      "fetched": "2026-06-01T22:54:46.314257+00:00"
+    },
+    {
+      "id": "b405a5f2-0717-42af-b626-98298be8f86f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google CEO Sundar Pichai Downplays Google Zero Concerns via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-ceo-sundar-pichai-downplays-google-zero-concerns/577489/",
+      "summary": "Google CEO Sundar Pichai downplays Google Zero concerns, saying low-quality clicks are being filtered out.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ceo-sundar-pichai-downplays-google-zero-concerns/577489/\">Google CEO Sundar Pichai Downplays Google Zero Concerns</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-01T11:29:10+00:00",
+      "fetched": "2026-06-01T22:54:46.314280+00:00"
+    },
+    {
+      "id": "4e71d5c8-7830-4f01-b633-8569d7f88ed5",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Treating Reviews As Business Infrastructure, Not Marketing, Drives Real Business Results via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/treating-reviews-as-business-infrastructure-not-marketing-drives-real-business-results/575702/",
+      "summary": "A study found star ratings alone didn't predict small business performance. Active ORM did. Here's what that means as AI narrows local visibility. \n\nThe post <a href=\"https://www.searchenginejournal.com/treating-reviews-as-business-infrastructure-not-marketing-drives-real-business-results/575702/\">Treating Reviews As Business Infrastructure, Not Marketing, Drives Real Business Results</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-01T10:00:32+00:00",
+      "fetched": "2026-06-01T22:54:46.314297+00:00"
+    },
+    {
+      "id": "fa1428e2-1e15-47a2-88e7-9df4bb33d704",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "What Google\u2019s New AI Guide Actually Debunks. And What It Doesn\u2019t via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/what-googles-new-ai-guide-actually-debunks-and-what-it-doesnt/575497/",
+      "summary": "Google said ignore llms.txt for citations. It didn't say ignore machine-readable maps for agents completing tasks. There's a difference worth understanding.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-googles-new-ai-guide-actually-debunks-and-what-it-doesnt/575497/\">What Google&#8217;s New AI Guide Actually Debunks. And What It Doesn&#8217;t</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-01T08:15:46+00:00",
+      "fetched": "2026-06-01T22:54:46.314316+00:00"
+    },
+    {
+      "id": "6fd6b013-995e-4feb-9975-e30de2bf60d7",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Amazon Vs. Perplexity: The CFAA Case That Decides Whether AI Agents Can Visit Your Website via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/amazon-vs-perplexity-the-cfaa-case-that-decides-whether-ai-agents-can-visit-your-website/575499/",
+      "summary": "Understand the challenges of AI agents visit website authorization. This case raises critical questions about technology and legal rights.\n\nThe post <a href=\"https://www.searchenginejournal.com/amazon-vs-perplexity-the-cfaa-case-that-decides-whether-ai-agents-can-visit-your-website/575499/\">Amazon Vs. Perplexity: The CFAA Case That Decides Whether AI Agents Can Visit Your Website</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-01T00:56:10+00:00",
+      "fetched": "2026-06-01T22:54:46.314332+00:00"
+    },
+    {
       "id": "5962f7dc-2bd7-4801-96a0-6a26e3005240",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -164,62 +219,7 @@
       "summary": "Sam Sifton's commitment to human-driven journalism reflects Google's unchanged stance: quality content requires accountability, not just automation.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-standards-havent-changed-but-ai-is-making-that-harder-to-ignore/575429/\">Google&#8217;s Standards Haven&#8217;t Changed But AI Is Making That Harder To Ignore</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-05-27T09:30:43+00:00",
       "fetched": "2026-05-27T22:24:12.937687+00:00"
-    },
-    {
-      "id": "3f6446e4-ac5d-416c-bd2a-061bceb7f314",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Core Web Vitals: WordPress And Astro Versus Everyone Else via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/core-web-vitals-wordpress-and-astro/575818/",
-      "summary": "WordPress and Astro emerge from the latest performance comparison as a contrast between platform complexity and lightweight publishing.\n\nThe post <a href=\"https://www.searchenginejournal.com/core-web-vitals-wordpress-and-astro/575818/\">Core Web Vitals: WordPress And Astro Versus Everyone Else</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-27T09:17:08+00:00",
-      "fetched": "2026-05-27T22:24:12.937704+00:00"
-    },
-    {
-      "id": "dd1f7c0c-2e3f-46f9-bb0e-ef6f4385f850",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why LLMs Cite Reddit Instead Of Your Brand: A Practical AI Visibility Audit [Webinar] via @sejournal, @lorenbaker",
-      "link": "https://www.searchenginejournal.com/why-llms-cite-reddit-instead-of-your-brand-a-practical-ai-visibility-audit-webinar/575727/",
-      "summary": "Understand the role Reddit plays in AI answers and how brands can capitalize on community signals to enhance visibility.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-llms-cite-reddit-instead-of-your-brand-a-practical-ai-visibility-audit-webinar/575727/\">Why LLMs Cite Reddit Instead Of Your Brand: A Practical AI Visibility Audit [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-27T07:45:29+00:00",
-      "fetched": "2026-05-27T22:24:12.937719+00:00"
-    },
-    {
-      "id": "c5ebd60b-4b68-487a-8f2b-86a8843f3a3e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Gmail Content Shows Brand Visibility Boost In AI Mode via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/gmail-content-linked-to-ai-mode-brand-visibility-lift/575917/",
-      "summary": "iPullRank tested Gmail and Photos signals in opted-in AI Mode Personal Intelligence accounts. Gmail showed the strongest brand visibility lift. \n\nThe post <a href=\"https://www.searchenginejournal.com/gmail-content-linked-to-ai-mode-brand-visibility-lift/575917/\">Gmail Content Shows Brand Visibility Boost In AI Mode</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-26T23:55:58+00:00",
-      "fetched": "2026-05-27T22:24:12.937734+00:00"
-    },
-    {
-      "id": "469a432c-c971-43ed-be86-6517f0178625",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google CEO On AI Overviews: \u2018More Opinionated Than It Should Be\u2019 via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-ceo-on-ai-overviews-more-opinionated-than-it-should-be/575902/",
-      "summary": "Pichai reviewed a live AI Overview and called it \"more opinionated than it should be.\" He also addressed bounce clicks and publisher traffic. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-ceo-on-ai-overviews-more-opinionated-than-it-should-be/575902/\">Google CEO On AI Overviews: &#8216;More Opinionated Than It Should Be&#8217;</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-26T19:32:30+00:00",
-      "fetched": "2026-05-26T22:14:23.040155+00:00"
-    },
-    {
-      "id": "6bbdf706-9ce2-4432-9b04-78c0ec066a28",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Is Retiring Standalone Display Campaigns In Favor Of Demand Gen via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/google-is-retiring-standalone-display-campaigns-in-favor-of-demand-gen/575889/",
-      "summary": "Google is moving Display campaigns into Demand Gen, changing how advertisers manage GDN inventory, exclusions, reporting, and campaign controls inside Google Ads.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-is-retiring-standalone-display-campaigns-in-favor-of-demand-gen/575889/\">Google Is Retiring Standalone Display Campaigns In Favor Of Demand Gen</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-26T19:20:21+00:00",
-      "fetched": "2026-05-26T22:14:23.040178+00:00"
     }
   ],
-  "last_updated": "2026-05-31T21:48:41.828946+00:00"
+  "last_updated": "2026-06-01T22:54:47.261844+00:00"
 }
