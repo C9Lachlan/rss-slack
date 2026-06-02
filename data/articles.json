@@ -1,6 +1,83 @@
 {
   "articles": [
     {
+      "id": "92100c7c-306e-4d8d-b98e-59bc199eea46",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Microsoft Web IQ Gives AI Agents Bing Grounding APIs via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/microsoft-web-iq-gives-ai-agents-bing-grounding-apis/577736/",
+      "summary": "Microsoft announced Web IQ, a set of grounding APIs that connect AI agents to Bing's index. Pricing and general availability remain unclear.\n\nThe post <a href=\"https://www.searchenginejournal.com/microsoft-web-iq-gives-ai-agents-bing-grounding-apis/577736/\">Microsoft Web IQ Gives AI Agents Bing Grounding APIs</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-02T19:10:58+00:00",
+      "fetched": "2026-06-02T22:53:49.182173+00:00"
+    },
+    {
+      "id": "740d7c54-8deb-420d-b278-3b87d5fad1b9",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s May Core Update Complete After Volatile Rollout via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/googles-may-core-update-complete-after-volatile-rollout/577704/",
+      "summary": "Google's May core update finished rolling out on after nearly 12 days. SEO professionals described the update as heavier than March.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-may-core-update-complete-after-volatile-rollout/577704/\">Google&#8217;s May Core Update Complete After Volatile Rollout</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-02T15:01:45+00:00",
+      "fetched": "2026-06-02T22:53:49.182198+00:00"
+    },
+    {
+      "id": "21ffdcc6-0b0f-41ee-b833-f65e5890f951",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "ChatGPT Citations Changed After GPT-5.5, SISTRIX Data Shows via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/chatgpt-citations-changed-after-gpt-5-5-sistrix-data-shows/577694/",
+      "summary": "SISTRIX data from German-language ChatGPT responses shows citation patterns changed after GPT-5.5 appeared. The company compares it to a core update. \n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-citations-changed-after-gpt-5-5-sistrix-data-shows/577694/\">ChatGPT Citations Changed After GPT-5.5, SISTRIX Data Shows</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-02T14:20:15+00:00",
+      "fetched": "2026-06-02T22:53:49.182216+00:00"
+    },
+    {
+      "id": "f41c2e03-fbb3-491d-b533-435285982ed5",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Use Lighthouse To Test Your Website For Agentic Readiness via @sejournal, @marie_haynes",
+      "link": "https://www.searchenginejournal.com/how-to-use-lighthouse-to-test-your-website-for-agentic-readiness/577421/",
+      "summary": "Not sure if your site is agent-ready? Google's new Lighthouse report checks three things most SEOs haven't tackled yet.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-use-lighthouse-to-test-your-website-for-agentic-readiness/577421/\">How To Use Lighthouse To Test Your Website For Agentic Readiness</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-02T13:30:35+00:00",
+      "fetched": "2026-06-02T22:53:49.182238+00:00"
+    },
+    {
+      "id": "9d2899bb-d3c3-4a2b-810d-b511857387ea",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Fix Google Ads Smart Bidding With A Primary Vs. Secondary Conversion Framework",
+      "link": "https://www.searchenginejournal.com/how-to-fix-google-ads-smart-bidding-with-a-primary-vs-secondary-conversion-framework/574075/",
+      "summary": "Mixing button clicks and purchases in one conversion column trains the algorithm to chase the wrong users. Here's the architectural fix. \n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-fix-google-ads-smart-bidding-with-a-primary-vs-secondary-conversion-framework/574075/\">How To Fix Google Ads Smart Bidding With A Primary Vs. Secondary Conversion Framework</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-02T11:00:12+00:00",
+      "fetched": "2026-06-02T22:53:49.182255+00:00"
+    },
+    {
+      "id": "05c1ee13-e2be-48c5-896c-145b495b6ca8",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Says LLMs.txt Is Purely Speculative\u2026 For Now via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-says-llms-txt-is-purely-speculative-for-now/577576/",
+      "summary": "Google's John Mueller casts doubt on LLMs.txt and says he likes WebMCP, a Google-backed alternative.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-says-llms-txt-is-purely-speculative-for-now/577576/\">Google Says LLMs.txt Is Purely Speculative&#8230; For Now</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-02T10:08:07+00:00",
+      "fetched": "2026-06-02T22:53:49.182272+00:00"
+    },
+    {
+      "id": "1cfc2f2f-6f4b-4365-99d7-9039cfaa2259",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why Great Content No Longer Works: MIT Research Shows The Shift Reshaping SEO Strategy via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/why-great-content-no-longer-works-mit-research-shows-the-shift-reshaping-seo-strategy/575880/",
+      "summary": "\"Influence is the new traffic.\" Rand Fishkin's argument and MIT's AI Labor Exposure Map landed in the same week and pointed at the same problem.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-great-content-no-longer-works-mit-research-shows-the-shift-reshaping-seo-strategy/575880/\">Why Great Content No Longer Works: MIT Research Shows The Shift Reshaping SEO Strategy</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-02T08:00:16+00:00",
+      "fetched": "2026-06-02T22:53:49.182287+00:00"
+    },
+    {
       "id": "a8672add-d640-4011-8933-13f3701e9d77",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -142,84 +219,7 @@
       "summary": "The six-mode taxonomy maps almost exactly onto the split between execution-layer and judgment-layer work. Most practitioners are living in the execution layer.\n\nThe post <a href=\"https://www.searchenginejournal.com/youre-using-ai-at-the-execution-layer-the-value-is-in-the-judgment-layer/575747/\">You\u2019re Using AI At The Execution Layer. The Value Is In The Judgment Layer</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-05-28T13:30:50+00:00",
       "fetched": "2026-05-28T22:25:49.247337+00:00"
-    },
-    {
-      "id": "292cb5d5-53ca-476f-aedf-bef3bc682328",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The AI Sameness Trap Is Quietly Eroding Your SEO Competitive Advantage via @sejournal, @TaylorDanRW",
-      "link": "https://www.searchenginejournal.com/ai-convergence-seo/575879/",
-      "summary": "Machines writing for machines is a race to the bottom. Here's how to reintroduce human thinking before your brand disappears into the wallpaper.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-convergence-seo/575879/\">The AI Sameness Trap Is Quietly Eroding Your SEO Competitive Advantage</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-28T11:00:19+00:00",
-      "fetched": "2026-05-28T22:25:49.247355+00:00"
-    },
-    {
-      "id": "d3d751a6-72a7-45a6-91e9-564a8bcb803b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "WordPress Market Share Declines For Six Months In A Row via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/wordpress-market-share-in-decline/576042/",
-      "summary": "WordPress is losing market share for six months in a row as competing platforms hold steady or grow more popular.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-market-share-in-decline/576042/\">WordPress Market Share Declines For Six Months In A Row</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-28T09:18:49+00:00",
-      "fetched": "2026-05-28T22:25:49.247377+00:00"
-    },
-    {
-      "id": "4807cf41-447e-4606-ae2a-4c9fe6957fe3",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Is Performance Max Actually Better Than Running Separate Campaigns? \u2013 Ask A PPC via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/ask-a-ppc-is-performance-max-actually-better-than-running-separate-campaigns/573174/",
-      "summary": "See when Performance Max drives better efficiency and when separate campaigns offer necessary control.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-a-ppc-is-performance-max-actually-better-than-running-separate-campaigns/573174/\">Is Performance Max Actually Better Than Running Separate Campaigns? &#8211; Ask A PPC</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-28T08:00:12+00:00",
-      "fetched": "2026-05-28T22:25:49.247394+00:00"
-    },
-    {
-      "id": "300e19d7-8cce-43f5-a68b-62b3bf26ce73",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Preferred Sources Hit 345K, Expand Into AI Search via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-preferred-sources-hit-345k-expand-into-ai-search/576032/",
-      "summary": "Google says users have selected 345,000 Preferred Sources, which now appear in AI Overviews and AI Mode alongside new link carousels. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-preferred-sources-hit-345k-expand-into-ai-search/576032/\">Google Preferred Sources Hit 345K, Expand Into AI Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-27T21:40:28+00:00",
-      "fetched": "2026-05-27T22:24:12.937619+00:00"
-    },
-    {
-      "id": "2386fbf2-a8d1-41f4-8aa6-0b35a7c3bcc4",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "YouTube Now Auto-Detects AI Content, Labels It For Viewers via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/youtube-now-auto-detects-ai-content-labels-it-for-viewers/576015/",
-      "summary": "YouTube is moving AI disclosure labels to more visible spots and adding automatic detection for undisclosed photorealistic AI content on videos.  \n\nThe post <a href=\"https://www.searchenginejournal.com/youtube-now-auto-detects-ai-content-labels-it-for-viewers/576015/\">YouTube Now Auto-Detects AI Content, Labels It For Viewers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-27T18:08:07+00:00",
-      "fetched": "2026-05-27T22:24:12.937645+00:00"
-    },
-    {
-      "id": "ae0b20af-fcd3-410b-8829-3016c5327416",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why Enterprise SEO Recommendations Fail \u2013 It\u2019s Psychological, Not Technical via @sejournal, @billhunt",
-      "link": "https://www.searchenginejournal.com/why-enterprise-seo-recommendations-fail-its-psychological-not-technical/574378/",
-      "summary": "Reframing \"problems\" as \"opportunities\" isn't corporate spin. It's the psychological condition that makes enterprise change actually happen.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-enterprise-seo-recommendations-fail-its-psychological-not-technical/574378/\">Why Enterprise SEO Recommendations Fail \u2013 It&#8217;s Psychological, Not Technical</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-27T13:00:23+00:00",
-      "fetched": "2026-05-27T22:24:12.937665+00:00"
-    },
-    {
-      "id": "74a4385f-bcfa-493b-b64b-d303b75c1e14",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Standards Haven\u2019t Changed But AI Is Making That Harder To Ignore via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/googles-standards-havent-changed-but-ai-is-making-that-harder-to-ignore/575429/",
-      "summary": "Sam Sifton's commitment to human-driven journalism reflects Google's unchanged stance: quality content requires accountability, not just automation.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-standards-havent-changed-but-ai-is-making-that-harder-to-ignore/575429/\">Google&#8217;s Standards Haven&#8217;t Changed But AI Is Making That Harder To Ignore</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-27T09:30:43+00:00",
-      "fetched": "2026-05-27T22:24:12.937687+00:00"
     }
   ],
-  "last_updated": "2026-06-01T22:54:47.261844+00:00"
+  "last_updated": "2026-06-02T22:53:51.065973+00:00"
 }
