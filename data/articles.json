@@ -1,6 +1,39 @@
 {
   "articles": [
     {
+      "id": "472419fa-348e-4fd1-9c51-64c6666e9360",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "What Not To Automate With AI: The SEO Deskilling Trap",
+      "link": "https://www.searchenginejournal.com/what-not-to-automate-with-ai-the-seo-deskilling-trap/574887/",
+      "summary": "Which marketing tasks should you automate, and which should you protect? The answer could define your team's capabilities for the next decade.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-not-to-automate-with-ai-the-seo-deskilling-trap/574887/\">What Not To Automate With AI: The SEO Deskilling Trap</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-03T12:00:43+00:00",
+      "fetched": "2026-06-03T22:57:44.748456+00:00"
+    },
+    {
+      "id": "e20e05a7-a560-42bb-8c9c-2107acfe696d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "What Is The Agentic Web? via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/what-is-the-agentic-web/574224/",
+      "summary": "Publishers, developers, and businesses face three different economic realities under the agentic web. This article maps all three.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-is-the-agentic-web/574224/\">What Is The Agentic Web?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-03T09:00:26+00:00",
+      "fetched": "2026-06-03T22:57:44.748476+00:00"
+    },
+    {
+      "id": "757ddcd6-5692-4ff9-b892-a9384d46a58b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Tests Dedicated AI Search Reports In Search Console via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-tests-dedicated-ai-search-reports-in-search-console/577793/",
+      "summary": "Google is testing Search Console controls and reports for AI Search visibility, including AI-specific impressions data for some UK sites. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-tests-dedicated-ai-search-reports-in-search-console/577793/\">Google Tests Dedicated AI Search Reports In Search Console</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-03T05:10:20+00:00",
+      "fetched": "2026-06-03T22:57:44.748490+00:00"
+    },
+    {
       "id": "92100c7c-306e-4d8d-b98e-59bc199eea46",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -186,40 +219,7 @@
       "summary": "AI Overview tracking can tell very different stories depending on the prompts, query types, and markets included in the sample.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ai-overview-data-looks-different-for-commercial-queries/577350/\">Google AI Overview Data Looks Different For Commercial Queries</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-05-29T19:23:16+00:00",
       "fetched": "2026-05-29T22:23:43.794848+00:00"
-    },
-    {
-      "id": "f95c3993-4cbe-4a58-960f-de48a691aaaa",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Preferred Sources Expand, Gmail Brand Lift, Pichai On AI Overviews via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-preferred-sources-expand-gmail-brand-lift-pichai-on-ai-overviews/577173/",
-      "summary": "Google brings Preferred Sources into AI Overviews and AI Mode, iPullRank measures Gmail's pull on AI Mode brand visibility, and new ad formats arrive. \n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-preferred-sources-expand-gmail-brand-lift-pichai-on-ai-overviews/577173/\">Preferred Sources Expand, Gmail Brand Lift, Pichai On AI Overviews</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-29T12:30:07+00:00",
-      "fetched": "2026-05-29T22:23:43.794866+00:00"
-    },
-    {
-      "id": "be0a8c87-c694-4a56-aac9-293d71d13879",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To See If Competitors Are Advertising In Your Customers\u2019 ChatGPT Answers via @sejournal, @trendos_com",
-      "link": "https://www.searchenginejournal.com/see-competitor-ads-chatgpt-trendos-spa/575883/",
-      "summary": "Learn the manual process to track who is advertising in ChatGPT answers. Understand your competitors' strategies in real-time.\n\nThe post <a href=\"https://www.searchenginejournal.com/see-competitor-ads-chatgpt-trendos-spa/575883/\">How To See If Competitors Are Advertising In Your Customers&#8217; ChatGPT Answers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-28T16:27:33+00:00",
-      "fetched": "2026-05-28T22:25:49.247309+00:00"
-    },
-    {
-      "id": "3cec158e-63ac-45ea-9604-0e8eed96f7e9",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "You\u2019re Using AI At The Execution Layer. The Value Is In The Judgment Layer via @sejournal, @DuaneForrester",
-      "link": "https://www.searchenginejournal.com/youre-using-ai-at-the-execution-layer-the-value-is-in-the-judgment-layer/575747/",
-      "summary": "The six-mode taxonomy maps almost exactly onto the split between execution-layer and judgment-layer work. Most practitioners are living in the execution layer.\n\nThe post <a href=\"https://www.searchenginejournal.com/youre-using-ai-at-the-execution-layer-the-value-is-in-the-judgment-layer/575747/\">You\u2019re Using AI At The Execution Layer. The Value Is In The Judgment Layer</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-28T13:30:50+00:00",
-      "fetched": "2026-05-28T22:25:49.247337+00:00"
     }
   ],
-  "last_updated": "2026-06-02T22:53:51.065973+00:00"
+  "last_updated": "2026-06-03T22:57:45.602003+00:00"
 }
