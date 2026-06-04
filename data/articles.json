@@ -1,6 +1,83 @@
 {
   "articles": [
     {
+      "id": "f69e5392-47e3-44b9-940e-ab3f2898d5aa",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Launches Search Profiles For Creators With 100K Followers via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-launches-search-profiles-for-creators-with-100k-followers/577983/",
+      "summary": "Google launches Search profiles, giving eligible creators a customizable page for articles, social posts, and followers. U.S.-only at launch.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-launches-search-profiles-for-creators-with-100k-followers/577983/\">Google Launches Search Profiles For Creators With 100K Followers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-04T18:00:04+00:00",
+      "fetched": "2026-06-04T22:15:17.393092+00:00"
+    },
+    {
+      "id": "a032af2b-09c1-4371-adeb-429137360d58",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Must Let Websites Opt Out Of AI Search Features In UK via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-must-let-websites-opt-out-of-ai-search-features-in-uk/577970/",
+      "summary": "The UK's CMA has imposed a new conduct requirement on Google Search, letting publishers opt out of AI features and requiring clearer content attribution.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-must-let-websites-opt-out-of-ai-search-features-in-uk/577970/\">Google Must Let Websites Opt Out Of AI Search Features In UK</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-04T14:13:17+00:00",
+      "fetched": "2026-06-04T22:15:17.393118+00:00"
+    },
+    {
+      "id": "756ea415-cbfb-4ffb-9349-62bea69f689f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "You Can Finally Measure Content Alignment. That\u2019s The Dangerous Part via @sejournal, @DuaneForrester",
+      "link": "https://www.searchenginejournal.com/you-can-finally-measure-content-alignment-thats-the-dangerous-part/577424/",
+      "summary": "You can't optimize content for a retrieval system you can't measure. Here's the measurement literacy gap practitioners need to close.\n\nThe post <a href=\"https://www.searchenginejournal.com/you-can-finally-measure-content-alignment-thats-the-dangerous-part/577424/\">You Can Finally Measure Content Alignment. That\u2019s The Dangerous Part</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-04T13:30:11+00:00",
+      "fetched": "2026-06-04T22:15:17.393139+00:00"
+    },
+    {
+      "id": "43486637-d54a-4590-a928-674f0b32a0d9",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why Users Are Fleeing To AI-Free Search & What It Means For SEO via @sejournal, @TaylorDanRW",
+      "link": "https://www.searchenginejournal.com/why-users-are-fleeing-to-ai-free-search-what-it-means-for-seo/577691/",
+      "summary": "Despite industry fears, AI search adoption remains fragmented with most users still preferring traditional search methods.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-users-are-fleeing-to-ai-free-search-what-it-means-for-seo/577691/\">Why Users Are Fleeing To AI-Free Search &#038; What It Means For SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-04T12:01:48+00:00",
+      "fetched": "2026-06-04T22:15:17.393161+00:00"
+    },
+    {
+      "id": "dc61a858-2171-476f-b433-3ec9194b60c5",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google CEO Sundar Pichai Is OK With AI Mode Replacing Classic Search via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/googles-ceo-is-comfortable-with-ai-mode-replacing-classic-search/577923/",
+      "summary": "As AI Mode becomes more seamless, Google appears increasingly comfortable with a world beyond Classic Search.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-ceo-is-comfortable-with-ai-mode-replacing-classic-search/577923/\">Google CEO Sundar Pichai Is OK With AI Mode Replacing Classic Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-04T10:51:42+00:00",
+      "fetched": "2026-06-04T22:15:17.393179+00:00"
+    },
+    {
+      "id": "74e25594-dc08-47b8-9201-27d5a3054e55",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "GSC\u2019s New AI Overview Reporting: How Can We Use This Information? via @sejournal, @marie_haynes",
+      "link": "https://www.searchenginejournal.com/gscs-new-ai-overview-reporting-how-can-we-use-this-information/577891/",
+      "summary": "Google Search Console now shows which of your pages appear in AI Overviews, AI Mode, and Discover. Here's how to use that data.\n\nThe post <a href=\"https://www.searchenginejournal.com/gscs-new-ai-overview-reporting-how-can-we-use-this-information/577891/\">GSC&#8217;s New AI Overview Reporting: How Can We Use This Information?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-04T10:05:54+00:00",
+      "fetched": "2026-06-04T22:15:17.393224+00:00"
+    },
+    {
+      "id": "76661139-0e75-4ebe-b5c9-f2ec121b7bed",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How Can You Implement Entity Optimization Without Relying On Schema Markup? \u2013 Ask An SEO via @sejournal, @HelenPollitt1",
+      "link": "https://www.searchenginejournal.com/ask-an-seo-what-does-entity-optimization-mean/575597/",
+      "summary": "Most SEOs stop at schema markup. Here's the full technical picture of entity optimization, and why it matters more than ever for LLM visibility.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-an-seo-what-does-entity-optimization-mean/575597/\">How Can You Implement Entity Optimization Without Relying On Schema Markup? \u2013 Ask An SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-04T08:30:30+00:00",
+      "fetched": "2026-06-04T22:15:17.393256+00:00"
+    },
+    {
       "id": "472419fa-348e-4fd1-9c51-64c6666e9360",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -142,84 +219,7 @@
       "summary": "A study found star ratings alone didn't predict small business performance. Active ORM did. Here's what that means as AI narrows local visibility. \n\nThe post <a href=\"https://www.searchenginejournal.com/treating-reviews-as-business-infrastructure-not-marketing-drives-real-business-results/575702/\">Treating Reviews As Business Infrastructure, Not Marketing, Drives Real Business Results</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-06-01T10:00:32+00:00",
       "fetched": "2026-06-01T22:54:46.314297+00:00"
-    },
-    {
-      "id": "fa1428e2-1e15-47a2-88e7-9df4bb33d704",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "What Google\u2019s New AI Guide Actually Debunks. And What It Doesn\u2019t via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/what-googles-new-ai-guide-actually-debunks-and-what-it-doesnt/575497/",
-      "summary": "Google said ignore llms.txt for citations. It didn't say ignore machine-readable maps for agents completing tasks. There's a difference worth understanding.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-googles-new-ai-guide-actually-debunks-and-what-it-doesnt/575497/\">What Google&#8217;s New AI Guide Actually Debunks. And What It Doesn&#8217;t</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-01T08:15:46+00:00",
-      "fetched": "2026-06-01T22:54:46.314316+00:00"
-    },
-    {
-      "id": "6fd6b013-995e-4feb-9975-e30de2bf60d7",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Amazon Vs. Perplexity: The CFAA Case That Decides Whether AI Agents Can Visit Your Website via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/amazon-vs-perplexity-the-cfaa-case-that-decides-whether-ai-agents-can-visit-your-website/575499/",
-      "summary": "Understand the challenges of AI agents visit website authorization. This case raises critical questions about technology and legal rights.\n\nThe post <a href=\"https://www.searchenginejournal.com/amazon-vs-perplexity-the-cfaa-case-that-decides-whether-ai-agents-can-visit-your-website/575499/\">Amazon Vs. Perplexity: The CFAA Case That Decides Whether AI Agents Can Visit Your Website</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-01T00:56:10+00:00",
-      "fetched": "2026-06-01T22:54:46.314332+00:00"
-    },
-    {
-      "id": "5962f7dc-2bd7-4801-96a0-6a26e3005240",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "White-Collar Will Be Fully Automated In 18 Months \u2013 So What Makes You Different? via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/white-collar-will-be-fully-automated-in-18-months-so-what-makes-you-different/575072/",
-      "summary": "What makes your content, strategy, or analysis different from what a system could generate? It isn't a skill set, but it's something harder to define.\n\nThe post <a href=\"https://www.searchenginejournal.com/white-collar-will-be-fully-automated-in-18-months-so-what-makes-you-different/575072/\">White-Collar Will Be Fully Automated In 18 Months \u2013 So What Makes You Different?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-31T09:30:29+00:00",
-      "fetched": "2026-05-31T21:48:40.510389+00:00"
-    },
-    {
-      "id": "3d0a4d12-3d21-4783-89f5-117987c943d0",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s I/O Demos Reveal The New Business Visibility Problem via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/googles-i-o-demos-reveal-the-new-business-visibility-problem/576217/",
-      "summary": "Many Google I/O demos ended in transactions, bookings, or task completion. The consumer path is clear, but business visibility isn't. \n\nThe post <a href=\"https://www.searchenginejournal.com/googles-i-o-demos-reveal-the-new-business-visibility-problem/576217/\">Google\u2019s I/O Demos Reveal The New Business Visibility Problem</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-30T12:00:25+00:00",
-      "fetched": "2026-05-30T21:50:52.700225+00:00"
-    },
-    {
-      "id": "5a9566f4-f23d-4af6-8b94-eb27883189d3",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Content Alone Won\u2019t Fix Your SEO Rankings (Here\u2019s What Will) via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/ai-content-alone-wont-fix-your-seo-rankings-heres-what-will/577380/",
-      "summary": "Explore the impact of AI content on modern SEO strategies and how it adapts to changing search behaviors and long-tail queries.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-content-alone-wont-fix-your-seo-rankings-heres-what-will/577380/\">AI Content Alone Won&#8217;t Fix Your SEO Rankings (Here&#8217;s What Will)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-29T22:40:05+00:00",
-      "fetched": "2026-05-30T21:50:52.700252+00:00"
-    },
-    {
-      "id": "61161cbf-8d37-489b-8a91-6d89434fe26d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google SERP Layout Shift: Position 1 Now Appears Halfway Down The Page via @sejournal, @lorenbaker",
-      "link": "https://www.searchenginejournal.com/updated-serps-new-study-measures-the-serp-in-pixels-not-ranks-recap/577359/",
-      "summary": "Understand SERP visibility and why ranking #1 is no longer sufficient for brand impressions and clicks in today's digital landscape.\n\nThe post <a href=\"https://www.searchenginejournal.com/updated-serps-new-study-measures-the-serp-in-pixels-not-ranks-recap/577359/\">Google SERP Layout Shift: Position 1 Now Appears Halfway Down The Page</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-29T21:07:47+00:00",
-      "fetched": "2026-05-29T22:23:43.794824+00:00"
-    },
-    {
-      "id": "f876b340-3493-4509-961b-ba8f8236c40e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google AI Overview Data Looks Different For Commercial Queries via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-ai-overview-data-looks-different-for-commercial-queries/577350/",
-      "summary": "AI Overview tracking can tell very different stories depending on the prompts, query types, and markets included in the sample.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ai-overview-data-looks-different-for-commercial-queries/577350/\">Google AI Overview Data Looks Different For Commercial Queries</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-05-29T19:23:16+00:00",
-      "fetched": "2026-05-29T22:23:43.794848+00:00"
     }
   ],
-  "last_updated": "2026-06-03T22:57:45.602003+00:00"
+  "last_updated": "2026-06-04T22:15:18.201190+00:00"
 }
