@@ -1,6 +1,72 @@
 {
   "articles": [
     {
+      "id": "eb2ccd00-441b-4bdf-a96d-8ee2964ba143",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Analytics Is Adding Google Business Profile Data via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-analytics-is-adding-google-business-profile-data/578107/",
+      "summary": "Google has documented a native link between Google Business Profile and Google Analytics, bringing local metrics like calls and directions into GA reports.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-analytics-is-adding-google-business-profile-data/578107/\">Google Analytics Is Adding Google Business Profile Data</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-05T14:57:11+00:00",
+      "fetched": "2026-06-05T22:08:02.552882+00:00"
+    },
+    {
+      "id": "1e1de368-840d-4889-b718-2bbde3c1b251",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Literacy Is Not Prompt Literacy. Ann Handley Says It\u2019s Judgment Literacy via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/ai-literacy-is-not-prompt-literacy-ann-handley-says-its-judgment-literacy/577322/",
+      "summary": "Marketing expert Ann Handley reframes AI literacy as judgment literacy, emphasizing when to avoid AI rather than perfect prompts.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-literacy-is-not-prompt-literacy-ann-handley-says-its-judgment-literacy/577322/\">AI Literacy Is Not Prompt Literacy. Ann Handley Says It&#8217;s Judgment Literacy</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-05T14:00:29+00:00",
+      "fetched": "2026-06-05T22:08:02.552905+00:00"
+    },
+    {
+      "id": "ff4f6d5b-0a08-4700-9198-34fe34120797",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Tests AI Search Data, UK Requires Opt Out \u2013 SEO Pulse via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/seo-pulse-google-tests-ai-search-data-uk-requires-opt-out/578003/",
+      "summary": "Google tests AI visibility reports and an opt-out toggle as the UK requires new publisher controls for AI search features.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-google-tests-ai-search-data-uk-requires-opt-out/578003/\">Google Tests AI Search Data, UK Requires Opt Out &#8211; SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-05T12:30:34+00:00",
+      "fetched": "2026-06-05T22:08:02.552922+00:00"
+    },
+    {
+      "id": "08d75484-a947-4060-965b-5e6c64216e66",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Sergey Brin Sees A Path To AGI But Not Beyond It via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/googles-sergey-brin-sees-a-path-to-agi/578068/",
+      "summary": "Google co-founder Sergey Brin says AI is heading toward AGI, but can't explain what comes next.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-sergey-brin-sees-a-path-to-agi/578068/\">Google&#8217;s Sergey Brin Sees A Path To AGI But Not Beyond It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-05T12:10:04+00:00",
+      "fetched": "2026-06-05T22:08:02.552954+00:00"
+    },
+    {
+      "id": "456e93f5-8e37-420c-8f4d-e35c29b6ec5e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "What Is A Migration Hangover Traffic Drop & How Do You Avoid It?",
+      "link": "https://www.searchenginejournal.com/what-is-a-migration-hangover-traffic-drop-how-do-you-avoid-it/575102/",
+      "summary": "A new site shouldn't cost you a year of rankings. Spot the difference between normal volatility and true SEO migration hangover before it's too late.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-is-a-migration-hangover-traffic-drop-how-do-you-avoid-it/575102/\">What Is A Migration Hangover Traffic Drop &#038; How Do You Avoid It?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-05T10:00:34+00:00",
+      "fetched": "2026-06-05T22:08:02.552972+00:00"
+    },
+    {
+      "id": "ba4f0526-2d2c-45db-b5b5-3d79c23d2ece",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s May Core Update Favored Pages That Match Intent via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/googles-may-core-update-favored-pages-that-match-intent/577996/",
+      "summary": "Aleyda Solis analyzed US and UK SISTRIX data from Google's May core update, finding visibility patterns tied to source type and market fit. \n\nThe post <a href=\"https://www.searchenginejournal.com/googles-may-core-update-favored-pages-that-match-intent/577996/\">Google&#8217;s May Core Update Favored Pages That Match Intent</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-05T02:43:01+00:00",
+      "fetched": "2026-06-05T22:08:02.552990+00:00"
+    },
+    {
       "id": "f69e5392-47e3-44b9-940e-ab3f2898d5aa",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -153,73 +219,7 @@
       "summary": "Not sure if your site is agent-ready? Google's new Lighthouse report checks three things most SEOs haven't tackled yet.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-use-lighthouse-to-test-your-website-for-agentic-readiness/577421/\">How To Use Lighthouse To Test Your Website For Agentic Readiness</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-06-02T13:30:35+00:00",
       "fetched": "2026-06-02T22:53:49.182238+00:00"
-    },
-    {
-      "id": "9d2899bb-d3c3-4a2b-810d-b511857387ea",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Fix Google Ads Smart Bidding With A Primary Vs. Secondary Conversion Framework",
-      "link": "https://www.searchenginejournal.com/how-to-fix-google-ads-smart-bidding-with-a-primary-vs-secondary-conversion-framework/574075/",
-      "summary": "Mixing button clicks and purchases in one conversion column trains the algorithm to chase the wrong users. Here's the architectural fix. \n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-fix-google-ads-smart-bidding-with-a-primary-vs-secondary-conversion-framework/574075/\">How To Fix Google Ads Smart Bidding With A Primary Vs. Secondary Conversion Framework</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-02T11:00:12+00:00",
-      "fetched": "2026-06-02T22:53:49.182255+00:00"
-    },
-    {
-      "id": "05c1ee13-e2be-48c5-896c-145b495b6ca8",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Says LLMs.txt Is Purely Speculative\u2026 For Now via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-says-llms-txt-is-purely-speculative-for-now/577576/",
-      "summary": "Google's John Mueller casts doubt on LLMs.txt and says he likes WebMCP, a Google-backed alternative.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-says-llms-txt-is-purely-speculative-for-now/577576/\">Google Says LLMs.txt Is Purely Speculative&#8230; For Now</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-02T10:08:07+00:00",
-      "fetched": "2026-06-02T22:53:49.182272+00:00"
-    },
-    {
-      "id": "1cfc2f2f-6f4b-4365-99d7-9039cfaa2259",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why Great Content No Longer Works: MIT Research Shows The Shift Reshaping SEO Strategy via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/why-great-content-no-longer-works-mit-research-shows-the-shift-reshaping-seo-strategy/575880/",
-      "summary": "\"Influence is the new traffic.\" Rand Fishkin's argument and MIT's AI Labor Exposure Map landed in the same week and pointed at the same problem.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-great-content-no-longer-works-mit-research-shows-the-shift-reshaping-seo-strategy/575880/\">Why Great Content No Longer Works: MIT Research Shows The Shift Reshaping SEO Strategy</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-02T08:00:16+00:00",
-      "fetched": "2026-06-02T22:53:49.182287+00:00"
-    },
-    {
-      "id": "a8672add-d640-4011-8933-13f3701e9d77",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "EntityMap: The Open Standard That Gives AI Systems A Structured View Of Your Business via @sejournal, @Dixon_Jones",
-      "link": "https://www.searchenginejournal.com/entitymap-the-open-standard-that-gives-ai-systems-a-structured-view-of-your-business/576146/",
-      "summary": "What if a single file could tell AI systems exactly what your organization knows and where the evidence lives? That's the EntityMap proposal.\n\nThe post <a href=\"https://www.searchenginejournal.com/entitymap-the-open-standard-that-gives-ai-systems-a-structured-view-of-your-business/576146/\">EntityMap: The Open Standard That Gives AI Systems A Structured View Of Your Business</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-01T13:00:35+00:00",
-      "fetched": "2026-06-01T22:54:46.314257+00:00"
-    },
-    {
-      "id": "b405a5f2-0717-42af-b626-98298be8f86f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google CEO Sundar Pichai Downplays Google Zero Concerns via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-ceo-sundar-pichai-downplays-google-zero-concerns/577489/",
-      "summary": "Google CEO Sundar Pichai downplays Google Zero concerns, saying low-quality clicks are being filtered out.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ceo-sundar-pichai-downplays-google-zero-concerns/577489/\">Google CEO Sundar Pichai Downplays Google Zero Concerns</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-01T11:29:10+00:00",
-      "fetched": "2026-06-01T22:54:46.314280+00:00"
-    },
-    {
-      "id": "4e71d5c8-7830-4f01-b633-8569d7f88ed5",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Treating Reviews As Business Infrastructure, Not Marketing, Drives Real Business Results via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/treating-reviews-as-business-infrastructure-not-marketing-drives-real-business-results/575702/",
-      "summary": "A study found star ratings alone didn't predict small business performance. Active ORM did. Here's what that means as AI narrows local visibility. \n\nThe post <a href=\"https://www.searchenginejournal.com/treating-reviews-as-business-infrastructure-not-marketing-drives-real-business-results/575702/\">Treating Reviews As Business Infrastructure, Not Marketing, Drives Real Business Results</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-01T10:00:32+00:00",
-      "fetched": "2026-06-01T22:54:46.314297+00:00"
     }
   ],
-  "last_updated": "2026-06-04T22:15:18.201190+00:00"
+  "last_updated": "2026-06-05T22:08:03.293775+00:00"
 }
