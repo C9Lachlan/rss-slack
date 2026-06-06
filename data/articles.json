@@ -1,6 +1,39 @@
 {
   "articles": [
     {
+      "id": "7d82e70f-a083-4d7a-8904-8e398900ab6d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Gives Sites AI Search Opt-Out, But Not The Data To Use It via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-gives-sites-ai-search-opt-out-but-not-the-data-to-use-it/577978/",
+      "summary": "Google is beginning to let websites opt out of AI search, but the click data needed to make that decision isn't available yet. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-gives-sites-ai-search-opt-out-but-not-the-data-to-use-it/577978/\">Google Gives Sites AI Search Opt-Out, But Not The Data To Use It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-06T13:31:25+00:00",
+      "fetched": "2026-06-06T21:55:40.728822+00:00"
+    },
+    {
+      "id": "f4f162c0-38d0-4a60-b16a-83d3aed01c0f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Your Next AI Visitor Will Know Who Sent It via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/your-next-ai-visitor-will-know-who-sent-it/575489/",
+      "summary": "Is your page contributing something an AI agent can't already get from the user's own data? Here's how blended retrieval changes that calculus.\n\nThe post <a href=\"https://www.searchenginejournal.com/your-next-ai-visitor-will-know-who-sent-it/575489/\">Your Next AI Visitor Will Know Who Sent It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-06T12:00:26+00:00",
+      "fetched": "2026-06-06T21:55:40.728842+00:00"
+    },
+    {
+      "id": "0318313c-57f2-4b73-8fe0-5a74200c876a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Updated Guidance Urges FTC Complaints Against Shady SEOs via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/googles-updated-guidance-urges-ftc-complaints-against-shady-seos/578151/",
+      "summary": "Google now encourages FTC complaints in its SEO hiring guidance, while cautioning about AI SEO services, SEO tools, and misleading claims.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-updated-guidance-urges-ftc-complaints-against-shady-seos/578151/\">Google&#8217;s Updated Guidance Urges FTC Complaints Against Shady SEOs</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-06T07:18:58+00:00",
+      "fetched": "2026-06-06T21:55:40.728857+00:00"
+    },
+    {
       "id": "eb2ccd00-441b-4bdf-a96d-8ee2964ba143",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -186,40 +219,7 @@
       "summary": "Microsoft announced Web IQ, a set of grounding APIs that connect AI agents to Bing's index. Pricing and general availability remain unclear.\n\nThe post <a href=\"https://www.searchenginejournal.com/microsoft-web-iq-gives-ai-agents-bing-grounding-apis/577736/\">Microsoft Web IQ Gives AI Agents Bing Grounding APIs</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-06-02T19:10:58+00:00",
       "fetched": "2026-06-02T22:53:49.182173+00:00"
-    },
-    {
-      "id": "740d7c54-8deb-420d-b278-3b87d5fad1b9",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s May Core Update Complete After Volatile Rollout via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/googles-may-core-update-complete-after-volatile-rollout/577704/",
-      "summary": "Google's May core update finished rolling out on after nearly 12 days. SEO professionals described the update as heavier than March.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-may-core-update-complete-after-volatile-rollout/577704/\">Google&#8217;s May Core Update Complete After Volatile Rollout</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-02T15:01:45+00:00",
-      "fetched": "2026-06-02T22:53:49.182198+00:00"
-    },
-    {
-      "id": "21ffdcc6-0b0f-41ee-b833-f65e5890f951",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "ChatGPT Citations Changed After GPT-5.5, SISTRIX Data Shows via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/chatgpt-citations-changed-after-gpt-5-5-sistrix-data-shows/577694/",
-      "summary": "SISTRIX data from German-language ChatGPT responses shows citation patterns changed after GPT-5.5 appeared. The company compares it to a core update. \n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-citations-changed-after-gpt-5-5-sistrix-data-shows/577694/\">ChatGPT Citations Changed After GPT-5.5, SISTRIX Data Shows</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-02T14:20:15+00:00",
-      "fetched": "2026-06-02T22:53:49.182216+00:00"
-    },
-    {
-      "id": "f41c2e03-fbb3-491d-b533-435285982ed5",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Use Lighthouse To Test Your Website For Agentic Readiness via @sejournal, @marie_haynes",
-      "link": "https://www.searchenginejournal.com/how-to-use-lighthouse-to-test-your-website-for-agentic-readiness/577421/",
-      "summary": "Not sure if your site is agent-ready? Google's new Lighthouse report checks three things most SEOs haven't tackled yet.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-use-lighthouse-to-test-your-website-for-agentic-readiness/577421/\">How To Use Lighthouse To Test Your Website For Agentic Readiness</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-02T13:30:35+00:00",
-      "fetched": "2026-06-02T22:53:49.182238+00:00"
     }
   ],
-  "last_updated": "2026-06-05T22:08:03.293775+00:00"
+  "last_updated": "2026-06-06T21:55:41.480438+00:00"
 }
