@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "id": "87fa555d-7770-4325-93e3-bbef1fc28b5b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "What SEOs Should Read Before Labor Day, 5 Books For A Transformative Summer via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/what-seos-should-read-before-labor-day-4-books-for-a-transformative-summer/577681/",
+      "summary": "This summer's SEO reading list isn't about stepping back. It's about keeping up with a restructuring of search that's already underway.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-seos-should-read-before-labor-day-4-books-for-a-transformative-summer/577681/\">What SEOs Should Read Before Labor Day, 5 Books For A Transformative Summer</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-07T12:02:53+00:00",
+      "fetched": "2026-06-07T21:57:21.810084+00:00"
+    },
+    {
+      "id": "81ced654-9260-401e-bca1-f94f3e514553",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s New Guidance Claims Authority Over SEO, Tools, And AEO/GEO via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/googles-new-guidance-claims-authority-over-seo-tools-and-aeo-geo/578162/",
+      "summary": "Google positions itself as the ground truth for SEO and AEO/GEO advice and questions third-party SEO tools, data and services.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-new-guidance-claims-authority-over-seo-tools-and-aeo-geo/578162/\">Google&#8217;s New Guidance Claims Authority Over SEO, Tools, And AEO/GEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-07T09:09:04+00:00",
+      "fetched": "2026-06-07T21:57:21.810109+00:00"
+    },
+    {
       "id": "7d82e70f-a083-4d7a-8904-8e398900ab6d",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -197,29 +219,7 @@
       "summary": "Publishers, developers, and businesses face three different economic realities under the agentic web. This article maps all three.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-is-the-agentic-web/574224/\">What Is The Agentic Web?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-06-03T09:00:26+00:00",
       "fetched": "2026-06-03T22:57:44.748476+00:00"
-    },
-    {
-      "id": "757ddcd6-5692-4ff9-b892-a9384d46a58b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Tests Dedicated AI Search Reports In Search Console via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-tests-dedicated-ai-search-reports-in-search-console/577793/",
-      "summary": "Google is testing Search Console controls and reports for AI Search visibility, including AI-specific impressions data for some UK sites. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-tests-dedicated-ai-search-reports-in-search-console/577793/\">Google Tests Dedicated AI Search Reports In Search Console</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-03T05:10:20+00:00",
-      "fetched": "2026-06-03T22:57:44.748490+00:00"
-    },
-    {
-      "id": "92100c7c-306e-4d8d-b98e-59bc199eea46",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Microsoft Web IQ Gives AI Agents Bing Grounding APIs via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/microsoft-web-iq-gives-ai-agents-bing-grounding-apis/577736/",
-      "summary": "Microsoft announced Web IQ, a set of grounding APIs that connect AI agents to Bing's index. Pricing and general availability remain unclear.\n\nThe post <a href=\"https://www.searchenginejournal.com/microsoft-web-iq-gives-ai-agents-bing-grounding-apis/577736/\">Microsoft Web IQ Gives AI Agents Bing Grounding APIs</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-02T19:10:58+00:00",
-      "fetched": "2026-06-02T22:53:49.182173+00:00"
     }
   ],
-  "last_updated": "2026-06-06T21:55:41.480438+00:00"
+  "last_updated": "2026-06-07T21:57:22.949694+00:00"
 }
