@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "fdf5d18e-4868-4172-9405-13f41cec23e0",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Fix Your KPI Blind Spots: How To Finally Tie AI Search To Performance via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/fix-your-kpi-blind-spots-how-to-finally-tie-ai-search-to-performance/578378/",
+      "summary": "Master AI Search measurement techniques and gain visibility into its impact on revenue, beyond traditional click data.\n\nThe post <a href=\"https://www.searchenginejournal.com/fix-your-kpi-blind-spots-how-to-finally-tie-ai-search-to-performance/578378/\">Fix Your KPI Blind Spots: How To Finally Tie AI Search To Performance</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-08T21:12:48+00:00",
+      "fetched": "2026-06-08T22:17:53.451948+00:00"
+    },
+    {
+      "id": "95c0e484-b3cb-499e-ba4a-b5877369972d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Optimizing For Attention: How Eye Tracking Can Help Your International Strategy via @sejournal, @SequinsNsearch",
+      "link": "https://www.searchenginejournal.com/how-eye-tracking-can-help-your-international-strategy/575206/",
+      "summary": "Eye tracking reveals what analytics can't: where different markets look first, what they skip, and why your \"universal\" layout is losing you conversions.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-eye-tracking-can-help-your-international-strategy/575206/\">Optimizing For Attention: How Eye Tracking Can Help Your International Strategy</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-08T14:00:52+00:00",
+      "fetched": "2026-06-08T22:17:53.451974+00:00"
+    },
+    {
+      "id": "cdc9ab01-3bf3-410f-99ae-1a023c08b861",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Ask Maps Updates \u2013 How They Impact Your Business Profile via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-ask-maps-updates-how-they-impact-your-business-profile/577542/",
+      "summary": "Google's Ask Maps transforms local search by requiring complete business profiles to answer complex queries with multiple conditions.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ask-maps-updates-how-they-impact-your-business-profile/577542/\">Google Ask Maps Updates \u2013 How They Impact Your Business Profile</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-08T12:01:18+00:00",
+      "fetched": "2026-06-08T22:17:53.451994+00:00"
+    },
+    {
+      "id": "d674d8a8-25ff-48c9-a9ce-d239432795d1",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Visibility Used To Mean Citation. Late June 2026, It Starts To Mean Transaction via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/ai-visibility-used-to-mean-citation-late-june-2026-it-starts-to-mean-transaction/574698/",
+      "summary": "Six months of Google product releases compose into one agentic-web stack. Late June is when it hits 200 million pockets.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-visibility-used-to-mean-citation-late-june-2026-it-starts-to-mean-transaction/574698/\">AI Visibility Used To Mean Citation. Late June 2026, It Starts To Mean Transaction</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-08T10:03:33+00:00",
+      "fetched": "2026-06-08T22:17:53.452016+00:00"
+    },
+    {
+      "id": "e1ebff17-7c91-418d-93a6-76fc822faadb",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "WordPress Announces Initiative To Secure All Plugins And Themes via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/wordpress-announces-initiative-to-secure-all-plugins-and-themes/578189/",
+      "summary": "WordPress announced the Protect The Shire initiative for securing all plugins and themes in its repositories and directories.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-announces-initiative-to-secure-all-plugins-and-themes/578189/\">WordPress Announces Initiative To Secure All Plugins And Themes</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-08T10:03:25+00:00",
+      "fetched": "2026-06-08T22:17:53.452032+00:00"
+    },
+    {
       "id": "87fa555d-7770-4325-93e3-bbef1fc28b5b",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -164,62 +219,7 @@
       "summary": "Despite industry fears, AI search adoption remains fragmented with most users still preferring traditional search methods.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-users-are-fleeing-to-ai-free-search-what-it-means-for-seo/577691/\">Why Users Are Fleeing To AI-Free Search &#038; What It Means For SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-06-04T12:01:48+00:00",
       "fetched": "2026-06-04T22:15:17.393161+00:00"
-    },
-    {
-      "id": "dc61a858-2171-476f-b433-3ec9194b60c5",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google CEO Sundar Pichai Is OK With AI Mode Replacing Classic Search via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/googles-ceo-is-comfortable-with-ai-mode-replacing-classic-search/577923/",
-      "summary": "As AI Mode becomes more seamless, Google appears increasingly comfortable with a world beyond Classic Search.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-ceo-is-comfortable-with-ai-mode-replacing-classic-search/577923/\">Google CEO Sundar Pichai Is OK With AI Mode Replacing Classic Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-04T10:51:42+00:00",
-      "fetched": "2026-06-04T22:15:17.393179+00:00"
-    },
-    {
-      "id": "74e25594-dc08-47b8-9201-27d5a3054e55",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "GSC\u2019s New AI Overview Reporting: How Can We Use This Information? via @sejournal, @marie_haynes",
-      "link": "https://www.searchenginejournal.com/gscs-new-ai-overview-reporting-how-can-we-use-this-information/577891/",
-      "summary": "Google Search Console now shows which of your pages appear in AI Overviews, AI Mode, and Discover. Here's how to use that data.\n\nThe post <a href=\"https://www.searchenginejournal.com/gscs-new-ai-overview-reporting-how-can-we-use-this-information/577891/\">GSC&#8217;s New AI Overview Reporting: How Can We Use This Information?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-04T10:05:54+00:00",
-      "fetched": "2026-06-04T22:15:17.393224+00:00"
-    },
-    {
-      "id": "76661139-0e75-4ebe-b5c9-f2ec121b7bed",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How Can You Implement Entity Optimization Without Relying On Schema Markup? \u2013 Ask An SEO via @sejournal, @HelenPollitt1",
-      "link": "https://www.searchenginejournal.com/ask-an-seo-what-does-entity-optimization-mean/575597/",
-      "summary": "Most SEOs stop at schema markup. Here's the full technical picture of entity optimization, and why it matters more than ever for LLM visibility.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-an-seo-what-does-entity-optimization-mean/575597/\">How Can You Implement Entity Optimization Without Relying On Schema Markup? \u2013 Ask An SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-04T08:30:30+00:00",
-      "fetched": "2026-06-04T22:15:17.393256+00:00"
-    },
-    {
-      "id": "472419fa-348e-4fd1-9c51-64c6666e9360",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "What Not To Automate With AI: The SEO Deskilling Trap",
-      "link": "https://www.searchenginejournal.com/what-not-to-automate-with-ai-the-seo-deskilling-trap/574887/",
-      "summary": "Which marketing tasks should you automate, and which should you protect? The answer could define your team's capabilities for the next decade.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-not-to-automate-with-ai-the-seo-deskilling-trap/574887/\">What Not To Automate With AI: The SEO Deskilling Trap</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-03T12:00:43+00:00",
-      "fetched": "2026-06-03T22:57:44.748456+00:00"
-    },
-    {
-      "id": "e20e05a7-a560-42bb-8c9c-2107acfe696d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "What Is The Agentic Web? via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/what-is-the-agentic-web/574224/",
-      "summary": "Publishers, developers, and businesses face three different economic realities under the agentic web. This article maps all three.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-is-the-agentic-web/574224/\">What Is The Agentic Web?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-03T09:00:26+00:00",
-      "fetched": "2026-06-03T22:57:44.748476+00:00"
     }
   ],
-  "last_updated": "2026-06-07T21:57:22.949694+00:00"
+  "last_updated": "2026-06-08T22:17:54.152491+00:00"
 }
