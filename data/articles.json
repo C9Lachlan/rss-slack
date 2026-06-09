@@ -1,6 +1,105 @@
 {
   "articles": [
     {
+      "id": "bd34910e-0c2b-4e01-a501-c1c7421f0db2",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Reddit Gained Top Positions In Every Niche After May Core Update via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/reddit-gained-top-positions-in-every-niche-after-may-core-update/578502/",
+      "summary": "SE Ranking found Reddit gained top 3 share across all 20 niches after Google's May core update, with smaller moves in YMYL categories.\n\nThe post <a href=\"https://www.searchenginejournal.com/reddit-gained-top-positions-in-every-niche-after-may-core-update/578502/\">Reddit Gained Top Positions In Every Niche After May Core Update</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-09T16:44:39+00:00",
+      "fetched": "2026-06-09T22:16:50.880768+00:00"
+    },
+    {
+      "id": "32db25b6-d37f-43a8-9055-806891fff69f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Web Push Advertising 2026: Market Trends, Challenges & Opportunities via @sejournal, @rollerads",
+      "link": "https://www.searchenginejournal.com/web-push-advertising-trends-rollerads-spa/575976/",
+      "summary": "Find out how to optimize your push advertising strategy with insights on Web Push notifications and engagement in 2026.\n\nThe post <a href=\"https://www.searchenginejournal.com/web-push-advertising-trends-rollerads-spa/575976/\">Web Push Advertising 2026: Market Trends, Challenges &#038; Opportunities</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-09T15:08:50+00:00",
+      "fetched": "2026-06-09T22:16:50.880794+00:00"
+    },
+    {
+      "id": "7076f3e1-1639-4c6e-9d44-322f249c5d3e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Complete Guide To Local SEO For Multiple Locations via @sejournal, @TaylorDanRW",
+      "link": "https://www.searchenginejournal.com/the-complete-guide-to-local-seo-for-multiple-locations/578080/",
+      "summary": "Modern local SEO strategies for multi-location businesses, covering entity clustering, AI optimization, and advanced Google Business Profile management techniques.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-complete-guide-to-local-seo-for-multiple-locations/578080/\">The Complete Guide To Local SEO For Multiple Locations</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-09T13:30:17+00:00",
+      "fetched": "2026-06-09T22:16:50.880814+00:00"
+    },
+    {
+      "id": "3e8e9b35-3f26-4f1f-8390-b480672fb446",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The AI Convergence Problem",
+      "link": "https://www.searchenginejournal.com/the-ai-convergence-problem/576068/",
+      "summary": "Shared training data plus shared incentives equals everyone sounding like everyone else. Is your brand the one being averaged out?\n\nThe post <a href=\"https://www.searchenginejournal.com/the-ai-convergence-problem/576068/\">The AI Convergence Problem</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-09T11:04:48+00:00",
+      "fetched": "2026-06-09T22:16:50.880835+00:00"
+    },
+    {
+      "id": "5ba1d037-8860-42b8-a829-ea02afdb1cfc",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Build A Growth Marketing Team On A Startup Budget",
+      "link": "https://www.searchenginejournal.com/how-to-build-a-growth-marketing-team-on-a-startup-budget/575451/",
+      "summary": "What does a growth marketing team actually cost to build right in 2026? The answer depends entirely on who you hire first. \n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-build-a-growth-marketing-team-on-a-startup-budget/575451/\">How To Build A Growth Marketing Team On A Startup Budget</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-09T09:45:33+00:00",
+      "fetched": "2026-06-09T22:16:50.880852+00:00"
+    },
+    {
+      "id": "73dc6767-e2b6-4df2-b47b-79ace77f1afd",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The CMO And CIO Friction Point: Navigating The AI Agent And AEO Ecosystem",
+      "link": "https://www.searchenginejournal.com/the-cmo-and-cio-friction-point-navigating-the-ai-agent-and-aeo-ecosystem/575379/",
+      "summary": "Your CMO and CIO are both talking about AI agents, and solving completely different problems. Here's the gap costing brands revenue.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-cmo-and-cio-friction-point-navigating-the-ai-agent-and-aeo-ecosystem/575379/\">The CMO And CIO Friction Point: Navigating The AI Agent And AEO Ecosystem</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-09T08:00:22+00:00",
+      "fetched": "2026-06-09T22:16:50.880868+00:00"
+    },
+    {
+      "id": "0afb53fd-f795-4a63-8860-214fc5315cf4",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "What An AI Brand Audit Reveals About Your Locations via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/what-an-ai-brand-audit-reveals-about-your-locations-webinar/577847/",
+      "summary": "Learn how an AI brand audit can improve your online presence and ensure accurate location information for your customers.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-an-ai-brand-audit-reveals-about-your-locations-webinar/577847/\">What An AI Brand Audit Reveals About Your Locations</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-09T07:45:37+00:00",
+      "fetched": "2026-06-09T22:16:50.880885+00:00"
+    },
+    {
+      "id": "b502e62a-135e-4a7b-b479-09a92fc8d391",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Says Hyphenated Domain Names Are Okay For SEO via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-says-hyphenated-domain-names-are-okay-for-seo/578390/",
+      "summary": "Google says hyphenated domains are OK for SEO, challenging one of SEOs longest-running assumptions.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-says-hyphenated-domain-names-are-okay-for-seo/578390/\">Google Says Hyphenated Domain Names Are Okay For SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-08T23:43:54+00:00",
+      "fetched": "2026-06-09T22:16:50.880910+00:00"
+    },
+    {
+      "id": "e8d40501-e352-4cbb-a036-1409e6c28b93",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Mentions May Not Translate To Trust, New Analysis Suggests via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/ai-mentions-may-not-translate-to-trust-new-analysis-suggests/578388/",
+      "summary": "Getting your brand into AI-generated answers may not be enough if the narrative isn't believable. A new analysis modeled believability across seven AI platforms.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-mentions-may-not-translate-to-trust-new-analysis-suggests/578388/\">AI Mentions May Not Translate To Trust, New Analysis Suggests</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-08T23:23:57+00:00",
+      "fetched": "2026-06-09T22:16:50.880928+00:00"
+    },
+    {
       "id": "fdf5d18e-4868-4172-9405-13f41cec23e0",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -120,106 +219,7 @@
       "summary": "Google has documented a native link between Google Business Profile and Google Analytics, bringing local metrics like calls and directions into GA reports.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-analytics-is-adding-google-business-profile-data/578107/\">Google Analytics Is Adding Google Business Profile Data</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-06-05T14:57:11+00:00",
       "fetched": "2026-06-05T22:08:02.552882+00:00"
-    },
-    {
-      "id": "1e1de368-840d-4889-b718-2bbde3c1b251",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Literacy Is Not Prompt Literacy. Ann Handley Says It\u2019s Judgment Literacy via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/ai-literacy-is-not-prompt-literacy-ann-handley-says-its-judgment-literacy/577322/",
-      "summary": "Marketing expert Ann Handley reframes AI literacy as judgment literacy, emphasizing when to avoid AI rather than perfect prompts.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-literacy-is-not-prompt-literacy-ann-handley-says-its-judgment-literacy/577322/\">AI Literacy Is Not Prompt Literacy. Ann Handley Says It&#8217;s Judgment Literacy</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-05T14:00:29+00:00",
-      "fetched": "2026-06-05T22:08:02.552905+00:00"
-    },
-    {
-      "id": "ff4f6d5b-0a08-4700-9198-34fe34120797",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Tests AI Search Data, UK Requires Opt Out \u2013 SEO Pulse via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-google-tests-ai-search-data-uk-requires-opt-out/578003/",
-      "summary": "Google tests AI visibility reports and an opt-out toggle as the UK requires new publisher controls for AI search features.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-google-tests-ai-search-data-uk-requires-opt-out/578003/\">Google Tests AI Search Data, UK Requires Opt Out &#8211; SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-05T12:30:34+00:00",
-      "fetched": "2026-06-05T22:08:02.552922+00:00"
-    },
-    {
-      "id": "08d75484-a947-4060-965b-5e6c64216e66",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Sergey Brin Sees A Path To AGI But Not Beyond It via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/googles-sergey-brin-sees-a-path-to-agi/578068/",
-      "summary": "Google co-founder Sergey Brin says AI is heading toward AGI, but can't explain what comes next.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-sergey-brin-sees-a-path-to-agi/578068/\">Google&#8217;s Sergey Brin Sees A Path To AGI But Not Beyond It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-05T12:10:04+00:00",
-      "fetched": "2026-06-05T22:08:02.552954+00:00"
-    },
-    {
-      "id": "456e93f5-8e37-420c-8f4d-e35c29b6ec5e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "What Is A Migration Hangover Traffic Drop & How Do You Avoid It?",
-      "link": "https://www.searchenginejournal.com/what-is-a-migration-hangover-traffic-drop-how-do-you-avoid-it/575102/",
-      "summary": "A new site shouldn't cost you a year of rankings. Spot the difference between normal volatility and true SEO migration hangover before it's too late.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-is-a-migration-hangover-traffic-drop-how-do-you-avoid-it/575102/\">What Is A Migration Hangover Traffic Drop &#038; How Do You Avoid It?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-05T10:00:34+00:00",
-      "fetched": "2026-06-05T22:08:02.552972+00:00"
-    },
-    {
-      "id": "ba4f0526-2d2c-45db-b5b5-3d79c23d2ece",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s May Core Update Favored Pages That Match Intent via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/googles-may-core-update-favored-pages-that-match-intent/577996/",
-      "summary": "Aleyda Solis analyzed US and UK SISTRIX data from Google's May core update, finding visibility patterns tied to source type and market fit. \n\nThe post <a href=\"https://www.searchenginejournal.com/googles-may-core-update-favored-pages-that-match-intent/577996/\">Google&#8217;s May Core Update Favored Pages That Match Intent</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-05T02:43:01+00:00",
-      "fetched": "2026-06-05T22:08:02.552990+00:00"
-    },
-    {
-      "id": "f69e5392-47e3-44b9-940e-ab3f2898d5aa",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Launches Search Profiles For Creators With 100K Followers via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-launches-search-profiles-for-creators-with-100k-followers/577983/",
-      "summary": "Google launches Search profiles, giving eligible creators a customizable page for articles, social posts, and followers. U.S.-only at launch.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-launches-search-profiles-for-creators-with-100k-followers/577983/\">Google Launches Search Profiles For Creators With 100K Followers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-04T18:00:04+00:00",
-      "fetched": "2026-06-04T22:15:17.393092+00:00"
-    },
-    {
-      "id": "a032af2b-09c1-4371-adeb-429137360d58",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Must Let Websites Opt Out Of AI Search Features In UK via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-must-let-websites-opt-out-of-ai-search-features-in-uk/577970/",
-      "summary": "The UK's CMA has imposed a new conduct requirement on Google Search, letting publishers opt out of AI features and requiring clearer content attribution.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-must-let-websites-opt-out-of-ai-search-features-in-uk/577970/\">Google Must Let Websites Opt Out Of AI Search Features In UK</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-04T14:13:17+00:00",
-      "fetched": "2026-06-04T22:15:17.393118+00:00"
-    },
-    {
-      "id": "756ea415-cbfb-4ffb-9349-62bea69f689f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "You Can Finally Measure Content Alignment. That\u2019s The Dangerous Part via @sejournal, @DuaneForrester",
-      "link": "https://www.searchenginejournal.com/you-can-finally-measure-content-alignment-thats-the-dangerous-part/577424/",
-      "summary": "You can't optimize content for a retrieval system you can't measure. Here's the measurement literacy gap practitioners need to close.\n\nThe post <a href=\"https://www.searchenginejournal.com/you-can-finally-measure-content-alignment-thats-the-dangerous-part/577424/\">You Can Finally Measure Content Alignment. That\u2019s The Dangerous Part</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-04T13:30:11+00:00",
-      "fetched": "2026-06-04T22:15:17.393139+00:00"
-    },
-    {
-      "id": "43486637-d54a-4590-a928-674f0b32a0d9",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why Users Are Fleeing To AI-Free Search & What It Means For SEO via @sejournal, @TaylorDanRW",
-      "link": "https://www.searchenginejournal.com/why-users-are-fleeing-to-ai-free-search-what-it-means-for-seo/577691/",
-      "summary": "Despite industry fears, AI search adoption remains fragmented with most users still preferring traditional search methods.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-users-are-fleeing-to-ai-free-search-what-it-means-for-seo/577691/\">Why Users Are Fleeing To AI-Free Search &#038; What It Means For SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-04T12:01:48+00:00",
-      "fetched": "2026-06-04T22:15:17.393161+00:00"
     }
   ],
-  "last_updated": "2026-06-08T22:17:54.152491+00:00"
+  "last_updated": "2026-06-09T22:16:51.698318+00:00"
 }
