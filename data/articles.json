@@ -1,6 +1,83 @@
 {
   "articles": [
     {
+      "id": "ab088253-ebed-49a3-9439-4d257bf46051",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "5 AI Search Shifts Marketers Can\u2019t Afford to Miss Before Q3 via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/5-ai-search-shifts-marketers-cant-afford-to-miss-before-q3/579008/",
+      "summary": "Stay informed about AI search trends and their effect on your website's performance. Prepare for the future of search marketing.\n\nThe post <a href=\"https://www.searchenginejournal.com/5-ai-search-shifts-marketers-cant-afford-to-miss-before-q3/579008/\">5 AI Search Shifts Marketers Can&#8217;t Afford to Miss Before Q3</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-11T20:25:32+00:00",
+      "fetched": "2026-06-11T22:46:23.277902+00:00"
+    },
+    {
+      "id": "0a152637-88d7-4ca9-a9cb-677ce02f7bbd",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "YouTube Brings In-App Sharing & Messaging To The U.S. via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/youtube-brings-in-app-sharing-messaging-to-the-u-s/578927/",
+      "summary": "YouTube is expanding in-app video sharing and messaging to eligible adults in more markets, reviving a version of its messaging feature removed in 2019.\n\nThe post <a href=\"https://www.searchenginejournal.com/youtube-brings-in-app-sharing-messaging-to-the-u-s/578927/\">YouTube Brings In-App Sharing &#038; Messaging To The U.S.</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-11T14:45:05+00:00",
+      "fetched": "2026-06-11T22:46:23.277929+00:00"
+    },
+    {
+      "id": "aefe45c3-b19f-4700-8f72-6e1bb0262032",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Search Runs On Two Memory Systems. The Platforms Don\u2019t Use Them The Same Way via @sejournal, @DuaneForrester",
+      "link": "https://www.searchenginejournal.com/ai-search-runs-on-two-memory-systems-the-platforms-dont-use-them-the-same-way/578192/",
+      "summary": "Parametric memory and retrieval are two different problems with two different fixes. Most teams are solving the wrong one without knowing it.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-search-runs-on-two-memory-systems-the-platforms-dont-use-them-the-same-way/578192/\">AI Search Runs On Two Memory Systems. The Platforms Don\u2019t Use Them The Same Way</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-11T13:30:29+00:00",
+      "fetched": "2026-06-11T22:46:23.277981+00:00"
+    },
+    {
+      "id": "cf54265f-52c2-4dc0-8e34-81664558c202",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Is Building An Audience Loyalty Ecosystem",
+      "link": "https://www.searchenginejournal.com/google-is-building-an-audience-loyalty-ecosystem/578690/",
+      "summary": "Google traffic is harder to come by. Its newest publisher features won't bring it back; they're built to reward loyal, engaged audiences instead.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-is-building-an-audience-loyalty-ecosystem/578690/\">Google Is Building An Audience Loyalty Ecosystem</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-11T11:16:36+00:00",
+      "fetched": "2026-06-11T22:46:23.278011+00:00"
+    },
+    {
+      "id": "8f9955b2-7f8b-4c6c-a4ee-873b5d165739",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "UpdraftPlus WordPress Vulnerability Puts 3 Million Sites At Risk via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/updraftplus-wordpress-vulnerability-puts-3-million-sites-at-risk/578912/",
+      "summary": "Vulnerability enables attackers to take control of affected WordPress sites and install malicious files.\n\nThe post <a href=\"https://www.searchenginejournal.com/updraftplus-wordpress-vulnerability-puts-3-million-sites-at-risk/578912/\">UpdraftPlus WordPress Vulnerability Puts 3 Million Sites At Risk</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-11T10:23:42+00:00",
+      "fetched": "2026-06-11T22:46:23.278029+00:00"
+    },
+    {
+      "id": "8cda79af-edf9-4b58-9226-414c7af5fdfd",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Anthropic Asks The AI Industry To Hit The Brakes \u2013 Here\u2019s What It Means For SEO & Search Marketers via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/anthropic-asks-the-ai-industry-to-hit-the-brakes-heres-what-it-means-for-seo-search-marketers/578156/",
+      "summary": "Anthropic proposes coordinated AI development pause, warning of rapid capability growth that could reshape search, content quality signals, and marketing practices.\n\nThe post <a href=\"https://www.searchenginejournal.com/anthropic-asks-the-ai-industry-to-hit-the-brakes-heres-what-it-means-for-seo-search-marketers/578156/\">Anthropic Asks The AI Industry To Hit The Brakes \u2013 Here&#8217;s What It Means For SEO &#038; Search Marketers</a> appeared first on <a href=\"https://www.searchenginejournal.com\"",
+      "published": "2026-06-11T10:00:51+00:00",
+      "fetched": "2026-06-11T22:46:23.278054+00:00"
+    },
+    {
+      "id": "9118d0ef-257a-4230-bad6-321de3c7191c",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "WebMCP Can Be Used To Hijack AI Agents, Chrome Warns via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/webmcp-can-be-used-to-hijack-ai-agents-chrome-warns/578904/",
+      "summary": "Chrome says WebMCP creates hijacking risks for AI agents operating inside users' logged-in browser sessions.\n\nThe post <a href=\"https://www.searchenginejournal.com/webmcp-can-be-used-to-hijack-ai-agents-chrome-warns/578904/\">WebMCP Can Be Used To Hijack AI Agents, Chrome Warns</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-11T09:23:25+00:00",
+      "fetched": "2026-06-11T22:46:23.278074+00:00"
+    },
+    {
       "id": "34cf62a7-1773-49fb-ab1b-423044969ad3",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -142,84 +219,7 @@
       "summary": "SE Ranking found Reddit gained top 3 share across all 20 niches after Google's May core update, with smaller moves in YMYL categories.\n\nThe post <a href=\"https://www.searchenginejournal.com/reddit-gained-top-positions-in-every-niche-after-may-core-update/578502/\">Reddit Gained Top Positions In Every Niche After May Core Update</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-06-09T16:44:39+00:00",
       "fetched": "2026-06-09T22:16:50.880768+00:00"
-    },
-    {
-      "id": "32db25b6-d37f-43a8-9055-806891fff69f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Web Push Advertising 2026: Market Trends, Challenges & Opportunities via @sejournal, @rollerads",
-      "link": "https://www.searchenginejournal.com/web-push-advertising-trends-rollerads-spa/575976/",
-      "summary": "Find out how to optimize your push advertising strategy with insights on Web Push notifications and engagement in 2026.\n\nThe post <a href=\"https://www.searchenginejournal.com/web-push-advertising-trends-rollerads-spa/575976/\">Web Push Advertising 2026: Market Trends, Challenges &#038; Opportunities</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-09T15:08:50+00:00",
-      "fetched": "2026-06-09T22:16:50.880794+00:00"
-    },
-    {
-      "id": "7076f3e1-1639-4c6e-9d44-322f249c5d3e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Complete Guide To Local SEO For Multiple Locations via @sejournal, @TaylorDanRW",
-      "link": "https://www.searchenginejournal.com/the-complete-guide-to-local-seo-for-multiple-locations/578080/",
-      "summary": "Modern local SEO strategies for multi-location businesses, covering entity clustering, AI optimization, and advanced Google Business Profile management techniques.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-complete-guide-to-local-seo-for-multiple-locations/578080/\">The Complete Guide To Local SEO For Multiple Locations</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-09T13:30:17+00:00",
-      "fetched": "2026-06-09T22:16:50.880814+00:00"
-    },
-    {
-      "id": "3e8e9b35-3f26-4f1f-8390-b480672fb446",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The AI Convergence Problem",
-      "link": "https://www.searchenginejournal.com/the-ai-convergence-problem/576068/",
-      "summary": "Shared training data plus shared incentives equals everyone sounding like everyone else. Is your brand the one being averaged out?\n\nThe post <a href=\"https://www.searchenginejournal.com/the-ai-convergence-problem/576068/\">The AI Convergence Problem</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-09T11:04:48+00:00",
-      "fetched": "2026-06-09T22:16:50.880835+00:00"
-    },
-    {
-      "id": "5ba1d037-8860-42b8-a829-ea02afdb1cfc",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Build A Growth Marketing Team On A Startup Budget",
-      "link": "https://www.searchenginejournal.com/how-to-build-a-growth-marketing-team-on-a-startup-budget/575451/",
-      "summary": "What does a growth marketing team actually cost to build right in 2026? The answer depends entirely on who you hire first. \n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-build-a-growth-marketing-team-on-a-startup-budget/575451/\">How To Build A Growth Marketing Team On A Startup Budget</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-09T09:45:33+00:00",
-      "fetched": "2026-06-09T22:16:50.880852+00:00"
-    },
-    {
-      "id": "73dc6767-e2b6-4df2-b47b-79ace77f1afd",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The CMO And CIO Friction Point: Navigating The AI Agent And AEO Ecosystem",
-      "link": "https://www.searchenginejournal.com/the-cmo-and-cio-friction-point-navigating-the-ai-agent-and-aeo-ecosystem/575379/",
-      "summary": "Your CMO and CIO are both talking about AI agents, and solving completely different problems. Here's the gap costing brands revenue.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-cmo-and-cio-friction-point-navigating-the-ai-agent-and-aeo-ecosystem/575379/\">The CMO And CIO Friction Point: Navigating The AI Agent And AEO Ecosystem</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-09T08:00:22+00:00",
-      "fetched": "2026-06-09T22:16:50.880868+00:00"
-    },
-    {
-      "id": "0afb53fd-f795-4a63-8860-214fc5315cf4",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "What An AI Brand Audit Reveals About Your Locations via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/what-an-ai-brand-audit-reveals-about-your-locations-webinar/577847/",
-      "summary": "Learn how an AI brand audit can improve your online presence and ensure accurate location information for your customers.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-an-ai-brand-audit-reveals-about-your-locations-webinar/577847/\">What An AI Brand Audit Reveals About Your Locations</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-09T07:45:37+00:00",
-      "fetched": "2026-06-09T22:16:50.880885+00:00"
-    },
-    {
-      "id": "b502e62a-135e-4a7b-b479-09a92fc8d391",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Says Hyphenated Domain Names Are Okay For SEO via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-says-hyphenated-domain-names-are-okay-for-seo/578390/",
-      "summary": "Google says hyphenated domains are OK for SEO, challenging one of SEOs longest-running assumptions.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-says-hyphenated-domain-names-are-okay-for-seo/578390/\">Google Says Hyphenated Domain Names Are Okay For SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-08T23:43:54+00:00",
-      "fetched": "2026-06-09T22:16:50.880910+00:00"
     }
   ],
-  "last_updated": "2026-06-10T22:46:25.270209+00:00"
+  "last_updated": "2026-06-11T22:46:24.369825+00:00"
 }
