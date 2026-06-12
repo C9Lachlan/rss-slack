@@ -1,6 +1,83 @@
 {
   "articles": [
     {
+      "id": "3fe4a539-9f99-42be-b719-0b0cecfc02f8",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "MonsterInsights Website Compromised And Sending Phishing Emails via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/monsterinsights-website-compromised-and-sending-phishing-emails/579140/",
+      "summary": "MonsterInsights WordPress plugin site has been taken down and is warning against phishing attempts currently under way.\n\nThe post <a href=\"https://www.searchenginejournal.com/monsterinsights-website-compromised-and-sending-phishing-emails/579140/\">MonsterInsights Website Compromised And Sending Phishing Emails</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-12T21:09:18+00:00",
+      "fetched": "2026-06-12T22:18:06.697388+00:00"
+    },
+    {
+      "id": "eb2df1d7-38ec-4c29-b083-d406fad47ec4",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Rolls Out AI Mode Information Agents To Ultra Subscribers via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-rolls-out-ai-mode-information-agents-to-ultra-subscribers/579085/",
+      "summary": "Google's information agents are now available in all AI Mode languages and markets for AI Ultra subscribers, with expansion to more people planned this summer.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-rolls-out-ai-mode-information-agents-to-ultra-subscribers/579085/\">Google Rolls Out AI Mode Information Agents To Ultra Subscribers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-12T19:44:53+00:00",
+      "fetched": "2026-06-12T22:18:06.697419+00:00"
+    },
+    {
+      "id": "9c2722d8-f666-47ab-a60c-20979cc7ea45",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Extends Dynamic Search Ads Migration Deadline via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/google-extends-dynamic-search-ads-migration-deadline/579074/",
+      "summary": "Google has extended the Dynamic Search Ads to AI Max migration deadline until February 2027. Here's what advertisers need to know.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-extends-dynamic-search-ads-migration-deadline/579074/\">Google Extends Dynamic Search Ads Migration Deadline</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-12T19:21:24+00:00",
+      "fetched": "2026-06-12T22:18:06.697438+00:00"
+    },
+    {
+      "id": "67477562-f2c1-4cb3-a2f3-d47cb15ff117",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Reddit Climbs, Clicks Drop, GBP Comes To GA4 \u2013 SEO Pulse via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/seo-pulse-reddit-climbs-clicks-drop-gbp-comes-to-ga4/579029/",
+      "summary": "Reddit gains ground after the May core update, new zero-click data lands, Google updates its SEO guidance, and Business Profile data comes to Analytics.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-reddit-climbs-clicks-drop-gbp-comes-to-ga4/579029/\">Reddit Climbs, Clicks Drop, GBP Comes To GA4 \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-12T12:30:23+00:00",
+      "fetched": "2026-06-12T22:18:06.697463+00:00"
+    },
+    {
+      "id": "121e6863-4e74-4ca1-b7e2-046bdee38b79",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Overview Click Data Reveals Unexpected User Behavior Patterns For Marketers via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/ai-overview-click-data-reveals-unexpected-user-behavior-patterns-for-marketers/578379/",
+      "summary": "New research shows daily AI Overview users click sources 3.5x more than occasional users, revealing optimization opportunities.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-overview-click-data-reveals-unexpected-user-behavior-patterns-for-marketers/578379/\">AI Overview Click Data Reveals Unexpected User Behavior Patterns For Marketers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-12T11:02:35+00:00",
+      "fetched": "2026-06-12T22:18:06.697482+00:00"
+    },
+    {
+      "id": "75c940e8-f04a-4c67-b0a3-28a1c4fb7f6f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Agent-Friendly Checklist Is The Accessibility Audit Restated via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/googles-agent-friendly-checklist-is-the-accessibility-audit-restated/575495/",
+      "summary": "Stop running accessibility and agent-readiness audits on separate quarterly cycles. They're the same audit. Here's the evidence, and the one fix to make first. \n\nThe post <a href=\"https://www.searchenginejournal.com/googles-agent-friendly-checklist-is-the-accessibility-audit-restated/575495/\">Google&#8217;s Agent-Friendly Checklist Is The Accessibility Audit Restated</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-12T09:00:35+00:00",
+      "fetched": "2026-06-12T22:18:06.697501+00:00"
+    },
+    {
+      "id": "075b6fad-3e5a-4f45-85ea-a4e2e7c28151",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Bots Keep Overloading Servers. Should Website Owners Keep Paying? via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/ai-bots-keep-overloading-servers-should-website-owners-keep-paying/579018/",
+      "summary": "With 80% of AI traffic draining website infrastructure for model training, what can you do to fight back without affecting search visibility?\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-bots-keep-overloading-servers-should-website-owners-keep-paying/579018/\">AI Bots Keep Overloading Servers. Should Website Owners Keep Paying?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-11T23:53:14+00:00",
+      "fetched": "2026-06-12T22:18:06.697520+00:00"
+    },
+    {
       "id": "ab088253-ebed-49a3-9439-4d257bf46051",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -142,84 +219,7 @@
       "summary": "Search is diversifying fast. Google's financials, AI Mode growth data, and Discover's potential reveal what's really coming next.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-the-future-of-google-looks-like/578349/\">What The Future Of Google Looks Like</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-06-10T11:00:35+00:00",
       "fetched": "2026-06-10T22:46:24.450608+00:00"
-    },
-    {
-      "id": "58b0de07-f207-4ad8-bed3-3cd9afa91034",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "SEO Panel Agrees: Brand Is The New Backlink For AI SEO via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/seo-panel-agrees-brand-is-the-new-backlink-for-ai-seo/578567/",
-      "summary": "WordCamp SEO panelists say AI visibility depends less on chasing clicks and more on branding, clarity, entity optimization, and structured data.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-panel-agrees-brand-is-the-new-backlink-for-ai-seo/578567/\">SEO Panel Agrees: Brand Is The New Backlink For AI SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-10T10:10:18+00:00",
-      "fetched": "2026-06-10T22:46:24.450625+00:00"
-    },
-    {
-      "id": "4d878cba-3bf3-49e7-b31e-0dae51bd84f0",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why Your Product Feed Is An SEO Asset (And Who Should Own It) via @sejournal, @demirie",
-      "link": "https://www.searchenginejournal.com/why-your-product-feed-is-an-seo-asset-and-who-should-own-it/575543/",
-      "summary": "Feed, structured data, website: three layers, three teams, one goal. Here's the case for SEO taking a seat at the Merchant Center table.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-your-product-feed-is-an-seo-asset-and-who-should-own-it/575543/\">Why Your Product Feed Is An SEO Asset (And Who Should Own It)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-10T09:00:45+00:00",
-      "fetched": "2026-06-10T22:46:24.450655+00:00"
-    },
-    {
-      "id": "693f55b3-2ed7-43bc-8301-d743204c5b13",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Search In 2026: Five Findings From 300 Enterprise Marketing Execs",
-      "link": "https://www.searchenginejournal.com/enterprise-ai-search-report-branch-spa/575983/",
-      "summary": "Find out how marketing executives view AI search and its rapid growth in the digital landscape of search engines.\n\nThe post <a href=\"https://www.searchenginejournal.com/enterprise-ai-search-report-branch-spa/575983/\">AI Search In 2026: Five Findings From 300 Enterprise Marketing Execs</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-10T05:00:46+00:00",
-      "fetched": "2026-06-10T22:46:24.450673+00:00"
-    },
-    {
-      "id": "07967e0b-37c1-480c-ac03-a17088edcd2a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Claude Fable 5 \u201cFeels Next Level\u201d via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/claude-fable-5-feels-next-level/578538/",
-      "summary": "Anthropic Fable 5 is its most capable public AI model yet, designed for coding, research, and project-scale work.\n\nThe post <a href=\"https://www.searchenginejournal.com/claude-fable-5-feels-next-level/578538/\">Claude Fable 5 &#8220;Feels Next Level&#8221;</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-10T03:30:45+00:00",
-      "fetched": "2026-06-10T22:46:24.450693+00:00"
-    },
-    {
-      "id": "c38800dd-15a8-4f3f-9e0f-978890354f5d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "US Publishers Demand Common Crawl Stop Scraping Their Content via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/us-publishers-demand-common-crawl-stop-scraping-their-content/578532/",
-      "summary": "Digital Content Next sent Common Crawl a cease and desist letter demanding it stop scraping publisher content and remove protected material from its datasets. \n\nThe post <a href=\"https://www.searchenginejournal.com/us-publishers-demand-common-crawl-stop-scraping-their-content/578532/\">US Publishers Demand Common Crawl Stop Scraping Their Content</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-10T00:45:20+00:00",
-      "fetched": "2026-06-10T22:46:24.450709+00:00"
-    },
-    {
-      "id": "19894358-3a7d-4f6f-b4c5-58e0398827c4",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "More News Sites Default To Blocking AI Crawlers via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/more-news-sites-default-to-blocking-ai-crawlers/578527/",
-      "summary": "Reuters and Time now block AI bots by default, allowing only approved crawlers through allowlists, as more publishers add friction to AI content scraping.\n\nThe post <a href=\"https://www.searchenginejournal.com/more-news-sites-default-to-blocking-ai-crawlers/578527/\">More News Sites Default To Blocking AI Crawlers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-10T00:06:10+00:00",
-      "fetched": "2026-06-10T22:46:24.450724+00:00"
-    },
-    {
-      "id": "bd34910e-0c2b-4e01-a501-c1c7421f0db2",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Reddit Gained Top Positions In Every Niche After May Core Update via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/reddit-gained-top-positions-in-every-niche-after-may-core-update/578502/",
-      "summary": "SE Ranking found Reddit gained top 3 share across all 20 niches after Google's May core update, with smaller moves in YMYL categories.\n\nThe post <a href=\"https://www.searchenginejournal.com/reddit-gained-top-positions-in-every-niche-after-may-core-update/578502/\">Reddit Gained Top Positions In Every Niche After May Core Update</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-09T16:44:39+00:00",
-      "fetched": "2026-06-09T22:16:50.880768+00:00"
     }
   ],
-  "last_updated": "2026-06-11T22:46:24.369825+00:00"
+  "last_updated": "2026-06-12T22:18:07.884806+00:00"
 }
