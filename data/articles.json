@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": "68b56e71-eb6a-4722-8dc9-baeb430691e6",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Stripe Projects Opens Cloud Infrastructure Buying To AI Agents via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/stripe-projects-opens-cloud-infrastructure-buying-to-ai-agents/575504/",
+      "summary": "Your pricing page was built for humans. An agent buying infrastructure needs a structured catalog, a programmatic signup endpoint, and a delegated billing surface.\n\nThe post <a href=\"https://www.searchenginejournal.com/stripe-projects-opens-cloud-infrastructure-buying-to-ai-agents/575504/\">Stripe Projects Opens Cloud Infrastructure Buying To AI Agents</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-14T12:00:16+00:00",
+      "fetched": "2026-06-14T22:01:39.337521+00:00"
+    },
+    {
       "id": "b082ccef-28e8-4ca9-abe0-833bab9ad8e7",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -208,18 +219,7 @@
       "summary": "New data shows most U.S. Google searches end without a click, with a shrinking share of traffic reaching websites outside Google's ecosystem. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-search-sends-23-of-queries-to-the-open-web/578724/\">Google Search Sends 23% Of Queries To The Open Web</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-06-10T14:26:29+00:00",
       "fetched": "2026-06-10T22:46:24.450528+00:00"
-    },
-    {
-      "id": "3731c33f-f280-4621-ad28-3fc64c3b9ffc",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Claude Is The Fastest-Growing AI Traffic Source, Per New Data via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/claude-is-the-fastest-growing-ai-traffic-source-per-new-data/578669/",
-      "summary": "Claude referral traffic has grown almost 4x this year, making it the fastest growing among AI platforms, though still the smallest source.\n\nThe post <a href=\"https://www.searchenginejournal.com/claude-is-the-fastest-growing-ai-traffic-source-per-new-data/578669/\">Claude Is The Fastest-Growing AI Traffic Source, Per New Data</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-10T13:43:06+00:00",
-      "fetched": "2026-06-10T22:46:24.450549+00:00"
     }
   ],
-  "last_updated": "2026-06-13T21:55:17.152212+00:00"
+  "last_updated": "2026-06-14T22:01:40.234958+00:00"
 }
