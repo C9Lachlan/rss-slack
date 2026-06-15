@@ -1,6 +1,116 @@
 {
   "articles": [
     {
+      "id": "dc1bcda2-2e3d-45e9-9ab2-2f15ae2e52d6",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Microsoft Advertising Launches Product Explorer via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/microsoft-advertising-launches-product-explorer/579316/",
+      "summary": "Microsoft Advertising launches Product Explorer, a new Merchant Center tool that helps advertisers analyze feed health, product status, and performance data.\n\nThe post <a href=\"https://www.searchenginejournal.com/microsoft-advertising-launches-product-explorer/579316/\">Microsoft Advertising Launches Product Explorer</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-15T18:55:36+00:00",
+      "fetched": "2026-06-15T22:54:42.535669+00:00"
+    },
+    {
+      "id": "cb7b25dc-2146-49bd-a8d1-f1c1188eef25",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "What Matters In An AI Prompt? Intent or Keywords? via @sejournal, @maltelandwehr",
+      "link": "https://www.searchenginejournal.com/ai-prompt-intent-keywords-peec-spa/576201/",
+      "summary": "Want your content to appear in AI Overviews, ChatGPT, and Gemini? Here\u2019s how to set up your GEO campaigns.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-prompt-intent-keywords-peec-spa/576201/\">What Matters In An AI Prompt? Intent or Keywords?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-15T16:39:23+00:00",
+      "fetched": "2026-06-15T22:54:42.535698+00:00"
+    },
+    {
+      "id": "e5c76452-e963-44ec-9575-61dd8b576633",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Mueller Says llms.txt Can\u2019t Help LLMs Differentiate Sites via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/googles-mueller-says-llms-txt-cant-help-llms-differentiate-sites/579304/",
+      "summary": "Mueller argues LLM systems can't use llms.txt to differentiate between websites for discovery. He sees a narrow role once an agent is on a site.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-mueller-says-llms-txt-cant-help-llms-differentiate-sites/579304/\">Google&#8217;s Mueller Says llms.txt Can&#8217;t Help LLMs Differentiate Sites</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-15T16:28:02+00:00",
+      "fetched": "2026-06-15T22:54:42.535716+00:00"
+    },
+    {
+      "id": "c389f89a-15d7-48de-afd8-683903ea9874",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Ads Bidding Changes: What PPC Managers Need To Know About The 3 Updates via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/google-ads-three-bidding-budgeting-updates/579292/",
+      "summary": "Google Ads expands Smart Bidding Exploration, launches Promotion mode beta, and updates optimization for budget-limited campaigns beginning August 17.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ads-three-bidding-budgeting-updates/579292/\">Google Ads Bidding Changes: What PPC Managers Need To Know About The 3 Updates</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-15T15:24:12+00:00",
+      "fetched": "2026-06-15T22:54:42.535737+00:00"
+    },
+    {
+      "id": "0135e086-d89a-4a03-aa6e-bc049f61b874",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Review Gap: Finding Client Opportunities In Competitor Feedback",
+      "link": "https://www.searchenginejournal.com/the-review-gap-finding-client-opportunities-in-competitor-feedback/576052/",
+      "summary": "Competitor reviews reveal customer language, service gaps, and positioning opportunities that most SEOs overlook when focusing only on ratings.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-review-gap-finding-client-opportunities-in-competitor-feedback/576052/\">The Review Gap: Finding Client Opportunities In Competitor Feedback</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-15T13:30:06+00:00",
+      "fetched": "2026-06-15T22:54:42.535755+00:00"
+    },
+    {
+      "id": "5f90fd1f-454b-4390-a65f-3046589f841b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Agentic Commerce And The New Rules Of Google Ads via @sejournal, @tonyadam",
+      "link": "https://www.searchenginejournal.com/agentic-commerce-and-the-new-rules-of-google-ads/577406/",
+      "summary": "AI agents now shop and checkout for customers, transforming Google Ads product feeds into bidding signals and creating new advertising surfaces.\n\nThe post <a href=\"https://www.searchenginejournal.com/agentic-commerce-and-the-new-rules-of-google-ads/577406/\">Agentic Commerce And The New Rules Of Google Ads</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-15T11:30:02+00:00",
+      "fetched": "2026-06-15T22:54:42.535776+00:00"
+    },
+    {
+      "id": "4992ac0d-b8eb-4883-a2c2-788157f1b3e3",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Unexpected Take On Site Folder Structure And SEO via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/googles-unexpected-take-on-site-folder-structure-and-seo/579268/",
+      "summary": "Google's John Mueller said localized URL folders for a site's primary market offer little practical SEO advantage.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-unexpected-take-on-site-folder-structure-and-seo/579268/\">Google&#8217;s Unexpected Take On Site Folder Structure And SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-15T10:44:07+00:00",
+      "fetched": "2026-06-15T22:54:42.535791+00:00"
+    },
+    {
+      "id": "79b9720e-bc26-4ce6-99ba-88af498f25b3",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Your Q4 Budget Is Built On 2024 Search Data \u2013 3 New Reports That Should Reshape It via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/your-q4-budget-is-built-on-2024-search-data-3-new-reports-that-should-reshape-it/579190/",
+      "summary": "Three overlooked data points reveal why Q4 campaigns built on 2024 assumptions may miss the mark entirely.\n\nThe post <a href=\"https://www.searchenginejournal.com/your-q4-budget-is-built-on-2024-search-data-3-new-reports-that-should-reshape-it/579190/\">Your Q4 Budget Is Built On 2024 Search Data \u2013 3 New Reports That Should Reshape It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-15T10:15:52+00:00",
+      "fetched": "2026-06-15T22:54:42.535818+00:00"
+    },
+    {
+      "id": "2afa9339-6e28-4855-9a17-24ddc7405633",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Cloud Announces The Open Knowledge Format via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-cloud-announces-the-open-knowledge-format/579253/",
+      "summary": "Google Open Knowledge Format turns organizational knowledge into a shared format for AI agents, tools, and teams.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-cloud-announces-the-open-knowledge-format/579253/\">Google Cloud Announces The Open Knowledge Format</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-15T10:07:11+00:00",
+      "fetched": "2026-06-15T22:54:42.535835+00:00"
+    },
+    {
+      "id": "6a3d8ba7-0bc3-4829-adf5-1dacbcb41c28",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How One Team Earned 1,000+ AI Citations With Unique Research Data via @sejournal, @lorenbaker",
+      "link": "https://www.searchenginejournal.com/how-one-team-earned-1000-ai-citations-with-unique-research-data-webinar/578513/",
+      "summary": "Find out how PureLinq earned over 1,000 citations and links through strategic digital PR pitches that resonate with journalists.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-one-team-earned-1000-ai-citations-with-unique-research-data-webinar/578513/\">How One Team Earned 1,000+ AI Citations With Unique Research Data</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-15T07:45:45+00:00",
+      "fetched": "2026-06-15T22:54:42.535851+00:00"
+    },
+    {
       "id": "68b56e71-eb6a-4722-8dc9-baeb430691e6",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -109,117 +219,7 @@
       "summary": "Stop running accessibility and agent-readiness audits on separate quarterly cycles. They're the same audit. Here's the evidence, and the one fix to make first. \n\nThe post <a href=\"https://www.searchenginejournal.com/googles-agent-friendly-checklist-is-the-accessibility-audit-restated/575495/\">Google&#8217;s Agent-Friendly Checklist Is The Accessibility Audit Restated</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-06-12T09:00:35+00:00",
       "fetched": "2026-06-12T22:18:06.697501+00:00"
-    },
-    {
-      "id": "075b6fad-3e5a-4f45-85ea-a4e2e7c28151",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Bots Keep Overloading Servers. Should Website Owners Keep Paying? via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/ai-bots-keep-overloading-servers-should-website-owners-keep-paying/579018/",
-      "summary": "With 80% of AI traffic draining website infrastructure for model training, what can you do to fight back without affecting search visibility?\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-bots-keep-overloading-servers-should-website-owners-keep-paying/579018/\">AI Bots Keep Overloading Servers. Should Website Owners Keep Paying?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-11T23:53:14+00:00",
-      "fetched": "2026-06-12T22:18:06.697520+00:00"
-    },
-    {
-      "id": "ab088253-ebed-49a3-9439-4d257bf46051",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "5 AI Search Shifts Marketers Can\u2019t Afford to Miss Before Q3 via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/5-ai-search-shifts-marketers-cant-afford-to-miss-before-q3/579008/",
-      "summary": "Stay informed about AI search trends and their effect on your website's performance. Prepare for the future of search marketing.\n\nThe post <a href=\"https://www.searchenginejournal.com/5-ai-search-shifts-marketers-cant-afford-to-miss-before-q3/579008/\">5 AI Search Shifts Marketers Can&#8217;t Afford to Miss Before Q3</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-11T20:25:32+00:00",
-      "fetched": "2026-06-11T22:46:23.277902+00:00"
-    },
-    {
-      "id": "0a152637-88d7-4ca9-a9cb-677ce02f7bbd",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "YouTube Brings In-App Sharing & Messaging To The U.S. via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/youtube-brings-in-app-sharing-messaging-to-the-u-s/578927/",
-      "summary": "YouTube is expanding in-app video sharing and messaging to eligible adults in more markets, reviving a version of its messaging feature removed in 2019.\n\nThe post <a href=\"https://www.searchenginejournal.com/youtube-brings-in-app-sharing-messaging-to-the-u-s/578927/\">YouTube Brings In-App Sharing &#038; Messaging To The U.S.</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-11T14:45:05+00:00",
-      "fetched": "2026-06-11T22:46:23.277929+00:00"
-    },
-    {
-      "id": "aefe45c3-b19f-4700-8f72-6e1bb0262032",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Search Runs On Two Memory Systems. The Platforms Don\u2019t Use Them The Same Way via @sejournal, @DuaneForrester",
-      "link": "https://www.searchenginejournal.com/ai-search-runs-on-two-memory-systems-the-platforms-dont-use-them-the-same-way/578192/",
-      "summary": "Parametric memory and retrieval are two different problems with two different fixes. Most teams are solving the wrong one without knowing it.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-search-runs-on-two-memory-systems-the-platforms-dont-use-them-the-same-way/578192/\">AI Search Runs On Two Memory Systems. The Platforms Don\u2019t Use Them The Same Way</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-11T13:30:29+00:00",
-      "fetched": "2026-06-11T22:46:23.277981+00:00"
-    },
-    {
-      "id": "cf54265f-52c2-4dc0-8e34-81664558c202",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Is Building An Audience Loyalty Ecosystem",
-      "link": "https://www.searchenginejournal.com/google-is-building-an-audience-loyalty-ecosystem/578690/",
-      "summary": "Google traffic is harder to come by. Its newest publisher features won't bring it back; they're built to reward loyal, engaged audiences instead.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-is-building-an-audience-loyalty-ecosystem/578690/\">Google Is Building An Audience Loyalty Ecosystem</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-11T11:16:36+00:00",
-      "fetched": "2026-06-11T22:46:23.278011+00:00"
-    },
-    {
-      "id": "8f9955b2-7f8b-4c6c-a4ee-873b5d165739",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "UpdraftPlus WordPress Vulnerability Puts 3 Million Sites At Risk via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/updraftplus-wordpress-vulnerability-puts-3-million-sites-at-risk/578912/",
-      "summary": "Vulnerability enables attackers to take control of affected WordPress sites and install malicious files.\n\nThe post <a href=\"https://www.searchenginejournal.com/updraftplus-wordpress-vulnerability-puts-3-million-sites-at-risk/578912/\">UpdraftPlus WordPress Vulnerability Puts 3 Million Sites At Risk</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-11T10:23:42+00:00",
-      "fetched": "2026-06-11T22:46:23.278029+00:00"
-    },
-    {
-      "id": "8cda79af-edf9-4b58-9226-414c7af5fdfd",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Anthropic Asks The AI Industry To Hit The Brakes \u2013 Here\u2019s What It Means For SEO & Search Marketers via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/anthropic-asks-the-ai-industry-to-hit-the-brakes-heres-what-it-means-for-seo-search-marketers/578156/",
-      "summary": "Anthropic proposes coordinated AI development pause, warning of rapid capability growth that could reshape search, content quality signals, and marketing practices.\n\nThe post <a href=\"https://www.searchenginejournal.com/anthropic-asks-the-ai-industry-to-hit-the-brakes-heres-what-it-means-for-seo-search-marketers/578156/\">Anthropic Asks The AI Industry To Hit The Brakes \u2013 Here&#8217;s What It Means For SEO &#038; Search Marketers</a> appeared first on <a href=\"https://www.searchenginejournal.com\"",
-      "published": "2026-06-11T10:00:51+00:00",
-      "fetched": "2026-06-11T22:46:23.278054+00:00"
-    },
-    {
-      "id": "9118d0ef-257a-4230-bad6-321de3c7191c",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "WebMCP Can Be Used To Hijack AI Agents, Chrome Warns via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/webmcp-can-be-used-to-hijack-ai-agents-chrome-warns/578904/",
-      "summary": "Chrome says WebMCP creates hijacking risks for AI agents operating inside users' logged-in browser sessions.\n\nThe post <a href=\"https://www.searchenginejournal.com/webmcp-can-be-used-to-hijack-ai-agents-chrome-warns/578904/\">WebMCP Can Be Used To Hijack AI Agents, Chrome Warns</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-11T09:23:25+00:00",
-      "fetched": "2026-06-11T22:46:23.278074+00:00"
-    },
-    {
-      "id": "34cf62a7-1773-49fb-ab1b-423044969ad3",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Is Adding Business Profile Tools To The Gemini App via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-is-adding-business-profile-tools-to-the-gemini-app/578824/",
-      "summary": "Google is adding a direct Google Business Profile connection and Business notebooks to the Gemini app, rolling out this month.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-is-adding-business-profile-tools-to-the-gemini-app/578824/\">Google Is Adding Business Profile Tools To The Gemini App</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-10T20:08:36+00:00",
-      "fetched": "2026-06-10T22:46:24.450456+00:00"
-    },
-    {
-      "id": "341b9914-2bdc-480f-8c01-c0159eb46584",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Search Sends 23% Of Queries To The Open Web via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-search-sends-23-of-queries-to-the-open-web/578724/",
-      "summary": "New data shows most U.S. Google searches end without a click, with a shrinking share of traffic reaching websites outside Google's ecosystem. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-search-sends-23-of-queries-to-the-open-web/578724/\">Google Search Sends 23% Of Queries To The Open Web</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-10T14:26:29+00:00",
-      "fetched": "2026-06-10T22:46:24.450528+00:00"
     }
   ],
-  "last_updated": "2026-06-14T22:01:40.234958+00:00"
+  "last_updated": "2026-06-15T22:54:43.733712+00:00"
 }
