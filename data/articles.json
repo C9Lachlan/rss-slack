@@ -1,6 +1,72 @@
 {
   "articles": [
     {
+      "id": "6bab6b43-ffb2-4034-aeb7-423c694a6eec",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Must Give Notice Before Significant Ranking Changes via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-must-give-notice-before-significant-ranking-changes/579696/",
+      "summary": "The UK's CMA introduced two new conduct requirements for Google Search, covering fair ranking of organic results including AI Overviews, and search data portability. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-must-give-notice-before-significant-ranking-changes/579696/\">Google Must Give Notice Before Significant Ranking Changes</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-17T18:04:48+00:00",
+      "fetched": "2026-06-17T22:28:49.613142+00:00"
+    },
+    {
+      "id": "503002f7-6594-457c-8f7b-6a6bd3178865",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Integrated Search Brief That Aligns SEO, PPC & Content In The AI Search Era via @sejournal, @coreydmorris",
+      "link": "https://www.searchenginejournal.com/the-integrated-search-brief-that-aligns-seo-ppc-content-in-the-ai-search-era/575028/",
+      "summary": "Create unified search strategies by aligning SEO, PPC and content teams through integrated briefs covering objectives, intent and SERP features.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-integrated-search-brief-that-aligns-seo-ppc-content-in-the-ai-search-era/575028/\">The Integrated Search Brief That Aligns SEO, PPC &#038; Content In The AI Search Era</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-17T13:00:48+00:00",
+      "fetched": "2026-06-17T22:28:49.613168+00:00"
+    },
+    {
+      "id": "b1d62045-877b-4cc9-b526-f64df507dd49",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Written For Readers Who Don\u2019t Read via @sejournal, @pedrodias",
+      "link": "https://www.searchenginejournal.com/written-for-readers-who-dont-read/579568/",
+      "summary": "Most of the web's reading is now done by bots. For anyone publishing online, the rules on access, quality, and cheating no longer hold.\n\nThe post <a href=\"https://www.searchenginejournal.com/written-for-readers-who-dont-read/579568/\">Written For Readers Who Don&#8217;t Read</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-17T11:30:05+00:00",
+      "fetched": "2026-06-17T22:28:49.613187+00:00"
+    },
+    {
+      "id": "e0d3491d-e181-4ae8-9116-2bb2e487f087",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Explains Why URLs Blocked By Robots.txt Can Still Be Indexed via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-explains-why-urls-blocked-by-robots-txt-can-still-be-indexed/579634/",
+      "summary": "Search Console reported 51,000 URLs as \"Indexed, though blocked by robots.txt,\" and Google says that's not necessarily a problem.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-explains-why-urls-blocked-by-robots-txt-can-still-be-indexed/579634/\">Google Explains Why URLs Blocked By Robots.txt Can Still Be Indexed</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-17T10:58:48+00:00",
+      "fetched": "2026-06-17T22:28:49.613209+00:00"
+    },
+    {
+      "id": "170075d9-b9b3-4d12-b056-9cd8de1122b5",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why Publishing More Content Is Making Your SEO Worse via @sejournal, @cshel",
+      "link": "https://www.searchenginejournal.com/why-publishing-more-content-is-making-your-seo-worse/576047/",
+      "summary": "AI retrieval systems reward semantic precision over content volume, making excessive publishing counterproductive for modern SEO visibility.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-publishing-more-content-is-making-your-seo-worse/576047/\">Why Publishing More Content Is Making Your SEO Worse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-17T10:00:05+00:00",
+      "fetched": "2026-06-17T22:28:49.613227+00:00"
+    },
+    {
+      "id": "4ad54733-3eef-43b0-913a-d8930372e9b8",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Updated Guidance Now Says It\u2019s \u201cFine\u201d To Use LLMs.txt For AI SEO via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/googles-says-its-fine-to-use-llms-txt-for-ai-seo/579608/",
+      "summary": "Google updated its guidance to strike a less discouraging tone about the use of LLMs.txt, special markup, and markdown for AI SEO.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-says-its-fine-to-use-llms-txt-for-ai-seo/579608/\">Google&#8217;s Updated Guidance Now Says It&#8217;s &#8220;Fine&#8221; To Use LLMs.txt For AI SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-17T09:17:36+00:00",
+      "fetched": "2026-06-17T22:28:49.613245+00:00"
+    },
+    {
       "id": "24b675b7-6ab2-4ecb-ba3e-6918961743c5",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -153,73 +219,7 @@
       "summary": "Competitor reviews reveal customer language, service gaps, and positioning opportunities that most SEOs overlook when focusing only on ratings.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-review-gap-finding-client-opportunities-in-competitor-feedback/576052/\">The Review Gap: Finding Client Opportunities In Competitor Feedback</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-06-15T13:30:06+00:00",
       "fetched": "2026-06-15T22:54:42.535755+00:00"
-    },
-    {
-      "id": "5f90fd1f-454b-4390-a65f-3046589f841b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Agentic Commerce And The New Rules Of Google Ads via @sejournal, @tonyadam",
-      "link": "https://www.searchenginejournal.com/agentic-commerce-and-the-new-rules-of-google-ads/577406/",
-      "summary": "AI agents now shop and checkout for customers, transforming Google Ads product feeds into bidding signals and creating new advertising surfaces.\n\nThe post <a href=\"https://www.searchenginejournal.com/agentic-commerce-and-the-new-rules-of-google-ads/577406/\">Agentic Commerce And The New Rules Of Google Ads</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-15T11:30:02+00:00",
-      "fetched": "2026-06-15T22:54:42.535776+00:00"
-    },
-    {
-      "id": "4992ac0d-b8eb-4883-a2c2-788157f1b3e3",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Unexpected Take On Site Folder Structure And SEO via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/googles-unexpected-take-on-site-folder-structure-and-seo/579268/",
-      "summary": "Google's John Mueller said localized URL folders for a site's primary market offer little practical SEO advantage.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-unexpected-take-on-site-folder-structure-and-seo/579268/\">Google&#8217;s Unexpected Take On Site Folder Structure And SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-15T10:44:07+00:00",
-      "fetched": "2026-06-15T22:54:42.535791+00:00"
-    },
-    {
-      "id": "79b9720e-bc26-4ce6-99ba-88af498f25b3",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Your Q4 Budget Is Built On 2024 Search Data \u2013 3 New Reports That Should Reshape It via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/your-q4-budget-is-built-on-2024-search-data-3-new-reports-that-should-reshape-it/579190/",
-      "summary": "Three overlooked data points reveal why Q4 campaigns built on 2024 assumptions may miss the mark entirely.\n\nThe post <a href=\"https://www.searchenginejournal.com/your-q4-budget-is-built-on-2024-search-data-3-new-reports-that-should-reshape-it/579190/\">Your Q4 Budget Is Built On 2024 Search Data \u2013 3 New Reports That Should Reshape It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-15T10:15:52+00:00",
-      "fetched": "2026-06-15T22:54:42.535818+00:00"
-    },
-    {
-      "id": "2afa9339-6e28-4855-9a17-24ddc7405633",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Cloud Announces The Open Knowledge Format via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-cloud-announces-the-open-knowledge-format/579253/",
-      "summary": "Google Open Knowledge Format turns organizational knowledge into a shared format for AI agents, tools, and teams.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-cloud-announces-the-open-knowledge-format/579253/\">Google Cloud Announces The Open Knowledge Format</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-15T10:07:11+00:00",
-      "fetched": "2026-06-15T22:54:42.535835+00:00"
-    },
-    {
-      "id": "6a3d8ba7-0bc3-4829-adf5-1dacbcb41c28",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How One Team Earned 1,000+ AI Citations With Unique Research Data via @sejournal, @lorenbaker",
-      "link": "https://www.searchenginejournal.com/how-one-team-earned-1000-ai-citations-with-unique-research-data-webinar/578513/",
-      "summary": "Find out how PureLinq earned over 1,000 citations and links through strategic digital PR pitches that resonate with journalists.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-one-team-earned-1000-ai-citations-with-unique-research-data-webinar/578513/\">How One Team Earned 1,000+ AI Citations With Unique Research Data</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-15T07:45:45+00:00",
-      "fetched": "2026-06-15T22:54:42.535851+00:00"
-    },
-    {
-      "id": "68b56e71-eb6a-4722-8dc9-baeb430691e6",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Stripe Projects Opens Cloud Infrastructure Buying To AI Agents via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/stripe-projects-opens-cloud-infrastructure-buying-to-ai-agents/575504/",
-      "summary": "Your pricing page was built for humans. An agent buying infrastructure needs a structured catalog, a programmatic signup endpoint, and a delegated billing surface.\n\nThe post <a href=\"https://www.searchenginejournal.com/stripe-projects-opens-cloud-infrastructure-buying-to-ai-agents/575504/\">Stripe Projects Opens Cloud Infrastructure Buying To AI Agents</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-14T12:00:16+00:00",
-      "fetched": "2026-06-14T22:01:39.337521+00:00"
     }
   ],
-  "last_updated": "2026-06-16T22:46:59.587286+00:00"
+  "last_updated": "2026-06-17T22:28:50.444788+00:00"
 }
