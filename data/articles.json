@@ -1,6 +1,94 @@
 {
   "articles": [
     {
+      "id": "7506bb48-3c80-4ad6-b475-706edaa0b517",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "OpenAI Brings Improved Health Responses To Free ChatGPT via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/openai-brings-improved-health-responses-to-free-chatgpt/579919/",
+      "summary": "OpenAI says GPT-5.5 Instant, the free default ChatGPT model, now performs comparably to its frontier models on the company's own health evaluations.\n\nThe post <a href=\"https://www.searchenginejournal.com/openai-brings-improved-health-responses-to-free-chatgpt/579919/\">OpenAI Brings Improved Health Responses To Free ChatGPT</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-18T21:29:10+00:00",
+      "fetched": "2026-06-18T22:51:14.183550+00:00"
+    },
+    {
+      "id": "143b8c02-806b-4f27-9293-4ba7d86fe3a6",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google, Microsoft Back Draft AI Agent Discovery Spec via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-microsoft-back-draft-ai-agent-discovery-spec/579894/",
+      "summary": "A coalition including Google, Microsoft, and GitHub published Agentic Resource Discovery, an open draft spec for how AI agents find and verify tools online. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-microsoft-back-draft-ai-agent-discovery-spec/579894/\">Google, Microsoft Back Draft AI Agent Discovery Spec</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-18T19:48:40+00:00",
+      "fetched": "2026-06-18T22:51:14.183577+00:00"
+    },
+    {
+      "id": "f3b24674-d82a-4fd9-9b4a-4da950fddb65",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Rank And AI Citation Aren\u2019t The Same Number via @sejournal, @DuaneForrester",
+      "link": "https://www.searchenginejournal.com/rank-and-ai-citation-arent-the-same-number/579202/",
+      "summary": "A model breaks your prompt into several short retrieval queries before anything hits an index. Prompt length tells you almost nothing about search behavior.\n\nThe post <a href=\"https://www.searchenginejournal.com/rank-and-ai-citation-arent-the-same-number/579202/\">Rank And AI Citation Aren\u2019t The Same Number</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-18T13:30:18+00:00",
+      "fetched": "2026-06-18T22:51:14.183599+00:00"
+    },
+    {
+      "id": "7298ac51-6fc1-4b0d-a0f5-0ed5f33962be",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Is Becoming A Personalizing Mirror Before You Even Type A Query via @sejournal, @TaylorDanRW",
+      "link": "https://www.searchenginejournal.com/the-search-mirror-personal-intelligence-and-agentic-browsing/578430/",
+      "summary": "Search is becoming a mirror of private data, not a window to the web. Dan Taylor explains what personalized AI discovery means for brands.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-search-mirror-personal-intelligence-and-agentic-browsing/578430/\">Google Is Becoming A Personalizing Mirror Before You Even Type A Query</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-18T11:00:31+00:00",
+      "fetched": "2026-06-18T22:51:14.183623+00:00"
+    },
+    {
+      "id": "e3bc9a8e-d9a2-44c6-8c9c-4e3d37246891",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Exposes The Fundamental Flaw Of LLMs.txt via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-exposes-llms-txt-flaw/579814/",
+      "summary": "Google says a core assumption driving LLMs.txt adoption conflicts with the purpose its creators originally intended.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-exposes-llms-txt-flaw/579814/\">Google Exposes The Fundamental Flaw Of LLMs.txt</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-18T09:56:49+00:00",
+      "fetched": "2026-06-18T22:51:14.183642+00:00"
+    },
+    {
+      "id": "8ec8c152-2f70-40c8-a156-186e57f63662",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Tightens Requirements For Domain Migrations via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-tightens-requirements-for-domain-migrations/579781/",
+      "summary": "Google's updated documentation for domain migrations requires broader compliance demands for site owners.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-tightens-requirements-for-domain-migrations/579781/\">Google Tightens Requirements For Domain Migrations</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-18T09:17:45+00:00",
+      "fetched": "2026-06-18T22:51:14.183659+00:00"
+    },
+    {
+      "id": "e585e285-dc4f-4108-9856-cd8c7edfdcfb",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why Calling Yourself The Best Could Be Helping Your Competitors Win In AI Search via @sejournal, @lilyraynyc",
+      "link": "https://www.searchenginejournal.com/why-calling-yourself-the-best-could-be-helping-your-competitors-win-in-ai-search/579778/",
+      "summary": "Citations and recommendations aren't the same thing. New data shows Google often cites your listicle while recommending the competition.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-calling-yourself-the-best-could-be-helping-your-competitors-win-in-ai-search/579778/\">Why Calling Yourself The Best Could Be Helping Your Competitors Win In AI Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-18T09:00:08+00:00",
+      "fetched": "2026-06-18T22:51:14.183676+00:00"
+    },
+    {
+      "id": "7401cc77-5657-4f5b-b847-02e7d5b2ca25",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Less Traffic, Better Leads: Is Google Fixing B2B Marketing?",
+      "link": "https://www.searchenginejournal.com/google-fix-b2b-marketing-expertcallers-spa/573278/",
+      "summary": "B2B traffic is down but pipeline quality is up. Learn 5 steps to get cited by AI & reach buyers who arrive ready to convert.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-fix-b2b-marketing-expertcallers-spa/573278/\">Less Traffic, Better Leads: Is Google Fixing B2B Marketing?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-18T05:00:38+00:00",
+      "fetched": "2026-06-18T22:51:14.183701+00:00"
+    },
+    {
       "id": "6bab6b43-ffb2-4034-aeb7-423c694a6eec",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -131,95 +219,7 @@
       "summary": "Google says that markdown solves one problem while potentially creating others for search visibility.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-says-markdown-for-ai-seo-strips-away-the-parts-that-matter/579496/\">Google Says Markdown For AI SEO Strips Away The Parts That Matter</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-06-16T09:16:22+00:00",
       "fetched": "2026-06-16T22:46:58.286356+00:00"
-    },
-    {
-      "id": "9b25f8b8-0868-4162-8461-14d13393e321",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why GSC Impressions Are Up But Traffic Is Falling: 4 Things To Consider First \u2013 Ask An SEO via @sejournal, @rollerblader",
-      "link": "https://www.searchenginejournal.com/ask-an-seo-why-gsc-impressions-are-up-but-traffic-is-falling-4-things-to-consider-first/569246/",
-      "summary": "Rising impressions with falling traffic often stems from SERP changes, AI features, irrelevant rankings, or new content indexing.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-an-seo-why-gsc-impressions-are-up-but-traffic-is-falling-4-things-to-consider-first/569246/\">Why GSC Impressions Are Up But Traffic Is Falling: 4 Things To Consider First \u2013 Ask An SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-16T09:00:17+00:00",
-      "fetched": "2026-06-16T22:46:58.286374+00:00"
-    },
-    {
-      "id": "4f4c5bf5-d966-409c-a8d8-48f24dabc064",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Build an AI Trust Signal Strategy That Doubles as a Review Generation Strategy via @sejournal, @reviewlyAI",
-      "link": "https://www.searchenginejournal.com/ai-trust-signal-strategy-reviewly-spa/578121/",
-      "summary": "Find out how a robust review generation strategy boosts your business's chances with AI recommendations in local searches.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-trust-signal-strategy-reviewly-spa/578121/\">How To Build an AI Trust Signal Strategy That Doubles as a Review Generation Strategy</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-16T05:00:36+00:00",
-      "fetched": "2026-06-16T22:46:58.286399+00:00"
-    },
-    {
-      "id": "85b47412-1add-453e-b0cf-1960b38cea18",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "97% Of LLMS.txt Files Got No Requests, Ahrefs Data Shows via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/97-of-llms-txt-files-got-no-requests-ahrefs-data-shows/579478/",
-      "summary": "Ahrefs analyzed 137K domains and found 97% of llms.txt files received zero requests. AI retrieval bots accounted for 1% of total requests. \n\nThe post <a href=\"https://www.searchenginejournal.com/97-of-llms-txt-files-got-no-requests-ahrefs-data-shows/579478/\">97% Of LLMS.txt Files Got No Requests, Ahrefs Data Shows</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-16T04:01:02+00:00",
-      "fetched": "2026-06-16T22:46:58.286416+00:00"
-    },
-    {
-      "id": "dc1bcda2-2e3d-45e9-9ab2-2f15ae2e52d6",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Microsoft Advertising Launches Product Explorer via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/microsoft-advertising-launches-product-explorer/579316/",
-      "summary": "Microsoft Advertising launches Product Explorer, a new Merchant Center tool that helps advertisers analyze feed health, product status, and performance data.\n\nThe post <a href=\"https://www.searchenginejournal.com/microsoft-advertising-launches-product-explorer/579316/\">Microsoft Advertising Launches Product Explorer</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-15T18:55:36+00:00",
-      "fetched": "2026-06-15T22:54:42.535669+00:00"
-    },
-    {
-      "id": "cb7b25dc-2146-49bd-a8d1-f1c1188eef25",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "What Matters In An AI Prompt? Intent or Keywords? via @sejournal, @maltelandwehr",
-      "link": "https://www.searchenginejournal.com/ai-prompt-intent-keywords-peec-spa/576201/",
-      "summary": "Want your content to appear in AI Overviews, ChatGPT, and Gemini? Here\u2019s how to set up your GEO campaigns.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-prompt-intent-keywords-peec-spa/576201/\">What Matters In An AI Prompt? Intent or Keywords?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-15T16:39:23+00:00",
-      "fetched": "2026-06-15T22:54:42.535698+00:00"
-    },
-    {
-      "id": "e5c76452-e963-44ec-9575-61dd8b576633",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Mueller Says llms.txt Can\u2019t Help LLMs Differentiate Sites via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/googles-mueller-says-llms-txt-cant-help-llms-differentiate-sites/579304/",
-      "summary": "Mueller argues LLM systems can't use llms.txt to differentiate between websites for discovery. He sees a narrow role once an agent is on a site.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-mueller-says-llms-txt-cant-help-llms-differentiate-sites/579304/\">Google&#8217;s Mueller Says llms.txt Can&#8217;t Help LLMs Differentiate Sites</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-15T16:28:02+00:00",
-      "fetched": "2026-06-15T22:54:42.535716+00:00"
-    },
-    {
-      "id": "c389f89a-15d7-48de-afd8-683903ea9874",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Ads Bidding Changes: What PPC Managers Need To Know About The 3 Updates via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/google-ads-three-bidding-budgeting-updates/579292/",
-      "summary": "Google Ads expands Smart Bidding Exploration, launches Promotion mode beta, and updates optimization for budget-limited campaigns beginning August 17.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ads-three-bidding-budgeting-updates/579292/\">Google Ads Bidding Changes: What PPC Managers Need To Know About The 3 Updates</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-15T15:24:12+00:00",
-      "fetched": "2026-06-15T22:54:42.535737+00:00"
-    },
-    {
-      "id": "0135e086-d89a-4a03-aa6e-bc049f61b874",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Review Gap: Finding Client Opportunities In Competitor Feedback",
-      "link": "https://www.searchenginejournal.com/the-review-gap-finding-client-opportunities-in-competitor-feedback/576052/",
-      "summary": "Competitor reviews reveal customer language, service gaps, and positioning opportunities that most SEOs overlook when focusing only on ratings.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-review-gap-finding-client-opportunities-in-competitor-feedback/576052/\">The Review Gap: Finding Client Opportunities In Competitor Feedback</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-15T13:30:06+00:00",
-      "fetched": "2026-06-15T22:54:42.535755+00:00"
     }
   ],
-  "last_updated": "2026-06-17T22:28:50.444788+00:00"
+  "last_updated": "2026-06-18T22:51:15.225748+00:00"
 }
