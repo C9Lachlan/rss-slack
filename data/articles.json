@@ -1,6 +1,50 @@
 {
   "articles": [
     {
+      "id": "5bd3922f-796c-4df3-aaf8-8f608cc7703f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "We Need To Change Our Approach To AI Prompt Tracking via @sejournal, @TaylorDanRW",
+      "link": "https://www.searchenginejournal.com/we-need-to-change-our-approach-to-ai-prompt-tracking/579646/",
+      "summary": "Reframe AI prompt tracking as a measurement of stability, representation, and context rather than another version of rank tracking.\n\nThe post <a href=\"https://www.searchenginejournal.com/we-need-to-change-our-approach-to-ai-prompt-tracking/579646/\">We Need To Change Our Approach To AI Prompt Tracking</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-19T13:45:33+00:00",
+      "fetched": "2026-06-19T21:57:22.216344+00:00"
+    },
+    {
+      "id": "1d76fe0d-fedf-407f-9e89-fb57ef3b4bc0",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Citation Share Ships, New Data Doubts LLMS.txt \u2013 SEO Pulse via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/seo-pulse-ai-citation-share-ships-new-data-doubts-llms-txt/579942/",
+      "summary": "Bing rolls out AI Citation Share; fresh data shows LLMs.txt files go unread; Google backs two agent specs; and the UK orders fairer Search ranking.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-ai-citation-share-ships-new-data-doubts-llms-txt/579942/\">AI Citation Share Ships, New Data Doubts LLMS.txt \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-19T12:30:32+00:00",
+      "fetched": "2026-06-19T21:57:22.216366+00:00"
+    },
+    {
+      "id": "f973519e-5671-40b1-bec5-37df41cd6a5e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Research Shows How AI Spam Can Be Detected via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-generated-ai-detected/579987/",
+      "summary": "Google research suggests AI spam may be easier to detect by identifying originating networks instead of analyzing content one at a time.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-generated-ai-detected/579987/\">Google Research Shows How AI Spam Can Be Detected</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-19T11:45:35+00:00",
+      "fetched": "2026-06-19T21:57:22.216380+00:00"
+    },
+    {
+      "id": "dd257163-1adb-4cb3-93f7-fc0609694504",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Mode Sends A Different Visitor. Your Website Wasn\u2019t Built For Them via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/ai-mode-sends-a-different-visitor-your-website-wasnt-built-for-them/576185/",
+      "summary": "Pull your top AI-referred landing pages. Can this visitor complete their task within 30 seconds? Here's what to do when the answer is no.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-mode-sends-a-different-visitor-your-website-wasnt-built-for-them/576185/\">AI Mode Sends A Different Visitor. Your Website Wasn&#8217;t Built For Them</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-19T09:00:22+00:00",
+      "fetched": "2026-06-19T21:57:22.216401+00:00"
+    },
+    {
       "id": "7506bb48-3c80-4ad6-b475-706edaa0b517",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -175,51 +219,7 @@
       "summary": "Microsoft is beginning to roll out Citation Share, Intents, Topics, and Compare in the Bing Webmaster Tools AI Performance dashboard preview. \n\nThe post <a href=\"https://www.searchenginejournal.com/bing-rolls-out-ai-citation-share-in-webmaster-tools/579547/\">Bing Rolls Out AI Citation Share In Webmaster Tools</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-06-16T17:35:01+00:00",
       "fetched": "2026-06-16T22:46:58.286282+00:00"
-    },
-    {
-      "id": "52ed4382-a954-412d-aba9-42dad5d67557",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "TikTok Shows 3x More AI Slop Than YouTube, Report Finds via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/tiktok-shows-3x-more-ai-slop-than-youtube-report-finds/579521/",
-      "summary": "In a fresh-account test, Kapwing found 59% of TikTok For You videos were AI slop, roughly three times the rate on YouTube. \n\nThe post <a href=\"https://www.searchenginejournal.com/tiktok-shows-3x-more-ai-slop-than-youtube-report-finds/579521/\">TikTok Shows 3x More AI Slop Than YouTube, Report Finds</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-16T16:09:52+00:00",
-      "fetched": "2026-06-16T22:46:58.286301+00:00"
-    },
-    {
-      "id": "40b65fe5-9c60-4dc3-bc13-17ed36ee1fc1",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Agentic Commerce For Small Merchants: Which Protocol Spec Actually Matters For Your Website via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/agentic-commerce-for-small-merchants-which-protocol-spec-matters-for-your-website/575503/",
-      "summary": "If you sell on a major SMB platform, agentic commerce is already being implemented. Here's what to confirm in your admin before the traffic arrives.\n\nThe post <a href=\"https://www.searchenginejournal.com/agentic-commerce-for-small-merchants-which-protocol-spec-matters-for-your-website/575503/\">Agentic Commerce For Small Merchants: Which Protocol Spec Actually Matters For Your Website</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-16T13:00:13+00:00",
-      "fetched": "2026-06-16T22:46:58.286323+00:00"
-    },
-    {
-      "id": "4a981977-465b-45e5-9f89-3266d99199bb",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Schema, LLMs & The Low Bar For \u2018Evidence\u2019 In GEO",
-      "link": "https://www.searchenginejournal.com/schema-llms-the-low-bar-for-evidence-in-geo/576090/",
-      "summary": "Should you use schema for AI search visibility? Yes, but not for the reasons most consultants are selling. A breakdown of what the evidence supports.\n\nThe post <a href=\"https://www.searchenginejournal.com/schema-llms-the-low-bar-for-evidence-in-geo/576090/\">Schema, LLMs &#038; The Low Bar For &#8216;Evidence&#8217; In GEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-16T11:00:57+00:00",
-      "fetched": "2026-06-16T22:46:58.286340+00:00"
-    },
-    {
-      "id": "2e5bd4b2-ed93-4984-ba07-33ae83b51479",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Says Markdown For AI SEO Strips Away The Parts That Matter via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-says-markdown-for-ai-seo-strips-away-the-parts-that-matter/579496/",
-      "summary": "Google says that markdown solves one problem while potentially creating others for search visibility.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-says-markdown-for-ai-seo-strips-away-the-parts-that-matter/579496/\">Google Says Markdown For AI SEO Strips Away The Parts That Matter</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-16T09:16:22+00:00",
-      "fetched": "2026-06-16T22:46:58.286356+00:00"
     }
   ],
-  "last_updated": "2026-06-18T22:51:15.225748+00:00"
+  "last_updated": "2026-06-19T21:57:22.976864+00:00"
 }
