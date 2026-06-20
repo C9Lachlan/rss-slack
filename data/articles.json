@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "id": "8ba519e2-ed6c-41ab-81f0-9d563f10650e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Content Framework That Worked In 2019 Is Now Working Against You via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/the-content-framework-that-worked-in-2019-is-now-working-against-you/579051/",
+      "summary": "Why the best content frameworks become outdated and how to stay ahead by embracing new data instead of defending old models.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-content-framework-that-worked-in-2019-is-now-working-against-you/579051/\">The Content Framework That Worked In 2019 Is Now Working Against You</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-20T14:00:50+00:00",
+      "fetched": "2026-06-20T21:58:54.948081+00:00"
+    },
+    {
+      "id": "7bc03661-a68e-432b-bbf2-dd38385b40a0",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Deindexing Reports Keep Coming, Google Sees Nothing Unusual via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/deindexing-reports-keep-coming-google-sees-nothing-unusual/579847/",
+      "summary": "Websites report pages being removed from Google's index, while Google sees nothing unusual. How to separate real deindexing from ranking loss and reporting noise.\n\nThe post <a href=\"https://www.searchenginejournal.com/deindexing-reports-keep-coming-google-sees-nothing-unusual/579847/\">Deindexing Reports Keep Coming, Google Sees Nothing Unusual</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-20T12:30:44+00:00",
+      "fetched": "2026-06-20T21:58:54.948107+00:00"
+    },
+    {
       "id": "5bd3922f-796c-4df3-aaf8-8f608cc7703f",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -197,29 +219,7 @@
       "summary": "Google updated its guidance to strike a less discouraging tone about the use of LLMs.txt, special markup, and markdown for AI SEO.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-says-its-fine-to-use-llms-txt-for-ai-seo/579608/\">Google&#8217;s Updated Guidance Now Says It&#8217;s &#8220;Fine&#8221; To Use LLMs.txt For AI SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-06-17T09:17:36+00:00",
       "fetched": "2026-06-17T22:28:49.613245+00:00"
-    },
-    {
-      "id": "24b675b7-6ab2-4ecb-ba3e-6918961743c5",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The 4-Layer AI Ops Playbook: From Better AI Outputs To Strong SEO Results via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/the-4-layer-ai-ops-playbook-from-better-ai-outputs-to-strong-seo-results-recap/579419/",
-      "summary": "Uncover the connection between AI and SEO. Discover how structured use of AI can transform your content strategy.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-4-layer-ai-ops-playbook-from-better-ai-outputs-to-strong-seo-results-recap/579419/\">The 4-Layer AI Ops Playbook: From Better AI Outputs To Strong SEO Results</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-16T19:04:30+00:00",
-      "fetched": "2026-06-16T22:46:58.286254+00:00"
-    },
-    {
-      "id": "15b172b0-87a1-433d-9e5c-3b2cbbc81e90",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Bing Rolls Out AI Citation Share In Webmaster Tools via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/bing-rolls-out-ai-citation-share-in-webmaster-tools/579547/",
-      "summary": "Microsoft is beginning to roll out Citation Share, Intents, Topics, and Compare in the Bing Webmaster Tools AI Performance dashboard preview. \n\nThe post <a href=\"https://www.searchenginejournal.com/bing-rolls-out-ai-citation-share-in-webmaster-tools/579547/\">Bing Rolls Out AI Citation Share In Webmaster Tools</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-16T17:35:01+00:00",
-      "fetched": "2026-06-16T22:46:58.286282+00:00"
     }
   ],
-  "last_updated": "2026-06-19T21:57:22.976864+00:00"
+  "last_updated": "2026-06-20T21:58:55.658092+00:00"
 }
