@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": "ba761037-00dd-43bf-9b0e-c81cb03582ff",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Make Something Agents Want via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/make-something-agents-want/576188/",
+      "summary": "Is your website invisible to AI agents? Six companies just signaled the channel is real. Here's the window that's still open.\n\nThe post <a href=\"https://www.searchenginejournal.com/make-something-agents-want/576188/\">Make Something Agents Want</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-21T12:00:34+00:00",
+      "fetched": "2026-06-21T22:06:52.414561+00:00"
+    },
+    {
       "id": "8ba519e2-ed6c-41ab-81f0-9d563f10650e",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -208,18 +219,7 @@
       "summary": "AI retrieval systems reward semantic precision over content volume, making excessive publishing counterproductive for modern SEO visibility.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-publishing-more-content-is-making-your-seo-worse/576047/\">Why Publishing More Content Is Making Your SEO Worse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-06-17T10:00:05+00:00",
       "fetched": "2026-06-17T22:28:49.613227+00:00"
-    },
-    {
-      "id": "4ad54733-3eef-43b0-913a-d8930372e9b8",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Updated Guidance Now Says It\u2019s \u201cFine\u201d To Use LLMs.txt For AI SEO via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/googles-says-its-fine-to-use-llms-txt-for-ai-seo/579608/",
-      "summary": "Google updated its guidance to strike a less discouraging tone about the use of LLMs.txt, special markup, and markdown for AI SEO.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-says-its-fine-to-use-llms-txt-for-ai-seo/579608/\">Google&#8217;s Updated Guidance Now Says It&#8217;s &#8220;Fine&#8221; To Use LLMs.txt For AI SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-17T09:17:36+00:00",
-      "fetched": "2026-06-17T22:28:49.613245+00:00"
     }
   ],
-  "last_updated": "2026-06-20T21:58:55.658092+00:00"
+  "last_updated": "2026-06-21T22:06:53.812246+00:00"
 }
