@@ -1,6 +1,116 @@
 {
   "articles": [
     {
+      "id": "0d2f788b-ec27-402e-a33d-a1b3434b80aa",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Microsoft Clarity Now Flags Bots That Ignore Robots.txt via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/microsoft-clarity-now-flags-bots-that-ignore-robots-txt/580446/",
+      "summary": "Microsoft Clarity's Bot Analytics dashboard now detects when bots request URLs your robots.txt disallows, with trends and filters by bot and operator.\n\nThe post <a href=\"https://www.searchenginejournal.com/microsoft-clarity-now-flags-bots-that-ignore-robots-txt/580446/\">Microsoft Clarity Now Flags Bots That Ignore Robots.txt</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-24T20:13:45+00:00",
+      "fetched": "2026-06-24T22:06:50.443514+00:00"
+    },
+    {
+      "id": "5ce38848-4732-4114-9d70-c0a0534575de",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Begins Rolling Out The June 2026 Spam Update via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-begins-rolling-out-the-june-2026-spam-update/580424/",
+      "summary": "Google has begun rolling out the June 2026 spam update globally and across all languages. It's the second spam update of the year.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-begins-rolling-out-the-june-2026-spam-update/580424/\">Google Begins Rolling Out The June 2026 Spam Update</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-24T16:50:17+00:00",
+      "fetched": "2026-06-24T22:06:50.443540+00:00"
+    },
+    {
+      "id": "7970971f-a2f6-4407-8ee4-e584059f20e4",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Tests \u2018Strongest Match\u2019 Labels On Search Ads via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/google-strongest-match-search-ad-labels-test/580378/",
+      "summary": "Google is testing \u201cStrongest Match\u201d labels on Search ads. Here\u2019s what advertisers know so far and the questions Google hasn\u2019t answered.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-strongest-match-search-ad-labels-test/580378/\">Google Tests &#8216;Strongest Match&#8217; Labels On Search Ads</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-24T16:07:37+00:00",
+      "fetched": "2026-06-24T22:06:50.443561+00:00"
+    },
+    {
+      "id": "95a69390-9264-4909-9394-5c389ab5b6e1",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Accessibility Tree Is How AI Agents Read Your Site & It\u2019s Breaking via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/the-accessibility-tree-is-how-ai-agents-read-your-site-its-breaking/578171/",
+      "summary": "Accessibility used to be a compliance checkbox. In 2026 it's the interface the majority of your visitors use to read your website.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-accessibility-tree-is-how-ai-agents-read-your-site-its-breaking/578171/\">The Accessibility Tree Is How AI Agents Read Your Site &#038; It&#8217;s Breaking</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-24T15:00:13+00:00",
+      "fetched": "2026-06-24T22:06:50.443588+00:00"
+    },
+    {
+      "id": "45b81553-d822-4ba0-83a7-80b1382b9a3f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why International SEO Needs A Global Knowledge Integrity Strategy via @sejournal, @billhunt",
+      "link": "https://www.searchenginejournal.com/why-international-seo-needs-a-global-knowledge-integrity-strategy/577880/",
+      "summary": "AI search transforms international SEO challenges from selecting correct pages to ensuring accurate, market-specific information survives AI synthesis and retrieval.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-international-seo-needs-a-global-knowledge-integrity-strategy/577880/\">Why International SEO Needs A Global Knowledge Integrity Strategy</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-24T13:30:17+00:00",
+      "fetched": "2026-06-24T22:06:50.443607+00:00"
+    },
+    {
+      "id": "fde57561-87e3-4e71-b8c0-f62a8b25bd89",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why AI Visibility Does Not Only Depend On SEO",
+      "link": "https://www.searchenginejournal.com/why-ai-visibility-depends-on-operational-alignment-not-just-seo/577683/",
+      "summary": "AI visibility issues often reflect organizational misalignment rather than SEO problems, as inconsistent data confuses language models.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-ai-visibility-depends-on-operational-alignment-not-just-seo/577683/\">Why AI Visibility Does Not Only Depend On SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-24T12:00:10+00:00",
+      "fetched": "2026-06-24T22:06:50.443624+00:00"
+    },
+    {
+      "id": "8c2fd69b-67d3-4a92-b6bb-b558ba2039d9",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google DeepMind Admits Large-Scale AI Agent Deployment Is Unsafe Today via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-deepmind-admits-large-scale-ai-agent-deployment-is-unsafe-today/580321/",
+      "summary": "As AI agents proliferate into the web, a Senior Staff Research Scientist at Google DeepMind warns that scale makes failure inevitable.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-deepmind-admits-large-scale-ai-agent-deployment-is-unsafe-today/580321/\">Google DeepMind Admits Large-Scale AI Agent Deployment Is Unsafe Today</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-24T10:58:05+00:00",
+      "fetched": "2026-06-24T22:06:50.443640+00:00"
+    },
+    {
+      "id": "434fb1fe-a956-448b-b684-700a7c0c349d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Grounding Wars Are Coming: How AI Visibility Creates Its Own Black-Hat Playbook via @sejournal, @purnavirji",
+      "link": "https://www.searchenginejournal.com/the-grounding-wars-are-coming-how-ai-visibility-creates-its-own-black-hat-playbook/580247/",
+      "summary": "AI recommendation poisoning is already happening. Here's what it is, why it matters more than GEO, and which side of the line is worth choosing.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-grounding-wars-are-coming-how-ai-visibility-creates-its-own-black-hat-playbook/580247/\">The Grounding Wars Are Coming: How AI Visibility Creates Its Own Black-Hat Playbook</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-24T10:00:21+00:00",
+      "fetched": "2026-06-24T22:06:50.443665+00:00"
+    },
+    {
+      "id": "8f038ba7-e1e4-4f58-811c-6380d61b58d1",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Ultimate Member WordPress Plugin Vulnerability Affects Up To 200k Sites via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/ultimate-member-wordpress-plugin-vulnerability/580307/",
+      "summary": "WordPress plugin vulnerability rated 8.8/10 enables attackers to gain full site access.\n\nThe post <a href=\"https://www.searchenginejournal.com/ultimate-member-wordpress-plugin-vulnerability/580307/\">Ultimate Member WordPress Plugin Vulnerability Affects Up To 200k Sites</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-24T08:29:30+00:00",
+      "fetched": "2026-06-24T22:06:50.443683+00:00"
+    },
+    {
+      "id": "08f78c9f-5940-4e9c-8fb4-779787c0f560",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Anthropic\u2019s @Claude Enters Workplace As A Slack Channel Coworker via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/anthropics-claude-enters-workplace-as-a-slack-channel-coworker/580292/",
+      "summary": "Anthropic's Claude Tag lets teams assign work to @Claude inside Slack, embedding AI as a co-worker and assistant.\n\nThe post <a href=\"https://www.searchenginejournal.com/anthropics-claude-enters-workplace-as-a-slack-channel-coworker/580292/\">Anthropic&#8217;s @Claude Enters Workplace As A Slack Channel Coworker</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-23T23:14:23+00:00",
+      "fetched": "2026-06-24T22:06:50.443700+00:00"
+    },
+    {
       "id": "a1052aa9-d6fa-4bb1-abb2-a5e8241af51b",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -109,117 +219,7 @@
       "summary": "Google, Shopify, and browser makers are backing new PACT protocol \"on Cloudflare's network\" for gatekeeping AI agents.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-and-shopify-back-cloudflares-ai-bot-gatekeeping-initiative/580182/\">Google And Shopify Back Cloudflare\u2019s AI Bot Gatekeeping Initiative</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-06-22T23:14:36+00:00",
       "fetched": "2026-06-23T22:06:46.547952+00:00"
-    },
-    {
-      "id": "1633800d-43d6-4068-a0af-8af4f3ce85e7",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Chatbot Use Hits 49%, But Skepticism Stays High via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/ai-chatbot-use-hits-49-but-skepticism-stays-high/580184/",
-      "summary": "About half of U.S. adults use AI chatbots, and 60% read AI Overviews, but more predict AI will hurt society than help it. \n\nThe post <a href=\"https://www.searchenginejournal.com/ai-chatbot-use-hits-49-but-skepticism-stays-high/580184/\">AI Chatbot Use Hits 49%, But Skepticism Stays High</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-22T22:50:40+00:00",
-      "fetched": "2026-06-23T22:06:46.547967+00:00"
-    },
-    {
-      "id": "50af9b57-446e-41f9-8e96-69b440873cc8",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Says SEO Tools Lack Access To Its Internal Metrics via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-says-seo-tools-lack-access-to-its-internal-metrics/580176/",
-      "summary": "Google's new messaging to CMOs reiterates that GEO is still SEO and states that third-party tools have no access to its internal metrics. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-says-seo-tools-lack-access-to-its-internal-metrics/580176/\">Google Says SEO Tools Lack Access To Its Internal Metrics</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-22T19:58:25+00:00",
-      "fetched": "2026-06-22T22:41:09.034789+00:00"
-    },
-    {
-      "id": "87e0b3d3-64cd-476e-8140-b7fef6473ad7",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "A German Court Made Google Liable For What Its AI Says About You via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/a-german-court-made-google-liable-for-what-its-ai-says-about-you/579295/",
-      "summary": "A Munich court found AI Overviews are Google's own speech, not search results \u2013 that changes who pays when the answer about you is wrong.\n\nThe post <a href=\"https://www.searchenginejournal.com/a-german-court-made-google-liable-for-what-its-ai-says-about-you/579295/\">A German Court Made Google Liable For What Its AI Says About You</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-22T13:00:47+00:00",
-      "fetched": "2026-06-22T22:41:09.034814+00:00"
-    },
-    {
-      "id": "92c72215-6c44-4671-8606-4fc03f1597db",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Says X-Frame-Options Matters For SEO via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-says-x-frame-options-matters-for-seo/580126/",
-      "summary": "Google's John Mueller singled out X-Frame-Options as the only security header tied to SEO.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-says-x-frame-options-matters-for-seo/580126/\">Google Says X-Frame-Options Matters For SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-22T11:35:18+00:00",
-      "fetched": "2026-06-22T22:41:09.034831+00:00"
-    },
-    {
-      "id": "ec3041a8-2111-47fc-ae9b-cc82513c6d56",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Preferred Sources & AI Mode Are Creating Filter Bubbles \u2013 A New Discovery Problem via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/preferred-sources-ai-mode-are-creating-filter-bubbles-a-new-discovery-problem/579738/",
-      "summary": "Google's Preferred Sources and loyalty tools help established publishers stay visible, but create a harder discovery path for sites not yet on anyone's list.\n\nThe post <a href=\"https://www.searchenginejournal.com/preferred-sources-ai-mode-are-creating-filter-bubbles-a-new-discovery-problem/579738/\">Preferred Sources &#038; AI Mode Are Creating Filter Bubbles \u2013 A New Discovery Problem</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-22T11:00:02+00:00",
-      "fetched": "2026-06-22T22:41:09.034853+00:00"
-    },
-    {
-      "id": "765ba1bc-3266-4792-a616-11c16c1ebc3e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Build A Live Data Stack With MCP For Smarter Campaign Performance",
-      "link": "https://www.searchenginejournal.com/build-a-live-data-stack-with-mcp-for-smarter-campaign-performance/577414/",
-      "summary": "Stop copy-pasting reports into ChatGPT. Build an AI stack with live data access, behavioral consistency, and team collaboration instead.\n\nThe post <a href=\"https://www.searchenginejournal.com/build-a-live-data-stack-with-mcp-for-smarter-campaign-performance/577414/\">Build A Live Data Stack With MCP For Smarter Campaign Performance</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-22T08:30:04+00:00",
-      "fetched": "2026-06-22T22:41:09.034869+00:00"
-    },
-    {
-      "id": "ba761037-00dd-43bf-9b0e-c81cb03582ff",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Make Something Agents Want via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/make-something-agents-want/576188/",
-      "summary": "Is your website invisible to AI agents? Six companies just signaled the channel is real. Here's the window that's still open.\n\nThe post <a href=\"https://www.searchenginejournal.com/make-something-agents-want/576188/\">Make Something Agents Want</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-21T12:00:34+00:00",
-      "fetched": "2026-06-21T22:06:52.414561+00:00"
-    },
-    {
-      "id": "8ba519e2-ed6c-41ab-81f0-9d563f10650e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Content Framework That Worked In 2019 Is Now Working Against You via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/the-content-framework-that-worked-in-2019-is-now-working-against-you/579051/",
-      "summary": "Why the best content frameworks become outdated and how to stay ahead by embracing new data instead of defending old models.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-content-framework-that-worked-in-2019-is-now-working-against-you/579051/\">The Content Framework That Worked In 2019 Is Now Working Against You</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-20T14:00:50+00:00",
-      "fetched": "2026-06-20T21:58:54.948081+00:00"
-    },
-    {
-      "id": "7bc03661-a68e-432b-bbf2-dd38385b40a0",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Deindexing Reports Keep Coming, Google Sees Nothing Unusual via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/deindexing-reports-keep-coming-google-sees-nothing-unusual/579847/",
-      "summary": "Websites report pages being removed from Google's index, while Google sees nothing unusual. How to separate real deindexing from ranking loss and reporting noise.\n\nThe post <a href=\"https://www.searchenginejournal.com/deindexing-reports-keep-coming-google-sees-nothing-unusual/579847/\">Deindexing Reports Keep Coming, Google Sees Nothing Unusual</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-20T12:30:44+00:00",
-      "fetched": "2026-06-20T21:58:54.948107+00:00"
-    },
-    {
-      "id": "5bd3922f-796c-4df3-aaf8-8f608cc7703f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "We Need To Change Our Approach To AI Prompt Tracking via @sejournal, @TaylorDanRW",
-      "link": "https://www.searchenginejournal.com/we-need-to-change-our-approach-to-ai-prompt-tracking/579646/",
-      "summary": "Reframe AI prompt tracking as a measurement of stability, representation, and context rather than another version of rank tracking.\n\nThe post <a href=\"https://www.searchenginejournal.com/we-need-to-change-our-approach-to-ai-prompt-tracking/579646/\">We Need To Change Our Approach To AI Prompt Tracking</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-19T13:45:33+00:00",
-      "fetched": "2026-06-19T21:57:22.216344+00:00"
     }
   ],
-  "last_updated": "2026-06-23T22:06:47.509637+00:00"
+  "last_updated": "2026-06-24T22:06:51.206393+00:00"
 }
