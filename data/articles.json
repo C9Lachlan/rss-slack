@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "83abf74b-44a4-44b5-8a9e-3a18c6173cd8",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "A Third Of Fintech Is Invisible To AI Agents via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/a-third-of-fintech-is-invisible-to-ai-agents/576193/",
+      "summary": "Most AI visibility advice skips the rendering step. A study of 274 fintech homepages shows why that's the most expensive mistake to make.\n\nThe post <a href=\"https://www.searchenginejournal.com/a-third-of-fintech-is-invisible-to-ai-agents/576193/\">A Third Of Fintech Is Invisible To AI Agents</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-26T13:30:13+00:00",
+      "fetched": "2026-06-26T22:01:46.268948+00:00"
+    },
+    {
+      "id": "cfb66e75-6dfe-4765-9769-d28f845b2d75",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Spam Update Rolls Out, AI Manipulation In Scope \u2013 SEO Pulse via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/seo-pulse-google-spam-update-rolls-out-ai-manipulation-in-scope/580565/",
+      "summary": "Five search developments this week: a spam update, AI impression counts, CTR data, Similarweb's branded search findings, and Google's tool access stance.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-google-spam-update-rolls-out-ai-manipulation-in-scope/580565/\">Google Spam Update Rolls Out, AI Manipulation In Scope \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-26T12:30:36+00:00",
+      "fetched": "2026-06-26T22:01:46.268968+00:00"
+    },
+    {
+      "id": "8dd0638a-db84-42f0-ba3b-869d0022ad14",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Answers Question About SEO For AI Agents via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-seo-for-ai-agents/580589/",
+      "summary": "Google's John Mueller answered whether Google Gemini's new AI agents change the rules for SEO.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-seo-for-ai-agents/580589/\">Google Answers Question About SEO For AI Agents</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-26T11:08:58+00:00",
+      "fetched": "2026-06-26T22:01:46.268983+00:00"
+    },
+    {
+      "id": "0a8af10d-ebb7-4128-afc8-2f61f834077d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Gemini Can Now Control Your Computer. Hackers Are Already Targeting AI Agents via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-gemini-can-now-control-your-computer-hackers-are-already-targeting-ai-agents/580578/",
+      "summary": "Google warns that websites can expose AI agents to hidden traps for agentic AI navigating the open web.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-gemini-can-now-control-your-computer-hackers-are-already-targeting-ai-agents/580578/\">Google Gemini Can Now Control Your Computer. Hackers Are Already Targeting AI Agents</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-26T10:06:39+00:00",
+      "fetched": "2026-06-26T22:01:46.268999+00:00"
+    },
+    {
+      "id": "44f4d942-fbc2-4dc5-81c0-aee8ab025441",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Your Brand Message Is Costing You Half Your Views \u2013 What 2 Reports Can Tell Us via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/your-brand-message-is-costing-you-half-your-views-what-2-reports-can-tell-us/580029/",
+      "summary": "New data from IAB and Billion Dollar Boy explains the performance gap between creator content and brand-led ads, with specific fixes for both.\n\nThe post <a href=\"https://www.searchenginejournal.com/your-brand-message-is-costing-you-half-your-views-what-2-reports-can-tell-us/580029/\">Your Brand Message Is Costing You Half Your Views \u2013 What 2 Reports Can Tell Us</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-26T09:30:44+00:00",
+      "fetched": "2026-06-26T22:01:46.269014+00:00"
+    },
+    {
       "id": "a2dc56fa-e507-4295-af6f-f31a74d6cd56",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -164,62 +219,7 @@
       "summary": "AI visibility issues often reflect organizational misalignment rather than SEO problems, as inconsistent data confuses language models.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-ai-visibility-depends-on-operational-alignment-not-just-seo/577683/\">Why AI Visibility Does Not Only Depend On SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-06-24T12:00:10+00:00",
       "fetched": "2026-06-24T22:06:50.443624+00:00"
-    },
-    {
-      "id": "8c2fd69b-67d3-4a92-b6bb-b558ba2039d9",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google DeepMind Admits Large-Scale AI Agent Deployment Is Unsafe Today via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-deepmind-admits-large-scale-ai-agent-deployment-is-unsafe-today/580321/",
-      "summary": "As AI agents proliferate into the web, a Senior Staff Research Scientist at Google DeepMind warns that scale makes failure inevitable.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-deepmind-admits-large-scale-ai-agent-deployment-is-unsafe-today/580321/\">Google DeepMind Admits Large-Scale AI Agent Deployment Is Unsafe Today</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-24T10:58:05+00:00",
-      "fetched": "2026-06-24T22:06:50.443640+00:00"
-    },
-    {
-      "id": "434fb1fe-a956-448b-b684-700a7c0c349d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Grounding Wars Are Coming: How AI Visibility Creates Its Own Black-Hat Playbook via @sejournal, @purnavirji",
-      "link": "https://www.searchenginejournal.com/the-grounding-wars-are-coming-how-ai-visibility-creates-its-own-black-hat-playbook/580247/",
-      "summary": "AI recommendation poisoning is already happening. Here's what it is, why it matters more than GEO, and which side of the line is worth choosing.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-grounding-wars-are-coming-how-ai-visibility-creates-its-own-black-hat-playbook/580247/\">The Grounding Wars Are Coming: How AI Visibility Creates Its Own Black-Hat Playbook</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-24T10:00:21+00:00",
-      "fetched": "2026-06-24T22:06:50.443665+00:00"
-    },
-    {
-      "id": "8f038ba7-e1e4-4f58-811c-6380d61b58d1",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Ultimate Member WordPress Plugin Vulnerability Affects Up To 200k Sites via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/ultimate-member-wordpress-plugin-vulnerability/580307/",
-      "summary": "WordPress plugin vulnerability rated 8.8/10 enables attackers to gain full site access.\n\nThe post <a href=\"https://www.searchenginejournal.com/ultimate-member-wordpress-plugin-vulnerability/580307/\">Ultimate Member WordPress Plugin Vulnerability Affects Up To 200k Sites</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-24T08:29:30+00:00",
-      "fetched": "2026-06-24T22:06:50.443683+00:00"
-    },
-    {
-      "id": "08f78c9f-5940-4e9c-8fb4-779787c0f560",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Anthropic\u2019s @Claude Enters Workplace As A Slack Channel Coworker via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/anthropics-claude-enters-workplace-as-a-slack-channel-coworker/580292/",
-      "summary": "Anthropic's Claude Tag lets teams assign work to @Claude inside Slack, embedding AI as a co-worker and assistant.\n\nThe post <a href=\"https://www.searchenginejournal.com/anthropics-claude-enters-workplace-as-a-slack-channel-coworker/580292/\">Anthropic&#8217;s @Claude Enters Workplace As A Slack Channel Coworker</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-23T23:14:23+00:00",
-      "fetched": "2026-06-24T22:06:50.443700+00:00"
-    },
-    {
-      "id": "a1052aa9-d6fa-4bb1-abb2-a5e8241af51b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Limited Ad Serving Update Raises Questions About Advertiser Qualification via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/googles-limited-ad-serving-update-raises-questions-about-advertiser-qualification/579138/",
-      "summary": "Google expands its Limited Ad Serving policy, introducing new advertiser qualification signals tied to user reports, identity, and Search ad eligibility.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-limited-ad-serving-update-raises-questions-about-advertiser-qualification/579138/\">Google&#8217;s Limited Ad Serving Update Raises Questions About Advertiser Qualification</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-23T20:27:45+00:00",
-      "fetched": "2026-06-23T22:06:46.547778+00:00"
     }
   ],
-  "last_updated": "2026-06-25T22:14:56.283871+00:00"
+  "last_updated": "2026-06-26T22:01:47.284087+00:00"
 }
