@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "id": "60df626b-0e68-4ce9-af92-3f99c48c04bc",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Spam Update Now Reaches AI Answers. Enforcement Is Hard via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/googles-spam-update-now-reaches-ai-answers-enforcement-is-hard/580535/",
+      "summary": "The line between earning a brand mention in AI answers and engineering one is getting redrawn. Here's what the research and Google's June update say.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-spam-update-now-reaches-ai-answers-enforcement-is-hard/580535/\">Google&#8217;s Spam Update Now Reaches AI Answers. Enforcement Is Hard</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-27T12:00:59+00:00",
+      "fetched": "2026-06-27T21:53:22.827043+00:00"
+    },
+    {
+      "id": "28d29f56-1ccb-4b86-af57-19a6c5db1362",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Bruce Clay, One of the Founding Figures of SEO, Has Died via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/bruce-clay-seo-pioneer-who-invented-content-siloing-has-died/580602/",
+      "summary": "Bruce Clay, a founding figure who shaped the SEO marketing industry, has died. His concepts continue to influence professionals to this day.\n\nThe post <a href=\"https://www.searchenginejournal.com/bruce-clay-seo-pioneer-who-invented-content-siloing-has-died/580602/\">Bruce Clay, One of the Founding Figures of SEO, Has Died</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-26T22:45:18+00:00",
+      "fetched": "2026-06-27T21:53:22.827074+00:00"
+    },
+    {
       "id": "83abf74b-44a4-44b5-8a9e-3a18c6173cd8",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -197,29 +219,7 @@
       "summary": "Accessibility used to be a compliance checkbox. In 2026 it's the interface the majority of your visitors use to read your website.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-accessibility-tree-is-how-ai-agents-read-your-site-its-breaking/578171/\">The Accessibility Tree Is How AI Agents Read Your Site &#038; It&#8217;s Breaking</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-06-24T15:00:13+00:00",
       "fetched": "2026-06-24T22:06:50.443588+00:00"
-    },
-    {
-      "id": "45b81553-d822-4ba0-83a7-80b1382b9a3f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why International SEO Needs A Global Knowledge Integrity Strategy via @sejournal, @billhunt",
-      "link": "https://www.searchenginejournal.com/why-international-seo-needs-a-global-knowledge-integrity-strategy/577880/",
-      "summary": "AI search transforms international SEO challenges from selecting correct pages to ensuring accurate, market-specific information survives AI synthesis and retrieval.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-international-seo-needs-a-global-knowledge-integrity-strategy/577880/\">Why International SEO Needs A Global Knowledge Integrity Strategy</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-24T13:30:17+00:00",
-      "fetched": "2026-06-24T22:06:50.443607+00:00"
-    },
-    {
-      "id": "fde57561-87e3-4e71-b8c0-f62a8b25bd89",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why AI Visibility Does Not Only Depend On SEO",
-      "link": "https://www.searchenginejournal.com/why-ai-visibility-depends-on-operational-alignment-not-just-seo/577683/",
-      "summary": "AI visibility issues often reflect organizational misalignment rather than SEO problems, as inconsistent data confuses language models.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-ai-visibility-depends-on-operational-alignment-not-just-seo/577683/\">Why AI Visibility Does Not Only Depend On SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-24T12:00:10+00:00",
-      "fetched": "2026-06-24T22:06:50.443624+00:00"
     }
   ],
-  "last_updated": "2026-06-26T22:01:47.284087+00:00"
+  "last_updated": "2026-06-27T21:53:23.422298+00:00"
 }
