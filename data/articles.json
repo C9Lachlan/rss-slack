@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "id": "a3ee1ca5-ed4e-4018-ada2-0db6254f8a0d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Search And Agents Are One Product. You Only Need One Playbook via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/search-and-agents-are-one-product-you-only-need-one-playbook/576191/",
+      "summary": "The \"separate AEO strategy\" consultants have been selling collapses when Google itself says it's one playbook. Here's what that means for how you build.\n\nThe post <a href=\"https://www.searchenginejournal.com/search-and-agents-are-one-product-you-only-need-one-playbook/576191/\">Search And Agents Are One Product. You Only Need One Playbook</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-28T12:00:52+00:00",
+      "fetched": "2026-06-28T21:53:18.782824+00:00"
+    },
+    {
+      "id": "a2de2604-1e5c-43bd-802d-b2fc83d94872",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Says AI Visibility Hinges On Content People Actually Want To Read via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-says-make-content-people-want-to-read/580642/",
+      "summary": "Google says publishers who want to survive in AI Search need to start making content users actually want to read.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-says-make-content-people-want-to-read/580642/\">Google Says AI Visibility Hinges On Content People Actually Want To Read</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-28T11:00:56+00:00",
+      "fetched": "2026-06-28T21:53:18.782853+00:00"
+    },
+    {
       "id": "60df626b-0e68-4ce9-af92-3f99c48c04bc",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -197,29 +219,7 @@
       "summary": "Google has begun rolling out the June 2026 spam update globally and across all languages. It's the second spam update of the year.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-begins-rolling-out-the-june-2026-spam-update/580424/\">Google Begins Rolling Out The June 2026 Spam Update</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-06-24T16:50:17+00:00",
       "fetched": "2026-06-24T22:06:50.443540+00:00"
-    },
-    {
-      "id": "7970971f-a2f6-4407-8ee4-e584059f20e4",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Tests \u2018Strongest Match\u2019 Labels On Search Ads via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/google-strongest-match-search-ad-labels-test/580378/",
-      "summary": "Google is testing \u201cStrongest Match\u201d labels on Search ads. Here\u2019s what advertisers know so far and the questions Google hasn\u2019t answered.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-strongest-match-search-ad-labels-test/580378/\">Google Tests &#8216;Strongest Match&#8217; Labels On Search Ads</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-24T16:07:37+00:00",
-      "fetched": "2026-06-24T22:06:50.443561+00:00"
-    },
-    {
-      "id": "95a69390-9264-4909-9394-5c389ab5b6e1",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Accessibility Tree Is How AI Agents Read Your Site & It\u2019s Breaking via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/the-accessibility-tree-is-how-ai-agents-read-your-site-its-breaking/578171/",
-      "summary": "Accessibility used to be a compliance checkbox. In 2026 it's the interface the majority of your visitors use to read your website.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-accessibility-tree-is-how-ai-agents-read-your-site-its-breaking/578171/\">The Accessibility Tree Is How AI Agents Read Your Site &#038; It&#8217;s Breaking</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-24T15:00:13+00:00",
-      "fetched": "2026-06-24T22:06:50.443588+00:00"
     }
   ],
-  "last_updated": "2026-06-27T21:53:23.422298+00:00"
+  "last_updated": "2026-06-28T21:53:19.926874+00:00"
 }
