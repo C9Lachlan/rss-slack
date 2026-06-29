@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "e058e6ec-8acb-46ab-96a4-c9328e1fed09",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Defends AI Training As Fair Use In Governance Paper via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-defends-ai-training-as-fair-use-in-governance-paper/580776/",
+      "summary": "Google's AI governance paper argues public-web training should remain fair use while pointing to opt-out controls, takedowns, and paid deals for specialized content.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-defends-ai-training-as-fair-use-in-governance-paper/580776/\">Google Defends AI Training As Fair Use In Governance Paper</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-29T15:38:04+00:00",
+      "fetched": "2026-06-29T22:03:32.541834+00:00"
+    },
+    {
+      "id": "fccdf866-6430-4ec6-956c-e1b2515c6655",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Buying Reddit To Win AI Citations Is The New Link Farm via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/buying-reddit-to-win-ai-citations-is-the-new-link-farm/578016/",
+      "summary": "Bought Reddit citations will be filtered the way Penguin filtered bought links. The only strategy that compounds on the agentic web is being real.\n\nThe post <a href=\"https://www.searchenginejournal.com/buying-reddit-to-win-ai-citations-is-the-new-link-farm/578016/\">Buying Reddit To Win AI Citations Is The New Link Farm</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-29T15:00:10+00:00",
+      "fetched": "2026-06-29T22:03:32.541859+00:00"
+    },
+    {
+      "id": "a3072cf4-e32a-4c4f-816c-bf8a79f32e45",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Selling AI As A Replacement Wins Attention & Kills Trust via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/selling-ai-as-a-replacement-wins-attention-kills-trust/580637/",
+      "summary": "Selling AI as a people replacement alienates buyers and contradicts employment data. Here is why the substitution narrative backfires.\n\nThe post <a href=\"https://www.searchenginejournal.com/selling-ai-as-a-replacement-wins-attention-kills-trust/580637/\">Selling AI As A Replacement Wins Attention &#038; Kills Trust</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-29T13:00:34+00:00",
+      "fetched": "2026-06-29T22:03:32.541880+00:00"
+    },
+    {
+      "id": "4698cb1a-36e7-4e10-b4eb-bfe26baae807",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why Internal Links Quietly Decay & How To Reclaim The Equity You\u2019re Losing",
+      "link": "https://www.searchenginejournal.com/why-internal-links-quietly-decay-how-to-reclaim-the-equity-youre-losing/579005/",
+      "summary": "Your internal link structure gradually loses effectiveness as new content pulls equity away from important pages.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-internal-links-quietly-decay-how-to-reclaim-the-equity-youre-losing/579005/\">Why Internal Links Quietly Decay &#038; How To Reclaim The Equity You&#8217;re Losing</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-29T11:00:27+00:00",
+      "fetched": "2026-06-29T22:03:32.541902+00:00"
+    },
+    {
+      "id": "41b8e765-9eeb-4a96-9508-dd494a11b83e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google: Meta Descriptions Not Required For SEO. But They\u2019re Worthwhile. via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-meta-descriptions-not-required-for-seo-but-theyre-worthwhile/580694/",
+      "summary": "Google confirmed that meta descriptions are not a requirement, then explained why it's not pointless to write them.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-meta-descriptions-not-required-for-seo-but-theyre-worthwhile/580694/\">Google: Meta Descriptions Not Required For SEO. But They&#8217;re Worthwhile.</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-29T08:57:26+00:00",
+      "fetched": "2026-06-29T22:03:32.541920+00:00"
+    },
+    {
       "id": "a3ee1ca5-ed4e-4018-ada2-0db6254f8a0d",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -164,62 +219,7 @@
       "summary": "Two SMX Advanced talks on AI search reveal why technical roadmaps stall without internal coalitions to move them forward.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-search-optimization-isnt-the-hard-part-its-getting-buy-in/580032/\">AI Search Optimization Isn&#8217;t The Hard Part \u2013 It&#8217;s Getting Buy-In</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-06-25T09:00:21+00:00",
       "fetched": "2026-06-25T22:14:55.698843+00:00"
-    },
-    {
-      "id": "9dc5f111-0906-4108-bb1d-cf9205e3b00f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "What 2 Content Strategists Say AI Should Never Write For You [Webinar] via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/what-2-contentful-strategists-say-ai-should-never-write-for-you-webinar/580162/",
-      "summary": "Explore the limitations of AI in content creation. Uncover why AI-generated work often lacks originality and uniqueness.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-2-contentful-strategists-say-ai-should-never-write-for-you-webinar/580162/\">What 2 Content Strategists Say AI Should Never Write For You [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-25T07:45:34+00:00",
-      "fetched": "2026-06-25T22:14:55.698860+00:00"
-    },
-    {
-      "id": "ebbcc6ce-13ca-4897-abd5-60c40be0b99e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Mueller Explains How AI Search Impressions Get Counted via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/googles-mueller-explains-how-ai-search-impressions-get-counted/580491/",
-      "summary": "John Mueller explained that impressions in Google's Search Console AI report track links to your pages, and user-activated links only count after they're activated.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-mueller-explains-how-ai-search-impressions-get-counted/580491/\">Google&#8217;s Mueller Explains How AI Search Impressions Get Counted</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-25T04:05:37+00:00",
-      "fetched": "2026-06-25T22:14:55.698886+00:00"
-    },
-    {
-      "id": "8b9bbb65-5aed-4d3e-a5b8-cb90339927ed",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Marketing Hiring Down 36% At Big Tech, Data Shows via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/marketing-hiring-down-36-at-big-tech-data-shows/580485/",
-      "summary": "SignalFire reports marketing hiring at major tech companies has fallen far more sharply than engineering, based on its hiring data. \n\nThe post <a href=\"https://www.searchenginejournal.com/marketing-hiring-down-36-at-big-tech-data-shows/580485/\">Marketing Hiring Down 36% At Big Tech, Data Shows</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-25T00:26:06+00:00",
-      "fetched": "2026-06-25T22:14:55.698904+00:00"
-    },
-    {
-      "id": "0d2f788b-ec27-402e-a33d-a1b3434b80aa",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Microsoft Clarity Now Flags Bots That Ignore Robots.txt via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/microsoft-clarity-now-flags-bots-that-ignore-robots-txt/580446/",
-      "summary": "Microsoft Clarity's Bot Analytics dashboard now detects when bots request URLs your robots.txt disallows, with trends and filters by bot and operator.\n\nThe post <a href=\"https://www.searchenginejournal.com/microsoft-clarity-now-flags-bots-that-ignore-robots-txt/580446/\">Microsoft Clarity Now Flags Bots That Ignore Robots.txt</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-24T20:13:45+00:00",
-      "fetched": "2026-06-24T22:06:50.443514+00:00"
-    },
-    {
-      "id": "5ce38848-4732-4114-9d70-c0a0534575de",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Begins Rolling Out The June 2026 Spam Update via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-begins-rolling-out-the-june-2026-spam-update/580424/",
-      "summary": "Google has begun rolling out the June 2026 spam update globally and across all languages. It's the second spam update of the year.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-begins-rolling-out-the-june-2026-spam-update/580424/\">Google Begins Rolling Out The June 2026 Spam Update</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-24T16:50:17+00:00",
-      "fetched": "2026-06-24T22:06:50.443540+00:00"
     }
   ],
-  "last_updated": "2026-06-28T21:53:19.926874+00:00"
+  "last_updated": "2026-06-29T22:03:33.256307+00:00"
 }
