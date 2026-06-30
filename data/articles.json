@@ -1,6 +1,94 @@
 {
   "articles": [
     {
+      "id": "48681bae-d2bc-4ce4-a95e-55430569949c",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "ChatGPT Users Are Now Mostly Non-English via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/chatgpt-users-are-now-mostly-non-english/581159/",
+      "summary": "OpenAI data show that active ChatGPT users on consumer plans now mostly use non-English languages, with growth fastest in Africa and Asia.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-users-are-now-mostly-non-english/581159/\">ChatGPT Users Are Now Mostly Non-English</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-30T18:53:34+00:00",
+      "fetched": "2026-06-30T22:07:55.097113+00:00"
+    },
+    {
+      "id": "9e5a5dee-4cab-46f9-85f5-e10db781a345",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Puts Recipe Links At Top Of AI Mode Responses via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-puts-recipe-links-at-top-of-ai-mode-responses/581149/",
+      "summary": "Google launched a new update in AI Mode that places recipe site links at the top of responses, with creator names, ratings and ingredient counts.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-puts-recipe-links-at-top-of-ai-mode-responses/581149/\">Google Puts Recipe Links At Top Of AI Mode Responses</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-30T18:06:12+00:00",
+      "fetched": "2026-06-30T22:07:55.097139+00:00"
+    },
+    {
+      "id": "5c096d85-89f7-4261-96a8-b6a9cf8d590d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How ChatGPT Actually Picks Sources (I Read The Network Traffic, Not The Outputs) via @sejournal, @suganthan",
+      "link": "https://www.searchenginejournal.com/how-chatgpt-actually-picks-sources-i-read-the-network-traffic-not-the-outputs/580895/",
+      "summary": "ChatGPT\u2019s source behavior shows why crawlable facts, third-party validation, and query-level search triggers matter more than generic GEO tactics. \n\nThe post <a href=\"https://www.searchenginejournal.com/how-chatgpt-actually-picks-sources-i-read-the-network-traffic-not-the-outputs/580895/\">How ChatGPT Actually Picks Sources (I Read The Network Traffic, Not The Outputs)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-30T13:30:23+00:00",
+      "fetched": "2026-06-30T22:07:55.097160+00:00"
+    },
+    {
+      "id": "f231db5c-7594-4369-91fa-93c0989794b4",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "61% of CMOs Say Local Marketing Is Too Complex: Here\u2019s the Fix",
+      "link": "https://www.searchenginejournal.com/61-of-cmos-say-local-marketing-is-too-complex-heres-the-fix-spa/580542/",
+      "summary": "Learn how multi-location brands fix complex marketing & GBP challenges with an AI layer and a 4-step local optimization framework.\n\nThe post <a href=\"https://www.searchenginejournal.com/61-of-cmos-say-local-marketing-is-too-complex-heres-the-fix-spa/580542/\">61% of CMOs Say Local Marketing Is Too Complex: Here&#8217;s the Fix</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-30T13:08:09+00:00",
+      "fetched": "2026-06-30T22:07:55.097183+00:00"
+    },
+    {
+      "id": "90a13802-39e1-4c05-83b2-1237677bf2cb",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "CTR Is Sky High In 2026 That Doesn\u2019t Mean Your Ads Are Working",
+      "link": "https://www.searchenginejournal.com/ctr-is-sky-high-in-2026-that-doesnt-mean-your-ads-are-working/577744/",
+      "summary": "High click-through rates no longer guarantee advertising success due to automated bidding and AI optimization changing traditional metrics.\n\nThe post <a href=\"https://www.searchenginejournal.com/ctr-is-sky-high-in-2026-that-doesnt-mean-your-ads-are-working/577744/\">CTR Is Sky High In 2026 That Doesn&#8217;t Mean Your Ads Are Working</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-30T11:30:37+00:00",
+      "fetched": "2026-06-30T22:07:55.097202+00:00"
+    },
+    {
+      "id": "97cb67b0-cd42-4eac-a992-26bd79d5e252",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Absolute Best Way To Write Meta Descriptions via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/the-absolute-best-way-to-write-meta-descriptions/581119/",
+      "summary": "Google rewrites meta descriptions. Here is what you can do to take back control of those snippets.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-absolute-best-way-to-write-meta-descriptions/581119/\">The Absolute Best Way To Write Meta Descriptions</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-30T11:29:18+00:00",
+      "fetched": "2026-06-30T22:07:55.097219+00:00"
+    },
+    {
+      "id": "4312d97a-28b6-4cc3-aaa1-771fe5ac3a61",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Multi-Location Search Visibility: Winning In Google & AI via @sejournal, @seosteve",
+      "link": "https://www.searchenginejournal.com/multi-location-search-visibility-winning-in-google-ai/578834/",
+      "summary": "Search visibility has fragmented beyond Google into AI assistants, social platforms, and navigation apps, requiring new strategies for multi-location brands.\n\nThe post <a href=\"https://www.searchenginejournal.com/multi-location-search-visibility-winning-in-google-ai/578834/\">Multi-Location Search Visibility: Winning In Google &#038; AI</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-30T09:30:33+00:00",
+      "fetched": "2026-06-30T22:07:55.097236+00:00"
+    },
+    {
+      "id": "4222e51e-c8c3-4dad-85f3-a8ba1b83355d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Liz Reid: Personalization Can Help Small Publishers via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/googles-liz-reid-personalization-can-help-small-publishers/581010/",
+      "summary": "Google's Liz Reid argues personalization and preferred sources can help small publishers get found in AI search, though she shared no supporting data.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-liz-reid-personalization-can-help-small-publishers/581010/\">Google&#8217;s Liz Reid: Personalization Can Help Small Publishers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-06-30T02:54:23+00:00",
+      "fetched": "2026-06-30T22:07:55.097284+00:00"
+    },
+    {
       "id": "e058e6ec-8acb-46ab-96a4-c9328e1fed09",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -131,95 +219,7 @@
       "summary": "Google's John Mueller answered whether Google Gemini's new AI agents change the rules for SEO.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-seo-for-ai-agents/580589/\">Google Answers Question About SEO For AI Agents</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-06-26T11:08:58+00:00",
       "fetched": "2026-06-26T22:01:46.268983+00:00"
-    },
-    {
-      "id": "0a8af10d-ebb7-4128-afc8-2f61f834077d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Gemini Can Now Control Your Computer. Hackers Are Already Targeting AI Agents via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-gemini-can-now-control-your-computer-hackers-are-already-targeting-ai-agents/580578/",
-      "summary": "Google warns that websites can expose AI agents to hidden traps for agentic AI navigating the open web.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-gemini-can-now-control-your-computer-hackers-are-already-targeting-ai-agents/580578/\">Google Gemini Can Now Control Your Computer. Hackers Are Already Targeting AI Agents</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-26T10:06:39+00:00",
-      "fetched": "2026-06-26T22:01:46.268999+00:00"
-    },
-    {
-      "id": "44f4d942-fbc2-4dc5-81c0-aee8ab025441",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Your Brand Message Is Costing You Half Your Views \u2013 What 2 Reports Can Tell Us via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/your-brand-message-is-costing-you-half-your-views-what-2-reports-can-tell-us/580029/",
-      "summary": "New data from IAB and Billion Dollar Boy explains the performance gap between creator content and brand-led ads, with specific fixes for both.\n\nThe post <a href=\"https://www.searchenginejournal.com/your-brand-message-is-costing-you-half-your-views-what-2-reports-can-tell-us/580029/\">Your Brand Message Is Costing You Half Your Views \u2013 What 2 Reports Can Tell Us</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-26T09:30:44+00:00",
-      "fetched": "2026-06-26T22:01:46.269014+00:00"
-    },
-    {
-      "id": "a2dc56fa-e507-4295-af6f-f31a74d6cd56",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Desktop CTR Climbs While Mobile Dips, Report Finds via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-desktop-ctr-climbs-while-mobile-dips-report-finds/580527/",
-      "summary": "Desktop and mobile clickthrough rates are splitting, according to new benchmark data. Clicks are growing on desktop while declining on mobile.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-desktop-ctr-climbs-while-mobile-dips-report-finds/580527/\">Google Desktop CTR Climbs While Mobile Dips, Report Finds</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-25T14:11:27+00:00",
-      "fetched": "2026-06-25T22:14:55.698736+00:00"
-    },
-    {
-      "id": "c6c9ea24-35d0-4803-8e57-679b20e5c5d7",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "81.8% Of My \u2018AI Assistant\u2019 Traffic Was Fake. The Googlebot Number Was Worse via @sejournal, @DuaneForrester",
-      "link": "https://www.searchenginejournal.com/my-ai-assistant-traffic-was-fake-the-googlebot-number-was-worse/580052/",
-      "summary": "ClaudeBot outpaced Googlebot on a new site. Here's what verified crawl data actually looks like, and how to get your own.\n\nThe post <a href=\"https://www.searchenginejournal.com/my-ai-assistant-traffic-was-fake-the-googlebot-number-was-worse/580052/\">81.8% Of My &#8216;AI Assistant&#8217; Traffic Was Fake. The Googlebot Number Was Worse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-25T13:30:24+00:00",
-      "fetched": "2026-06-25T22:14:55.698761+00:00"
-    },
-    {
-      "id": "71eca848-711b-412b-b842-045f437666fb",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How Do I Effectively Measure Campaign Success Across Multiple Platforms? \u2013 Ask A PPC via @sejournal, @navahf",
-      "link": "https://www.searchenginejournal.com/ask-the-ppc-how-do-i-effectively-measure-campaign-success-across-multiple-platforms/576209/",
-      "summary": "Running ads on every platform? Here's how to build a measurement framework that compares performance fairly across Google, Microsoft, Meta, and Amazon.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-the-ppc-how-do-i-effectively-measure-campaign-success-across-multiple-platforms/576209/\">How Do I Effectively Measure Campaign Success Across Multiple Platforms? \u2013 Ask A PPC</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-25T11:30:32+00:00",
-      "fetched": "2026-06-25T22:14:55.698783+00:00"
-    },
-    {
-      "id": "8a9ab8e6-877f-454b-9819-a21e05591e70",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "WP Rocket Now Offers Free CDN For Your Most Important Pages via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/wp-rocket-now-offers-free-cdn-for-your-most-important-pages/580516/",
-      "summary": "WP Rocket now offers free CDN, lowering the barrier to meaningful performance improvements on the most important pages.\n\nThe post <a href=\"https://www.searchenginejournal.com/wp-rocket-now-offers-free-cdn-for-your-most-important-pages/580516/\">WP Rocket Now Offers Free CDN For Your Most Important Pages</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-25T09:53:48+00:00",
-      "fetched": "2026-06-25T22:14:55.698806+00:00"
-    },
-    {
-      "id": "281a306a-bdf7-4c17-a8fa-e5cbfa45b537",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "WordPress Developers Say New AI Feature Does Not Belong In Core via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/wordpress-new-ai-feature/580500/",
-      "summary": "WordPress developers question whether the platform's AI ambitions are pulling attention away from what users have been asking for all along.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-new-ai-feature/580500/\">WordPress Developers Say New AI Feature Does Not Belong In Core</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-25T09:17:57+00:00",
-      "fetched": "2026-06-25T22:14:55.698824+00:00"
-    },
-    {
-      "id": "4b2e2418-8b05-4e88-a451-8b867c3092b5",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Search Optimization Isn\u2019t The Hard Part \u2013 It\u2019s Getting Buy-In via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/ai-search-optimization-isnt-the-hard-part-its-getting-buy-in/580032/",
-      "summary": "Two SMX Advanced talks on AI search reveal why technical roadmaps stall without internal coalitions to move them forward.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-search-optimization-isnt-the-hard-part-its-getting-buy-in/580032/\">AI Search Optimization Isn&#8217;t The Hard Part \u2013 It&#8217;s Getting Buy-In</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-25T09:00:21+00:00",
-      "fetched": "2026-06-25T22:14:55.698843+00:00"
     }
   ],
-  "last_updated": "2026-06-29T22:03:33.256307+00:00"
+  "last_updated": "2026-06-30T22:07:56.268061+00:00"
 }
