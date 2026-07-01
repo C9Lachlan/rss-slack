@@ -1,6 +1,116 @@
 {
   "articles": [
     {
+      "id": "7582863c-e1fb-49f6-a480-a5d3d510678b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "OpenAI Hiring Points To Image & Video Ads Coming To ChatGPT via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/openai-hiring-points-to-image-video-ads-coming-to-chatgpt/581289/",
+      "summary": "OpenAI job listings and its advertising plans point to image, video, native and conversational ad formats for ChatGPT.\n\nThe post <a href=\"https://www.searchenginejournal.com/openai-hiring-points-to-image-video-ads-coming-to-chatgpt/581289/\">OpenAI Hiring Points To Image &#038; Video Ads Coming To ChatGPT</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-01T21:44:34+00:00",
+      "fetched": "2026-07-01T22:11:54.213137+00:00"
+    },
+    {
+      "id": "633d6b26-85c4-4c9f-86e5-0fe1472555e0",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Habitual Publisher Traffic Is Collapsing",
+      "link": "https://www.searchenginejournal.com/habitual-publisher-traffic-is-collapsing/580673/",
+      "summary": "Examine the decline of traditional publisher traffic as AI gains prominence. What does this mean for the future of content creators?\n\nThe post <a href=\"https://www.searchenginejournal.com/habitual-publisher-traffic-is-collapsing/580673/\">Habitual Publisher Traffic Is Collapsing</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-01T13:30:13+00:00",
+      "fetched": "2026-07-01T22:11:54.213164+00:00"
+    },
+    {
+      "id": "1322aa08-3409-4d70-80cb-7769c93860cd",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Fabrice Canel, Longtime Bing Search Leader, Retires From Microsoft via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/fabrice-canel-longtime-bing-search-leader-retires-from-microsoft/581247/",
+      "summary": "Fabrice Canel, the Principal Product Manager who led Bing's crawling and indexing team and championed IndexNow, has announced his retirement from Microsoft. \n\nThe post <a href=\"https://www.searchenginejournal.com/fabrice-canel-longtime-bing-search-leader-retires-from-microsoft/581247/\">Fabrice Canel, Longtime Bing Search Leader, Retires From Microsoft</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-01T12:37:31+00:00",
+      "fetched": "2026-07-01T22:11:54.213183+00:00"
+    },
+    {
+      "id": "32543658-c93e-434c-8ead-db860c224e49",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "88% Of Companies Use AI As A Tool, Only 12% Built A System via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/88-of-companies-use-ai-as-a-tool-only-12-built-a-system/580648/",
+      "summary": "A global study of 6,100 organizations reveals most AI adoption is still surface-level, and the gap is widening fast.\n\nThe post <a href=\"https://www.searchenginejournal.com/88-of-companies-use-ai-as-a-tool-only-12-built-a-system/580648/\">88% Of Companies Use AI As A Tool, Only 12% Built A System</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-01T12:00:03+00:00",
+      "fetched": "2026-07-01T22:11:54.213205+00:00"
+    },
+    {
+      "id": "ae5725dd-9cd7-4188-b28e-e75b9579dc5e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Anthropic\u2019s Claude Fable 5 Is Back With New Usage Limits And Safeguards via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/anthropics-claude-fable-5-is-back-with-new-usage-limits-and-safeguards/581231/",
+      "summary": "Anthropic's Claude Fable 5 returns with 50% usage limits and a new classifier that may result in false positives.\n\nThe post <a href=\"https://www.searchenginejournal.com/anthropics-claude-fable-5-is-back-with-new-usage-limits-and-safeguards/581231/\">Anthropic&#8217;s Claude Fable 5 Is Back With New Usage Limits And Safeguards</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-01T11:46:47+00:00",
+      "fetched": "2026-07-01T22:11:54.213225+00:00"
+    },
+    {
+      "id": "11aafb06-4ae3-4b04-af20-b9a8f7655da3",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "New WordPress Plugin Safely And Easily Connects AI To Your Website via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/new-wordpress-plugin-safely-and-easily-connects-ai-to-your-website/581219/",
+      "summary": "WPVibe WordPress plugin makes it easy to connect virtually any AI to your WordPress site and safely edit virtually anything.\n\nThe post <a href=\"https://www.searchenginejournal.com/new-wordpress-plugin-safely-and-easily-connects-ai-to-your-website/581219/\">New WordPress Plugin Safely And Easily Connects AI To Your Website</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-01T11:05:25+00:00",
+      "fetched": "2026-07-01T22:11:54.213247+00:00"
+    },
+    {
+      "id": "0ff324fa-2e17-4275-a837-bc6d2eb026f0",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The 4-Step Test That Catches AI Errors Before They Shape Your Strategy via @sejournal, @alexanderkesler",
+      "link": "https://www.searchenginejournal.com/the-4-step-test-that-catches-ai-errors-before-they-shape-your-strategy/577687/",
+      "summary": "AI outputs can appear authoritative while containing costly errors. This four-step protocol helps teams verify AI conclusions before making decisions.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-4-step-test-that-catches-ai-errors-before-they-shape-your-strategy/577687/\">The 4-Step Test That Catches AI Errors Before They Shape Your Strategy</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-01T10:00:56+00:00",
+      "fetched": "2026-07-01T22:11:54.213264+00:00"
+    },
+    {
+      "id": "5ca07e87-e596-40f3-bcd7-dd3361d10873",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Anthropic\u2019s Claude Sonnet 5 Is \u201cNear-Opus Intelligence\u201d For All Plans via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/anthropics-claude-sonnet-5-is-near-opus-intelligence-for-all-plans/581202/",
+      "summary": "Anthropic releases their new Sonnet 5 as the default model for all plans, including the free tier, plus introductory pricing on tokens.\n\nThe post <a href=\"https://www.searchenginejournal.com/anthropics-claude-sonnet-5-is-near-opus-intelligence-for-all-plans/581202/\">Anthropic&#8217;s Claude Sonnet 5 Is &#8220;Near-Opus Intelligence&#8221; For All Plans</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-01T09:56:37+00:00",
+      "fetched": "2026-07-01T22:11:54.213292+00:00"
+    },
+    {
+      "id": "4d34be56-dd66-46a1-829b-3c336d4e4ded",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Chrome Auto-Browse Acts On Your Website, Apple\u2019s Siri AI Only Reads It via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/chrome-auto-browse-acts-on-your-website-apples-siri-ai-only-reads-it/578681/",
+      "summary": "Website owners: Apple and Google both shipped phone agents this month. Only Google's visits your site to act. Here's what that demands.\n\nThe post <a href=\"https://www.searchenginejournal.com/chrome-auto-browse-acts-on-your-website-apples-siri-ai-only-reads-it/578681/\">Chrome Auto-Browse Acts On Your Website, Apple&#8217;s Siri AI Only Reads It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-01T08:00:17+00:00",
+      "fetched": "2026-07-01T22:11:54.213314+00:00"
+    },
+    {
+      "id": "10f0a9c8-baa9-4a12-87e5-44d7e2c8d37b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Agents Are Failing To Read B2B Pricing, Study Warns via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/ai-agents-struggle-to-read-b2b-pricing-report-finds/581186/",
+      "summary": "Siteline tested a Claude agent on top B2B products. When it couldn't find the prices, it often turned to third-party sources instead.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-agents-struggle-to-read-b2b-pricing-report-finds/581186/\">AI Agents Are Failing To Read B2B Pricing, Study Warns</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-01T02:21:48+00:00",
+      "fetched": "2026-07-01T22:11:54.213331+00:00"
+    },
+    {
       "id": "48681bae-d2bc-4ce4-a95e-55430569949c",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -109,117 +219,7 @@
       "summary": "Bought Reddit citations will be filtered the way Penguin filtered bought links. The only strategy that compounds on the agentic web is being real.\n\nThe post <a href=\"https://www.searchenginejournal.com/buying-reddit-to-win-ai-citations-is-the-new-link-farm/578016/\">Buying Reddit To Win AI Citations Is The New Link Farm</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-06-29T15:00:10+00:00",
       "fetched": "2026-06-29T22:03:32.541859+00:00"
-    },
-    {
-      "id": "a3072cf4-e32a-4c4f-816c-bf8a79f32e45",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Selling AI As A Replacement Wins Attention & Kills Trust via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/selling-ai-as-a-replacement-wins-attention-kills-trust/580637/",
-      "summary": "Selling AI as a people replacement alienates buyers and contradicts employment data. Here is why the substitution narrative backfires.\n\nThe post <a href=\"https://www.searchenginejournal.com/selling-ai-as-a-replacement-wins-attention-kills-trust/580637/\">Selling AI As A Replacement Wins Attention &#038; Kills Trust</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-29T13:00:34+00:00",
-      "fetched": "2026-06-29T22:03:32.541880+00:00"
-    },
-    {
-      "id": "4698cb1a-36e7-4e10-b4eb-bfe26baae807",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why Internal Links Quietly Decay & How To Reclaim The Equity You\u2019re Losing",
-      "link": "https://www.searchenginejournal.com/why-internal-links-quietly-decay-how-to-reclaim-the-equity-youre-losing/579005/",
-      "summary": "Your internal link structure gradually loses effectiveness as new content pulls equity away from important pages.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-internal-links-quietly-decay-how-to-reclaim-the-equity-youre-losing/579005/\">Why Internal Links Quietly Decay &#038; How To Reclaim The Equity You&#8217;re Losing</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-29T11:00:27+00:00",
-      "fetched": "2026-06-29T22:03:32.541902+00:00"
-    },
-    {
-      "id": "41b8e765-9eeb-4a96-9508-dd494a11b83e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google: Meta Descriptions Not Required For SEO. But They\u2019re Worthwhile. via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-meta-descriptions-not-required-for-seo-but-theyre-worthwhile/580694/",
-      "summary": "Google confirmed that meta descriptions are not a requirement, then explained why it's not pointless to write them.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-meta-descriptions-not-required-for-seo-but-theyre-worthwhile/580694/\">Google: Meta Descriptions Not Required For SEO. But They&#8217;re Worthwhile.</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-29T08:57:26+00:00",
-      "fetched": "2026-06-29T22:03:32.541920+00:00"
-    },
-    {
-      "id": "a3ee1ca5-ed4e-4018-ada2-0db6254f8a0d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Search And Agents Are One Product. You Only Need One Playbook via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/search-and-agents-are-one-product-you-only-need-one-playbook/576191/",
-      "summary": "The \"separate AEO strategy\" consultants have been selling collapses when Google itself says it's one playbook. Here's what that means for how you build.\n\nThe post <a href=\"https://www.searchenginejournal.com/search-and-agents-are-one-product-you-only-need-one-playbook/576191/\">Search And Agents Are One Product. You Only Need One Playbook</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-28T12:00:52+00:00",
-      "fetched": "2026-06-28T21:53:18.782824+00:00"
-    },
-    {
-      "id": "a2de2604-1e5c-43bd-802d-b2fc83d94872",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Says AI Visibility Hinges On Content People Actually Want To Read via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-says-make-content-people-want-to-read/580642/",
-      "summary": "Google says publishers who want to survive in AI Search need to start making content users actually want to read.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-says-make-content-people-want-to-read/580642/\">Google Says AI Visibility Hinges On Content People Actually Want To Read</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-28T11:00:56+00:00",
-      "fetched": "2026-06-28T21:53:18.782853+00:00"
-    },
-    {
-      "id": "60df626b-0e68-4ce9-af92-3f99c48c04bc",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Spam Update Now Reaches AI Answers. Enforcement Is Hard via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/googles-spam-update-now-reaches-ai-answers-enforcement-is-hard/580535/",
-      "summary": "The line between earning a brand mention in AI answers and engineering one is getting redrawn. Here's what the research and Google's June update say.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-spam-update-now-reaches-ai-answers-enforcement-is-hard/580535/\">Google&#8217;s Spam Update Now Reaches AI Answers. Enforcement Is Hard</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-27T12:00:59+00:00",
-      "fetched": "2026-06-27T21:53:22.827043+00:00"
-    },
-    {
-      "id": "28d29f56-1ccb-4b86-af57-19a6c5db1362",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Bruce Clay, One of the Founding Figures of SEO, Has Died via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/bruce-clay-seo-pioneer-who-invented-content-siloing-has-died/580602/",
-      "summary": "Bruce Clay, a founding figure who shaped the SEO marketing industry, has died. His concepts continue to influence professionals to this day.\n\nThe post <a href=\"https://www.searchenginejournal.com/bruce-clay-seo-pioneer-who-invented-content-siloing-has-died/580602/\">Bruce Clay, One of the Founding Figures of SEO, Has Died</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-26T22:45:18+00:00",
-      "fetched": "2026-06-27T21:53:22.827074+00:00"
-    },
-    {
-      "id": "83abf74b-44a4-44b5-8a9e-3a18c6173cd8",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "A Third Of Fintech Is Invisible To AI Agents via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/a-third-of-fintech-is-invisible-to-ai-agents/576193/",
-      "summary": "Most AI visibility advice skips the rendering step. A study of 274 fintech homepages shows why that's the most expensive mistake to make.\n\nThe post <a href=\"https://www.searchenginejournal.com/a-third-of-fintech-is-invisible-to-ai-agents/576193/\">A Third Of Fintech Is Invisible To AI Agents</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-26T13:30:13+00:00",
-      "fetched": "2026-06-26T22:01:46.268948+00:00"
-    },
-    {
-      "id": "cfb66e75-6dfe-4765-9769-d28f845b2d75",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Spam Update Rolls Out, AI Manipulation In Scope \u2013 SEO Pulse via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-google-spam-update-rolls-out-ai-manipulation-in-scope/580565/",
-      "summary": "Five search developments this week: a spam update, AI impression counts, CTR data, Similarweb's branded search findings, and Google's tool access stance.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-google-spam-update-rolls-out-ai-manipulation-in-scope/580565/\">Google Spam Update Rolls Out, AI Manipulation In Scope \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-26T12:30:36+00:00",
-      "fetched": "2026-06-26T22:01:46.268968+00:00"
-    },
-    {
-      "id": "8dd0638a-db84-42f0-ba3b-869d0022ad14",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Answers Question About SEO For AI Agents via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-seo-for-ai-agents/580589/",
-      "summary": "Google's John Mueller answered whether Google Gemini's new AI agents change the rules for SEO.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-seo-for-ai-agents/580589/\">Google Answers Question About SEO For AI Agents</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-26T11:08:58+00:00",
-      "fetched": "2026-06-26T22:01:46.268983+00:00"
     }
   ],
-  "last_updated": "2026-06-30T22:07:56.268061+00:00"
+  "last_updated": "2026-07-01T22:11:55.165854+00:00"
 }
