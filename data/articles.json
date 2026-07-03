@@ -1,6 +1,50 @@
 {
   "articles": [
     {
+      "id": "b75e7ad8-1061-465c-bf68-94ff25519e88",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Lighthouse Fails Your Llms.txt Without Markdown Links via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/lighthouse-fails-your-llms-txt-without-markdown-links/577590/",
+      "summary": "Six audits. One failure. The fix took five minutes. Here's what Lighthouse 13.3's Agentic Browsing category actually tells you, and what it doesn't.\n\nThe post <a href=\"https://www.searchenginejournal.com/lighthouse-fails-your-llms-txt-without-markdown-links/577590/\">Lighthouse Fails Your Llms.txt Without Markdown Links</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-03T14:00:03+00:00",
+      "fetched": "2026-07-03T21:55:44.232614+00:00"
+    },
+    {
+      "id": "c8502a88-0b5c-47dd-8069-d79a23f45c8c",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Where Clicks Go, What Agents Skip, Who\u2019s Leaving Bing \u2013 SEO Pulse via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/seo-pulse-where-clicks-go-what-agents-skip-whos-leaving-bing/581426/",
+      "summary": "Where AI Overview clicks go, what agents skip on sites they can't read, and who's leaving Bing, plus the rest of the week's search news.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-where-clicks-go-what-agents-skip-whos-leaving-bing/581426/\">Where Clicks Go, What Agents Skip, Who&#8217;s Leaving Bing \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-03T12:30:55+00:00",
+      "fetched": "2026-07-03T21:55:44.232643+00:00"
+    },
+    {
+      "id": "2f9cd924-1afe-4cc5-930f-bb746b7c8fa2",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Search Is Nothing Without SEO & It Knows It via @sejournal, @TaylorDanRW",
+      "link": "https://www.searchenginejournal.com/ai-search-is-nothing-without-seo-it-knows-it/580452/",
+      "summary": "Technical SEO now sits at the center of AI search readiness, giving LLMs the structure and signals they need to retrieve and cite content.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-search-is-nothing-without-seo-it-knows-it/580452/\">AI Search Is Nothing Without SEO &#038; It Knows It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-03T09:30:26+00:00",
+      "fetched": "2026-07-03T21:55:44.232664+00:00"
+    },
+    {
+      "id": "cae57669-244d-4e95-bd58-6672c10b4feb",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Mueller Flags A Case On Why LCP Fixes Miss the Target via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/googles-mueller-flags-a-case-on-why-lcp-fixes-miss-the-target/581413/",
+      "summary": "John Mueller points to a Google case study showing how customizable layouts can skew which element the browser measures as LCP, plus the fixes.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-mueller-flags-a-case-on-why-lcp-fixes-miss-the-target/581413/\">Google&#8217;s Mueller Flags A Case On Why LCP Fixes Miss the Target</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-02T22:50:47+00:00",
+      "fetched": "2026-07-03T21:55:44.232688+00:00"
+    },
+    {
       "id": "b0076968-e57e-42c7-b02b-20daef1ca0a6",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -175,51 +219,7 @@
       "summary": "Anthropic releases their new Sonnet 5 as the default model for all plans, including the free tier, plus introductory pricing on tokens.\n\nThe post <a href=\"https://www.searchenginejournal.com/anthropics-claude-sonnet-5-is-near-opus-intelligence-for-all-plans/581202/\">Anthropic&#8217;s Claude Sonnet 5 Is &#8220;Near-Opus Intelligence&#8221; For All Plans</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-07-01T09:56:37+00:00",
       "fetched": "2026-07-01T22:11:54.213292+00:00"
-    },
-    {
-      "id": "4d34be56-dd66-46a1-829b-3c336d4e4ded",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Chrome Auto-Browse Acts On Your Website, Apple\u2019s Siri AI Only Reads It via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/chrome-auto-browse-acts-on-your-website-apples-siri-ai-only-reads-it/578681/",
-      "summary": "Website owners: Apple and Google both shipped phone agents this month. Only Google's visits your site to act. Here's what that demands.\n\nThe post <a href=\"https://www.searchenginejournal.com/chrome-auto-browse-acts-on-your-website-apples-siri-ai-only-reads-it/578681/\">Chrome Auto-Browse Acts On Your Website, Apple&#8217;s Siri AI Only Reads It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-01T08:00:17+00:00",
-      "fetched": "2026-07-01T22:11:54.213314+00:00"
-    },
-    {
-      "id": "10f0a9c8-baa9-4a12-87e5-44d7e2c8d37b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Agents Are Failing To Read B2B Pricing, Study Warns via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/ai-agents-struggle-to-read-b2b-pricing-report-finds/581186/",
-      "summary": "Siteline tested a Claude agent on top B2B products. When it couldn't find the prices, it often turned to third-party sources instead.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-agents-struggle-to-read-b2b-pricing-report-finds/581186/\">AI Agents Are Failing To Read B2B Pricing, Study Warns</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-01T02:21:48+00:00",
-      "fetched": "2026-07-01T22:11:54.213331+00:00"
-    },
-    {
-      "id": "48681bae-d2bc-4ce4-a95e-55430569949c",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "ChatGPT Users Are Now Mostly Non-English via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/chatgpt-users-are-now-mostly-non-english/581159/",
-      "summary": "OpenAI data show that active ChatGPT users on consumer plans now mostly use non-English languages, with growth fastest in Africa and Asia.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-users-are-now-mostly-non-english/581159/\">ChatGPT Users Are Now Mostly Non-English</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-30T18:53:34+00:00",
-      "fetched": "2026-06-30T22:07:55.097113+00:00"
-    },
-    {
-      "id": "9e5a5dee-4cab-46f9-85f5-e10db781a345",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Puts Recipe Links At Top Of AI Mode Responses via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-puts-recipe-links-at-top-of-ai-mode-responses/581149/",
-      "summary": "Google launched a new update in AI Mode that places recipe site links at the top of responses, with creator names, ratings and ingredient counts.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-puts-recipe-links-at-top-of-ai-mode-responses/581149/\">Google Puts Recipe Links At Top Of AI Mode Responses</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-06-30T18:06:12+00:00",
-      "fetched": "2026-06-30T22:07:55.097139+00:00"
     }
   ],
-  "last_updated": "2026-07-02T21:58:11.779823+00:00"
+  "last_updated": "2026-07-03T21:55:44.742851+00:00"
 }
