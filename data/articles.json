@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": "b1b96c72-7113-446f-b965-0841bac35b16",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Fake DMCA Complaints Keep Erasing Real Pages From Google \u2013 What To Watch For via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/fake-dmca-complaints-keep-erasing-real-pages-from-google-what-to-watch-for/581299/",
+      "summary": "Copyright complaints can remove live pages from Google search before the dispute is resolved. Here's how the takedown process works and how to spot it.\n\nThe post <a href=\"https://www.searchenginejournal.com/fake-dmca-complaints-keep-erasing-real-pages-from-google-what-to-watch-for/581299/\">Fake DMCA Complaints Keep Erasing Real Pages From Google \u2013 What To Watch For</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-04T12:30:57+00:00",
+      "fetched": "2026-07-04T21:47:16.320475+00:00"
+    },
+    {
       "id": "b75e7ad8-1061-465c-bf68-94ff25519e88",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -208,18 +219,7 @@
       "summary": "AI outputs can appear authoritative while containing costly errors. This four-step protocol helps teams verify AI conclusions before making decisions.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-4-step-test-that-catches-ai-errors-before-they-shape-your-strategy/577687/\">The 4-Step Test That Catches AI Errors Before They Shape Your Strategy</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-07-01T10:00:56+00:00",
       "fetched": "2026-07-01T22:11:54.213264+00:00"
-    },
-    {
-      "id": "5ca07e87-e596-40f3-bcd7-dd3361d10873",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Anthropic\u2019s Claude Sonnet 5 Is \u201cNear-Opus Intelligence\u201d For All Plans via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/anthropics-claude-sonnet-5-is-near-opus-intelligence-for-all-plans/581202/",
-      "summary": "Anthropic releases their new Sonnet 5 as the default model for all plans, including the free tier, plus introductory pricing on tokens.\n\nThe post <a href=\"https://www.searchenginejournal.com/anthropics-claude-sonnet-5-is-near-opus-intelligence-for-all-plans/581202/\">Anthropic&#8217;s Claude Sonnet 5 Is &#8220;Near-Opus Intelligence&#8221; For All Plans</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-01T09:56:37+00:00",
-      "fetched": "2026-07-01T22:11:54.213292+00:00"
     }
   ],
-  "last_updated": "2026-07-03T21:55:44.742851+00:00"
+  "last_updated": "2026-07-04T21:47:17.135401+00:00"
 }
