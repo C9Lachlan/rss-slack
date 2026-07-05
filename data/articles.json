@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "id": "c4014e4a-ca1a-4f5f-b985-2a191c40b417",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Safari\u2019s New MCP Server Enables AI Debugging For SEO And CWV via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/safaris-mcp-server/581487/",
+      "summary": "Apple's WebKit announced a new MCP server for Safari that enables AI-based website debugging for SEO and Core Web Vitals.\n\nThe post <a href=\"https://www.searchenginejournal.com/safaris-mcp-server/581487/\">Safari&#8217;s New MCP Server Enables AI Debugging For SEO And CWV</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-05T21:15:10+00:00",
+      "fetched": "2026-07-05T21:50:51.178051+00:00"
+    },
+    {
+      "id": "3d7f1f94-98bd-4ec7-a8fa-6f9ac5434cc9",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Put AI Visibility Inside The SEO Tool On Purpose via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/google-put-ai-visibility-inside-the-seo-tool-on-purpose/577889/",
+      "summary": "Google filed AI visibility under search. Stop treating it as a separate workstream with its own budget and its own quarterly report.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-put-ai-visibility-inside-the-seo-tool-on-purpose/577889/\">Google Put AI Visibility Inside The SEO Tool On Purpose</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-05T12:00:33+00:00",
+      "fetched": "2026-07-05T21:50:51.178081+00:00"
+    },
+    {
       "id": "b1b96c72-7113-446f-b965-0841bac35b16",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -197,29 +219,7 @@
       "summary": "Anthropic's Claude Fable 5 returns with 50% usage limits and a new classifier that may result in false positives.\n\nThe post <a href=\"https://www.searchenginejournal.com/anthropics-claude-fable-5-is-back-with-new-usage-limits-and-safeguards/581231/\">Anthropic&#8217;s Claude Fable 5 Is Back With New Usage Limits And Safeguards</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-07-01T11:46:47+00:00",
       "fetched": "2026-07-01T22:11:54.213225+00:00"
-    },
-    {
-      "id": "11aafb06-4ae3-4b04-af20-b9a8f7655da3",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "New WordPress Plugin Safely And Easily Connects AI To Your Website via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/new-wordpress-plugin-safely-and-easily-connects-ai-to-your-website/581219/",
-      "summary": "WPVibe WordPress plugin makes it easy to connect virtually any AI to your WordPress site and safely edit virtually anything.\n\nThe post <a href=\"https://www.searchenginejournal.com/new-wordpress-plugin-safely-and-easily-connects-ai-to-your-website/581219/\">New WordPress Plugin Safely And Easily Connects AI To Your Website</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-01T11:05:25+00:00",
-      "fetched": "2026-07-01T22:11:54.213247+00:00"
-    },
-    {
-      "id": "0ff324fa-2e17-4275-a837-bc6d2eb026f0",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The 4-Step Test That Catches AI Errors Before They Shape Your Strategy via @sejournal, @alexanderkesler",
-      "link": "https://www.searchenginejournal.com/the-4-step-test-that-catches-ai-errors-before-they-shape-your-strategy/577687/",
-      "summary": "AI outputs can appear authoritative while containing costly errors. This four-step protocol helps teams verify AI conclusions before making decisions.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-4-step-test-that-catches-ai-errors-before-they-shape-your-strategy/577687/\">The 4-Step Test That Catches AI Errors Before They Shape Your Strategy</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-01T10:00:56+00:00",
-      "fetched": "2026-07-01T22:11:54.213264+00:00"
     }
   ],
-  "last_updated": "2026-07-04T21:47:17.135401+00:00"
+  "last_updated": "2026-07-05T21:50:52.200401+00:00"
 }
