@@ -1,6 +1,50 @@
 {
   "articles": [
     {
+      "id": "cc7d0c06-2b2f-41b6-b10d-0431444b35bd",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Build An OKF Brain Like Mine! via @sejournal, @marie_haynes",
+      "link": "https://www.searchenginejournal.com/build-an-okf-brain-like-mine/580661/",
+      "summary": "Build your own AI-ready knowledge system with insights from Marie Haynes on using Google\u2019s Open Knowledge Format for search and automation.\n\nThe post <a href=\"https://www.searchenginejournal.com/build-an-okf-brain-like-mine/580661/\">Build An OKF Brain Like Mine!</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-06T13:00:47+00:00",
+      "fetched": "2026-07-06T22:04:58.487832+00:00"
+    },
+    {
+      "id": "cec1e15b-7631-4654-a05d-5e7be652212e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Content Didn\u2019t Stop Working, Your Metrics Did via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/ai-content-didnt-stop-working-your-metrics-did/580976/",
+      "summary": "Declining organic traffic doesn't always signal failing content. Here's how to measure influence when AI search disrupts traditional SEO metrics.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-content-didnt-stop-working-your-metrics-did/580976/\">AI Content Didn&#8217;t Stop Working, Your Metrics Did</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-06T11:30:07+00:00",
+      "fetched": "2026-07-06T22:04:58.487858+00:00"
+    },
+    {
+      "id": "13483a19-a11a-4d34-ad16-49706d57a62a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Answers Question About LLMs-Author.txt For SEO via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-answers-question-about-llms-author-txt-for-seo/581547/",
+      "summary": "Google's John Mueller responded to an SEO using LLMs-Author.txt to separate themself from others with the same name.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-answers-question-about-llms-author-txt-for-seo/581547/\">Google Answers Question About LLMs-Author.txt For SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-06T10:05:35+00:00",
+      "fetched": "2026-07-06T22:04:58.487878+00:00"
+    },
+    {
+      "id": "b3ad7742-ec62-4429-984b-cb5c8fb0230b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Open Knowledge Format Could Work For Websites, Too via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/googles-open-knowledge-format-could-work-for-websites-too/579200/",
+      "summary": "Google's Open Knowledge Format turns your website's ideas into a linked graph agents can traverse. Here's what that means for how machines understand your site.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-open-knowledge-format-could-work-for-websites-too/579200/\">Google&#8217;s Open Knowledge Format Could Work For Websites, Too</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-06T09:00:43+00:00",
+      "fetched": "2026-07-06T22:04:58.487902+00:00"
+    },
+    {
       "id": "c4014e4a-ca1a-4f5f-b985-2a191c40b417",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -175,51 +219,7 @@
       "summary": "OpenAI job listings and its advertising plans point to image, video, native and conversational ad formats for ChatGPT.\n\nThe post <a href=\"https://www.searchenginejournal.com/openai-hiring-points-to-image-video-ads-coming-to-chatgpt/581289/\">OpenAI Hiring Points To Image &#038; Video Ads Coming To ChatGPT</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-07-01T21:44:34+00:00",
       "fetched": "2026-07-01T22:11:54.213137+00:00"
-    },
-    {
-      "id": "633d6b26-85c4-4c9f-86e5-0fe1472555e0",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Habitual Publisher Traffic Is Collapsing",
-      "link": "https://www.searchenginejournal.com/habitual-publisher-traffic-is-collapsing/580673/",
-      "summary": "Examine the decline of traditional publisher traffic as AI gains prominence. What does this mean for the future of content creators?\n\nThe post <a href=\"https://www.searchenginejournal.com/habitual-publisher-traffic-is-collapsing/580673/\">Habitual Publisher Traffic Is Collapsing</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-01T13:30:13+00:00",
-      "fetched": "2026-07-01T22:11:54.213164+00:00"
-    },
-    {
-      "id": "1322aa08-3409-4d70-80cb-7769c93860cd",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Fabrice Canel, Longtime Bing Search Leader, Retires From Microsoft via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/fabrice-canel-longtime-bing-search-leader-retires-from-microsoft/581247/",
-      "summary": "Fabrice Canel, the Principal Product Manager who led Bing's crawling and indexing team and championed IndexNow, has announced his retirement from Microsoft. \n\nThe post <a href=\"https://www.searchenginejournal.com/fabrice-canel-longtime-bing-search-leader-retires-from-microsoft/581247/\">Fabrice Canel, Longtime Bing Search Leader, Retires From Microsoft</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-01T12:37:31+00:00",
-      "fetched": "2026-07-01T22:11:54.213183+00:00"
-    },
-    {
-      "id": "32543658-c93e-434c-8ead-db860c224e49",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "88% Of Companies Use AI As A Tool, Only 12% Built A System via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/88-of-companies-use-ai-as-a-tool-only-12-built-a-system/580648/",
-      "summary": "A global study of 6,100 organizations reveals most AI adoption is still surface-level, and the gap is widening fast.\n\nThe post <a href=\"https://www.searchenginejournal.com/88-of-companies-use-ai-as-a-tool-only-12-built-a-system/580648/\">88% Of Companies Use AI As A Tool, Only 12% Built A System</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-01T12:00:03+00:00",
-      "fetched": "2026-07-01T22:11:54.213205+00:00"
-    },
-    {
-      "id": "ae5725dd-9cd7-4188-b28e-e75b9579dc5e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Anthropic\u2019s Claude Fable 5 Is Back With New Usage Limits And Safeguards via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/anthropics-claude-fable-5-is-back-with-new-usage-limits-and-safeguards/581231/",
-      "summary": "Anthropic's Claude Fable 5 returns with 50% usage limits and a new classifier that may result in false positives.\n\nThe post <a href=\"https://www.searchenginejournal.com/anthropics-claude-fable-5-is-back-with-new-usage-limits-and-safeguards/581231/\">Anthropic&#8217;s Claude Fable 5 Is Back With New Usage Limits And Safeguards</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-01T11:46:47+00:00",
-      "fetched": "2026-07-01T22:11:54.213225+00:00"
     }
   ],
-  "last_updated": "2026-07-05T21:50:52.200401+00:00"
+  "last_updated": "2026-07-06T22:04:59.283803+00:00"
 }
