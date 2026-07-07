@@ -1,6 +1,83 @@
 {
   "articles": [
     {
+      "id": "a394274b-d466-422c-ab08-438ca5446897",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "SEO Study: 5 Lessons From Running AI Agents Across Every Search via @sejournal, @lorenbaker",
+      "link": "https://www.searchenginejournal.com/seo-study-5-lessons-from-running-ai-agents-across-every-search/581663/",
+      "summary": "Last year, 2.5% of Writesonic\u2019s leads came from AI search. As of March, 35% do. Samanyou Garg, Founder and CEO of Writesonic, showed the system behind that number in his Search Engine Journal webinar: agents surface what moved across every search platform, practitioners prioritize and act. \u201cAI search didn\u2019t necessarily kill SEO, but it turned it into an engineering problem,\u201d he said. The session covers new citation research and 5 lessons from the field, including the 6-stage loop his team runs o",
+      "published": "2026-07-07T21:00:35+00:00",
+      "fetched": "2026-07-07T22:04:10.632640+00:00"
+    },
+    {
+      "id": "30d19259-bc63-48f6-83cc-91323940d57b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Local Marketing Is Too Complex: What the Data Says & What To Do",
+      "link": "https://www.searchenginejournal.com/local-search-marketing-trends-uberall-spa/581648/",
+      "summary": "Learn how multi-location brands fix complex marketing & GBP challenges with an AI layer and a 4-step local optimization framework.\n\nThe post <a href=\"https://www.searchenginejournal.com/local-search-marketing-trends-uberall-spa/581648/\">Local Marketing Is Too Complex: What the Data Says &#038; What To Do</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-07T18:31:30+00:00",
+      "fetched": "2026-07-07T22:04:10.632667+00:00"
+    },
+    {
+      "id": "8410609e-f848-4399-8485-596d33e3027e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Search Console Adds Social & Video Platform Properties via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-search-console-adds-social-video-platform-properties/581634/",
+      "summary": "Google is adding platform properties to Search Console, letting creators track how their Instagram, TikTok, X, and YouTube posts perform in Search and Discover.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-search-console-adds-social-video-platform-properties/581634/\">Google Search Console Adds Social &#038; Video Platform Properties</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-07T14:21:53+00:00",
+      "fetched": "2026-07-07T22:04:10.632688+00:00"
+    },
+    {
+      "id": "87535bb0-f26e-4eb5-9417-c0f48ee8bb8f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Performance Marketing Meets AI: How To Build An Experimentation Framework That Scales",
+      "link": "https://www.searchenginejournal.com/performance-marketing-meets-ai-how-to-build-an-experimentation-framework-that-scales/579854/",
+      "summary": "AI made experiments cheap to run but no easier to trust. A framework for fewer, sharper bets and the discipline to kill the losers fast.\n\nThe post <a href=\"https://www.searchenginejournal.com/performance-marketing-meets-ai-how-to-build-an-experimentation-framework-that-scales/579854/\">Performance Marketing Meets AI: How To Build An Experimentation Framework That Scales</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-07T13:30:30+00:00",
+      "fetched": "2026-07-07T22:04:10.632710+00:00"
+    },
+    {
+      "id": "1c0eb36b-00c6-49ff-b165-ad609a0f3556",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "62% Of AI Brand Recommendations Vanish After One Buyer Question \u2013 New Clovion Data via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/62-of-ai-brand-recommendations-vanish-after-one-buyer-question-new-clovion-data/581469/",
+      "summary": "A dropped zero in Clovion's AI visibility study hid numbers far more alarming than published. Here's what the corrected data means for brand strategy.\n\nThe post <a href=\"https://www.searchenginejournal.com/62-of-ai-brand-recommendations-vanish-after-one-buyer-question-new-clovion-data/581469/\">62% Of AI Brand Recommendations Vanish After One Buyer Question \u2013 New Clovion Data</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-07T11:00:06+00:00",
+      "fetched": "2026-07-07T22:04:10.632730+00:00"
+    },
+    {
+      "id": "4d525e16-99d3-4741-a5ed-37d3bca49fe2",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google On Using Markdown For AI SEO via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-on-using-markdown-for-ai-seo/581606/",
+      "summary": "Google's John Mueller responds to the trend of creating a set of markdown pages to mirror HTML content for AI SEO.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-on-using-markdown-for-ai-seo/581606/\">Google On Using Markdown For AI SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-07T09:20:34+00:00",
+      "fetched": "2026-07-07T22:04:10.632748+00:00"
+    },
+    {
+      "id": "3f18d30e-113a-4b1c-85e6-4ab8e5d3a8a1",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Web Is Growing A Second Layer \u2013 Almost A Third Head via @sejournal, @demirie",
+      "link": "https://www.searchenginejournal.com/the-web-is-growing-a-second-layer-almost-a-third-head/581147/",
+      "summary": "Google's OKF and ARD specs are making noise, but HTML still runs discovery. Here's what actually matters for SEO in the new agentic-web stack. \n\nThe post <a href=\"https://www.searchenginejournal.com/the-web-is-growing-a-second-layer-almost-a-third-head/581147/\">The Web Is Growing A Second Layer \u2013 Almost A Third Head</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-07T09:00:09+00:00",
+      "fetched": "2026-07-07T22:04:10.632765+00:00"
+    },
+    {
       "id": "cc7d0c06-2b2f-41b6-b10d-0431444b35bd",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -142,84 +219,7 @@
       "summary": "Cloudflare now lets all sites manage AI crawlers as Search, Agent, or Training, with Sept. 15 defaults that can block Googlebot for sites blocking training.\n\nThe post <a href=\"https://www.searchenginejournal.com/cloudflares-ai-crawler-rules-can-block-googlebot/581385/\">Cloudflare\u2019s AI Crawler Rules Can Block Googlebot</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-07-02T16:29:50+00:00",
       "fetched": "2026-07-02T21:58:11.040988+00:00"
-    },
-    {
-      "id": "647bc22e-437e-4a6f-8823-2904616934bb",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Your Younger Audience Is Declining Faster Than It Looks",
-      "link": "https://www.searchenginejournal.com/your-younger-audience-is-declining-faster-than-it-looks/581277/",
-      "summary": "Platforms lost younger audience share, too. Publishers still have the bigger problem. The data explains why.\n\nThe post <a href=\"https://www.searchenginejournal.com/your-younger-audience-is-declining-faster-than-it-looks/581277/\">Your Younger Audience Is Declining Faster Than It Looks</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-02T14:00:11+00:00",
-      "fetched": "2026-07-02T21:58:11.041008+00:00"
-    },
-    {
-      "id": "b4bdbabc-be30-4f4b-b8db-68d3a9305efa",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Microsoft Just Proved A Point About Search Today via @sejournal, @DuaneForrester",
-      "link": "https://www.searchenginejournal.com/microsoft-just-proved-a-point-about-search-today/580664/",
-      "summary": "Bing\u2019s latest AI reporting confirms that rankings and citations measure different outcomes, requiring new visibility strategies across AI search.\n\nThe post <a href=\"https://www.searchenginejournal.com/microsoft-just-proved-a-point-about-search-today/580664/\">Microsoft Just Proved A Point About Search Today</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-02T12:30:20+00:00",
-      "fetched": "2026-07-02T21:58:11.041032+00:00"
-    },
-    {
-      "id": "40ba393f-c1dd-4116-b6da-02749a28e525",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s DMCA Crisis Is Disrupting The Web. It Will Only Get Worse. via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/googles-dmca-crisis-is-disrupting-the-web-it-will-only-get-worse/581340/",
-      "summary": "Google's DMCA Crisis is turning a copyright protection system into a tool that bad actors can use against publishers.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-dmca-crisis-is-disrupting-the-web-it-will-only-get-worse/581340/\">Google&#8217;s DMCA Crisis Is Disrupting The Web. It Will Only Get Worse.</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-02T11:21:15+00:00",
-      "fetched": "2026-07-02T21:58:11.041051+00:00"
-    },
-    {
-      "id": "3d2e40ed-fb33-46b8-9928-eb2369950d5b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Data Shows AI Search Users Moved Past Keywords, Your Content Hasn\u2019t via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/google-data-shows-ai-search-users-moved-past-keywords-your-content-hasnt/580596/",
-      "summary": "Google's AI Mode data puts hard numbers on a behavioral shift that has already made most 2025 keyword strategies obsolete.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-data-shows-ai-search-users-moved-past-keywords-your-content-hasnt/580596/\">Google Data Shows AI Search Users Moved Past Keywords, Your Content Hasn&#8217;t</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-02T11:00:11+00:00",
-      "fetched": "2026-07-02T21:58:11.041068+00:00"
-    },
-    {
-      "id": "f393b719-b3d3-4125-9905-b757f4660220",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Should I Block AI Crawlers Or Measure Their Value First? \u2013 Ask An SEO via @sejournal, @HelenPollitt1",
-      "link": "https://www.searchenginejournal.com/ask-an-seo-should-i-block-ai-crawlers-or-measure-their-value-first/580005/",
-      "summary": "AI bots drain server resources and scrape IP, but blocking them risks invisibility in LLM answers. Here is how to decide.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-an-seo-should-i-block-ai-crawlers-or-measure-their-value-first/580005/\">Should I Block AI Crawlers Or Measure Their Value First? \u2013 Ask An SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-02T09:30:54+00:00",
-      "fetched": "2026-07-02T21:58:11.041085+00:00"
-    },
-    {
-      "id": "cafe391a-8431-48f9-8585-143d8a835555",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google AI Overviews Study Finds Lost Clicks Weren\u2019t Lower Quality via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-ai-overviews-study-finds-lost-clicks-werent-lower-quality/581298/",
-      "summary": "An updated AI Overviews experiment finds no measurable difference in bounce rates, time on site, or returns to search between clicks with and without summaries.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ai-overviews-study-finds-lost-clicks-werent-lower-quality/581298/\">Google AI Overviews Study Finds Lost Clicks Weren&#8217;t Lower Quality</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-01T23:56:14+00:00",
-      "fetched": "2026-07-02T21:58:11.041109+00:00"
-    },
-    {
-      "id": "7582863c-e1fb-49f6-a480-a5d3d510678b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "OpenAI Hiring Points To Image & Video Ads Coming To ChatGPT via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/openai-hiring-points-to-image-video-ads-coming-to-chatgpt/581289/",
-      "summary": "OpenAI job listings and its advertising plans point to image, video, native and conversational ad formats for ChatGPT.\n\nThe post <a href=\"https://www.searchenginejournal.com/openai-hiring-points-to-image-video-ads-coming-to-chatgpt/581289/\">OpenAI Hiring Points To Image &#038; Video Ads Coming To ChatGPT</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-01T21:44:34+00:00",
-      "fetched": "2026-07-01T22:11:54.213137+00:00"
     }
   ],
-  "last_updated": "2026-07-06T22:04:59.283803+00:00"
+  "last_updated": "2026-07-07T22:04:11.587080+00:00"
 }
