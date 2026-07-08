@@ -1,6 +1,83 @@
 {
   "articles": [
     {
+      "id": "eaa1b3ee-9d6b-41a6-ae0a-22ee7aeb73cd",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How SEO Teams Stopped Guessing Which AI Search Strategies Paid Off via @sejournal, @lorenbaker",
+      "link": "https://www.searchenginejournal.com/how-enterprise-seo-teams-stopped-guessing-which-ai-search-strategies-paid-off/581786/",
+      "summary": "Navigate the complexities of AI search and discover why traditional testing methods do not apply to language models.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-enterprise-seo-teams-stopped-guessing-which-ai-search-strategies-paid-off/581786/\">How SEO Teams Stopped Guessing Which AI Search Strategies Paid Off</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-08T19:51:53+00:00",
+      "fetched": "2026-07-08T21:58:01.888510+00:00"
+    },
+    {
+      "id": "ec257cd9-4caf-4d9a-9050-4f357b317f31",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "OpenAI GPT-Live Brings Search Into ChatGPT Voice via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/openai-gpt-live-brings-search-into-chatgpt-voice/581773/",
+      "summary": "OpenAI has begun rolling out GPT-Live, new voice models for ChatGPT that can run a web search and show visual answers while you talk.\n\nThe post <a href=\"https://www.searchenginejournal.com/openai-gpt-live-brings-search-into-chatgpt-voice/581773/\">OpenAI GPT-Live Brings Search Into ChatGPT Voice</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-08T18:18:27+00:00",
+      "fetched": "2026-07-08T21:58:01.888537+00:00"
+    },
+    {
+      "id": "b21d4e32-a546-490b-889f-bb90e3189c36",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "5 Ways To Make Your Marketing Channels Work Together via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/5-ways-to-make-your-marketing-channels-work-together/581005/",
+      "summary": "Turn disconnected marketing channels into a coordinated growth strategy with practical advice on attribution, AI, and measurement.\n\nThe post <a href=\"https://www.searchenginejournal.com/5-ways-to-make-your-marketing-channels-work-together/581005/\">5 Ways To Make Your Marketing Channels Work Together</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-08T13:30:40+00:00",
+      "fetched": "2026-07-08T21:58:01.888557+00:00"
+    },
+    {
+      "id": "7fa2f7d4-e232-4c81-964e-362ad8bd5896",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Reclaiming Brand Sovereignty In The AI Era via @sejournal, @billhunt",
+      "link": "https://www.searchenginejournal.com/reclaiming-brand-sovereignty-in-the-ai-era/581161/",
+      "summary": "Stop publishing more content. Start organizing knowledge into a machine-readable layer every AI, protocol, and interface can consume.\n\nThe post <a href=\"https://www.searchenginejournal.com/reclaiming-brand-sovereignty-in-the-ai-era/581161/\">Reclaiming Brand Sovereignty In The AI Era</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-08T11:30:29+00:00",
+      "fetched": "2026-07-08T21:58:01.888580+00:00"
+    },
+    {
+      "id": "4beb88f7-31a2-4522-ab81-abc70c4471cc",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "An Easy Digital PR Strategy For AI SEO via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/an-easy-digital-pr-strategy-for-ai-seo/581710/",
+      "summary": "Marketing a brand online for AI Search can be easier than you think. Here's a strategy to get you started.\n\nThe post <a href=\"https://www.searchenginejournal.com/an-easy-digital-pr-strategy-for-ai-seo/581710/\">An Easy Digital PR Strategy For AI SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-08T10:37:36+00:00",
+      "fetched": "2026-07-08T21:58:01.888599+00:00"
+    },
+    {
+      "id": "95379744-1ad6-4199-828a-6dd1029e7534",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "You Can\u2019t See How AI Ranks You, So Build What It Can Read via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/you-cant-see-how-ai-ranks-you-so-build-what-it-can-read/580048/",
+      "summary": "Open AI Overview rankings won't change the work. What a machine can read, parse, and verify on your site is what matters now.\n\nThe post <a href=\"https://www.searchenginejournal.com/you-cant-see-how-ai-ranks-you-so-build-what-it-can-read/580048/\">You Can&#8217;t See How AI Ranks You, So Build What It Can Read</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-08T09:30:41+00:00",
+      "fetched": "2026-07-08T21:58:01.888618+00:00"
+    },
+    {
+      "id": "b0b911aa-c7d5-45f1-9302-c30c03525641",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Search: Is Your Content Strategy Accidentally Recommending Your Competitors?",
+      "link": "https://www.searchenginejournal.com/ai-search-recommending-competitors-firstpromoter-spa/581579/",
+      "summary": "Explore why listicles may recommend your competitors instead of your product, revealing new tactics in AI search strategy.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-search-recommending-competitors-firstpromoter-spa/581579/\">AI Search: Is Your Content Strategy Accidentally Recommending Your Competitors?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-07T22:14:42+00:00",
+      "fetched": "2026-07-08T21:58:01.888634+00:00"
+    },
+    {
       "id": "a394274b-d466-422c-ab08-438ca5446897",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -142,84 +219,7 @@
       "summary": "Google filed AI visibility under search. Stop treating it as a separate workstream with its own budget and its own quarterly report.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-put-ai-visibility-inside-the-seo-tool-on-purpose/577889/\">Google Put AI Visibility Inside The SEO Tool On Purpose</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-07-05T12:00:33+00:00",
       "fetched": "2026-07-05T21:50:51.178081+00:00"
-    },
-    {
-      "id": "b1b96c72-7113-446f-b965-0841bac35b16",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Fake DMCA Complaints Keep Erasing Real Pages From Google \u2013 What To Watch For via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/fake-dmca-complaints-keep-erasing-real-pages-from-google-what-to-watch-for/581299/",
-      "summary": "Copyright complaints can remove live pages from Google search before the dispute is resolved. Here's how the takedown process works and how to spot it.\n\nThe post <a href=\"https://www.searchenginejournal.com/fake-dmca-complaints-keep-erasing-real-pages-from-google-what-to-watch-for/581299/\">Fake DMCA Complaints Keep Erasing Real Pages From Google \u2013 What To Watch For</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-04T12:30:57+00:00",
-      "fetched": "2026-07-04T21:47:16.320475+00:00"
-    },
-    {
-      "id": "b75e7ad8-1061-465c-bf68-94ff25519e88",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Lighthouse Fails Your Llms.txt Without Markdown Links via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/lighthouse-fails-your-llms-txt-without-markdown-links/577590/",
-      "summary": "Six audits. One failure. The fix took five minutes. Here's what Lighthouse 13.3's Agentic Browsing category actually tells you, and what it doesn't.\n\nThe post <a href=\"https://www.searchenginejournal.com/lighthouse-fails-your-llms-txt-without-markdown-links/577590/\">Lighthouse Fails Your Llms.txt Without Markdown Links</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-03T14:00:03+00:00",
-      "fetched": "2026-07-03T21:55:44.232614+00:00"
-    },
-    {
-      "id": "c8502a88-0b5c-47dd-8069-d79a23f45c8c",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Where Clicks Go, What Agents Skip, Who\u2019s Leaving Bing \u2013 SEO Pulse via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-where-clicks-go-what-agents-skip-whos-leaving-bing/581426/",
-      "summary": "Where AI Overview clicks go, what agents skip on sites they can't read, and who's leaving Bing, plus the rest of the week's search news.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-where-clicks-go-what-agents-skip-whos-leaving-bing/581426/\">Where Clicks Go, What Agents Skip, Who&#8217;s Leaving Bing \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-03T12:30:55+00:00",
-      "fetched": "2026-07-03T21:55:44.232643+00:00"
-    },
-    {
-      "id": "2f9cd924-1afe-4cc5-930f-bb746b7c8fa2",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Search Is Nothing Without SEO & It Knows It via @sejournal, @TaylorDanRW",
-      "link": "https://www.searchenginejournal.com/ai-search-is-nothing-without-seo-it-knows-it/580452/",
-      "summary": "Technical SEO now sits at the center of AI search readiness, giving LLMs the structure and signals they need to retrieve and cite content.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-search-is-nothing-without-seo-it-knows-it/580452/\">AI Search Is Nothing Without SEO &#038; It Knows It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-03T09:30:26+00:00",
-      "fetched": "2026-07-03T21:55:44.232664+00:00"
-    },
-    {
-      "id": "cae57669-244d-4e95-bd58-6672c10b4feb",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Mueller Flags A Case On Why LCP Fixes Miss the Target via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/googles-mueller-flags-a-case-on-why-lcp-fixes-miss-the-target/581413/",
-      "summary": "John Mueller points to a Google case study showing how customizable layouts can skew which element the browser measures as LCP, plus the fixes.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-mueller-flags-a-case-on-why-lcp-fixes-miss-the-target/581413/\">Google&#8217;s Mueller Flags A Case On Why LCP Fixes Miss the Target</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-02T22:50:47+00:00",
-      "fetched": "2026-07-03T21:55:44.232688+00:00"
-    },
-    {
-      "id": "b0076968-e57e-42c7-b02b-20daef1ca0a6",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Ends Cache-Served AMP Pages In Search via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-ends-cache-served-amp-pages-in-search/581405/",
-      "summary": "Google Search now takes searchers directly to a domain's AMP host pages, ending the viewer/cache serving path. AMP still ranks as normal. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-ends-cache-served-amp-pages-in-search/581405/\">Google Ends Cache-Served AMP Pages In Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-02T20:06:10+00:00",
-      "fetched": "2026-07-02T21:58:11.040962+00:00"
-    },
-    {
-      "id": "7139720d-61d7-40fb-841c-6f639dbf3670",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Cloudflare\u2019s AI Crawler Rules Can Block Googlebot via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/cloudflares-ai-crawler-rules-can-block-googlebot/581385/",
-      "summary": "Cloudflare now lets all sites manage AI crawlers as Search, Agent, or Training, with Sept. 15 defaults that can block Googlebot for sites blocking training.\n\nThe post <a href=\"https://www.searchenginejournal.com/cloudflares-ai-crawler-rules-can-block-googlebot/581385/\">Cloudflare\u2019s AI Crawler Rules Can Block Googlebot</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-02T16:29:50+00:00",
-      "fetched": "2026-07-02T21:58:11.040988+00:00"
     }
   ],
-  "last_updated": "2026-07-07T22:04:11.587080+00:00"
+  "last_updated": "2026-07-08T21:58:02.529881+00:00"
 }
