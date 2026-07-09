@@ -1,6 +1,94 @@
 {
   "articles": [
     {
+      "id": "2f90b89f-a4bf-4201-bf28-443162133d46",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Web Is Eating Itself And Your Metrics Look Fine via @sejournal, @DuaneForrester",
+      "link": "https://www.searchenginejournal.com/the-web-is-eating-itself-and-your-metrics-look-fine/581497/",
+      "summary": "Source bias, retrieval collapse, model collapse: three documented mechanisms that explain AI search's strangest behavior, and where to place your bet.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-web-is-eating-itself-and-your-metrics-look-fine/581497/\">The Web Is Eating Itself And Your Metrics Look Fine</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-09T13:30:34+00:00",
+      "fetched": "2026-07-09T22:12:16.424016+00:00"
+    },
+    {
+      "id": "6b075591-3488-4591-83c6-daf7ac49f0cc",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s New Merchant Listing Structured Data Improves SEO via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/googles-new-merchant-listing-structured-data-improves-seo/581879/",
+      "summary": "Google's new Category and Sale Duration structured data properties give merchants a way to rank more precise product data.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-new-merchant-listing-structured-data-improves-seo/581879/\">Google&#8217;s New Merchant Listing Structured Data Improves SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-09T10:59:30+00:00",
+      "fetched": "2026-07-09T22:12:16.424069+00:00"
+    },
+    {
+      "id": "39f9f9fa-b5e6-44ac-8467-88f5eb9e4e81",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Optimize PPC Accounts With Less Search Term Visibility \u2013 Ask A PPC via @sejournal, @navahf",
+      "link": "https://www.searchenginejournal.com/ask-a-ppc-how-to-optimize-ppc-accounts-with-less-search-term-visibility/581131/",
+      "summary": "Losing search term visibility? Three technical signals still reveal how smart bidding is really performing, no query data required.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-a-ppc-how-to-optimize-ppc-accounts-with-less-search-term-visibility/581131/\">How To Optimize PPC Accounts With Less Search Term Visibility \u2013 Ask A PPC</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-09T09:00:26+00:00",
+      "fetched": "2026-07-09T22:12:16.424092+00:00"
+    },
+    {
+      "id": "1de4d2d2-dc32-47fb-8b6f-9000330ce89b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "YouTube Moves Ahead of Spotify As UK\u2019s Top Podcast Service via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/youtube-moves-ahead-of-spotify-as-uks-top-podcast-service/581832/",
+      "summary": "YouTube edged past Spotify as the podcast service UK listeners use most, the first time it has led on record, according to new data.\n\nThe post <a href=\"https://www.searchenginejournal.com/youtube-moves-ahead-of-spotify-as-uks-top-podcast-service/581832/\">YouTube Moves Ahead of Spotify As UK&#8217;s Top Podcast Service</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-09T00:35:22+00:00",
+      "fetched": "2026-07-09T22:12:16.424114+00:00"
+    },
+    {
+      "id": "06f39c6b-c293-4f2a-b2ae-cf5a029a7d42",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Search Hits All-Time Usage Record During World Cup via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-says-search-hit-all-time-usage-high-during-world-cup/581796/",
+      "summary": "Google's Nick Fox said Search saw its highest usage on record during Argentina's comeback win over Egypt at the World Cup.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-says-search-hit-all-time-usage-high-during-world-cup/581796/\">Google Search Hits All-Time Usage Record During World Cup</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-09T00:14:44+00:00",
+      "fetched": "2026-07-09T22:12:16.424132+00:00"
+    },
+    {
+      "id": "ed8a9f56-0b0f-40f0-90fc-662be55c7432",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Ads Expands Travel Campaigns To Things To Do And Events via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/google-search-campaigns-travel-things-to-do-events-beta/581816/",
+      "summary": "Google Ads expands its Travel campaign beta to Things to Do and Events, giving eligible advertisers a new campaign type for attractions and ticket sales.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-search-campaigns-travel-things-to-do-events-beta/581816/\">Google Ads Expands Travel Campaigns To Things To Do And Events</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-08T23:36:24+00:00",
+      "fetched": "2026-07-09T22:12:16.424151+00:00"
+    },
+    {
+      "id": "e2011039-b87c-4dfe-960b-c3db8d56d4aa",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Search Is Exposing SEO\u2019s Risk Of Losing Ownership Of GEO Outcomes via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/ai-search-is-exposing-seos-risk-of-losing-geo-outcomes/581805/",
+      "summary": "Search marketer Tom Critchlow says AI Search is exposing the question of whether SEO still owns GEO outcomes.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-search-is-exposing-seos-risk-of-losing-geo-outcomes/581805/\">AI Search Is Exposing SEO&#8217;s Risk Of Losing Ownership Of GEO Outcomes</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-08T23:17:27+00:00",
+      "fetched": "2026-07-09T22:12:16.424167+00:00"
+    },
+    {
+      "id": "62e9baf4-e2c7-4543-8f24-fc998cfd8329",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Clarifies Smart Bidding Update After Advertiser Concerns via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/google-clarifies-smart-bidding-update-after-advertiser-concerns/581804/",
+      "summary": "Google clarifies its Smart Bidding update, explaining how August 17 changes will affect Target CPA, Target ROAS, and budget-limited campaigns.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-clarifies-smart-bidding-update-after-advertiser-concerns/581804/\">Google Clarifies Smart Bidding Update After Advertiser Concerns</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-08T23:02:55+00:00",
+      "fetched": "2026-07-09T22:12:16.424193+00:00"
+    },
+    {
       "id": "eaa1b3ee-9d6b-41a6-ae0a-22ee7aeb73cd",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -131,95 +219,7 @@
       "summary": "A dropped zero in Clovion's AI visibility study hid numbers far more alarming than published. Here's what the corrected data means for brand strategy.\n\nThe post <a href=\"https://www.searchenginejournal.com/62-of-ai-brand-recommendations-vanish-after-one-buyer-question-new-clovion-data/581469/\">62% Of AI Brand Recommendations Vanish After One Buyer Question \u2013 New Clovion Data</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-07-07T11:00:06+00:00",
       "fetched": "2026-07-07T22:04:10.632730+00:00"
-    },
-    {
-      "id": "4d525e16-99d3-4741-a5ed-37d3bca49fe2",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google On Using Markdown For AI SEO via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-on-using-markdown-for-ai-seo/581606/",
-      "summary": "Google's John Mueller responds to the trend of creating a set of markdown pages to mirror HTML content for AI SEO.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-on-using-markdown-for-ai-seo/581606/\">Google On Using Markdown For AI SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-07T09:20:34+00:00",
-      "fetched": "2026-07-07T22:04:10.632748+00:00"
-    },
-    {
-      "id": "3f18d30e-113a-4b1c-85e6-4ab8e5d3a8a1",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Web Is Growing A Second Layer \u2013 Almost A Third Head via @sejournal, @demirie",
-      "link": "https://www.searchenginejournal.com/the-web-is-growing-a-second-layer-almost-a-third-head/581147/",
-      "summary": "Google's OKF and ARD specs are making noise, but HTML still runs discovery. Here's what actually matters for SEO in the new agentic-web stack. \n\nThe post <a href=\"https://www.searchenginejournal.com/the-web-is-growing-a-second-layer-almost-a-third-head/581147/\">The Web Is Growing A Second Layer \u2013 Almost A Third Head</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-07T09:00:09+00:00",
-      "fetched": "2026-07-07T22:04:10.632765+00:00"
-    },
-    {
-      "id": "cc7d0c06-2b2f-41b6-b10d-0431444b35bd",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Build An OKF Brain Like Mine! via @sejournal, @marie_haynes",
-      "link": "https://www.searchenginejournal.com/build-an-okf-brain-like-mine/580661/",
-      "summary": "Build your own AI-ready knowledge system with insights from Marie Haynes on using Google\u2019s Open Knowledge Format for search and automation.\n\nThe post <a href=\"https://www.searchenginejournal.com/build-an-okf-brain-like-mine/580661/\">Build An OKF Brain Like Mine!</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-06T13:00:47+00:00",
-      "fetched": "2026-07-06T22:04:58.487832+00:00"
-    },
-    {
-      "id": "cec1e15b-7631-4654-a05d-5e7be652212e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Content Didn\u2019t Stop Working, Your Metrics Did via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/ai-content-didnt-stop-working-your-metrics-did/580976/",
-      "summary": "Declining organic traffic doesn't always signal failing content. Here's how to measure influence when AI search disrupts traditional SEO metrics.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-content-didnt-stop-working-your-metrics-did/580976/\">AI Content Didn&#8217;t Stop Working, Your Metrics Did</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-06T11:30:07+00:00",
-      "fetched": "2026-07-06T22:04:58.487858+00:00"
-    },
-    {
-      "id": "13483a19-a11a-4d34-ad16-49706d57a62a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Answers Question About LLMs-Author.txt For SEO via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-answers-question-about-llms-author-txt-for-seo/581547/",
-      "summary": "Google's John Mueller responded to an SEO using LLMs-Author.txt to separate themself from others with the same name.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-answers-question-about-llms-author-txt-for-seo/581547/\">Google Answers Question About LLMs-Author.txt For SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-06T10:05:35+00:00",
-      "fetched": "2026-07-06T22:04:58.487878+00:00"
-    },
-    {
-      "id": "b3ad7742-ec62-4429-984b-cb5c8fb0230b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Open Knowledge Format Could Work For Websites, Too via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/googles-open-knowledge-format-could-work-for-websites-too/579200/",
-      "summary": "Google's Open Knowledge Format turns your website's ideas into a linked graph agents can traverse. Here's what that means for how machines understand your site.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-open-knowledge-format-could-work-for-websites-too/579200/\">Google&#8217;s Open Knowledge Format Could Work For Websites, Too</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-06T09:00:43+00:00",
-      "fetched": "2026-07-06T22:04:58.487902+00:00"
-    },
-    {
-      "id": "c4014e4a-ca1a-4f5f-b985-2a191c40b417",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Safari\u2019s New MCP Server Enables AI Debugging For SEO And CWV via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/safaris-mcp-server/581487/",
-      "summary": "Apple's WebKit announced a new MCP server for Safari that enables AI-based website debugging for SEO and Core Web Vitals.\n\nThe post <a href=\"https://www.searchenginejournal.com/safaris-mcp-server/581487/\">Safari&#8217;s New MCP Server Enables AI Debugging For SEO And CWV</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-05T21:15:10+00:00",
-      "fetched": "2026-07-05T21:50:51.178051+00:00"
-    },
-    {
-      "id": "3d7f1f94-98bd-4ec7-a8fa-6f9ac5434cc9",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Put AI Visibility Inside The SEO Tool On Purpose via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/google-put-ai-visibility-inside-the-seo-tool-on-purpose/577889/",
-      "summary": "Google filed AI visibility under search. Stop treating it as a separate workstream with its own budget and its own quarterly report.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-put-ai-visibility-inside-the-seo-tool-on-purpose/577889/\">Google Put AI Visibility Inside The SEO Tool On Purpose</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-05T12:00:33+00:00",
-      "fetched": "2026-07-05T21:50:51.178081+00:00"
     }
   ],
-  "last_updated": "2026-07-08T21:58:02.529881+00:00"
+  "last_updated": "2026-07-09T22:12:17.271731+00:00"
 }
