@@ -1,6 +1,72 @@
 {
   "articles": [
     {
+      "id": "4e1113a4-b204-46d5-ac9e-8dd4e90dac32",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Says Canonical Re-Evaluation Can Take Up to Two Weeks via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-says-canonical-re-evaluation-can-take-up-to-two-weeks/582053/",
+      "summary": "Google updated its canonicalization troubleshooting guide with new guidance on how long pages can stay in a duplicate cluster after you fix the content.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-says-canonical-re-evaluation-can-take-up-to-two-weeks/582053/\">Google Says Canonical Re-Evaluation Can Take Up to Two Weeks</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-10T20:18:28+00:00",
+      "fetched": "2026-07-10T21:50:32.653973+00:00"
+    },
+    {
+      "id": "cb773810-14d0-4a3c-bd49-433f7255707e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "WordPress 7.0.1 Maintenance Release Contains 31 Bug Fixes via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/wordpress-7-0-1-maintenance-release-contains-31-bug-fixes/582045/",
+      "summary": "The WordPress 7.0.1 maintenance release improves PHP compatibility and contains a bug fix to a security-related function.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-7-0-1-maintenance-release-contains-31-bug-fixes/582045/\">WordPress 7.0.1 Maintenance Release Contains 31 Bug Fixes</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-10T20:07:46+00:00",
+      "fetched": "2026-07-10T21:50:32.653999+00:00"
+    },
+    {
+      "id": "e32fa8dc-66c5-4f5d-ac39-608db94df24d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Business Profiles Showing Empty Review Dashboards via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-business-profiles-showing-empty-review-dashboards/582015/",
+      "summary": "    Some Google Business Profile dashboards show \u201cno reviews yet\u201d even though public review counts remain visible on the live listing.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-business-profiles-showing-empty-review-dashboards/582015/\">Google Business Profiles Showing Empty Review Dashboards</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-10T18:08:16+00:00",
+      "fetched": "2026-07-10T21:50:32.654021+00:00"
+    },
+    {
+      "id": "4258222e-afa0-4801-894c-8cdd6be12d92",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Adds Social Reporting; Mueller Warns Against Markdown \u2013 SEO Pulse via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/seo-pulse-google-adds-social-reporting-mueller-warns-against-markdown/581946/",
+      "summary": "Google rolls out Search Console reports for social posts, updates product markup guidance, and warns against building separate markdown pages for AI.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-google-adds-social-reporting-mueller-warns-against-markdown/581946/\">Google Adds Social Reporting; Mueller Warns Against Markdown &#8211; SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-10T13:30:06+00:00",
+      "fetched": "2026-07-10T21:50:32.654044+00:00"
+    },
+    {
+      "id": "c9c235ec-fe2d-4722-bc7e-fd0c1139b6b5",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Free AI Citations Won\u2019t Last. I\u2019ve Watched Google Fence Off A Wide Open Field Before via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/free-ai-citations-wont-last-ive-watched-google-fence-off-a-wide-open-field-before/581471/",
+      "summary": "Most enterprise brands are invisible to AI models right now. That gap is closing fast, and the brands moving first will hold the ground.\n\nThe post <a href=\"https://www.searchenginejournal.com/free-ai-citations-wont-last-ive-watched-google-fence-off-a-wide-open-field-before/581471/\">Free AI Citations Won&#8217;t Last. I&#8217;ve Watched Google Fence Off A Wide Open Field Before</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-10T11:30:31+00:00",
+      "fetched": "2026-07-10T21:50:32.654063+00:00"
+    },
+    {
+      "id": "8a1864af-6ca8-43f6-9584-9240c13480c6",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Agentic Web Is Splitting Into Two Bets: Identity And Capability via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/the-agentic-web-is-splitting-into-two-bets-identity-and-capability/578685/",
+      "summary": "For website owners chasing AI visibility: LLMs.txt answers who you are. WebMCP answers what your site can do.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-agentic-web-is-splitting-into-two-bets-identity-and-capability/578685/\">The Agentic Web Is Splitting Into Two Bets: Identity And Capability</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-10T09:00:14+00:00",
+      "fetched": "2026-07-10T21:50:32.654080+00:00"
+    },
+    {
       "id": "2f90b89f-a4bf-4201-bf28-443162133d46",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -153,73 +219,7 @@
       "summary": "Open AI Overview rankings won't change the work. What a machine can read, parse, and verify on your site is what matters now.\n\nThe post <a href=\"https://www.searchenginejournal.com/you-cant-see-how-ai-ranks-you-so-build-what-it-can-read/580048/\">You Can&#8217;t See How AI Ranks You, So Build What It Can Read</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-07-08T09:30:41+00:00",
       "fetched": "2026-07-08T21:58:01.888618+00:00"
-    },
-    {
-      "id": "b0b911aa-c7d5-45f1-9302-c30c03525641",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Search: Is Your Content Strategy Accidentally Recommending Your Competitors?",
-      "link": "https://www.searchenginejournal.com/ai-search-recommending-competitors-firstpromoter-spa/581579/",
-      "summary": "Explore why listicles may recommend your competitors instead of your product, revealing new tactics in AI search strategy.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-search-recommending-competitors-firstpromoter-spa/581579/\">AI Search: Is Your Content Strategy Accidentally Recommending Your Competitors?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-07T22:14:42+00:00",
-      "fetched": "2026-07-08T21:58:01.888634+00:00"
-    },
-    {
-      "id": "a394274b-d466-422c-ab08-438ca5446897",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "SEO Study: 5 Lessons From Running AI Agents Across Every Search via @sejournal, @lorenbaker",
-      "link": "https://www.searchenginejournal.com/seo-study-5-lessons-from-running-ai-agents-across-every-search/581663/",
-      "summary": "Last year, 2.5% of Writesonic\u2019s leads came from AI search. As of March, 35% do. Samanyou Garg, Founder and CEO of Writesonic, showed the system behind that number in his Search Engine Journal webinar: agents surface what moved across every search platform, practitioners prioritize and act. \u201cAI search didn\u2019t necessarily kill SEO, but it turned it into an engineering problem,\u201d he said. The session covers new citation research and 5 lessons from the field, including the 6-stage loop his team runs o",
-      "published": "2026-07-07T21:00:35+00:00",
-      "fetched": "2026-07-07T22:04:10.632640+00:00"
-    },
-    {
-      "id": "30d19259-bc63-48f6-83cc-91323940d57b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Local Marketing Is Too Complex: What the Data Says & What To Do",
-      "link": "https://www.searchenginejournal.com/local-search-marketing-trends-uberall-spa/581648/",
-      "summary": "Learn how multi-location brands fix complex marketing & GBP challenges with an AI layer and a 4-step local optimization framework.\n\nThe post <a href=\"https://www.searchenginejournal.com/local-search-marketing-trends-uberall-spa/581648/\">Local Marketing Is Too Complex: What the Data Says &#038; What To Do</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-07T18:31:30+00:00",
-      "fetched": "2026-07-07T22:04:10.632667+00:00"
-    },
-    {
-      "id": "8410609e-f848-4399-8485-596d33e3027e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Search Console Adds Social & Video Platform Properties via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-search-console-adds-social-video-platform-properties/581634/",
-      "summary": "Google is adding platform properties to Search Console, letting creators track how their Instagram, TikTok, X, and YouTube posts perform in Search and Discover.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-search-console-adds-social-video-platform-properties/581634/\">Google Search Console Adds Social &#038; Video Platform Properties</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-07T14:21:53+00:00",
-      "fetched": "2026-07-07T22:04:10.632688+00:00"
-    },
-    {
-      "id": "87535bb0-f26e-4eb5-9417-c0f48ee8bb8f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Performance Marketing Meets AI: How To Build An Experimentation Framework That Scales",
-      "link": "https://www.searchenginejournal.com/performance-marketing-meets-ai-how-to-build-an-experimentation-framework-that-scales/579854/",
-      "summary": "AI made experiments cheap to run but no easier to trust. A framework for fewer, sharper bets and the discipline to kill the losers fast.\n\nThe post <a href=\"https://www.searchenginejournal.com/performance-marketing-meets-ai-how-to-build-an-experimentation-framework-that-scales/579854/\">Performance Marketing Meets AI: How To Build An Experimentation Framework That Scales</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-07T13:30:30+00:00",
-      "fetched": "2026-07-07T22:04:10.632710+00:00"
-    },
-    {
-      "id": "1c0eb36b-00c6-49ff-b165-ad609a0f3556",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "62% Of AI Brand Recommendations Vanish After One Buyer Question \u2013 New Clovion Data via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/62-of-ai-brand-recommendations-vanish-after-one-buyer-question-new-clovion-data/581469/",
-      "summary": "A dropped zero in Clovion's AI visibility study hid numbers far more alarming than published. Here's what the corrected data means for brand strategy.\n\nThe post <a href=\"https://www.searchenginejournal.com/62-of-ai-brand-recommendations-vanish-after-one-buyer-question-new-clovion-data/581469/\">62% Of AI Brand Recommendations Vanish After One Buyer Question \u2013 New Clovion Data</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-07T11:00:06+00:00",
-      "fetched": "2026-07-07T22:04:10.632730+00:00"
     }
   ],
-  "last_updated": "2026-07-09T22:12:17.271731+00:00"
+  "last_updated": "2026-07-10T21:50:33.425598+00:00"
 }
