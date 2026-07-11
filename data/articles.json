@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": "bcd5cb59-f52b-4d9b-8e02-8fe24a18817d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Visibility Rankings Aren\u2019t Stable \u2013 New Research Shows It\u2019s Mostly Statistical Noise via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/ai-visibility-rankings-arent-stable-new-research-shows-its-mostly-statistical-noise/581905/",
+      "summary": "AI visibility numbers move between runs, so a single reading can mislead. A new paper offers a stopping rule for when rankings are finally trustworthy. \n\nThe post <a href=\"https://www.searchenginejournal.com/ai-visibility-rankings-arent-stable-new-research-shows-its-mostly-statistical-noise/581905/\">AI Visibility Rankings Aren&#8217;t Stable \u2013 New Research Shows It&#8217;s Mostly Statistical Noise</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-11T12:30:19+00:00",
+      "fetched": "2026-07-11T21:38:52.384878+00:00"
+    },
+    {
       "id": "4e1113a4-b204-46d5-ac9e-8dd4e90dac32",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -208,18 +219,7 @@
       "summary": "Marketing a brand online for AI Search can be easier than you think. Here's a strategy to get you started.\n\nThe post <a href=\"https://www.searchenginejournal.com/an-easy-digital-pr-strategy-for-ai-seo/581710/\">An Easy Digital PR Strategy For AI SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-07-08T10:37:36+00:00",
       "fetched": "2026-07-08T21:58:01.888599+00:00"
-    },
-    {
-      "id": "95379744-1ad6-4199-828a-6dd1029e7534",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "You Can\u2019t See How AI Ranks You, So Build What It Can Read via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/you-cant-see-how-ai-ranks-you-so-build-what-it-can-read/580048/",
-      "summary": "Open AI Overview rankings won't change the work. What a machine can read, parse, and verify on your site is what matters now.\n\nThe post <a href=\"https://www.searchenginejournal.com/you-cant-see-how-ai-ranks-you-so-build-what-it-can-read/580048/\">You Can&#8217;t See How AI Ranks You, So Build What It Can Read</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-08T09:30:41+00:00",
-      "fetched": "2026-07-08T21:58:01.888618+00:00"
     }
   ],
-  "last_updated": "2026-07-10T21:50:33.425598+00:00"
+  "last_updated": "2026-07-11T21:38:53.097612+00:00"
 }
