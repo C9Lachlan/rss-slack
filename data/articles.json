@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": "915b8ef6-5579-4d98-a0f3-63ec86a8ead5",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The WebMCP Tools You Expose To Agents Can Be Used To Hijack Them via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/the-webmcp-tools-you-expose-to-agents-can-be-used-to-hijack-them/579204/",
+      "summary": "WebMCP gives AI agents named tools to call, and a clean route for prompt injection. Here's what Chrome says to lock down first.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-webmcp-tools-you-expose-to-agents-can-be-used-to-hijack-them/579204/\">The WebMCP Tools You Expose To Agents Can Be Used To Hijack Them</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-12T12:00:52+00:00",
+      "fetched": "2026-07-12T21:39:26.258519+00:00"
+    },
+    {
       "id": "bcd5cb59-f52b-4d9b-8e02-8fe24a18817d",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -208,18 +219,7 @@
       "summary": "Stop publishing more content. Start organizing knowledge into a machine-readable layer every AI, protocol, and interface can consume.\n\nThe post <a href=\"https://www.searchenginejournal.com/reclaiming-brand-sovereignty-in-the-ai-era/581161/\">Reclaiming Brand Sovereignty In The AI Era</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-07-08T11:30:29+00:00",
       "fetched": "2026-07-08T21:58:01.888580+00:00"
-    },
-    {
-      "id": "4beb88f7-31a2-4522-ab81-abc70c4471cc",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "An Easy Digital PR Strategy For AI SEO via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/an-easy-digital-pr-strategy-for-ai-seo/581710/",
-      "summary": "Marketing a brand online for AI Search can be easier than you think. Here's a strategy to get you started.\n\nThe post <a href=\"https://www.searchenginejournal.com/an-easy-digital-pr-strategy-for-ai-seo/581710/\">An Easy Digital PR Strategy For AI SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-08T10:37:36+00:00",
-      "fetched": "2026-07-08T21:58:01.888599+00:00"
     }
   ],
-  "last_updated": "2026-07-11T21:38:53.097612+00:00"
+  "last_updated": "2026-07-12T21:39:27.569466+00:00"
 }
