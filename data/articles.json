@@ -1,6 +1,72 @@
 {
   "articles": [
     {
+      "id": "11bc1649-9f45-4393-8f94-7b07a13ba173",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Marvin Clarifies AI Search and Qualified Future Conversions via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/googles-marvin-clarifies-ai-search-and-qualified-future-conversions/582185/",
+      "summary": "Google's Ginny Marvin explains AI Search eligibility, Qualified Future Conversions, and Creator Partnerships, adding context to key Google Marketing Live announcements.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-marvin-clarifies-ai-search-and-qualified-future-conversions/582185/\">Google&#8217;s Marvin Clarifies AI Search and Qualified Future Conversions</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-13T20:46:27+00:00",
+      "fetched": "2026-07-13T21:43:35.433306+00:00"
+    },
+    {
+      "id": "90def164-0e77-471c-a4ec-c0f58e795525",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "ChatGPT Access Tied To 9% Drop In Traditional Search via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/chatgpt-access-tied-to-9-drop-in-traditional-search/582167/",
+      "summary": "A new research paper compares how often ChatGPT and Google send people to websites, and what wider ChatGPT access did to search.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-access-tied-to-9-drop-in-traditional-search/582167/\">ChatGPT Access Tied To 9% Drop In Traditional Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-13T17:54:10+00:00",
+      "fetched": "2026-07-13T21:43:35.433334+00:00"
+    },
+    {
+      "id": "1ec09493-7bb6-46a9-9499-c3bfc9dd7dbf",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Ads Requires Disclosure For AI-Generated Content via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/google-ads-requires-disclosure-for-ai-generated-content/581925/",
+      "summary": "Google Ads adds AI disclosure labels for third-party creative. Learn how the new transparency requirements affect advertisers and campaign workflows.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ads-requires-disclosure-for-ai-generated-content/581925/\">Google Ads Requires Disclosure For AI-Generated Content</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-13T16:00:35+00:00",
+      "fetched": "2026-07-13T21:43:35.433354+00:00"
+    },
+    {
+      "id": "99d77646-a597-4468-a63e-a82f0897ecda",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Evergreen Content Is Over \u2013 The Individual Is The Only Strategy Left via @sejournal, @theshelleywalsh",
+      "link": "https://www.searchenginejournal.com/evergreen-is-over-the-individual-is-the-only-strategy-left/581532/",
+      "summary": "Do individuals hold all the power in publishing now? Why the reverse halo effect is reshaping content strategy for every brand in search.\n\nThe post <a href=\"https://www.searchenginejournal.com/evergreen-is-over-the-individual-is-the-only-strategy-left/581532/\">Evergreen Content Is Over \u2013 The Individual Is The Only Strategy Left</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-13T13:30:51+00:00",
+      "fetched": "2026-07-13T21:43:35.433378+00:00"
+    },
+    {
+      "id": "d1b5a31d-b8ab-4d1f-91b0-d666f4a713a1",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Only 28% Of Americans Trust AI Search \u2013 And That Gap Is Your SEO Opening via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/only-28-of-americans-trust-ai-search-and-that-gap-is-your-seo-opening/581913/",
+      "summary": "Want to win the AI citation game? Build for the click-through moment, not just the citation. Here's where to start.\n\nThe post <a href=\"https://www.searchenginejournal.com/only-28-of-americans-trust-ai-search-and-that-gap-is-your-seo-opening/581913/\">Only 28% Of Americans Trust AI Search \u2013 And That Gap Is Your SEO Opening</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-13T11:30:27+00:00",
+      "fetched": "2026-07-13T21:43:35.433398+00:00"
+    },
+    {
+      "id": "0aa9157c-8f04-467b-855b-e36ccb65d775",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Agent Standards: What Do We Need To Know? via @sejournal, @chrisgreenseo",
+      "link": "https://www.searchenginejournal.com/ai-agent-standards-what-do-we-need-to-know/581763/",
+      "summary": "Overwhelmed by agentic web acronyms? Map each protocol to the problem it solves before deciding which ones deserve your attention.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-agent-standards-what-do-we-need-to-know/581763/\">AI Agent Standards: What Do We Need To Know?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-13T09:30:08+00:00",
+      "fetched": "2026-07-13T21:43:35.433416+00:00"
+    },
+    {
       "id": "915b8ef6-5579-4d98-a0f3-63ec86a8ead5",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -153,73 +219,7 @@
       "summary": "Google Ads expands its Travel campaign beta to Things to Do and Events, giving eligible advertisers a new campaign type for attractions and ticket sales.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-search-campaigns-travel-things-to-do-events-beta/581816/\">Google Ads Expands Travel Campaigns To Things To Do And Events</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-07-08T23:36:24+00:00",
       "fetched": "2026-07-09T22:12:16.424151+00:00"
-    },
-    {
-      "id": "e2011039-b87c-4dfe-960b-c3db8d56d4aa",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Search Is Exposing SEO\u2019s Risk Of Losing Ownership Of GEO Outcomes via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/ai-search-is-exposing-seos-risk-of-losing-geo-outcomes/581805/",
-      "summary": "Search marketer Tom Critchlow says AI Search is exposing the question of whether SEO still owns GEO outcomes.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-search-is-exposing-seos-risk-of-losing-geo-outcomes/581805/\">AI Search Is Exposing SEO&#8217;s Risk Of Losing Ownership Of GEO Outcomes</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-08T23:17:27+00:00",
-      "fetched": "2026-07-09T22:12:16.424167+00:00"
-    },
-    {
-      "id": "62e9baf4-e2c7-4543-8f24-fc998cfd8329",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Clarifies Smart Bidding Update After Advertiser Concerns via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/google-clarifies-smart-bidding-update-after-advertiser-concerns/581804/",
-      "summary": "Google clarifies its Smart Bidding update, explaining how August 17 changes will affect Target CPA, Target ROAS, and budget-limited campaigns.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-clarifies-smart-bidding-update-after-advertiser-concerns/581804/\">Google Clarifies Smart Bidding Update After Advertiser Concerns</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-08T23:02:55+00:00",
-      "fetched": "2026-07-09T22:12:16.424193+00:00"
-    },
-    {
-      "id": "eaa1b3ee-9d6b-41a6-ae0a-22ee7aeb73cd",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How SEO Teams Stopped Guessing Which AI Search Strategies Paid Off via @sejournal, @lorenbaker",
-      "link": "https://www.searchenginejournal.com/how-enterprise-seo-teams-stopped-guessing-which-ai-search-strategies-paid-off/581786/",
-      "summary": "Navigate the complexities of AI search and discover why traditional testing methods do not apply to language models.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-enterprise-seo-teams-stopped-guessing-which-ai-search-strategies-paid-off/581786/\">How SEO Teams Stopped Guessing Which AI Search Strategies Paid Off</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-08T19:51:53+00:00",
-      "fetched": "2026-07-08T21:58:01.888510+00:00"
-    },
-    {
-      "id": "ec257cd9-4caf-4d9a-9050-4f357b317f31",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "OpenAI GPT-Live Brings Search Into ChatGPT Voice via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/openai-gpt-live-brings-search-into-chatgpt-voice/581773/",
-      "summary": "OpenAI has begun rolling out GPT-Live, new voice models for ChatGPT that can run a web search and show visual answers while you talk.\n\nThe post <a href=\"https://www.searchenginejournal.com/openai-gpt-live-brings-search-into-chatgpt-voice/581773/\">OpenAI GPT-Live Brings Search Into ChatGPT Voice</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-08T18:18:27+00:00",
-      "fetched": "2026-07-08T21:58:01.888537+00:00"
-    },
-    {
-      "id": "b21d4e32-a546-490b-889f-bb90e3189c36",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "5 Ways To Make Your Marketing Channels Work Together via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/5-ways-to-make-your-marketing-channels-work-together/581005/",
-      "summary": "Turn disconnected marketing channels into a coordinated growth strategy with practical advice on attribution, AI, and measurement.\n\nThe post <a href=\"https://www.searchenginejournal.com/5-ways-to-make-your-marketing-channels-work-together/581005/\">5 Ways To Make Your Marketing Channels Work Together</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-08T13:30:40+00:00",
-      "fetched": "2026-07-08T21:58:01.888557+00:00"
-    },
-    {
-      "id": "7fa2f7d4-e232-4c81-964e-362ad8bd5896",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Reclaiming Brand Sovereignty In The AI Era via @sejournal, @billhunt",
-      "link": "https://www.searchenginejournal.com/reclaiming-brand-sovereignty-in-the-ai-era/581161/",
-      "summary": "Stop publishing more content. Start organizing knowledge into a machine-readable layer every AI, protocol, and interface can consume.\n\nThe post <a href=\"https://www.searchenginejournal.com/reclaiming-brand-sovereignty-in-the-ai-era/581161/\">Reclaiming Brand Sovereignty In The AI Era</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-08T11:30:29+00:00",
-      "fetched": "2026-07-08T21:58:01.888580+00:00"
     }
   ],
-  "last_updated": "2026-07-12T21:39:27.569466+00:00"
+  "last_updated": "2026-07-13T21:43:36.253778+00:00"
 }
