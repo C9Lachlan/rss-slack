@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "1e92d551-9d85-409b-b158-5e97c61a1b1a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "TikTok Targets AI-Generated Spam Accounts In High-Risk Topics via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/tiktok-targets-ai-generated-spam-accounts-in-high-risk-topics/582256/",
+      "summary": "TikTok will test detection for accounts posting AI-generated spam in politics, financial advice, and medical content, and has joined C2PA's steering committee.\n\nThe post <a href=\"https://www.searchenginejournal.com/tiktok-targets-ai-generated-spam-accounts-in-high-risk-topics/582256/\">TikTok Targets AI-Generated Spam Accounts In High-Risk Topics</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-14T18:26:32+00:00",
+      "fetched": "2026-07-14T21:45:54.933094+00:00"
+    },
+    {
+      "id": "310905af-dde8-4444-88a2-5d5a37d775e4",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Adds Image Generation To AI Overviews, Revamps Images via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-adds-image-generation-to-ai-overviews-revamps-images/582242/",
+      "summary": "Google is adding AI image generation to AI Overviews and rolling out a redesigned Google Images homepage. Both start rolling out over the coming weeks.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-adds-image-generation-to-ai-overviews-revamps-images/582242/\">Google Adds Image Generation To AI Overviews, Revamps Images</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-14T16:00:40+00:00",
+      "fetched": "2026-07-14T21:45:54.933125+00:00"
+    },
+    {
+      "id": "240dfdc1-6c93-44c6-bdc6-819258e1f802",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Where Search Attention Is Going & How To Measure It via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/where-search-attention-is-going-how-to-measure-it/582142/",
+      "summary": "Gain valuable insights on search attention and learn how to track performance beyond traditional click metrics in our new podcast episode.\n\nThe post <a href=\"https://www.searchenginejournal.com/where-search-attention-is-going-how-to-measure-it/582142/\">Where Search Attention Is Going &#038; How To Measure It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-14T13:30:20+00:00",
+      "fetched": "2026-07-14T21:45:54.933144+00:00"
+    },
+    {
+      "id": "0432a784-1a73-49a9-9d3d-49965c94ab8b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Scaled AI Content Often Fails & Google\u2019s Crawl Economics Explain Why via @sejournal, @TaylorDanRW",
+      "link": "https://www.searchenginejournal.com/scaled-ai-content-often-fails-googles-crawl-economics-explain-why/581325/",
+      "summary": "Mass programmatic AI content breaks Google's crawl ecosystem and indexing thresholds in ways most teams never anticipate until rankings collapse.\n\nThe post <a href=\"https://www.searchenginejournal.com/scaled-ai-content-often-fails-googles-crawl-economics-explain-why/581325/\">Scaled AI Content Often Fails &#038; Google&#8217;s Crawl Economics Explain Why</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-14T11:30:48+00:00",
+      "fetched": "2026-07-14T21:45:54.933169+00:00"
+    },
+    {
+      "id": "532f00fe-ff85-4bef-942b-4669dcf3fb45",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Surviving The Impression Squeeze: How Agentic Commerce Is Changing Google Ads In 2026 via @sejournal, @siliconvallaeys",
+      "link": "https://www.searchenginejournal.com/surviving-the-impression-squeeze-how-agentic-commerce-is-changing-google-ads-in-2026/579939/",
+      "summary": "The shortlist economy is here: AI agents hand buyers three to five options. Here's how to make sure you're on it.\n\nThe post <a href=\"https://www.searchenginejournal.com/surviving-the-impression-squeeze-how-agentic-commerce-is-changing-google-ads-in-2026/579939/\">Surviving The Impression Squeeze: How Agentic Commerce Is Changing Google Ads In 2026</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-14T09:30:43+00:00",
+      "fetched": "2026-07-14T21:45:54.933186+00:00"
+    },
+    {
       "id": "11bc1649-9f45-4393-8f94-7b07a13ba173",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -164,62 +219,7 @@
       "summary": "Source bias, retrieval collapse, model collapse: three documented mechanisms that explain AI search's strangest behavior, and where to place your bet.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-web-is-eating-itself-and-your-metrics-look-fine/581497/\">The Web Is Eating Itself And Your Metrics Look Fine</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-07-09T13:30:34+00:00",
       "fetched": "2026-07-09T22:12:16.424016+00:00"
-    },
-    {
-      "id": "6b075591-3488-4591-83c6-daf7ac49f0cc",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s New Merchant Listing Structured Data Improves SEO via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/googles-new-merchant-listing-structured-data-improves-seo/581879/",
-      "summary": "Google's new Category and Sale Duration structured data properties give merchants a way to rank more precise product data.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-new-merchant-listing-structured-data-improves-seo/581879/\">Google&#8217;s New Merchant Listing Structured Data Improves SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-09T10:59:30+00:00",
-      "fetched": "2026-07-09T22:12:16.424069+00:00"
-    },
-    {
-      "id": "39f9f9fa-b5e6-44ac-8467-88f5eb9e4e81",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Optimize PPC Accounts With Less Search Term Visibility \u2013 Ask A PPC via @sejournal, @navahf",
-      "link": "https://www.searchenginejournal.com/ask-a-ppc-how-to-optimize-ppc-accounts-with-less-search-term-visibility/581131/",
-      "summary": "Losing search term visibility? Three technical signals still reveal how smart bidding is really performing, no query data required.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-a-ppc-how-to-optimize-ppc-accounts-with-less-search-term-visibility/581131/\">How To Optimize PPC Accounts With Less Search Term Visibility \u2013 Ask A PPC</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-09T09:00:26+00:00",
-      "fetched": "2026-07-09T22:12:16.424092+00:00"
-    },
-    {
-      "id": "1de4d2d2-dc32-47fb-8b6f-9000330ce89b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "YouTube Moves Ahead of Spotify As UK\u2019s Top Podcast Service via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/youtube-moves-ahead-of-spotify-as-uks-top-podcast-service/581832/",
-      "summary": "YouTube edged past Spotify as the podcast service UK listeners use most, the first time it has led on record, according to new data.\n\nThe post <a href=\"https://www.searchenginejournal.com/youtube-moves-ahead-of-spotify-as-uks-top-podcast-service/581832/\">YouTube Moves Ahead of Spotify As UK&#8217;s Top Podcast Service</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-09T00:35:22+00:00",
-      "fetched": "2026-07-09T22:12:16.424114+00:00"
-    },
-    {
-      "id": "06f39c6b-c293-4f2a-b2ae-cf5a029a7d42",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Search Hits All-Time Usage Record During World Cup via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-says-search-hit-all-time-usage-high-during-world-cup/581796/",
-      "summary": "Google's Nick Fox said Search saw its highest usage on record during Argentina's comeback win over Egypt at the World Cup.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-says-search-hit-all-time-usage-high-during-world-cup/581796/\">Google Search Hits All-Time Usage Record During World Cup</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-09T00:14:44+00:00",
-      "fetched": "2026-07-09T22:12:16.424132+00:00"
-    },
-    {
-      "id": "ed8a9f56-0b0f-40f0-90fc-662be55c7432",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Ads Expands Travel Campaigns To Things To Do And Events via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/google-search-campaigns-travel-things-to-do-events-beta/581816/",
-      "summary": "Google Ads expands its Travel campaign beta to Things to Do and Events, giving eligible advertisers a new campaign type for attractions and ticket sales.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-search-campaigns-travel-things-to-do-events-beta/581816/\">Google Ads Expands Travel Campaigns To Things To Do And Events</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-08T23:36:24+00:00",
-      "fetched": "2026-07-09T22:12:16.424151+00:00"
     }
   ],
-  "last_updated": "2026-07-13T21:43:36.253778+00:00"
+  "last_updated": "2026-07-14T21:45:55.647983+00:00"
 }
