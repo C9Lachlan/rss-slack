@@ -1,6 +1,83 @@
 {
   "articles": [
     {
+      "id": "cee842e0-81cb-4580-8c74-865312b0e66a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Brings Calendar To Personal Intelligence In AI Mode via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-brings-calendar-to-personal-intelligence-in-ai-mode/582409/",
+      "summary": "Google is connecting Calendar to Personal Intelligence in AI Mode, allowing it to add events and factor your schedule into responses.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-brings-calendar-to-personal-intelligence-in-ai-mode/582409/\">Google Brings Calendar To Personal Intelligence In AI Mode</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-15T21:45:59+00:00",
+      "fetched": "2026-07-15T21:46:50.025176+00:00"
+    },
+    {
+      "id": "13ce05a5-cc4a-4873-a476-a814e4a5c388",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "ChatGPT Calls Turn Into Leads More Often: Invoca Report via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/chatgpt-calls-turn-into-leads-more-often-invoca-report/582400/",
+      "summary": "Phone call data breaks out AI referrals for the first time. Calls from ChatGPT become leads more often than any other channel, but convert average.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-calls-turn-into-leads-more-often-invoca-report/582400/\">ChatGPT Calls Turn Into Leads More Often: Invoca Report</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-15T17:50:16+00:00",
+      "fetched": "2026-07-15T21:46:50.025203+00:00"
+    },
+    {
+      "id": "3bb9681b-6653-4789-8517-27279b9542d0",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How Google May \u2018Understand\u2019 Unique Content",
+      "link": "https://www.searchenginejournal.com/how-google-may-understand-unique-content/581959/",
+      "summary": "Long doesn't mean valuable. Google normalizes for length. Here's what its information gain patent says actually moves the needle.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-google-may-understand-unique-content/581959/\">How Google May &#8216;Understand&#8217; Unique Content</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-15T13:30:00+00:00",
+      "fetched": "2026-07-15T21:46:50.025222+00:00"
+    },
+    {
+      "id": "c274c9a9-cd1f-454e-8b9e-f1d82e5049b8",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Says No SEO Penalty For Year-Long A/B Tests? via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-says-no-seo-penalty-for-year-long-a-b-tests/582349/",
+      "summary": "Google's Mueller says long A/B tests won't result in SEO demotions, contradicting official guidance that says they may be considered deceptive.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-says-no-seo-penalty-for-year-long-a-b-tests/582349/\">Google Says No SEO Penalty For Year-Long A/B Tests?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-15T12:33:03+00:00",
+      "fetched": "2026-07-15T21:46:50.025245+00:00"
+    },
+    {
+      "id": "7646100a-261e-4428-a038-681272e7446c",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "GA4\u2019s AI Assistant Channel Undercounts Your AI Traffic: How To Build One That Doesn\u2019t",
+      "link": "https://www.searchenginejournal.com/ga4s-ai-assistant-channel-undercounts-your-ai-traffic-how-to-build-one-that-doesnt/580133/",
+      "summary": "GA4's AI Assistant channel fragments traffic from a single source into three separate channels, making your AI referral numbers quietly wrong.\n\nThe post <a href=\"https://www.searchenginejournal.com/ga4s-ai-assistant-channel-undercounts-your-ai-traffic-how-to-build-one-that-doesnt/580133/\">GA4&#8217;s AI Assistant Channel Undercounts Your AI Traffic: How To Build One That Doesn&#8217;t</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-15T11:30:27+00:00",
+      "fetched": "2026-07-15T21:46:50.025264+00:00"
+    },
+    {
+      "id": "e9949711-e986-46b1-b7ec-ee5566497d77",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The PPC Metrics Your CFO Actually Cares About (And How To Report Them) via @sejournal, @timothyjjensen",
+      "link": "https://www.searchenginejournal.com/the-ppc-metrics-your-cfo-actually-cares-about-and-how-to-report-them/578813/",
+      "summary": "CFOs focus on revenue impact over vanity metrics. Discover the essential PPC measurements that resonate with executives.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-ppc-metrics-your-cfo-actually-cares-about-and-how-to-report-them/578813/\">The PPC Metrics Your CFO Actually Cares About (And How To Report Them)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-15T09:30:15+00:00",
+      "fetched": "2026-07-15T21:46:50.025283+00:00"
+    },
+    {
+      "id": "e4609a9d-a083-49d7-a936-eff2fef04bb0",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Mueller On First Link Priority & Link Obfuscation via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/googles-mueller-on-first-link-priority-link-obfuscation/582316/",
+      "summary": "John Mueller responded to a plan to hide homepage links from Google in hopes only one internal anchor text would count, known as \"first-link priority.\"\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-mueller-on-first-link-priority-link-obfuscation/582316/\">Google&#8217;s Mueller On First Link Priority &#038; Link Obfuscation</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-15T00:46:35+00:00",
+      "fetched": "2026-07-15T21:46:50.025299+00:00"
+    },
+    {
       "id": "1e92d551-9d85-409b-b158-5e97c61a1b1a",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -142,84 +219,7 @@
       "summary": "AI visibility numbers move between runs, so a single reading can mislead. A new paper offers a stopping rule for when rankings are finally trustworthy. \n\nThe post <a href=\"https://www.searchenginejournal.com/ai-visibility-rankings-arent-stable-new-research-shows-its-mostly-statistical-noise/581905/\">AI Visibility Rankings Aren&#8217;t Stable \u2013 New Research Shows It&#8217;s Mostly Statistical Noise</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-07-11T12:30:19+00:00",
       "fetched": "2026-07-11T21:38:52.384878+00:00"
-    },
-    {
-      "id": "4e1113a4-b204-46d5-ac9e-8dd4e90dac32",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Says Canonical Re-Evaluation Can Take Up to Two Weeks via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-says-canonical-re-evaluation-can-take-up-to-two-weeks/582053/",
-      "summary": "Google updated its canonicalization troubleshooting guide with new guidance on how long pages can stay in a duplicate cluster after you fix the content.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-says-canonical-re-evaluation-can-take-up-to-two-weeks/582053/\">Google Says Canonical Re-Evaluation Can Take Up to Two Weeks</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-10T20:18:28+00:00",
-      "fetched": "2026-07-10T21:50:32.653973+00:00"
-    },
-    {
-      "id": "cb773810-14d0-4a3c-bd49-433f7255707e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "WordPress 7.0.1 Maintenance Release Contains 31 Bug Fixes via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/wordpress-7-0-1-maintenance-release-contains-31-bug-fixes/582045/",
-      "summary": "The WordPress 7.0.1 maintenance release improves PHP compatibility and contains a bug fix to a security-related function.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-7-0-1-maintenance-release-contains-31-bug-fixes/582045/\">WordPress 7.0.1 Maintenance Release Contains 31 Bug Fixes</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-10T20:07:46+00:00",
-      "fetched": "2026-07-10T21:50:32.653999+00:00"
-    },
-    {
-      "id": "e32fa8dc-66c5-4f5d-ac39-608db94df24d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Business Profiles Showing Empty Review Dashboards via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-business-profiles-showing-empty-review-dashboards/582015/",
-      "summary": "    Some Google Business Profile dashboards show \u201cno reviews yet\u201d even though public review counts remain visible on the live listing.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-business-profiles-showing-empty-review-dashboards/582015/\">Google Business Profiles Showing Empty Review Dashboards</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-10T18:08:16+00:00",
-      "fetched": "2026-07-10T21:50:32.654021+00:00"
-    },
-    {
-      "id": "4258222e-afa0-4801-894c-8cdd6be12d92",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Adds Social Reporting; Mueller Warns Against Markdown \u2013 SEO Pulse via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-google-adds-social-reporting-mueller-warns-against-markdown/581946/",
-      "summary": "Google rolls out Search Console reports for social posts, updates product markup guidance, and warns against building separate markdown pages for AI.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-google-adds-social-reporting-mueller-warns-against-markdown/581946/\">Google Adds Social Reporting; Mueller Warns Against Markdown &#8211; SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-10T13:30:06+00:00",
-      "fetched": "2026-07-10T21:50:32.654044+00:00"
-    },
-    {
-      "id": "c9c235ec-fe2d-4722-bc7e-fd0c1139b6b5",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Free AI Citations Won\u2019t Last. I\u2019ve Watched Google Fence Off A Wide Open Field Before via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/free-ai-citations-wont-last-ive-watched-google-fence-off-a-wide-open-field-before/581471/",
-      "summary": "Most enterprise brands are invisible to AI models right now. That gap is closing fast, and the brands moving first will hold the ground.\n\nThe post <a href=\"https://www.searchenginejournal.com/free-ai-citations-wont-last-ive-watched-google-fence-off-a-wide-open-field-before/581471/\">Free AI Citations Won&#8217;t Last. I&#8217;ve Watched Google Fence Off A Wide Open Field Before</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-10T11:30:31+00:00",
-      "fetched": "2026-07-10T21:50:32.654063+00:00"
-    },
-    {
-      "id": "8a1864af-6ca8-43f6-9584-9240c13480c6",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Agentic Web Is Splitting Into Two Bets: Identity And Capability via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/the-agentic-web-is-splitting-into-two-bets-identity-and-capability/578685/",
-      "summary": "For website owners chasing AI visibility: LLMs.txt answers who you are. WebMCP answers what your site can do.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-agentic-web-is-splitting-into-two-bets-identity-and-capability/578685/\">The Agentic Web Is Splitting Into Two Bets: Identity And Capability</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-10T09:00:14+00:00",
-      "fetched": "2026-07-10T21:50:32.654080+00:00"
-    },
-    {
-      "id": "2f90b89f-a4bf-4201-bf28-443162133d46",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Web Is Eating Itself And Your Metrics Look Fine via @sejournal, @DuaneForrester",
-      "link": "https://www.searchenginejournal.com/the-web-is-eating-itself-and-your-metrics-look-fine/581497/",
-      "summary": "Source bias, retrieval collapse, model collapse: three documented mechanisms that explain AI search's strangest behavior, and where to place your bet.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-web-is-eating-itself-and-your-metrics-look-fine/581497/\">The Web Is Eating Itself And Your Metrics Look Fine</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-09T13:30:34+00:00",
-      "fetched": "2026-07-09T22:12:16.424016+00:00"
     }
   ],
-  "last_updated": "2026-07-14T21:45:55.647983+00:00"
+  "last_updated": "2026-07-15T21:46:50.847104+00:00"
 }
