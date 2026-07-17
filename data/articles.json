@@ -1,6 +1,72 @@
 {
   "articles": [
     {
+      "id": "d6b98f59-c443-4f36-bba9-1623950572ff",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Faces Class Action Over Books Used To Train Gemini via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-faces-class-action-over-books-used-to-train-gemini/582708/",
+      "summary": "Publishers allege works supplied to Google Books, Play Books and Scholar were used to train Gemini without permission. No court has ruled on the claims.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-faces-class-action-over-books-used-to-train-gemini/582708/\">Google Faces Class Action Over Books Used To Train Gemini</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-17T19:51:57+00:00",
+      "fetched": "2026-07-17T21:41:11.114926+00:00"
+    },
+    {
+      "id": "95bfa7f0-60e4-42d5-8c43-fa71ffd431eb",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Apple Maps Ads Ban Home Services, Crypto ATMs, Bail Bonds via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/apple-maps-ads-ban-home-services/582542/",
+      "summary": "Apple Maps ads ban home services, crypto ATMs, and bail bonds. Learn which businesses qualify and how advertisers can prepare for the rollout.\n\nThe post <a href=\"https://www.searchenginejournal.com/apple-maps-ads-ban-home-services/582542/\">Apple Maps Ads Ban Home Services, Crypto ATMs, Bail Bonds</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-17T19:38:09+00:00",
+      "fetched": "2026-07-17T21:41:11.114943+00:00"
+    },
+    {
+      "id": "2dc6db10-506d-4ee8-b23f-3d223e9c636a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google On Canonical Fixes; Mueller On Hidden Links And A/B Tests \u2013 SEO Pulse via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/seo-pulse-google-on-canonical-fixes-mueller-on-hidden-links/582671/",
+      "summary": "Google rolls out Search Console reports for social posts, updates product markup guidance, and warns against building separate markdown pages for AI.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-google-on-canonical-fixes-mueller-on-hidden-links/582671/\">Google On Canonical Fixes; Mueller On Hidden Links And A/B Tests &#8211; SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-17T12:30:33+00:00",
+      "fetched": "2026-07-17T21:41:11.114954+00:00"
+    },
+    {
+      "id": "0f032f9d-695a-4095-8944-04ec62d077a2",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Explains SEO Connection Of Site Quality To Non-Indexed Pages via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-explains-seo-connection-of-site-quality-to-non-indexed-pages/582683/",
+      "summary": "Google's John Mueller says that overall site quality is more than just text. How users experience the page can define quality, too.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-explains-seo-connection-of-site-quality-to-non-indexed-pages/582683/\">Google Explains SEO Connection Of Site Quality To Non-Indexed Pages</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-17T11:16:20+00:00",
+      "fetched": "2026-07-17T21:41:11.114969+00:00"
+    },
+    {
+      "id": "110918ce-1300-4395-8283-bddba546fe63",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Avinash Kaushik Says Renegotiate Now \u2013 SEO Fees 25% To 75% Lower via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/avinash-kaushik-says-renegotiate-now-seo-fees-25-to-75-lower/581891/",
+      "summary": "A contract built around activity always rewards more activity. Here's how to renegotiate your agency SOW around judgment and verified revenue instead.\n\nThe post <a href=\"https://www.searchenginejournal.com/avinash-kaushik-says-renegotiate-now-seo-fees-25-to-75-lower/581891/\">Avinash Kaushik Says Renegotiate Now \u2013 SEO Fees 25% To 75% Lower</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-17T10:30:56+00:00",
+      "fetched": "2026-07-17T21:41:11.114980+00:00"
+    },
+    {
+      "id": "aea4ea3d-028a-4742-9dd6-2321d736dffa",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Gemini 3.5 Pro Delayed Over Coding, Bloomberg Reports via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/gemini-3-5-pro-delayed-over-coding-bloomberg-reports/582660/",
+      "summary": "Google said it expected Gemini 3.5 Pro to roll out by now. It hasn't shipped, and Bloomberg reports coding is part the delay.\n\nThe post <a href=\"https://www.searchenginejournal.com/gemini-3-5-pro-delayed-over-coding-bloomberg-reports/582660/\">Gemini 3.5 Pro Delayed Over Coding, Bloomberg Reports</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-16T22:44:17+00:00",
+      "fetched": "2026-07-17T21:41:11.114990+00:00"
+    },
+    {
       "id": "bd6a264e-ba09-46a5-88c9-c03e7f85fc4f",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -153,73 +219,7 @@
       "summary": "TikTok will test detection for accounts posting AI-generated spam in politics, financial advice, and medical content, and has joined C2PA's steering committee.\n\nThe post <a href=\"https://www.searchenginejournal.com/tiktok-targets-ai-generated-spam-accounts-in-high-risk-topics/582256/\">TikTok Targets AI-Generated Spam Accounts In High-Risk Topics</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-07-14T18:26:32+00:00",
       "fetched": "2026-07-14T21:45:54.933094+00:00"
-    },
-    {
-      "id": "310905af-dde8-4444-88a2-5d5a37d775e4",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Adds Image Generation To AI Overviews, Revamps Images via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-adds-image-generation-to-ai-overviews-revamps-images/582242/",
-      "summary": "Google is adding AI image generation to AI Overviews and rolling out a redesigned Google Images homepage. Both start rolling out over the coming weeks.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-adds-image-generation-to-ai-overviews-revamps-images/582242/\">Google Adds Image Generation To AI Overviews, Revamps Images</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-14T16:00:40+00:00",
-      "fetched": "2026-07-14T21:45:54.933125+00:00"
-    },
-    {
-      "id": "240dfdc1-6c93-44c6-bdc6-819258e1f802",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Where Search Attention Is Going & How To Measure It via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/where-search-attention-is-going-how-to-measure-it/582142/",
-      "summary": "Gain valuable insights on search attention and learn how to track performance beyond traditional click metrics in our new podcast episode.\n\nThe post <a href=\"https://www.searchenginejournal.com/where-search-attention-is-going-how-to-measure-it/582142/\">Where Search Attention Is Going &#038; How To Measure It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-14T13:30:20+00:00",
-      "fetched": "2026-07-14T21:45:54.933144+00:00"
-    },
-    {
-      "id": "0432a784-1a73-49a9-9d3d-49965c94ab8b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Scaled AI Content Often Fails & Google\u2019s Crawl Economics Explain Why via @sejournal, @TaylorDanRW",
-      "link": "https://www.searchenginejournal.com/scaled-ai-content-often-fails-googles-crawl-economics-explain-why/581325/",
-      "summary": "Mass programmatic AI content breaks Google's crawl ecosystem and indexing thresholds in ways most teams never anticipate until rankings collapse.\n\nThe post <a href=\"https://www.searchenginejournal.com/scaled-ai-content-often-fails-googles-crawl-economics-explain-why/581325/\">Scaled AI Content Often Fails &#038; Google&#8217;s Crawl Economics Explain Why</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-14T11:30:48+00:00",
-      "fetched": "2026-07-14T21:45:54.933169+00:00"
-    },
-    {
-      "id": "532f00fe-ff85-4bef-942b-4669dcf3fb45",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Surviving The Impression Squeeze: How Agentic Commerce Is Changing Google Ads In 2026 via @sejournal, @siliconvallaeys",
-      "link": "https://www.searchenginejournal.com/surviving-the-impression-squeeze-how-agentic-commerce-is-changing-google-ads-in-2026/579939/",
-      "summary": "The shortlist economy is here: AI agents hand buyers three to five options. Here's how to make sure you're on it.\n\nThe post <a href=\"https://www.searchenginejournal.com/surviving-the-impression-squeeze-how-agentic-commerce-is-changing-google-ads-in-2026/579939/\">Surviving The Impression Squeeze: How Agentic Commerce Is Changing Google Ads In 2026</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-14T09:30:43+00:00",
-      "fetched": "2026-07-14T21:45:54.933186+00:00"
-    },
-    {
-      "id": "11bc1649-9f45-4393-8f94-7b07a13ba173",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Marvin Clarifies AI Search and Qualified Future Conversions via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/googles-marvin-clarifies-ai-search-and-qualified-future-conversions/582185/",
-      "summary": "Google's Ginny Marvin explains AI Search eligibility, Qualified Future Conversions, and Creator Partnerships, adding context to key Google Marketing Live announcements.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-marvin-clarifies-ai-search-and-qualified-future-conversions/582185/\">Google&#8217;s Marvin Clarifies AI Search and Qualified Future Conversions</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-13T20:46:27+00:00",
-      "fetched": "2026-07-13T21:43:35.433306+00:00"
-    },
-    {
-      "id": "90def164-0e77-471c-a4ec-c0f58e795525",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "ChatGPT Access Tied To 9% Drop In Traditional Search via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/chatgpt-access-tied-to-9-drop-in-traditional-search/582167/",
-      "summary": "A new research paper compares how often ChatGPT and Google send people to websites, and what wider ChatGPT access did to search.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-access-tied-to-9-drop-in-traditional-search/582167/\">ChatGPT Access Tied To 9% Drop In Traditional Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-13T17:54:10+00:00",
-      "fetched": "2026-07-13T21:43:35.433334+00:00"
     }
   ],
-  "last_updated": "2026-07-16T21:54:53.389589+00:00"
+  "last_updated": "2026-07-17T21:41:12.078124+00:00"
 }
