@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "id": "48bd3377-35fd-4c20-90fd-8e3cd613c49b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google NotebookLM Rebrand May Expose Your Site To More AI Scraping via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-notebooklm-rebrand-may-expose-your-site-to-more-ai-scraping/582775/",
+      "summary": "Google's NotebookLM rebrand may expose websites to more AI scraping with zero attribution unless site owners take action right now.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-notebooklm-rebrand-may-expose-your-site-to-more-ai-scraping/582775/\">Google NotebookLM Rebrand May Expose Your Site To More AI Scraping</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-18T10:09:29+00:00",
+      "fetched": "2026-07-18T21:39:31.779107+00:00"
+    },
+    {
+      "id": "575dfd78-41af-46a0-aadd-72c039d6abee",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Puts A Number On AI Search Clicks, Without The Data via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-puts-a-number-on-ai-search-clicks-without-the-data/582755/",
+      "summary": "Google's Nick Fox said AI features in Search send billions of clicks to websites weekly, alongside Google's daily count. Neither figure can be checked.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-puts-a-number-on-ai-search-clicks-without-the-data/582755/\">Google Puts A Number On AI Search Clicks, Without The Data</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-18T05:00:48+00:00",
+      "fetched": "2026-07-18T21:39:31.779134+00:00"
+    },
+    {
       "id": "d6b98f59-c443-4f36-bba9-1623950572ff",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -197,29 +219,7 @@
       "summary": "CFOs focus on revenue impact over vanity metrics. Discover the essential PPC measurements that resonate with executives.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-ppc-metrics-your-cfo-actually-cares-about-and-how-to-report-them/578813/\">The PPC Metrics Your CFO Actually Cares About (And How To Report Them)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-07-15T09:30:15+00:00",
       "fetched": "2026-07-15T21:46:50.025283+00:00"
-    },
-    {
-      "id": "e4609a9d-a083-49d7-a936-eff2fef04bb0",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Mueller On First Link Priority & Link Obfuscation via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/googles-mueller-on-first-link-priority-link-obfuscation/582316/",
-      "summary": "John Mueller responded to a plan to hide homepage links from Google in hopes only one internal anchor text would count, known as \"first-link priority.\"\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-mueller-on-first-link-priority-link-obfuscation/582316/\">Google&#8217;s Mueller On First Link Priority &#038; Link Obfuscation</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-15T00:46:35+00:00",
-      "fetched": "2026-07-15T21:46:50.025299+00:00"
-    },
-    {
-      "id": "1e92d551-9d85-409b-b158-5e97c61a1b1a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "TikTok Targets AI-Generated Spam Accounts In High-Risk Topics via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/tiktok-targets-ai-generated-spam-accounts-in-high-risk-topics/582256/",
-      "summary": "TikTok will test detection for accounts posting AI-generated spam in politics, financial advice, and medical content, and has joined C2PA's steering committee.\n\nThe post <a href=\"https://www.searchenginejournal.com/tiktok-targets-ai-generated-spam-accounts-in-high-risk-topics/582256/\">TikTok Targets AI-Generated Spam Accounts In High-Risk Topics</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-14T18:26:32+00:00",
-      "fetched": "2026-07-14T21:45:54.933094+00:00"
     }
   ],
-  "last_updated": "2026-07-17T21:41:12.078124+00:00"
+  "last_updated": "2026-07-18T21:39:32.571365+00:00"
 }
