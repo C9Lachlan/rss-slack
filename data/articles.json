@@ -1,6 +1,39 @@
 {
   "articles": [
     {
+      "id": "2aa62951-2f73-4d38-8c18-b80200aa4136",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Measure AI Search Visibility via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/how-to-measure-ai-search-visibility/579893/",
+      "summary": "AI visibility tools count citations. Citations aren't recommendations. Here's what to measure instead, and why the gap keeps widening.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-measure-ai-search-visibility/579893/\">How To Measure AI Search Visibility</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-19T12:00:44+00:00",
+      "fetched": "2026-07-19T21:41:25.177929+00:00"
+    },
+    {
+      "id": "014411dc-3068-4176-ba6e-68f29b1e3a6e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "\u201cAre You A Bot\u201d Screens Can Get Your Pages Dropped By Google via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/are-you-a-bot-screens-can-get-your-pages-dropped-by-google/582801/",
+      "summary": "Google's Mueller explained how an \"are you a bot\" screen can push a site's pages out of Google, and get another site picked as canonical.\n\nThe post <a href=\"https://www.searchenginejournal.com/are-you-a-bot-screens-can-get-your-pages-dropped-by-google/582801/\">&#8220;Are You A Bot&#8221; Screens Can Get Your Pages Dropped By Google</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-19T05:00:38+00:00",
+      "fetched": "2026-07-19T21:41:25.177956+00:00"
+    },
+    {
+      "id": "2d6670af-1883-4a4d-a751-ab4809cba2c1",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "When To Use Search Console\u2019s \u2018Validate Fix,\u2019 According To Google via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/when-to-use-search-consoles-validate-fix-according-to-google/582791/",
+      "summary": "Google's John Mueller explained what happens when you click Validate Fix in Search Console, and when the button is worth using. \n\nThe post <a href=\"https://www.searchenginejournal.com/when-to-use-search-consoles-validate-fix-according-to-google/582791/\">When To Use Search Console&#8217;s &#8216;Validate Fix,&#8217; According To Google</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-18T21:41:52+00:00",
+      "fetched": "2026-07-19T21:41:25.177977+00:00"
+    },
+    {
       "id": "48bd3377-35fd-4c20-90fd-8e3cd613c49b",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -186,40 +219,7 @@
       "summary": "Long doesn't mean valuable. Google normalizes for length. Here's what its information gain patent says actually moves the needle.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-google-may-understand-unique-content/581959/\">How Google May &#8216;Understand&#8217; Unique Content</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-07-15T13:30:00+00:00",
       "fetched": "2026-07-15T21:46:50.025222+00:00"
-    },
-    {
-      "id": "c274c9a9-cd1f-454e-8b9e-f1d82e5049b8",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Says No SEO Penalty For Year-Long A/B Tests? via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-says-no-seo-penalty-for-year-long-a-b-tests/582349/",
-      "summary": "Google's Mueller says long A/B tests won't result in SEO demotions, contradicting official guidance that says they may be considered deceptive.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-says-no-seo-penalty-for-year-long-a-b-tests/582349/\">Google Says No SEO Penalty For Year-Long A/B Tests?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-15T12:33:03+00:00",
-      "fetched": "2026-07-15T21:46:50.025245+00:00"
-    },
-    {
-      "id": "7646100a-261e-4428-a038-681272e7446c",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "GA4\u2019s AI Assistant Channel Undercounts Your AI Traffic: How To Build One That Doesn\u2019t",
-      "link": "https://www.searchenginejournal.com/ga4s-ai-assistant-channel-undercounts-your-ai-traffic-how-to-build-one-that-doesnt/580133/",
-      "summary": "GA4's AI Assistant channel fragments traffic from a single source into three separate channels, making your AI referral numbers quietly wrong.\n\nThe post <a href=\"https://www.searchenginejournal.com/ga4s-ai-assistant-channel-undercounts-your-ai-traffic-how-to-build-one-that-doesnt/580133/\">GA4&#8217;s AI Assistant Channel Undercounts Your AI Traffic: How To Build One That Doesn&#8217;t</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-15T11:30:27+00:00",
-      "fetched": "2026-07-15T21:46:50.025264+00:00"
-    },
-    {
-      "id": "e9949711-e986-46b1-b7ec-ee5566497d77",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The PPC Metrics Your CFO Actually Cares About (And How To Report Them) via @sejournal, @timothyjjensen",
-      "link": "https://www.searchenginejournal.com/the-ppc-metrics-your-cfo-actually-cares-about-and-how-to-report-them/578813/",
-      "summary": "CFOs focus on revenue impact over vanity metrics. Discover the essential PPC measurements that resonate with executives.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-ppc-metrics-your-cfo-actually-cares-about-and-how-to-report-them/578813/\">The PPC Metrics Your CFO Actually Cares About (And How To Report Them)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-15T09:30:15+00:00",
-      "fetched": "2026-07-15T21:46:50.025283+00:00"
     }
   ],
-  "last_updated": "2026-07-18T21:39:32.571365+00:00"
+  "last_updated": "2026-07-19T21:41:26.603312+00:00"
 }
