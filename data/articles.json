@@ -1,6 +1,72 @@
 {
   "articles": [
     {
+      "id": "e6ae5257-5271-4198-8d98-a589712a762d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Must Share Anonymized Search Data With Rivals via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-must-share-anonymized-search-data-with-rivals/582922/",
+      "summary": "EU binding rules require Google to share anonymized Search data with eligible rival engines and search-enabled AI chatbots.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-must-share-anonymized-search-data-with-rivals/582922/\">Google Must Share Anonymized Search Data With Rivals</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-20T18:12:10+00:00",
+      "fetched": "2026-07-20T21:54:10.176676+00:00"
+    },
+    {
+      "id": "08c524fc-f1fd-4f6b-a6a9-85204a8d7652",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Answers About Your Locations Are Often Wrong \u2013 Check Before Customers Do via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/ai-answers-about-your-locations-are-often-wrong-check-before-customers-do/582205/",
+      "summary": "Wrong postcodes, closed-business claims, invented services: what vendor tests reveal about AI answers, and how to audit yours across five platforms.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-answers-about-your-locations-are-often-wrong-check-before-customers-do/582205/\">AI Answers About Your Locations Are Often Wrong \u2013 Check Before Customers Do</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-20T13:30:47+00:00",
+      "fetched": "2026-07-20T21:54:10.176705+00:00"
+    },
+    {
+      "id": "c8f563ae-082f-4b91-9a08-d842e0204fa7",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Is Bringing Local Services Ads Into Google Ads via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/google-is-bringing-local-services-ads-into-google-ads/582816/",
+      "summary": "Google is moving Local Services Ads into Google Ads as Performance Max pay-per-lead campaigns, with bidding, reporting, and management changes beginning August 2026.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-is-bringing-local-services-ads-into-google-ads/582816/\">Google Is Bringing Local Services Ads Into Google Ads</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-20T13:00:33+00:00",
+      "fetched": "2026-07-20T21:54:10.176724+00:00"
+    },
+    {
+      "id": "2d0ea0f3-d9f4-42b1-a559-e76051694174",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "MCP For Marketers: What To Connect First & Why Your Data Wins",
+      "link": "https://www.searchenginejournal.com/how-marketers-should-use-mcp-what-to-connect-how-to-make-it-work/581171/",
+      "summary": "Learn the essentials of MCP for marketers and its role in connecting AI assistants to enhance marketing effectiveness. \n\nThe post <a href=\"https://www.searchenginejournal.com/how-marketers-should-use-mcp-what-to-connect-how-to-make-it-work/581171/\">MCP For Marketers: What To Connect First &#038; Why Your Data Wins</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-20T11:30:09+00:00",
+      "fetched": "2026-07-20T21:54:10.176748+00:00"
+    },
+    {
+      "id": "bac8b960-e161-4d8b-92ea-8c38a7db50a7",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Downplays Search Console \u201cError\u201d Reports. Says Many Aren\u2019t Real Problems via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-downplays-search-console-error-reports-says-many-arent-real-problems/582890/",
+      "summary": "Google downplays many Search Console \"error\" reports, saying the tool was never meant to be a checklist of things to fix.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-downplays-search-console-error-reports-says-many-arent-real-problems/582890/\">Google Downplays Search Console &#8220;Error&#8221; Reports. Says Many Aren&#8217;t Real Problems</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-20T10:42:07+00:00",
+      "fetched": "2026-07-20T21:54:10.176766+00:00"
+    },
+    {
+      "id": "fbac864f-b663-4036-b2dc-46879e7f48c3",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why Your Pages Are Stuck In Crawled-Currently Not Indexed & What To Do About It via @sejournal, @marie_haynes",
+      "link": "https://www.searchenginejournal.com/why-your-pages-are-stuck-in-crawled-currently-not-indexed-what-to-do-about-it/582585/",
+      "summary": "Is it a technical issue or a quality problem? A step-by-step look at why Google crawled your pages but refused to index them. \n\nThe post <a href=\"https://www.searchenginejournal.com/why-your-pages-are-stuck-in-crawled-currently-not-indexed-what-to-do-about-it/582585/\">Why Your Pages Are Stuck In Crawled-Currently Not Indexed &#038; What To Do About It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-20T09:30:32+00:00",
+      "fetched": "2026-07-20T21:54:10.176783+00:00"
+    },
+    {
       "id": "2aa62951-2f73-4d38-8c18-b80200aa4136",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -153,73 +219,7 @@
       "summary": "The fingerprint you pressed into Google's ranking systems now feeds the AI answers on top of them. Here's where it persists and goes dark.\n\nThe post <a href=\"https://www.searchenginejournal.com/do-the-answer-engines-keep-your-fingerprint-or-do-they-start-fresh-every-time/582124/\">Do The Answer Engines Keep Your Fingerprint, Or Do They Start Fresh Every Time?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-07-16T13:30:01+00:00",
       "fetched": "2026-07-16T21:54:52.908873+00:00"
-    },
-    {
-      "id": "bd20d28b-1a86-4e9f-a432-89a00a31b1a6",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI SEO: Writing That\u2019s Specific May Get Cited More via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/ai-seo-writing-thats-specific-may-get-cited-more/582531/",
-      "summary": "AI SEO that prioritizes content that is specific may be a key to getting cited by AI search engines.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-seo-writing-thats-specific-may-get-cited-more/582531/\">AI SEO: Writing That&#8217;s Specific May Get Cited More</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-16T11:03:01+00:00",
-      "fetched": "2026-07-16T21:54:52.908894+00:00"
-    },
-    {
-      "id": "4032fc89-0ed9-4ed2-9a27-fd879141d18d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Is Using Social Media Signals To Mask AI Search Click Loss via @sejournal, @TaylorDanRW",
-      "link": "https://www.searchenginejournal.com/google-is-using-social-media-signals-to-mask-ai-search-click-loss/582227/",
-      "summary": "The new Search Console social tracking hides AI click loss and turns your verified profiles into free training data for Google's models.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-is-using-social-media-signals-to-mask-ai-search-click-loss/582227/\">Google Is Using Social Media Signals To Mask AI Search Click Loss</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-16T11:00:03+00:00",
-      "fetched": "2026-07-16T21:54:52.908916+00:00"
-    },
-    {
-      "id": "2c185479-46d3-44cd-be5e-eec30e9b41a8",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How Do I Split Pages Between Brand Building & Converting? \u2013 Ask An SEO via @sejournal, @rollerblader",
-      "link": "https://www.searchenginejournal.com/ask-an-seo-how-do-i-balance-content-that-converts-with-content-that-builds-brand-authority/566261/",
-      "summary": "CRO pages and SEO pages have different jobs. Define each page's purpose, set boundaries, and both traffic and revenue can grow.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-an-seo-how-do-i-balance-content-that-converts-with-content-that-builds-brand-authority/566261/\">How Do I Split Pages Between Brand Building &#038; Converting? &#8211; Ask An SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-16T09:30:23+00:00",
-      "fetched": "2026-07-16T21:54:52.908933+00:00"
-    },
-    {
-      "id": "cee842e0-81cb-4580-8c74-865312b0e66a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Brings Calendar To Personal Intelligence In AI Mode via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-brings-calendar-to-personal-intelligence-in-ai-mode/582409/",
-      "summary": "Google is connecting Calendar to Personal Intelligence in AI Mode, allowing it to add events and factor your schedule into responses.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-brings-calendar-to-personal-intelligence-in-ai-mode/582409/\">Google Brings Calendar To Personal Intelligence In AI Mode</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-15T21:45:59+00:00",
-      "fetched": "2026-07-15T21:46:50.025176+00:00"
-    },
-    {
-      "id": "13ce05a5-cc4a-4873-a476-a814e4a5c388",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "ChatGPT Calls Turn Into Leads More Often: Invoca Report via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/chatgpt-calls-turn-into-leads-more-often-invoca-report/582400/",
-      "summary": "Phone call data breaks out AI referrals for the first time. Calls from ChatGPT become leads more often than any other channel, but convert average.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-calls-turn-into-leads-more-often-invoca-report/582400/\">ChatGPT Calls Turn Into Leads More Often: Invoca Report</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-15T17:50:16+00:00",
-      "fetched": "2026-07-15T21:46:50.025203+00:00"
-    },
-    {
-      "id": "3bb9681b-6653-4789-8517-27279b9542d0",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How Google May \u2018Understand\u2019 Unique Content",
-      "link": "https://www.searchenginejournal.com/how-google-may-understand-unique-content/581959/",
-      "summary": "Long doesn't mean valuable. Google normalizes for length. Here's what its information gain patent says actually moves the needle.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-google-may-understand-unique-content/581959/\">How Google May &#8216;Understand&#8217; Unique Content</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-15T13:30:00+00:00",
-      "fetched": "2026-07-15T21:46:50.025222+00:00"
     }
   ],
-  "last_updated": "2026-07-19T21:41:26.603312+00:00"
+  "last_updated": "2026-07-20T21:54:11.620246+00:00"
 }
