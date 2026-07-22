@@ -1,6 +1,72 @@
 {
   "articles": [
     {
+      "id": "53f81adc-62ac-43be-9727-d148f935d805",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why AI Content Stopped Working & What To Do About It [Watch Now] via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/why-ai-content-stopped-working-what-to-do-about-it-watch-now/583098/",
+      "summary": "Does Google penalize AI content? Get answers on GEO, answer engine optimization, and the content personalization signals that convert. Watch on demand.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-ai-content-stopped-working-what-to-do-about-it-watch-now/583098/\">Why AI Content Stopped Working &#038; What To Do About It [Watch Now]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-22T18:28:31+00:00",
+      "fetched": "2026-07-22T21:55:51.890356+00:00"
+    },
+    {
+      "id": "5a96caea-3378-4801-b979-1cd4248b0efc",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Beyond Brand Sovereignty: How To Build An AI-Ready Source Of Truth via @sejournal, @billhunt",
+      "link": "https://www.searchenginejournal.com/beyond-brand-sovereignty-how-to-build-an-ai-ready-source-of-truth/582266/",
+      "summary": "AI doesn't reward the best-optimized page. It rewards the highest-confidence evidence. Bill Hunt explains how organizations earn that confidence.\n\nThe post <a href=\"https://www.searchenginejournal.com/beyond-brand-sovereignty-how-to-build-an-ai-ready-source-of-truth/582266/\">Beyond Brand Sovereignty: How To Build An AI-Ready Source Of Truth</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-22T13:30:16+00:00",
+      "fetched": "2026-07-22T21:55:51.890381+00:00"
+    },
+    {
+      "id": "3cc24048-fc12-413a-b300-4e3ed5baef14",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Designing A Measurement Framework Before You Touch GA4 via @sejournal, @bngsrc",
+      "link": "https://www.searchenginejournal.com/designing-a-measurement-framework-before-you-touch-ga4/580767/",
+      "summary": "Transform your Google Analytics 4 data into actionable insights with a solid measurement framework as your foundation.\n\nThe post <a href=\"https://www.searchenginejournal.com/designing-a-measurement-framework-before-you-touch-ga4/580767/\">Designing A Measurement Framework Before You Touch GA4</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-22T11:30:44+00:00",
+      "fetched": "2026-07-22T21:55:51.890400+00:00"
+    },
+    {
+      "id": "3fffbe8c-39f5-4d5b-bf0b-5735fc448a32",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Overviews Now Answer Most Local Searches \u2013 How To Get Your Business Cited via @sejournal, @AdamHeitzman",
+      "link": "https://www.searchenginejournal.com/ai-overviews-now-answer-most-local-searches-how-to-get-your-business-cited/580757/",
+      "summary": "AI Overviews are outpacing local packs across 15+ markets. Here is what location pages need to stay visible in AI-generated answers.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-overviews-now-answer-most-local-searches-how-to-get-your-business-cited/580757/\">AI Overviews Now Answer Most Local Searches \u2013 How To Get Your Business Cited</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-22T09:30:25+00:00",
+      "fetched": "2026-07-22T21:55:51.890424+00:00"
+    },
+    {
+      "id": "e9a4dcea-92e3-4eb4-8017-938303f3e377",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Anthropic\u2019s Claude Can Now Watch A Video And Learn Your Job via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/anthropics-claude-can-now-watch-a-video-and-learn-your-job/583053/",
+      "summary": "Anthropic's Claude Cowork can turn a video of a person doing a task into a skill so that it can do it too.\n\nThe post <a href=\"https://www.searchenginejournal.com/anthropics-claude-can-now-watch-a-video-and-learn-your-job/583053/\">Anthropic&#8217;s Claude Can Now Watch A Video And Learn Your Job</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-22T09:01:09+00:00",
+      "fetched": "2026-07-22T21:55:51.890443+00:00"
+    },
+    {
+      "id": "409ebcc4-8bc8-4887-9ccd-cdb2ccef2ac7",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Court Dismisses Google\u2019s DMCA Claims Against SerpApi via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/court-dismisses-googles-dmca-claims-against-serpapi/583033/",
+      "summary": "A federal court dismissed Google's DMCA claims against SerpApi, ruling that blocking scrapers from public search results is not copyright circumvention on its own.\n\nThe post <a href=\"https://www.searchenginejournal.com/court-dismisses-googles-dmca-claims-against-serpapi/583033/\">Court Dismisses Google&#8217;s DMCA Claims Against SerpApi</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-22T00:19:23+00:00",
+      "fetched": "2026-07-22T21:55:51.890461+00:00"
+    },
+    {
       "id": "441d6e65-2cf3-4284-9608-ba364aadf6ba",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -153,73 +219,7 @@
       "summary": "Learn the essentials of MCP for marketers and its role in connecting AI assistants to enhance marketing effectiveness. \n\nThe post <a href=\"https://www.searchenginejournal.com/how-marketers-should-use-mcp-what-to-connect-how-to-make-it-work/581171/\">MCP For Marketers: What To Connect First &#038; Why Your Data Wins</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-07-20T11:30:09+00:00",
       "fetched": "2026-07-20T21:54:10.176748+00:00"
-    },
-    {
-      "id": "bac8b960-e161-4d8b-92ea-8c38a7db50a7",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Downplays Search Console \u201cError\u201d Reports. Says Many Aren\u2019t Real Problems via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-downplays-search-console-error-reports-says-many-arent-real-problems/582890/",
-      "summary": "Google downplays many Search Console \"error\" reports, saying the tool was never meant to be a checklist of things to fix.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-downplays-search-console-error-reports-says-many-arent-real-problems/582890/\">Google Downplays Search Console &#8220;Error&#8221; Reports. Says Many Aren&#8217;t Real Problems</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-20T10:42:07+00:00",
-      "fetched": "2026-07-20T21:54:10.176766+00:00"
-    },
-    {
-      "id": "fbac864f-b663-4036-b2dc-46879e7f48c3",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why Your Pages Are Stuck In Crawled-Currently Not Indexed & What To Do About It via @sejournal, @marie_haynes",
-      "link": "https://www.searchenginejournal.com/why-your-pages-are-stuck-in-crawled-currently-not-indexed-what-to-do-about-it/582585/",
-      "summary": "Is it a technical issue or a quality problem? A step-by-step look at why Google crawled your pages but refused to index them. \n\nThe post <a href=\"https://www.searchenginejournal.com/why-your-pages-are-stuck-in-crawled-currently-not-indexed-what-to-do-about-it/582585/\">Why Your Pages Are Stuck In Crawled-Currently Not Indexed &#038; What To Do About It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-20T09:30:32+00:00",
-      "fetched": "2026-07-20T21:54:10.176783+00:00"
-    },
-    {
-      "id": "2aa62951-2f73-4d38-8c18-b80200aa4136",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Measure AI Search Visibility via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/how-to-measure-ai-search-visibility/579893/",
-      "summary": "AI visibility tools count citations. Citations aren't recommendations. Here's what to measure instead, and why the gap keeps widening.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-measure-ai-search-visibility/579893/\">How To Measure AI Search Visibility</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-19T12:00:44+00:00",
-      "fetched": "2026-07-19T21:41:25.177929+00:00"
-    },
-    {
-      "id": "014411dc-3068-4176-ba6e-68f29b1e3a6e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "\u201cAre You A Bot\u201d Screens Can Get Your Pages Dropped By Google via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/are-you-a-bot-screens-can-get-your-pages-dropped-by-google/582801/",
-      "summary": "Google's Mueller explained how an \"are you a bot\" screen can push a site's pages out of Google, and get another site picked as canonical.\n\nThe post <a href=\"https://www.searchenginejournal.com/are-you-a-bot-screens-can-get-your-pages-dropped-by-google/582801/\">&#8220;Are You A Bot&#8221; Screens Can Get Your Pages Dropped By Google</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-19T05:00:38+00:00",
-      "fetched": "2026-07-19T21:41:25.177956+00:00"
-    },
-    {
-      "id": "2d6670af-1883-4a4d-a751-ab4809cba2c1",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "When To Use Search Console\u2019s \u2018Validate Fix,\u2019 According To Google via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/when-to-use-search-consoles-validate-fix-according-to-google/582791/",
-      "summary": "Google's John Mueller explained what happens when you click Validate Fix in Search Console, and when the button is worth using. \n\nThe post <a href=\"https://www.searchenginejournal.com/when-to-use-search-consoles-validate-fix-according-to-google/582791/\">When To Use Search Console&#8217;s &#8216;Validate Fix,&#8217; According To Google</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-18T21:41:52+00:00",
-      "fetched": "2026-07-19T21:41:25.177977+00:00"
-    },
-    {
-      "id": "48bd3377-35fd-4c20-90fd-8e3cd613c49b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google NotebookLM Rebrand May Expose Your Site To More AI Scraping via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-notebooklm-rebrand-may-expose-your-site-to-more-ai-scraping/582775/",
-      "summary": "Google's NotebookLM rebrand may expose websites to more AI scraping with zero attribution unless site owners take action right now.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-notebooklm-rebrand-may-expose-your-site-to-more-ai-scraping/582775/\">Google NotebookLM Rebrand May Expose Your Site To More AI Scraping</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-18T10:09:29+00:00",
-      "fetched": "2026-07-18T21:39:31.779107+00:00"
     }
   ],
-  "last_updated": "2026-07-21T21:53:41.872232+00:00"
+  "last_updated": "2026-07-22T21:55:52.593517+00:00"
 }
