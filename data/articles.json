@@ -1,6 +1,94 @@
 {
   "articles": [
     {
+      "id": "4e978256-a073-47ce-915e-b39ce3d4ee4f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Search is Working. How to Prove It With Real Tests. via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/ai-search-is-working-how-to-prove-it-with-real-tests-recap/583306/",
+      "summary": "Dive into the evidence behind AI search and its effects on page performance. Learn from experts in the latest SEJ discussion.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-search-is-working-how-to-prove-it-with-real-tests-recap/583306/\">AI Search is Working. How to Prove It With Real Tests.</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-23T19:38:11+00:00",
+      "fetched": "2026-07-23T21:55:39.471592+00:00"
+    },
+    {
+      "id": "dfbebce8-bad2-47ad-be60-ecf20939f1a8",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Browsers Are Backward Because Agents Never Needed The Visual Layer via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/ai-browsers-are-backward-because-agents-never-needed-the-visual-layer/583056/",
+      "summary": "OpenAI killed Atlas because AI browsers were always a workaround. The real fix is a website machines can actually read.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-browsers-are-backward-because-agents-never-needed-the-visual-layer/583056/\">AI Browsers Are Backward Because Agents Never Needed The Visual Layer</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-23T19:00:39+00:00",
+      "fetched": "2026-07-23T21:55:39.471619+00:00"
+    },
+    {
+      "id": "1542644b-4372-4bce-89f5-2eb6e110331f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "YouTube Explains What Can Stop A Channel Getting Paid via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/youtube-explains-what-can-stop-a-channel-getting-paid/583096/",
+      "summary": "YouTube spelled out three kinds of content that can stop a channel from getting paid, and says it's clarifying existing rules, not changing them.\n\nThe post <a href=\"https://www.searchenginejournal.com/youtube-explains-what-can-stop-a-channel-getting-paid/583096/\">YouTube Explains What Can Stop A Channel Getting Paid</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-23T16:00:00+00:00",
+      "fetched": "2026-07-23T21:55:39.471638+00:00"
+    },
+    {
+      "id": "133dc85a-07ee-43e0-b754-545cfa103731",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Are We Repeating History & Risking Backlink Penalties Again? via @sejournal, @TaylorDanRW",
+      "link": "https://www.searchenginejournal.com/are-we-repeating-history-risking-backlink-penalties-again/583070/",
+      "summary": "Repackaged link schemes won't win AI visibility. Presence in fan-out, grounding, and training data still depends on real authority.\n\nThe post <a href=\"https://www.searchenginejournal.com/are-we-repeating-history-risking-backlink-penalties-again/583070/\">Are We Repeating History &#038; Risking Backlink Penalties Again?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-23T14:30:41+00:00",
+      "fetched": "2026-07-23T21:55:39.471661+00:00"
+    },
+    {
+      "id": "9aec6325-6e1d-414d-883c-7ed1fe608193",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Alphabet Q2 Earnings Show $5.85 Billion Negative Free Cash Flow via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-q2-earnings-show-5-85-billion-negative-free-cash-flow/583259/",
+      "summary": "Alphabet's Q2 release shows Google's infrastructure spending caused it to report a negative free cash flow of $5.85 billion dollars.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-q2-earnings-show-5-85-billion-negative-free-cash-flow/583259/\">Alphabet Q2 Earnings Show $5.85 Billion Negative Free Cash Flow</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-23T12:50:31+00:00",
+      "fetched": "2026-07-23T21:55:39.471677+00:00"
+    },
+    {
+      "id": "47eb1a18-1008-43f6-ab05-9e8c59b97cec",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Went \u2018Not Provided\u2019 In 2011 And Blinded Us, ChatGPT Just Shipped Its Version via @sejournal, @DuaneForrester",
+      "link": "https://www.searchenginejournal.com/google-went-not-provided-in-2011-and-blinded-us-chatgpt-just-shipped-its-version/582839/",
+      "summary": "Waiting for ChatGPT to prove your ROI? The not-provided lesson says stop. Here's the measurement work you can own instead.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-went-not-provided-in-2011-and-blinded-us-chatgpt-just-shipped-its-version/582839/\">Google Went &#8216;Not Provided&#8217; In 2011 And Blinded Us, ChatGPT Just Shipped Its Version</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-23T12:00:13+00:00",
+      "fetched": "2026-07-23T21:55:39.471694+00:00"
+    },
+    {
+      "id": "b6c89de0-013f-4e20-ab82-9e9bbbc3aedd",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Pichai Says Google Needs Gemini 4 To Compete At The Frontier via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/pichai-says-google-needs-gemini-4-to-compete-at-the-frontier/583214/",
+      "summary": "On Alphabet's Q2 call, Pichai named coding an area to improve, saying Google needs Gemini 4 for the next frontier, as 3.5 Pro stays delayed.\n\nThe post <a href=\"https://www.searchenginejournal.com/pichai-says-google-needs-gemini-4-to-compete-at-the-frontier/583214/\">Pichai Says Google Needs Gemini 4 To Compete At The Frontier</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-23T10:30:58+00:00",
+      "fetched": "2026-07-23T21:55:39.471709+00:00"
+    },
+    {
+      "id": "406a3b30-c33b-477d-999a-1face1137ac3",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Search Revenue Growth Eases After A Year Of Acceleration via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-search-revenue-growth-eases-after-a-year-of-acceleration/583181/",
+      "summary": "Alphabet's Q2 Search revenue rose 17% to $63.27 billion, its first easing after four quarters of acceleration. Google credited retail and Gemini integration.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-search-revenue-growth-eases-after-a-year-of-acceleration/583181/\">Google Search Revenue Growth Eases After A Year Of Acceleration</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-23T09:00:49+00:00",
+      "fetched": "2026-07-23T21:55:39.471734+00:00"
+    },
+    {
       "id": "53f81adc-62ac-43be-9727-d148f935d805",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -131,95 +219,7 @@
       "summary": "Agentic commerce is here. Your next SEO win may be less about better content, more about being the easiest product for an agent to buy.\n\nThe post <a href=\"https://www.searchenginejournal.com/70-of-top-retailers-are-invisible-to-agentic-commerce-heres-why/581198/\">70% Of Top Retailers Are Invisible To Agentic Commerce \u2013 Here&#8217;s Why</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-07-21T09:30:31+00:00",
       "fetched": "2026-07-21T21:53:41.405721+00:00"
-    },
-    {
-      "id": "776bc2b9-6415-4eeb-97c4-ef6df8836045",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Overviews Visibility: A Reliable Way To Track What Spot-Checks Miss via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/ai-overviews-visibility-a-reliable-way-to-track-what-spot-checks-miss-webinar/582955/",
-      "summary": "Discover the essential strategies for tracking brand presence in AI Overviews and improving your brand sentiment over time.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-overviews-visibility-a-reliable-way-to-track-what-spot-checks-miss-webinar/582955/\">AI Overviews Visibility: A Reliable Way To Track What Spot-Checks Miss</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-21T07:45:04+00:00",
-      "fetched": "2026-07-21T21:53:41.405738+00:00"
-    },
-    {
-      "id": "9ce1c888-f21c-48af-9f5c-bf4c1f24e2a9",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google AI Mode Shows Ads On 1 In 3 Commercial Keywords via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-ai-mode-shows-ads-on-1-in-3-commercial-keywords/582976/",
-      "summary": "In a new analysis of AI Mode text ads, ads appeared on nearly a third of commercial keywords, and advertisers were rarely among the sources.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ai-mode-shows-ads-on-1-in-3-commercial-keywords/582976/\">Google AI Mode Shows Ads On 1 In 3 Commercial Keywords</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-21T07:00:14+00:00",
-      "fetched": "2026-07-21T21:53:41.405763+00:00"
-    },
-    {
-      "id": "c2d653c0-457f-4abc-9193-a0527e2d9d92",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Content Marketing For Agencies: 6 Ways To Stay Competitive Right Now",
-      "link": "https://www.searchenginejournal.com/content-marketing-agencies-ai-contentworkshop-spcs/581935/",
-      "summary": "Discover how marketing agencies can transform their content strategy and boost client retention in the age of AI.\n\nThe post <a href=\"https://www.searchenginejournal.com/content-marketing-agencies-ai-contentworkshop-spcs/581935/\">AI Content Marketing For Agencies: 6 Ways To Stay Competitive Right Now</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-21T05:00:53+00:00",
-      "fetched": "2026-07-21T21:53:41.405781+00:00"
-    },
-    {
-      "id": "b8a3105f-1ec8-41d3-98dd-54b2aff3acea",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Is AI Mode\u2019s No. 2 Cited Domain, Data Shows via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-is-ai-modes-no-2-cited-domain-data-shows/582941/",
-      "summary": "New data shows Google is now AI Mode's second most-cited domain, driven by Google-hosted Business Profile and Product Knowledge Panel cards.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-is-ai-modes-no-2-cited-domain-data-shows/582941/\">Google Is AI Mode&#8217;s No. 2 Cited Domain, Data Shows</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-20T23:26:26+00:00",
-      "fetched": "2026-07-21T21:53:41.405803+00:00"
-    },
-    {
-      "id": "e6ae5257-5271-4198-8d98-a589712a762d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Must Share Anonymized Search Data With Rivals via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-must-share-anonymized-search-data-with-rivals/582922/",
-      "summary": "EU binding rules require Google to share anonymized Search data with eligible rival engines and search-enabled AI chatbots.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-must-share-anonymized-search-data-with-rivals/582922/\">Google Must Share Anonymized Search Data With Rivals</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-20T18:12:10+00:00",
-      "fetched": "2026-07-20T21:54:10.176676+00:00"
-    },
-    {
-      "id": "08c524fc-f1fd-4f6b-a6a9-85204a8d7652",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Answers About Your Locations Are Often Wrong \u2013 Check Before Customers Do via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/ai-answers-about-your-locations-are-often-wrong-check-before-customers-do/582205/",
-      "summary": "Wrong postcodes, closed-business claims, invented services: what vendor tests reveal about AI answers, and how to audit yours across five platforms.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-answers-about-your-locations-are-often-wrong-check-before-customers-do/582205/\">AI Answers About Your Locations Are Often Wrong \u2013 Check Before Customers Do</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-20T13:30:47+00:00",
-      "fetched": "2026-07-20T21:54:10.176705+00:00"
-    },
-    {
-      "id": "c8f563ae-082f-4b91-9a08-d842e0204fa7",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Is Bringing Local Services Ads Into Google Ads via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/google-is-bringing-local-services-ads-into-google-ads/582816/",
-      "summary": "Google is moving Local Services Ads into Google Ads as Performance Max pay-per-lead campaigns, with bidding, reporting, and management changes beginning August 2026.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-is-bringing-local-services-ads-into-google-ads/582816/\">Google Is Bringing Local Services Ads Into Google Ads</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-20T13:00:33+00:00",
-      "fetched": "2026-07-20T21:54:10.176724+00:00"
-    },
-    {
-      "id": "2d0ea0f3-d9f4-42b1-a559-e76051694174",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "MCP For Marketers: What To Connect First & Why Your Data Wins",
-      "link": "https://www.searchenginejournal.com/how-marketers-should-use-mcp-what-to-connect-how-to-make-it-work/581171/",
-      "summary": "Learn the essentials of MCP for marketers and its role in connecting AI assistants to enhance marketing effectiveness. \n\nThe post <a href=\"https://www.searchenginejournal.com/how-marketers-should-use-mcp-what-to-connect-how-to-make-it-work/581171/\">MCP For Marketers: What To Connect First &#038; Why Your Data Wins</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-20T11:30:09+00:00",
-      "fetched": "2026-07-20T21:54:10.176748+00:00"
     }
   ],
-  "last_updated": "2026-07-22T21:55:52.593517+00:00"
+  "last_updated": "2026-07-23T21:55:40.160309+00:00"
 }
