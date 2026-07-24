@@ -1,6 +1,39 @@
 {
   "articles": [
     {
+      "id": "6596c5e0-9cb1-4998-b18b-e27cf90b9ff5",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Emergency Brand Audit: What AI Says About Your Locations via @sejournal, @lorenbaker",
+      "link": "https://www.searchenginejournal.com/emergency-brand-audit-what-ai-says-about-your-locations-recap/583422/",
+      "summary": "GatherUp's Annie Jackson and Jason Wertham show how to audit what ChatGPT and AI Overviews say about your locations, and which inputs change the answer.\n\nThe post <a href=\"https://www.searchenginejournal.com/emergency-brand-audit-what-ai-says-about-your-locations-recap/583422/\">Emergency Brand Audit: What AI Says About Your Locations</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-24T19:53:26+00:00",
+      "fetched": "2026-07-24T21:54:40.931584+00:00"
+    },
+    {
+      "id": "2219f6bc-90fc-4974-a00b-fc9cd6a4ff2b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The AI Overviews YouTube Gap: The Platform Your Team Skipped For 20 Years via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/the-ai-overviews-youtube-gap-the-platform-your-team-skipped-for-20-years/582702/",
+      "summary": "Stop measuring creator partnerships by view counts. The value shows up downstream, in traffic, AI citations, and conversions your dashboard isn't tracking.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-ai-overviews-youtube-gap-the-platform-your-team-skipped-for-20-years/582702/\">The AI Overviews YouTube Gap: The Platform Your Team Skipped For 20 Years</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-24T19:00:50+00:00",
+      "fetched": "2026-07-24T21:54:40.931610+00:00"
+    },
+    {
+      "id": "da9d299a-eb8e-4c67-99cf-2563ebeda2b3",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Search Growth Slows, Publishers Weigh Leaving Google \u2013 SEO Pulse via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/seo-pulse-search-growth-slows-publishers-weigh-leaving-google/583329/",
+      "summary": "A court dismisses Google's DMCA claims against SerpApi, the EU fines Google \u20ac890 million, major publishers weigh leaving Google, and Search growth eases.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-search-growth-slows-publishers-weigh-leaving-google/583329/\">Search Growth Slows, Publishers Weigh Leaving Google &#8211; SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-24T12:00:25+00:00",
+      "fetched": "2026-07-24T21:54:40.931631+00:00"
+    },
+    {
       "id": "4e978256-a073-47ce-915e-b39ce3d4ee4f",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -186,40 +219,7 @@
       "summary": "The post <a href=\"https://www.searchenginejournal.com/rundowns/the-new-google-business-profile-playbook-for-ai-local-search/\">The New Google Business Profile Playbook for AI Local Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-07-21T11:45:58+00:00",
       "fetched": "2026-07-21T21:53:41.405659+00:00"
-    },
-    {
-      "id": "a21afab9-305e-4579-a4a9-319f34bd5f74",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "2027 Marketing Budgets: Why New Categories Beat Bigger AI Line Items via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/2027-marketing-budgets-why-new-categories-beat-bigger-ai-line-items/582688/",
-      "summary": "AI visibility, trust verification, distribution engineering, human oversight, measurement rebuild: the five budget lines that should replace your legacy channel buckets in 2027.\n\nThe post <a href=\"https://www.searchenginejournal.com/2027-marketing-budgets-why-new-categories-beat-bigger-ai-line-items/582688/\">2027 Marketing Budgets: Why New Categories Beat Bigger AI Line Items</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-21T11:00:20+00:00",
-      "fetched": "2026-07-21T21:53:41.405682+00:00"
-    },
-    {
-      "id": "e071e578-bb46-4119-b136-5be7791b85f1",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Liz Reid Discusses Persistent Autonomous Search via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/googles-liz-reid-discusses-persistent-autonomous-search/582948/",
-      "summary": "Google's Liz Reid discussed persistent search, a profound change to how users interact with search. A patent describes six triggers.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-liz-reid-discusses-persistent-autonomous-search/582948/\">Google&#8217;s Liz Reid Discusses Persistent Autonomous Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-21T10:40:08+00:00",
-      "fetched": "2026-07-21T21:53:41.405701+00:00"
-    },
-    {
-      "id": "096ad18d-0334-4fb9-b9eb-ff430aa2b5ba",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "70% Of Top Retailers Are Invisible To Agentic Commerce \u2013 Here\u2019s Why",
-      "link": "https://www.searchenginejournal.com/70-of-top-retailers-are-invisible-to-agentic-commerce-heres-why/581198/",
-      "summary": "Agentic commerce is here. Your next SEO win may be less about better content, more about being the easiest product for an agent to buy.\n\nThe post <a href=\"https://www.searchenginejournal.com/70-of-top-retailers-are-invisible-to-agentic-commerce-heres-why/581198/\">70% Of Top Retailers Are Invisible To Agentic Commerce \u2013 Here&#8217;s Why</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-21T09:30:31+00:00",
-      "fetched": "2026-07-21T21:53:41.405721+00:00"
     }
   ],
-  "last_updated": "2026-07-23T21:55:40.160309+00:00"
+  "last_updated": "2026-07-24T21:54:42.577414+00:00"
 }
