@@ -1,6 +1,50 @@
 {
   "articles": [
     {
+      "id": "3a17c000-005d-40c3-be6d-db4a7770b47b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Charging AI Bots Decides Which Agents Can Still Cite You via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/charging-ai-bots-decides-which-agents-can-still-cite-you/580050/",
+      "summary": "AI bot paywalls are framed as new income. The real question is which AI answers you're willing to disappear from.\n\nThe post <a href=\"https://www.searchenginejournal.com/charging-ai-bots-decides-which-agents-can-still-cite-you/580050/\">Charging AI Bots Decides Which Agents Can Still Cite You</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-25T19:00:19+00:00",
+      "fetched": "2026-07-25T21:42:56.301765+00:00"
+    },
+    {
+      "id": "a86de5c4-50e3-4927-9824-2f30881182f9",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Data Compares Gemini & AI Mode Use Against Daily Life via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-data-compares-gemini-ai-mode-use-against-daily-life/583533/",
+      "summary": "Google's new AI & Economy report compares Gemini and AI Mode conversations against how Americans spend their days.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-data-compares-gemini-ai-mode-use-against-daily-life/583533/\">Google Data Compares Gemini &#038; AI Mode Use Against Daily Life</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-25T13:54:31+00:00",
+      "fetched": "2026-07-25T21:42:56.301792+00:00"
+    },
+    {
+      "id": "2b8c3c4f-92b1-48cc-b997-d7a2811654b1",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Q2: Precise Revenue Figures, Click Claims You Can\u2019t Check via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/googles-q2-precise-revenue-figures-click-claims-you-cant-check/583280/",
+      "summary": "Alphabet detailed Search revenue to the decimal. Google described web traffic in three kinds of unverifiable claims. Q2 widened the gap.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-q2-precise-revenue-figures-click-claims-you-cant-check/583280/\">Google&#8217;s Q2: Precise Revenue Figures, Click Claims You Can&#8217;t Check</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-25T12:30:24+00:00",
+      "fetched": "2026-07-25T21:42:56.301812+00:00"
+    },
+    {
+      "id": "508a398c-1341-465f-8828-de3d436fcce0",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Says Why It May Ignore Robots.txt And Negatively Impact SEO via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-says-why-it-may-ignore-robots-txt-and-negatively-impact-seo/583475/",
+      "summary": "Google's John Mueller explains a robots.txt quirk that can cause Googlebot to ignore robots.txt rules.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-says-why-it-may-ignore-robots-txt-and-negatively-impact-seo/583475/\">Google Says Why It May Ignore Robots.txt And Negatively Impact SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-25T10:17:52+00:00",
+      "fetched": "2026-07-25T21:42:56.301835+00:00"
+    },
+    {
       "id": "6596c5e0-9cb1-4998-b18b-e27cf90b9ff5",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -175,51 +219,7 @@
       "summary": "Anthropic's Claude Cowork can turn a video of a person doing a task into a skill so that it can do it too.\n\nThe post <a href=\"https://www.searchenginejournal.com/anthropics-claude-can-now-watch-a-video-and-learn-your-job/583053/\">Anthropic&#8217;s Claude Can Now Watch A Video And Learn Your Job</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-07-22T09:01:09+00:00",
       "fetched": "2026-07-22T21:55:51.890443+00:00"
-    },
-    {
-      "id": "409ebcc4-8bc8-4887-9ccd-cdb2ccef2ac7",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Court Dismisses Google\u2019s DMCA Claims Against SerpApi via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/court-dismisses-googles-dmca-claims-against-serpapi/583033/",
-      "summary": "A federal court dismissed Google's DMCA claims against SerpApi, ruling that blocking scrapers from public search results is not copyright circumvention on its own.\n\nThe post <a href=\"https://www.searchenginejournal.com/court-dismisses-googles-dmca-claims-against-serpapi/583033/\">Court Dismisses Google&#8217;s DMCA Claims Against SerpApi</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-22T00:19:23+00:00",
-      "fetched": "2026-07-22T21:55:51.890461+00:00"
-    },
-    {
-      "id": "441d6e65-2cf3-4284-9608-ba364aadf6ba",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s AI Search Data Is Growing, But The Gaps Remain via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/googles-ai-search-data-is-growing-but-the-gaps-remain/582558/",
-      "summary": "Google is adding more AI search data across Search Console and Merchant Center, but clicks, individual queries, and key reporting details remain missing. \n\nThe post <a href=\"https://www.searchenginejournal.com/googles-ai-search-data-is-growing-but-the-gaps-remain/582558/\">Google\u2019s AI Search Data Is Growing, But The Gaps Remain</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-21T13:30:00+00:00",
-      "fetched": "2026-07-21T21:53:41.405614+00:00"
-    },
-    {
-      "id": "c9fb80b3-f5cf-4b18-b906-b2ac2d049767",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Run A Winning YouTube Ad Campaign Without A 7-Figure Budget via @sejournal, @MenachemAni",
-      "link": "https://www.searchenginejournal.com/how-to-run-a-winning-youtube-ad-campaign-without-a-7-figure-budget/581008/",
-      "summary": "How do you make YouTube ads work without a seven-figure budget? Strong audience signals, separated placements, and honest CPM math.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-run-a-winning-youtube-ad-campaign-without-a-7-figure-budget/581008/\">How To Run A Winning YouTube Ad Campaign Without A 7-Figure Budget</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-21T12:00:50+00:00",
-      "fetched": "2026-07-21T21:53:41.405640+00:00"
-    },
-    {
-      "id": "cdc53a62-6cb1-492e-9351-37c92387d883",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The New Google Business Profile Playbook for AI Local Search via @sejournal, @CallRail",
-      "link": "https://www.searchenginejournal.com/rundowns/the-new-google-business-profile-playbook-for-ai-local-search/",
-      "summary": "The post <a href=\"https://www.searchenginejournal.com/rundowns/the-new-google-business-profile-playbook-for-ai-local-search/\">The New Google Business Profile Playbook for AI Local Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-21T11:45:58+00:00",
-      "fetched": "2026-07-21T21:53:41.405659+00:00"
     }
   ],
-  "last_updated": "2026-07-24T21:54:42.577414+00:00"
+  "last_updated": "2026-07-25T21:42:57.638072+00:00"
 }
