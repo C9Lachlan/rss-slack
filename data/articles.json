@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": "8ca61a4e-a24a-4b46-be45-2e73dbce3a65",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "X Live-Tweets Its Fight Against Chatbot Spam In Real-Time via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/x-live-tweets-its-fight-against-chatbot-spam-in-real-time/583572/",
+      "summary": "X publicly documented its anti-chatbot campaign over 24 hours, showing how quickly AI-generated spam evolves and how X responds.\n\nThe post <a href=\"https://www.searchenginejournal.com/x-live-tweets-its-fight-against-chatbot-spam-in-real-time/583572/\">X Live-Tweets Its Fight Against Chatbot Spam In Real-Time</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-26T10:17:57+00:00",
+      "fetched": "2026-07-26T21:48:39.083340+00:00"
+    },
+    {
       "id": "3a17c000-005d-40c3-be6d-db4a7770b47b",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -208,18 +219,7 @@
       "summary": "AI Overviews are outpacing local packs across 15+ markets. Here is what location pages need to stay visible in AI-generated answers.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-overviews-now-answer-most-local-searches-how-to-get-your-business-cited/580757/\">AI Overviews Now Answer Most Local Searches \u2013 How To Get Your Business Cited</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-07-22T09:30:25+00:00",
       "fetched": "2026-07-22T21:55:51.890424+00:00"
-    },
-    {
-      "id": "e9a4dcea-92e3-4eb4-8017-938303f3e377",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Anthropic\u2019s Claude Can Now Watch A Video And Learn Your Job via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/anthropics-claude-can-now-watch-a-video-and-learn-your-job/583053/",
-      "summary": "Anthropic's Claude Cowork can turn a video of a person doing a task into a skill so that it can do it too.\n\nThe post <a href=\"https://www.searchenginejournal.com/anthropics-claude-can-now-watch-a-video-and-learn-your-job/583053/\">Anthropic&#8217;s Claude Can Now Watch A Video And Learn Your Job</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-22T09:01:09+00:00",
-      "fetched": "2026-07-22T21:55:51.890443+00:00"
     }
   ],
-  "last_updated": "2026-07-25T21:42:57.638072+00:00"
+  "last_updated": "2026-07-26T21:48:40.099237+00:00"
 }
