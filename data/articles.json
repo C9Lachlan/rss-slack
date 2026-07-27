@@ -1,6 +1,72 @@
 {
   "articles": [
     {
+      "id": "b4454931-3954-4bf9-9795-2019c965dcda",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "ChatGPT Links Out Most On Travel Questions via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/chatgpt-links-out-most-on-travel-questions/583824/",
+      "summary": "A new report finds ChatGPT citation rates vary sharply by topic, with travel answers citing sources far more often than education answers.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-links-out-most-on-travel-questions/583824/\">ChatGPT Links Out Most On Travel Questions</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-27T19:12:26+00:00",
+      "fetched": "2026-07-27T21:55:34.832107+00:00"
+    },
+    {
+      "id": "a25d54b9-e6ee-4d8a-8499-65d182e05d87",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How Publishers Can Monetize AI Visibility",
+      "link": "https://www.searchenginejournal.com/how-publishers-can-monetise-ai-visibility/583345/",
+      "summary": "AI sends barely any traffic, but the traffic it sends is twice as engaged. Here's why publishers should care.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-publishers-can-monetise-ai-visibility/583345/\">How Publishers Can Monetize AI Visibility</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-27T19:00:31+00:00",
+      "fetched": "2026-07-27T21:55:34.832133+00:00"
+    },
+    {
+      "id": "10115ff5-7b9c-4232-8f7b-bcd41384c3e2",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Video After Sora: 3 Updates You Should Make Before You Publish via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/ai-video-after-sora-3-updates-you-should-make-before-you-publish/583123/",
+      "summary": "Before your next AI video goes live: Audit disclosure against YouTube's actual policy, produce below the ceiling, and name the human decision-maker.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-video-after-sora-3-updates-you-should-make-before-you-publish/583123/\">AI Video After Sora: 3 Updates You Should Make Before You Publish</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-27T14:30:27+00:00",
+      "fetched": "2026-07-27T21:55:34.832152+00:00"
+    },
+    {
+      "id": "3d23ba48-2fda-47e9-ad40-e8eaeda93189",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Ads\u2019 Target-Based Bidding Update For Ecommerce via @sejournal, @tonyadam",
+      "link": "https://www.searchenginejournal.com/google-ads-target-based-bidding-update-for-ecommerce/581801/",
+      "summary": "Google's August 17 update pushes budget-limited Target CPA and Target ROAS campaigns toward their stated targets, risking higher costs unless advertisers audit and adjust first.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ads-target-based-bidding-update-for-ecommerce/581801/\">Google Ads&#8217; Target-Based Bidding Update For Ecommerce</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-27T12:00:35+00:00",
+      "fetched": "2026-07-27T21:55:34.832174+00:00"
+    },
+    {
+      "id": "1380d6a5-64a6-484b-a962-d701b2862a70",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google May Be Penalizing AI-Generated Content As Thin Content via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-may-be-penalizing-ai-generated-content-as-thin-content/583773/",
+      "summary": "Google may be penalizing AI-generated content under an expanded definition of thin content.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-may-be-penalizing-ai-generated-content-as-thin-content/583773/\">Google May Be Penalizing AI-Generated Content As Thin Content</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-27T11:49:14+00:00",
+      "fetched": "2026-07-27T21:55:34.832191+00:00"
+    },
+    {
+      "id": "c4c781b7-c001-4105-a4db-91a8300cefd0",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Expands Review Guidelines And Warns Of Manual Actions via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-expands-review-guidelines-and-warns-of-manual-actions/583674/",
+      "summary": "Google expanded its review snippet documentation with new ways content can trigger a manual action.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-expands-review-guidelines-and-warns-of-manual-actions/583674/\">Google Expands Review Guidelines And Warns Of Manual Actions</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-27T09:23:41+00:00",
+      "fetched": "2026-07-27T21:55:34.832207+00:00"
+    },
+    {
       "id": "8ca61a4e-a24a-4b46-be45-2e73dbce3a65",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -153,73 +219,7 @@
       "summary": "Waiting for ChatGPT to prove your ROI? The not-provided lesson says stop. Here's the measurement work you can own instead.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-went-not-provided-in-2011-and-blinded-us-chatgpt-just-shipped-its-version/582839/\">Google Went &#8216;Not Provided&#8217; In 2011 And Blinded Us, ChatGPT Just Shipped Its Version</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-07-23T12:00:13+00:00",
       "fetched": "2026-07-23T21:55:39.471694+00:00"
-    },
-    {
-      "id": "b6c89de0-013f-4e20-ab82-9e9bbbc3aedd",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Pichai Says Google Needs Gemini 4 To Compete At The Frontier via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/pichai-says-google-needs-gemini-4-to-compete-at-the-frontier/583214/",
-      "summary": "On Alphabet's Q2 call, Pichai named coding an area to improve, saying Google needs Gemini 4 for the next frontier, as 3.5 Pro stays delayed.\n\nThe post <a href=\"https://www.searchenginejournal.com/pichai-says-google-needs-gemini-4-to-compete-at-the-frontier/583214/\">Pichai Says Google Needs Gemini 4 To Compete At The Frontier</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-23T10:30:58+00:00",
-      "fetched": "2026-07-23T21:55:39.471709+00:00"
-    },
-    {
-      "id": "406a3b30-c33b-477d-999a-1face1137ac3",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Search Revenue Growth Eases After A Year Of Acceleration via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-search-revenue-growth-eases-after-a-year-of-acceleration/583181/",
-      "summary": "Alphabet's Q2 Search revenue rose 17% to $63.27 billion, its first easing after four quarters of acceleration. Google credited retail and Gemini integration.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-search-revenue-growth-eases-after-a-year-of-acceleration/583181/\">Google Search Revenue Growth Eases After A Year Of Acceleration</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-23T09:00:49+00:00",
-      "fetched": "2026-07-23T21:55:39.471734+00:00"
-    },
-    {
-      "id": "53f81adc-62ac-43be-9727-d148f935d805",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why AI Content Stopped Working & What To Do About It [Watch Now] via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/why-ai-content-stopped-working-what-to-do-about-it-watch-now/583098/",
-      "summary": "Does Google penalize AI content? Get answers on GEO, answer engine optimization, and the content personalization signals that convert. Watch on demand.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-ai-content-stopped-working-what-to-do-about-it-watch-now/583098/\">Why AI Content Stopped Working &#038; What To Do About It [Watch Now]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-22T18:28:31+00:00",
-      "fetched": "2026-07-22T21:55:51.890356+00:00"
-    },
-    {
-      "id": "5a96caea-3378-4801-b979-1cd4248b0efc",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Beyond Brand Sovereignty: How To Build An AI-Ready Source Of Truth via @sejournal, @billhunt",
-      "link": "https://www.searchenginejournal.com/beyond-brand-sovereignty-how-to-build-an-ai-ready-source-of-truth/582266/",
-      "summary": "AI doesn't reward the best-optimized page. It rewards the highest-confidence evidence. Bill Hunt explains how organizations earn that confidence.\n\nThe post <a href=\"https://www.searchenginejournal.com/beyond-brand-sovereignty-how-to-build-an-ai-ready-source-of-truth/582266/\">Beyond Brand Sovereignty: How To Build An AI-Ready Source Of Truth</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-22T13:30:16+00:00",
-      "fetched": "2026-07-22T21:55:51.890381+00:00"
-    },
-    {
-      "id": "3cc24048-fc12-413a-b300-4e3ed5baef14",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Designing A Measurement Framework Before You Touch GA4 via @sejournal, @bngsrc",
-      "link": "https://www.searchenginejournal.com/designing-a-measurement-framework-before-you-touch-ga4/580767/",
-      "summary": "Transform your Google Analytics 4 data into actionable insights with a solid measurement framework as your foundation.\n\nThe post <a href=\"https://www.searchenginejournal.com/designing-a-measurement-framework-before-you-touch-ga4/580767/\">Designing A Measurement Framework Before You Touch GA4</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-22T11:30:44+00:00",
-      "fetched": "2026-07-22T21:55:51.890400+00:00"
-    },
-    {
-      "id": "3fffbe8c-39f5-4d5b-bf0b-5735fc448a32",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Overviews Now Answer Most Local Searches \u2013 How To Get Your Business Cited via @sejournal, @AdamHeitzman",
-      "link": "https://www.searchenginejournal.com/ai-overviews-now-answer-most-local-searches-how-to-get-your-business-cited/580757/",
-      "summary": "AI Overviews are outpacing local packs across 15+ markets. Here is what location pages need to stay visible in AI-generated answers.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-overviews-now-answer-most-local-searches-how-to-get-your-business-cited/580757/\">AI Overviews Now Answer Most Local Searches \u2013 How To Get Your Business Cited</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-22T09:30:25+00:00",
-      "fetched": "2026-07-22T21:55:51.890424+00:00"
     }
   ],
-  "last_updated": "2026-07-26T21:48:40.099237+00:00"
+  "last_updated": "2026-07-27T21:55:35.653194+00:00"
 }
