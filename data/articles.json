@@ -1,6 +1,94 @@
 {
   "articles": [
     {
+      "id": "95ca8c0c-4835-4516-b7ea-ff132a5d7ae8",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Opt-Out May Cost Sites A Google Top Stories Spot via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/ai-opt-out-may-cost-publishers-a-top-stories-spot/584016/",
+      "summary": "Google is putting Top Stories carousels inside AI Overviews, raising the stakes on its new AI opt-out setting in Search Console.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-opt-out-may-cost-publishers-a-top-stories-spot/584016/\">AI Opt-Out May Cost Sites A Google Top Stories Spot</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-28T21:20:40+00:00",
+      "fetched": "2026-07-28T21:54:44.977009+00:00"
+    },
+    {
+      "id": "0f8179d4-07e3-4c29-ad92-f56909192f01",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Future Of Search & AI: What I Learned From Google\u2019s Latest Earnings Call via @sejournal, @marie_haynes",
+      "link": "https://www.searchenginejournal.com/the-future-of-search-ai-what-i-learned-from-googles-latest-earnings-call/583662/",
+      "summary": "Is Google still a search engine? Its Q2 2026 earnings call suggests the answer is changing, and website owners should plan accordingly.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-future-of-search-ai-what-i-learned-from-googles-latest-earnings-call/583662/\">The Future Of Search &#038; AI: What I Learned From Google&#8217;s Latest Earnings Call</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-28T19:00:06+00:00",
+      "fetched": "2026-07-28T21:54:44.977075+00:00"
+    },
+    {
+      "id": "1ac16442-c81b-4954-8b6d-f07086e64341",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Rankings Link Higher AI Scores To Lower Positions via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/heavily-ai-flagged-pages-still-rank-across-googles-top-10/583983/",
+      "summary": "Data ties higher AI detector scores to lower positions and to fewer pages in Google's index, though heavily flagged pages still rank in top 10.\n\nThe post <a href=\"https://www.searchenginejournal.com/heavily-ai-flagged-pages-still-rank-across-googles-top-10/583983/\">Google Rankings Link Higher AI Scores To Lower Positions</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-28T18:06:52+00:00",
+      "fetched": "2026-07-28T21:54:44.977098+00:00"
+    },
+    {
+      "id": "30649956-442f-4142-aa7b-6f87de0b6b9c",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Lost Its Scraping Case \u2013 Now You Have To Pick A Side On The Open Web via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/google-lost-its-scraping-case-now-you-have-to-pick-a-side-on-the-open-web/583066/",
+      "summary": "Google's DMCA case against scraper SerpApi collapsed because SearchGuard protects ad revenue, not copyright. The same reasoning weakens every site's anti-bot defense against AI crawlers.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-lost-its-scraping-case-now-you-have-to-pick-a-side-on-the-open-web/583066/\">Google Lost Its Scraping Case \u2013 Now You Have To Pick A Side On The Open Web</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-28T17:30:13+00:00",
+      "fetched": "2026-07-28T21:54:44.977125+00:00"
+    },
+    {
+      "id": "9f773f2c-2cb6-4835-94ec-9891420da3bc",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why Data Integrity Is The New Technical SEO: From Crawling To Trust via @sejournal, @alexmoss",
+      "link": "https://www.searchenginejournal.com/why-data-integrity-is-the-new-technical-seo-from-crawling-to-trust/582189/",
+      "summary": "Agentic protocols are multiplying with no consensus standard in sight. Own the layers underneath instead of chasing a winner.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-data-integrity-is-the-new-technical-seo-from-crawling-to-trust/582189/\">Why Data Integrity Is The New Technical SEO: From Crawling To Trust</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-28T14:30:34+00:00",
+      "fetched": "2026-07-28T21:54:44.977144+00:00"
+    },
+    {
+      "id": "d6a7829d-d821-486f-84b4-b83bc0ac3a45",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Amazon Left US Google Shopping A Year Ago & Never Came Back via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/amazon-left-us-google-shopping-a-year-ago-never-came-back/583307/",
+      "summary": "Amazon pulled out of U.S. Google Shopping in July 2025 and still hasn't returned. Here's what a year of auction data reveals for retailers.\n\nThe post <a href=\"https://www.searchenginejournal.com/amazon-left-us-google-shopping-a-year-ago-never-came-back/583307/\">Amazon Left US Google Shopping A Year Ago &#038; Never Came Back</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-28T12:00:43+00:00",
+      "fetched": "2026-07-28T21:54:44.977163+00:00"
+    },
+    {
+      "id": "ad7ed828-97f0-4061-94dc-0edf376dedce",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google SEO Test Shows What Happens In 5-Second Rendering Window via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-seo-test-shows-what-happens-in-5-second-rendering-window/583878/",
+      "summary": "A new SEO test shows what happens when Google's Web Rendering Service continues past five seconds: Google pauses time with a virtual clock.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-seo-test-shows-what-happens-in-5-second-rendering-window/583878/\">Google SEO Test Shows What Happens In 5-Second Rendering Window</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-28T09:45:32+00:00",
+      "fetched": "2026-07-28T21:54:44.977181+00:00"
+    },
+    {
+      "id": "e5548967-60f6-4461-b18a-aa59f0fd597d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Indexed Claude Chats Show Why Disallow Is Not Noindex via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/indexed-claude-chats-show-why-disallow-is-not-noindex/583852/",
+      "summary": "Shared Claude chats showed up in Google. We checked the pages and found a noindex header sitting behind a robots.txt block that keeps Google out.\n\nThe post <a href=\"https://www.searchenginejournal.com/indexed-claude-chats-show-why-disallow-is-not-noindex/583852/\">Indexed Claude Chats Show Why Disallow Is Not Noindex</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-28T02:12:20+00:00",
+      "fetched": "2026-07-28T21:54:44.977208+00:00"
+    },
+    {
       "id": "b4454931-3954-4bf9-9795-2019c965dcda",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -131,95 +219,7 @@
       "summary": "GatherUp's Annie Jackson and Jason Wertham show how to audit what ChatGPT and AI Overviews say about your locations, and which inputs change the answer.\n\nThe post <a href=\"https://www.searchenginejournal.com/emergency-brand-audit-what-ai-says-about-your-locations-recap/583422/\">Emergency Brand Audit: What AI Says About Your Locations</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-07-24T19:53:26+00:00",
       "fetched": "2026-07-24T21:54:40.931584+00:00"
-    },
-    {
-      "id": "2219f6bc-90fc-4974-a00b-fc9cd6a4ff2b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The AI Overviews YouTube Gap: The Platform Your Team Skipped For 20 Years via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/the-ai-overviews-youtube-gap-the-platform-your-team-skipped-for-20-years/582702/",
-      "summary": "Stop measuring creator partnerships by view counts. The value shows up downstream, in traffic, AI citations, and conversions your dashboard isn't tracking.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-ai-overviews-youtube-gap-the-platform-your-team-skipped-for-20-years/582702/\">The AI Overviews YouTube Gap: The Platform Your Team Skipped For 20 Years</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-24T19:00:50+00:00",
-      "fetched": "2026-07-24T21:54:40.931610+00:00"
-    },
-    {
-      "id": "da9d299a-eb8e-4c67-99cf-2563ebeda2b3",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Search Growth Slows, Publishers Weigh Leaving Google \u2013 SEO Pulse via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-search-growth-slows-publishers-weigh-leaving-google/583329/",
-      "summary": "A court dismisses Google's DMCA claims against SerpApi, the EU fines Google \u20ac890 million, major publishers weigh leaving Google, and Search growth eases.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-search-growth-slows-publishers-weigh-leaving-google/583329/\">Search Growth Slows, Publishers Weigh Leaving Google &#8211; SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-24T12:00:25+00:00",
-      "fetched": "2026-07-24T21:54:40.931631+00:00"
-    },
-    {
-      "id": "4e978256-a073-47ce-915e-b39ce3d4ee4f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Search is Working. How to Prove It With Real Tests. via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/ai-search-is-working-how-to-prove-it-with-real-tests-recap/583306/",
-      "summary": "Dive into the evidence behind AI search and its effects on page performance. Learn from experts in the latest SEJ discussion.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-search-is-working-how-to-prove-it-with-real-tests-recap/583306/\">AI Search is Working. How to Prove It With Real Tests.</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-23T19:38:11+00:00",
-      "fetched": "2026-07-23T21:55:39.471592+00:00"
-    },
-    {
-      "id": "dfbebce8-bad2-47ad-be60-ecf20939f1a8",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Browsers Are Backward Because Agents Never Needed The Visual Layer via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/ai-browsers-are-backward-because-agents-never-needed-the-visual-layer/583056/",
-      "summary": "OpenAI killed Atlas because AI browsers were always a workaround. The real fix is a website machines can actually read.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-browsers-are-backward-because-agents-never-needed-the-visual-layer/583056/\">AI Browsers Are Backward Because Agents Never Needed The Visual Layer</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-23T19:00:39+00:00",
-      "fetched": "2026-07-23T21:55:39.471619+00:00"
-    },
-    {
-      "id": "1542644b-4372-4bce-89f5-2eb6e110331f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "YouTube Explains What Can Stop A Channel Getting Paid via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/youtube-explains-what-can-stop-a-channel-getting-paid/583096/",
-      "summary": "YouTube spelled out three kinds of content that can stop a channel from getting paid, and says it's clarifying existing rules, not changing them.\n\nThe post <a href=\"https://www.searchenginejournal.com/youtube-explains-what-can-stop-a-channel-getting-paid/583096/\">YouTube Explains What Can Stop A Channel Getting Paid</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-23T16:00:00+00:00",
-      "fetched": "2026-07-23T21:55:39.471638+00:00"
-    },
-    {
-      "id": "133dc85a-07ee-43e0-b754-545cfa103731",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Are We Repeating History & Risking Backlink Penalties Again? via @sejournal, @TaylorDanRW",
-      "link": "https://www.searchenginejournal.com/are-we-repeating-history-risking-backlink-penalties-again/583070/",
-      "summary": "Repackaged link schemes won't win AI visibility. Presence in fan-out, grounding, and training data still depends on real authority.\n\nThe post <a href=\"https://www.searchenginejournal.com/are-we-repeating-history-risking-backlink-penalties-again/583070/\">Are We Repeating History &#038; Risking Backlink Penalties Again?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-23T14:30:41+00:00",
-      "fetched": "2026-07-23T21:55:39.471661+00:00"
-    },
-    {
-      "id": "9aec6325-6e1d-414d-883c-7ed1fe608193",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Alphabet Q2 Earnings Show $5.85 Billion Negative Free Cash Flow via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-q2-earnings-show-5-85-billion-negative-free-cash-flow/583259/",
-      "summary": "Alphabet's Q2 release shows Google's infrastructure spending caused it to report a negative free cash flow of $5.85 billion dollars.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-q2-earnings-show-5-85-billion-negative-free-cash-flow/583259/\">Alphabet Q2 Earnings Show $5.85 Billion Negative Free Cash Flow</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-23T12:50:31+00:00",
-      "fetched": "2026-07-23T21:55:39.471677+00:00"
-    },
-    {
-      "id": "47eb1a18-1008-43f6-ab05-9e8c59b97cec",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Went \u2018Not Provided\u2019 In 2011 And Blinded Us, ChatGPT Just Shipped Its Version via @sejournal, @DuaneForrester",
-      "link": "https://www.searchenginejournal.com/google-went-not-provided-in-2011-and-blinded-us-chatgpt-just-shipped-its-version/582839/",
-      "summary": "Waiting for ChatGPT to prove your ROI? The not-provided lesson says stop. Here's the measurement work you can own instead.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-went-not-provided-in-2011-and-blinded-us-chatgpt-just-shipped-its-version/582839/\">Google Went &#8216;Not Provided&#8217; In 2011 And Blinded Us, ChatGPT Just Shipped Its Version</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-23T12:00:13+00:00",
-      "fetched": "2026-07-23T21:55:39.471694+00:00"
     }
   ],
-  "last_updated": "2026-07-27T21:55:35.653194+00:00"
+  "last_updated": "2026-07-28T21:54:47.210202+00:00"
 }
