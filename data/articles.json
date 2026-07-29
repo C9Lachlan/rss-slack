@@ -1,6 +1,138 @@
 {
   "articles": [
     {
+      "id": "b6d3b459-bcf2-4e05-b8c4-b42090328fe3",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Q3 AI Visibility: AI Citations, Brand Mentions & Content Refreshes That Work via @sejournal, @AirOpsHQ",
+      "link": "https://www.searchenginejournal.com/rundowns/q3-ai-visibility-ai-citations-brand-mentions-content-refreshes-that-work/",
+      "summary": "Five articles explain why AI citations fluctuate, where they come from, what makes them persist, and how to audit content for stronger AI visibility.\n\nThe post <a href=\"https://www.searchenginejournal.com/rundowns/q3-ai-visibility-ai-citations-brand-mentions-content-refreshes-that-work/\">Q3 AI Visibility: AI Citations, Brand Mentions &#038; Content Refreshes That Work</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-29T19:41:37+00:00",
+      "fetched": "2026-07-29T21:47:53.149990+00:00"
+    },
+    {
+      "id": "afcf42c5-0113-4ee2-8c61-8840c0b00aa0",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "89% Of AI Search Demand Has No Clear Owner: Use This Before The Window Closes via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/89-of-ai-search-demand-has-no-clear-owner-use-this-before-the-window-closes/583255/",
+      "summary": "Kevin Indig's data across 1,094 categories shows that only 15.2% have a clear ChatGPT owner, and citations barely predict which brand gets named.\n\nThe post <a href=\"https://www.searchenginejournal.com/89-of-ai-search-demand-has-no-clear-owner-use-this-before-the-window-closes/583255/\">89% Of AI Search Demand Has No Clear Owner: Use This Before The Window Closes</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-29T19:00:15+00:00",
+      "fetched": "2026-07-29T21:47:53.150011+00:00"
+    },
+    {
+      "id": "24dbd3ed-47a0-4a59-a0b7-7698897ff55b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "European Search Strategy Goes Beyond Google & Bing via @sejournal, @motokohunt",
+      "link": "https://www.searchenginejournal.com/european-search-strategy-goes-beyond-google-bing/581780/",
+      "summary": "Treat Europe as one Google market, and you'll miss Seznam, Ecosia, Zalando, and a regulatory layer that can close a door overnight.\n\nThe post <a href=\"https://www.searchenginejournal.com/european-search-strategy-goes-beyond-google-bing/581780/\">European Search Strategy Goes Beyond Google &#038; Bing</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-29T17:32:12+00:00",
+      "fetched": "2026-07-29T21:47:53.150026+00:00"
+    },
+    {
+      "id": "51701709-53e7-42a5-a71b-24e81547a9c5",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Opens Search Console Social Reporting To Everyone via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-opens-search-console-social-reporting-to-everyone/584144/",
+      "summary": "Search Console platform properties are now open to everyone worldwide, and Google has published a guide to reading your social and video search data.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-opens-search-console-social-reporting-to-everyone/584144/\">Google Opens Search Console Social Reporting To Everyone</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-29T17:11:33+00:00",
+      "fetched": "2026-07-29T21:47:53.150043+00:00"
+    },
+    {
+      "id": "f9dc42f2-3fda-4db5-8a99-fb6b85b2354f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Ads Bidding Strategies: Where To Spend Your Time In 2026 via @sejournal, @LisaRocksSEM",
+      "link": "https://www.searchenginejournal.com/google-ads-bidding-strategies-where-to-spend-your-time-in-2026/581479/",
+      "summary": "Lead-gen and ecommerce managers: two Google Ads bidding changes landed this summer. Here's what shifts, what doesn't, and which campaigns to audit first.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ads-bidding-strategies-where-to-spend-your-time-in-2026/581479/\">Google Ads Bidding Strategies: Where To Spend Your Time In 2026</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-29T14:30:33+00:00",
+      "fetched": "2026-07-29T21:47:53.150063+00:00"
+    },
+    {
+      "id": "e5e63171-8b7e-4dfe-b9bc-01aadf74477e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How Perplexity Actually Picks Sources (I Read The Stream, Not The Answers) via @sejournal, @suganthan",
+      "link": "https://www.searchenginejournal.com/how-perplexity-actually-picks-sources-i-read-the-stream-not-the-answers/583769/",
+      "summary": "Perplexity never skips the web, so every query is winnable. Here's what its live answer stream reveals about citations, video, and local.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-perplexity-actually-picks-sources-i-read-the-stream-not-the-answers/583769/\">How Perplexity Actually Picks Sources (I Read The Stream, Not The Answers)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-29T12:01:39+00:00",
+      "fetched": "2026-07-29T21:47:53.150079+00:00"
+    },
+    {
+      "id": "39d5da0b-e6fb-4b72-985c-6772d1bf2873",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Open Knowledge Format Adds Five Trust Signals via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/googles-open-knowledge-format-adds-five-trust-signals/584120/",
+      "summary": "Google announced version 0.2 of the Open Knowledge Format, introducing five new trust signals.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-open-knowledge-format-adds-five-trust-signals/584120/\">Google&#8217;s Open Knowledge Format Adds Five Trust Signals</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-29T11:00:20+00:00",
+      "fetched": "2026-07-29T21:47:53.150091+00:00"
+    },
+    {
+      "id": "2f438ccd-a01e-45f8-aa22-f8d49a5354bf",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Mueller: Fix Conflicting Metadata, Don\u2019t Test It via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/googles-mueller-fix-conflicting-metadata-dont-test-it/584055/",
+      "summary": "Google's John Mueller says if sites are serving conflicting metadata, they should fix the conflict, not test which source wins.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-mueller-fix-conflicting-metadata-dont-test-it/584055/\">Google&#8217;s Mueller: Fix Conflicting Metadata, Don&#8217;t Test It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-29T10:30:57+00:00",
+      "fetched": "2026-07-29T21:47:53.150110+00:00"
+    },
+    {
+      "id": "21c41066-ff87-4c7d-bc51-d6883b6e3409",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "YouTube Views Rose While Long-Form Ad Revenue Fell, Data Shows via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/youtube-views-rose-while-long-form-ad-revenue-fell-data-shows/584040/",
+      "summary": "Metricool data shows views per long-form YouTube post increased while estimated ad revenue and average view duration fell.\n\nThe post <a href=\"https://www.searchenginejournal.com/youtube-views-rose-while-long-form-ad-revenue-fell-data-shows/584040/\">YouTube Views Rose While Long-Form Ad Revenue Fell, Data Shows</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-29T09:00:29+00:00",
+      "fetched": "2026-07-29T21:47:53.150124+00:00"
+    },
+    {
+      "id": "38d5b1c5-0c52-45a7-903d-4dfe518fdb5e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Illyes Unsure On Shifting unavailable_after Dates via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/googles-illyes-unsure-on-shifting-unavailable_after-dates/584064/",
+      "summary": "Google's Gary Illyes said he would need to check whether pushing an unavailable_after date forward on every renewal causes problems. He gave a first read.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-illyes-unsure-on-shifting-unavailable_after-dates/584064/\">Google&#8217;s Illyes Unsure On Shifting unavailable_after Dates</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-29T07:00:06+00:00",
+      "fetched": "2026-07-29T21:47:53.150136+00:00"
+    },
+    {
+      "id": "cb8cf2f7-2c37-4df6-8589-fb76f4cb84d6",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Recognizes 96% Of Brands But Mentions Almost None, New Study Finds",
+      "link": "https://www.searchenginejournal.com/ai-brand-mention-study-victorious-spa/582765/",
+      "summary": "Find out how AI accurately describes brands but struggles with visibility. Explore Victorious' findings in this insightful report.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-brand-mention-study-victorious-spa/582765/\">AI Recognizes 96% Of Brands But Mentions Almost None, New Study Finds</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-29T05:00:32+00:00",
+      "fetched": "2026-07-29T21:47:53.150147+00:00"
+    },
+    {
+      "id": "d2b1390d-bf8a-48ab-a5c3-3c629da8c2e2",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google On SEO Impact Of URLs Injected By CMS Platforms via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-on-seo-impact-of-urls-injected-into-html-by-cms-platforms/584037/",
+      "summary": "Google's John Mueller explains the SEO impact of random URLs injected into web pages by CMS platforms.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-on-seo-impact-of-urls-injected-into-html-by-cms-platforms/584037/\">Google On SEO Impact Of URLs Injected By CMS Platforms</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-29T00:38:31+00:00",
+      "fetched": "2026-07-29T21:47:53.150161+00:00"
+    },
+    {
       "id": "95ca8c0c-4835-4516-b7ea-ff132a5d7ae8",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -87,139 +219,7 @@
       "summary": "Shared Claude chats showed up in Google. We checked the pages and found a noindex header sitting behind a robots.txt block that keeps Google out.\n\nThe post <a href=\"https://www.searchenginejournal.com/indexed-claude-chats-show-why-disallow-is-not-noindex/583852/\">Indexed Claude Chats Show Why Disallow Is Not Noindex</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-07-28T02:12:20+00:00",
       "fetched": "2026-07-28T21:54:44.977208+00:00"
-    },
-    {
-      "id": "b4454931-3954-4bf9-9795-2019c965dcda",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "ChatGPT Links Out Most On Travel Questions via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/chatgpt-links-out-most-on-travel-questions/583824/",
-      "summary": "A new report finds ChatGPT citation rates vary sharply by topic, with travel answers citing sources far more often than education answers.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-links-out-most-on-travel-questions/583824/\">ChatGPT Links Out Most On Travel Questions</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-27T19:12:26+00:00",
-      "fetched": "2026-07-27T21:55:34.832107+00:00"
-    },
-    {
-      "id": "a25d54b9-e6ee-4d8a-8499-65d182e05d87",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How Publishers Can Monetize AI Visibility",
-      "link": "https://www.searchenginejournal.com/how-publishers-can-monetise-ai-visibility/583345/",
-      "summary": "AI sends barely any traffic, but the traffic it sends is twice as engaged. Here's why publishers should care.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-publishers-can-monetise-ai-visibility/583345/\">How Publishers Can Monetize AI Visibility</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-27T19:00:31+00:00",
-      "fetched": "2026-07-27T21:55:34.832133+00:00"
-    },
-    {
-      "id": "10115ff5-7b9c-4232-8f7b-bcd41384c3e2",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Video After Sora: 3 Updates You Should Make Before You Publish via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/ai-video-after-sora-3-updates-you-should-make-before-you-publish/583123/",
-      "summary": "Before your next AI video goes live: Audit disclosure against YouTube's actual policy, produce below the ceiling, and name the human decision-maker.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-video-after-sora-3-updates-you-should-make-before-you-publish/583123/\">AI Video After Sora: 3 Updates You Should Make Before You Publish</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-27T14:30:27+00:00",
-      "fetched": "2026-07-27T21:55:34.832152+00:00"
-    },
-    {
-      "id": "3d23ba48-2fda-47e9-ad40-e8eaeda93189",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Ads\u2019 Target-Based Bidding Update For Ecommerce via @sejournal, @tonyadam",
-      "link": "https://www.searchenginejournal.com/google-ads-target-based-bidding-update-for-ecommerce/581801/",
-      "summary": "Google's August 17 update pushes budget-limited Target CPA and Target ROAS campaigns toward their stated targets, risking higher costs unless advertisers audit and adjust first.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ads-target-based-bidding-update-for-ecommerce/581801/\">Google Ads&#8217; Target-Based Bidding Update For Ecommerce</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-27T12:00:35+00:00",
-      "fetched": "2026-07-27T21:55:34.832174+00:00"
-    },
-    {
-      "id": "1380d6a5-64a6-484b-a962-d701b2862a70",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google May Be Penalizing AI-Generated Content As Thin Content via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-may-be-penalizing-ai-generated-content-as-thin-content/583773/",
-      "summary": "Google may be penalizing AI-generated content under an expanded definition of thin content.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-may-be-penalizing-ai-generated-content-as-thin-content/583773/\">Google May Be Penalizing AI-Generated Content As Thin Content</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-27T11:49:14+00:00",
-      "fetched": "2026-07-27T21:55:34.832191+00:00"
-    },
-    {
-      "id": "c4c781b7-c001-4105-a4db-91a8300cefd0",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Expands Review Guidelines And Warns Of Manual Actions via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-expands-review-guidelines-and-warns-of-manual-actions/583674/",
-      "summary": "Google expanded its review snippet documentation with new ways content can trigger a manual action.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-expands-review-guidelines-and-warns-of-manual-actions/583674/\">Google Expands Review Guidelines And Warns Of Manual Actions</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-27T09:23:41+00:00",
-      "fetched": "2026-07-27T21:55:34.832207+00:00"
-    },
-    {
-      "id": "8ca61a4e-a24a-4b46-be45-2e73dbce3a65",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "X Live-Tweets Its Fight Against Chatbot Spam In Real-Time via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/x-live-tweets-its-fight-against-chatbot-spam-in-real-time/583572/",
-      "summary": "X publicly documented its anti-chatbot campaign over 24 hours, showing how quickly AI-generated spam evolves and how X responds.\n\nThe post <a href=\"https://www.searchenginejournal.com/x-live-tweets-its-fight-against-chatbot-spam-in-real-time/583572/\">X Live-Tweets Its Fight Against Chatbot Spam In Real-Time</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-26T10:17:57+00:00",
-      "fetched": "2026-07-26T21:48:39.083340+00:00"
-    },
-    {
-      "id": "3a17c000-005d-40c3-be6d-db4a7770b47b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Charging AI Bots Decides Which Agents Can Still Cite You via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/charging-ai-bots-decides-which-agents-can-still-cite-you/580050/",
-      "summary": "AI bot paywalls are framed as new income. The real question is which AI answers you're willing to disappear from.\n\nThe post <a href=\"https://www.searchenginejournal.com/charging-ai-bots-decides-which-agents-can-still-cite-you/580050/\">Charging AI Bots Decides Which Agents Can Still Cite You</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-25T19:00:19+00:00",
-      "fetched": "2026-07-25T21:42:56.301765+00:00"
-    },
-    {
-      "id": "a86de5c4-50e3-4927-9824-2f30881182f9",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Data Compares Gemini & AI Mode Use Against Daily Life via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-data-compares-gemini-ai-mode-use-against-daily-life/583533/",
-      "summary": "Google's new AI & Economy report compares Gemini and AI Mode conversations against how Americans spend their days.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-data-compares-gemini-ai-mode-use-against-daily-life/583533/\">Google Data Compares Gemini &#038; AI Mode Use Against Daily Life</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-25T13:54:31+00:00",
-      "fetched": "2026-07-25T21:42:56.301792+00:00"
-    },
-    {
-      "id": "2b8c3c4f-92b1-48cc-b997-d7a2811654b1",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Q2: Precise Revenue Figures, Click Claims You Can\u2019t Check via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/googles-q2-precise-revenue-figures-click-claims-you-cant-check/583280/",
-      "summary": "Alphabet detailed Search revenue to the decimal. Google described web traffic in three kinds of unverifiable claims. Q2 widened the gap.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-q2-precise-revenue-figures-click-claims-you-cant-check/583280/\">Google&#8217;s Q2: Precise Revenue Figures, Click Claims You Can&#8217;t Check</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-25T12:30:24+00:00",
-      "fetched": "2026-07-25T21:42:56.301812+00:00"
-    },
-    {
-      "id": "508a398c-1341-465f-8828-de3d436fcce0",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Says Why It May Ignore Robots.txt And Negatively Impact SEO via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-says-why-it-may-ignore-robots-txt-and-negatively-impact-seo/583475/",
-      "summary": "Google's John Mueller explains a robots.txt quirk that can cause Googlebot to ignore robots.txt rules.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-says-why-it-may-ignore-robots-txt-and-negatively-impact-seo/583475/\">Google Says Why It May Ignore Robots.txt And Negatively Impact SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-25T10:17:52+00:00",
-      "fetched": "2026-07-25T21:42:56.301835+00:00"
-    },
-    {
-      "id": "6596c5e0-9cb1-4998-b18b-e27cf90b9ff5",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Emergency Brand Audit: What AI Says About Your Locations via @sejournal, @lorenbaker",
-      "link": "https://www.searchenginejournal.com/emergency-brand-audit-what-ai-says-about-your-locations-recap/583422/",
-      "summary": "GatherUp's Annie Jackson and Jason Wertham show how to audit what ChatGPT and AI Overviews say about your locations, and which inputs change the answer.\n\nThe post <a href=\"https://www.searchenginejournal.com/emergency-brand-audit-what-ai-says-about-your-locations-recap/583422/\">Emergency Brand Audit: What AI Says About Your Locations</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-24T19:53:26+00:00",
-      "fetched": "2026-07-24T21:54:40.931584+00:00"
     }
   ],
-  "last_updated": "2026-07-28T21:54:47.210202+00:00"
+  "last_updated": "2026-07-29T21:47:53.847555+00:00"
 }
