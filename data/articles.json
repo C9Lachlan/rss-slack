@@ -1,6 +1,50 @@
 {
   "articles": [
     {
+      "id": "b7f132ed-31ed-4631-81be-5f2b297cd254",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Search Isn\u2019t Replacing Google, It\u2019s Layering On Top \u2013 Similarweb Data via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/ai-search-isnt-replacing-google-its-layering-on-top-similarweb-data/583378/",
+      "summary": "New Similarweb figures reveal how narrowly ChatGPT distributes its outbound clicks, and what that concentration means for publishers chasing AI referral traffic.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-search-isnt-replacing-google-its-layering-on-top-similarweb-data/583378/\">AI Search Isn&#8217;t Replacing Google, It&#8217;s Layering On Top \u2013 Similarweb Data</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-30T19:00:03+00:00",
+      "fetched": "2026-07-30T21:58:21.970425+00:00"
+    },
+    {
+      "id": "34a96a25-4327-41df-b78d-86809bbdef5f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s \u2018Generative AI\u2019 Search Console Data Is A Trap For Marketers via @sejournal, @TaylorDanRW",
+      "link": "https://www.searchenginejournal.com/googles-generative-ai-search-console-data-is-a-trap-for-marketers/584018/",
+      "summary": "Eight weeks of AI Overviews data in Search Console reveals impressions without clicks, inflated position-one rankings, and misleading averages that can mask real traffic losses.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-generative-ai-search-console-data-is-a-trap-for-marketers/584018/\">Google\u2019s &#8216;Generative AI&#8217; Search Console Data Is A Trap For Marketers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-30T14:30:22+00:00",
+      "fetched": "2026-07-30T21:58:21.970477+00:00"
+    },
+    {
+      "id": "24a97a73-1d87-4094-8718-417b44f90856",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Head Of Anthropic\u2019s Claude Code Says Prompt Engineering Not That Important via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/head-of-anthropics-claude-code-says-prompt-engineering-not-that-important/584286/",
+      "summary": "Anthropic's Boris Cherny, head of Claude Code, explains how to become one of the top 1% of users who get things done.\n\nThe post <a href=\"https://www.searchenginejournal.com/head-of-anthropics-claude-code-says-prompt-engineering-not-that-important/584286/\">Head Of Anthropic&#8217;s Claude Code Says Prompt Engineering Not That Important</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-30T12:30:07+00:00",
+      "fetched": "2026-07-30T21:58:21.970505+00:00"
+    },
+    {
+      "id": "e1f0f6f1-213f-435d-a76f-495d90b37c23",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Entity Mapping Works On Google. Does Any Of It Reach ChatGPT? via @sejournal, @DuaneForrester",
+      "link": "https://www.searchenginejournal.com/entity-mapping-works-on-google-does-any-of-it-reach-chatgpt/583663/",
+      "summary": "A language model has no node to feed. Here's why on-site entity work moves Google's graph and never touches what the model learned.\n\nThe post <a href=\"https://www.searchenginejournal.com/entity-mapping-works-on-google-does-any-of-it-reach-chatgpt/583663/\">Entity Mapping Works On Google. Does Any Of It Reach ChatGPT?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-30T12:00:50+00:00",
+      "fetched": "2026-07-30T21:58:21.970534+00:00"
+    },
+    {
       "id": "b6d3b459-bcf2-4e05-b8c4-b42090328fe3",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -175,51 +219,7 @@
       "summary": "Google's DMCA case against scraper SerpApi collapsed because SearchGuard protects ad revenue, not copyright. The same reasoning weakens every site's anti-bot defense against AI crawlers.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-lost-its-scraping-case-now-you-have-to-pick-a-side-on-the-open-web/583066/\">Google Lost Its Scraping Case \u2013 Now You Have To Pick A Side On The Open Web</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-07-28T17:30:13+00:00",
       "fetched": "2026-07-28T21:54:44.977125+00:00"
-    },
-    {
-      "id": "9f773f2c-2cb6-4835-94ec-9891420da3bc",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why Data Integrity Is The New Technical SEO: From Crawling To Trust via @sejournal, @alexmoss",
-      "link": "https://www.searchenginejournal.com/why-data-integrity-is-the-new-technical-seo-from-crawling-to-trust/582189/",
-      "summary": "Agentic protocols are multiplying with no consensus standard in sight. Own the layers underneath instead of chasing a winner.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-data-integrity-is-the-new-technical-seo-from-crawling-to-trust/582189/\">Why Data Integrity Is The New Technical SEO: From Crawling To Trust</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-28T14:30:34+00:00",
-      "fetched": "2026-07-28T21:54:44.977144+00:00"
-    },
-    {
-      "id": "d6a7829d-d821-486f-84b4-b83bc0ac3a45",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Amazon Left US Google Shopping A Year Ago & Never Came Back via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/amazon-left-us-google-shopping-a-year-ago-never-came-back/583307/",
-      "summary": "Amazon pulled out of U.S. Google Shopping in July 2025 and still hasn't returned. Here's what a year of auction data reveals for retailers.\n\nThe post <a href=\"https://www.searchenginejournal.com/amazon-left-us-google-shopping-a-year-ago-never-came-back/583307/\">Amazon Left US Google Shopping A Year Ago &#038; Never Came Back</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-28T12:00:43+00:00",
-      "fetched": "2026-07-28T21:54:44.977163+00:00"
-    },
-    {
-      "id": "ad7ed828-97f0-4061-94dc-0edf376dedce",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google SEO Test Shows What Happens In 5-Second Rendering Window via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-seo-test-shows-what-happens-in-5-second-rendering-window/583878/",
-      "summary": "A new SEO test shows what happens when Google's Web Rendering Service continues past five seconds: Google pauses time with a virtual clock.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-seo-test-shows-what-happens-in-5-second-rendering-window/583878/\">Google SEO Test Shows What Happens In 5-Second Rendering Window</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-28T09:45:32+00:00",
-      "fetched": "2026-07-28T21:54:44.977181+00:00"
-    },
-    {
-      "id": "e5548967-60f6-4461-b18a-aa59f0fd597d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Indexed Claude Chats Show Why Disallow Is Not Noindex via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/indexed-claude-chats-show-why-disallow-is-not-noindex/583852/",
-      "summary": "Shared Claude chats showed up in Google. We checked the pages and found a noindex header sitting behind a robots.txt block that keeps Google out.\n\nThe post <a href=\"https://www.searchenginejournal.com/indexed-claude-chats-show-why-disallow-is-not-noindex/583852/\">Indexed Claude Chats Show Why Disallow Is Not Noindex</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-28T02:12:20+00:00",
-      "fetched": "2026-07-28T21:54:44.977208+00:00"
     }
   ],
-  "last_updated": "2026-07-29T21:47:53.847555+00:00"
+  "last_updated": "2026-07-30T21:58:22.793902+00:00"
 }
