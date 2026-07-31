@@ -1,6 +1,50 @@
 {
   "articles": [
     {
+      "id": "1e49b6b9-5734-4243-a318-63321a4ada04",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Cloudflare\u2019s PACT Is Not Live Yet \u2013 Decide Which Track Your Traffic Needs via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/cloudflares-pact-is-not-live-yet-decide-which-track-your-traffic-needs/580328/",
+      "summary": "Cloudflare and three rival browsers agreed on one protocol. That's rare. It still only solves half of the agentic access problem.\n\nThe post <a href=\"https://www.searchenginejournal.com/cloudflares-pact-is-not-live-yet-decide-which-track-your-traffic-needs/580328/\">Cloudflare&#8217;s PACT Is Not Live Yet \u2013 Decide Which Track Your Traffic Needs</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-31T14:30:32+00:00",
+      "fetched": "2026-07-31T21:55:49.679522+00:00"
+    },
+    {
+      "id": "8c0ed93e-b39c-450d-9c5d-681806bf335b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Social Search Data For All, AI-Detected Pages Rank Lower \u2013 SEO Pulse via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/seo-pulse-social-search-data-for-all-ai-detected-pages-rank-lower/584337/",
+      "summary": "This week\u2019s SEO Pulse covers expanded Search Console social reporting, Ahrefs\u2019 AI-content ranking analysis, AI opt-out implications, and metadata guidance.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-social-search-data-for-all-ai-detected-pages-rank-lower/584337/\">Social Search Data For All, AI-Detected Pages Rank Lower \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-31T12:30:09+00:00",
+      "fetched": "2026-07-31T21:55:49.679548+00:00"
+    },
+    {
+      "id": "0a33f5d6-785c-495b-a9be-9b5950353ddd",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google May Treat Search Box Pages As A Site Quality Issue via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-may-treat-search-box-pages-as-a-site-quality-issue/584419/",
+      "summary": "Google said that spammed search box pages may become a site quality issue and dealt with as if they were hacked.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-may-treat-search-box-pages-as-a-site-quality-issue/584419/\">Google May Treat Search Box Pages As A Site Quality Issue</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-31T11:24:14+00:00",
+      "fetched": "2026-07-31T21:55:49.679567+00:00"
+    },
+    {
+      "id": "a1d55c85-7113-461d-a5e8-1838e8251007",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "WP Engine Partners With BigCommerce To Scale WordPress Stores via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/wp-engine-bigcommerce-wordpress-stores/584343/",
+      "summary": "WP Engine announced Commerce Connect, a safe way for fast-growth brands to modernize and scale while preserving design, SEO, and user experience.\n\nThe post <a href=\"https://www.searchenginejournal.com/wp-engine-bigcommerce-wordpress-stores/584343/\">WP Engine Partners With BigCommerce To Scale WordPress Stores</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-07-30T23:04:36+00:00",
+      "fetched": "2026-07-31T21:55:49.679590+00:00"
+    },
+    {
       "id": "b7f132ed-31ed-4631-81be-5f2b297cd254",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -175,51 +219,7 @@
       "summary": "Google's John Mueller explains the SEO impact of random URLs injected into web pages by CMS platforms.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-on-seo-impact-of-urls-injected-into-html-by-cms-platforms/584037/\">Google On SEO Impact Of URLs Injected By CMS Platforms</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-07-29T00:38:31+00:00",
       "fetched": "2026-07-29T21:47:53.150161+00:00"
-    },
-    {
-      "id": "95ca8c0c-4835-4516-b7ea-ff132a5d7ae8",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Opt-Out May Cost Sites A Google Top Stories Spot via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/ai-opt-out-may-cost-publishers-a-top-stories-spot/584016/",
-      "summary": "Google is putting Top Stories carousels inside AI Overviews, raising the stakes on its new AI opt-out setting in Search Console.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-opt-out-may-cost-publishers-a-top-stories-spot/584016/\">AI Opt-Out May Cost Sites A Google Top Stories Spot</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-28T21:20:40+00:00",
-      "fetched": "2026-07-28T21:54:44.977009+00:00"
-    },
-    {
-      "id": "0f8179d4-07e3-4c29-ad92-f56909192f01",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Future Of Search & AI: What I Learned From Google\u2019s Latest Earnings Call via @sejournal, @marie_haynes",
-      "link": "https://www.searchenginejournal.com/the-future-of-search-ai-what-i-learned-from-googles-latest-earnings-call/583662/",
-      "summary": "Is Google still a search engine? Its Q2 2026 earnings call suggests the answer is changing, and website owners should plan accordingly.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-future-of-search-ai-what-i-learned-from-googles-latest-earnings-call/583662/\">The Future Of Search &#038; AI: What I Learned From Google&#8217;s Latest Earnings Call</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-28T19:00:06+00:00",
-      "fetched": "2026-07-28T21:54:44.977075+00:00"
-    },
-    {
-      "id": "1ac16442-c81b-4954-8b6d-f07086e64341",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Rankings Link Higher AI Scores To Lower Positions via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/heavily-ai-flagged-pages-still-rank-across-googles-top-10/583983/",
-      "summary": "Data ties higher AI detector scores to lower positions and to fewer pages in Google's index, though heavily flagged pages still rank in top 10.\n\nThe post <a href=\"https://www.searchenginejournal.com/heavily-ai-flagged-pages-still-rank-across-googles-top-10/583983/\">Google Rankings Link Higher AI Scores To Lower Positions</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-28T18:06:52+00:00",
-      "fetched": "2026-07-28T21:54:44.977098+00:00"
-    },
-    {
-      "id": "30649956-442f-4142-aa7b-6f87de0b6b9c",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Lost Its Scraping Case \u2013 Now You Have To Pick A Side On The Open Web via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/google-lost-its-scraping-case-now-you-have-to-pick-a-side-on-the-open-web/583066/",
-      "summary": "Google's DMCA case against scraper SerpApi collapsed because SearchGuard protects ad revenue, not copyright. The same reasoning weakens every site's anti-bot defense against AI crawlers.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-lost-its-scraping-case-now-you-have-to-pick-a-side-on-the-open-web/583066/\">Google Lost Its Scraping Case \u2013 Now You Have To Pick A Side On The Open Web</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-28T17:30:13+00:00",
-      "fetched": "2026-07-28T21:54:44.977125+00:00"
     }
   ],
-  "last_updated": "2026-07-30T21:58:22.793902+00:00"
+  "last_updated": "2026-07-31T21:55:50.392122+00:00"
 }
