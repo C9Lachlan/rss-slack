@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": "2bd18691-2335-4e07-8f46-696716fdf8ad",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "What Opting Out Of Google\u2019s AI Search Features Means Now via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/what-opting-out-of-googles-ai-search-features-means-now/584321/",
+      "summary": "Google's AI search opt-out is rolling out as Top Stories appear inside AI Overviews. What the control covers and what businesses can measure before deciding.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-opting-out-of-googles-ai-search-features-means-now/584321/\">What Opting Out Of Google&#8217;s AI Search Features Means Now</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-01T12:00:39+00:00",
+      "fetched": "2026-08-01T21:43:07.636562+00:00"
+    },
+    {
       "id": "1e49b6b9-5734-4243-a318-63321a4ada04",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -208,18 +219,7 @@
       "summary": "Find out how AI accurately describes brands but struggles with visibility. Explore Victorious' findings in this insightful report.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-brand-mention-study-victorious-spa/582765/\">AI Recognizes 96% Of Brands But Mentions Almost None, New Study Finds</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-07-29T05:00:32+00:00",
       "fetched": "2026-07-29T21:47:53.150147+00:00"
-    },
-    {
-      "id": "d2b1390d-bf8a-48ab-a5c3-3c629da8c2e2",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google On SEO Impact Of URLs Injected By CMS Platforms via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-on-seo-impact-of-urls-injected-into-html-by-cms-platforms/584037/",
-      "summary": "Google's John Mueller explains the SEO impact of random URLs injected into web pages by CMS platforms.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-on-seo-impact-of-urls-injected-into-html-by-cms-platforms/584037/\">Google On SEO Impact Of URLs Injected By CMS Platforms</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-29T00:38:31+00:00",
-      "fetched": "2026-07-29T21:47:53.150161+00:00"
     }
   ],
-  "last_updated": "2026-07-31T21:55:50.392122+00:00"
+  "last_updated": "2026-08-01T21:43:09.100386+00:00"
 }
