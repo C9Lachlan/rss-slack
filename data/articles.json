@@ -1,6 +1,94 @@
 {
   "articles": [
     {
+      "id": "fa2c6ad1-7269-45df-af0e-3e67baf67b81",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Open Knowledge Format v0.2 Adds A Trust Layer \u2013 No AI Agent Reads It Yet via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/open-knowledge-format-v0-2-adds-a-trust-layer-no-ai-agent-reads-it-yet/583661/",
+      "summary": "No agent reads your OKF bundle. Write one anyway: v0.2's provenance and staleness fields expose every claim your website cannot defend.\n\nThe post <a href=\"https://www.searchenginejournal.com/open-knowledge-format-v0-2-adds-a-trust-layer-no-ai-agent-reads-it-yet/583661/\">Open Knowledge Format v0.2 Adds A Trust Layer \u2013 No AI Agent Reads It Yet</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-03T19:00:01+00:00",
+      "fetched": "2026-08-03T21:57:32.300806+00:00"
+    },
+    {
+      "id": "08291d7c-8bb1-452d-8185-de166a579008",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why AI Recommends Your Competitor & What To Do About It via @sejournal, @lorenbaker",
+      "link": "https://www.searchenginejournal.com/why-ai-recommends-your-competitor-what-to-do-about-it/584488/",
+      "summary": "Kris Jones says one word decides whether AI recommends your brand: synthesis. Here's what that means for where you spend next quarter's budget.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-ai-recommends-your-competitor-what-to-do-about-it/584488/\">Why AI Recommends Your Competitor &#038; What To Do About It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-03T17:30:55+00:00",
+      "fetched": "2026-08-03T21:57:32.300832+00:00"
+    },
+    {
+      "id": "a6abaa28-8ace-420e-99c5-435f30bf947b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Free Advanced Link Training Lessons via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/free-advanced-link-training-lessons/584551/",
+      "summary": "One of the most advanced SEOs of all time, Bill Hartzer, is giving away free advanced link training lessons. \n\nThe post <a href=\"https://www.searchenginejournal.com/free-advanced-link-training-lessons/584551/\">Free Advanced Link Training Lessons</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-03T13:17:55+00:00",
+      "fetched": "2026-08-03T21:57:32.300852+00:00"
+    },
+    {
+      "id": "96edf150-1e43-4dd1-a07a-f7184325d481",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Recommends Using 304 Status Code To Conserve Crawl Budget via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-recommends-using-304-status-code-to-conserve-crawl-budget/584543/",
+      "summary": "Google's updated crawl budget documentation recommends serving a 304 response code to Googlebot for pages that haven't changed.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-recommends-using-304-status-code-to-conserve-crawl-budget/584543/\">Google Recommends Using 304 Status Code To Conserve Crawl Budget</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-03T12:55:15+00:00",
+      "fetched": "2026-08-03T21:57:32.300875+00:00"
+    },
+    {
+      "id": "80b1d087-768f-45c3-bd83-cbaf26c61799",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s AI Image Generation In Google Earth Literally Became Disastrous via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/googles-ai-image-generation-in-google-earth-literally-became-disastrous/584536/",
+      "summary": "Google Earth's AI image generator was rolled back after the internet used it to create realistic scenes of destruction.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-ai-image-generation-in-google-earth-literally-became-disastrous/584536/\">Google&#8217;s AI Image Generation In Google Earth Literally Became Disastrous</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-03T12:01:02+00:00",
+      "fetched": "2026-08-03T21:57:32.300895+00:00"
+    },
+    {
+      "id": "8e1f0ecd-6043-4ee8-9144-53652f2543a4",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Reviews, Reputation & Listings: The Local Signals AI Now Reads via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/reviews-reputation-listings-the-local-signals-ai-now-reads/583795/",
+      "summary": "Listing inconsistencies, review language, and third-party citations now decide whether AI assistants name your business. Fix them in this order before chasing AI visibility tactics.\n\nThe post <a href=\"https://www.searchenginejournal.com/reviews-reputation-listings-the-local-signals-ai-now-reads/583795/\">Reviews, Reputation &#038; Listings: The Local Signals AI Now Reads</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-03T12:00:26+00:00",
+      "fetched": "2026-08-03T21:57:32.300913+00:00"
+    },
+    {
+      "id": "d9e8f88c-08dc-473c-bcec-817f3471b7f6",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "EU Commission Article 50 AI Transparency Law Has Four Exemptions via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/eu-commission-article-50-ai-transparency-law-has-four-exemptions/584528/",
+      "summary": "The European Commission's AI transparency law that has taken effect contains four exemptions from its AI labeling requirements.\n\nThe post <a href=\"https://www.searchenginejournal.com/eu-commission-article-50-ai-transparency-law-has-four-exemptions/584528/\">EU Commission Article 50 AI Transparency Law Has Four Exemptions</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-03T11:27:15+00:00",
+      "fetched": "2026-08-03T21:57:32.300930+00:00"
+    },
+    {
+      "id": "a459f1ce-e479-4d51-a15b-a360b4814f92",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Documentation Refresh Offers Ideas For SEO Content Updates via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/googles-documentation-refresh-offers-seo-lessons-on-content-updates/584464/",
+      "summary": "Google's updated documentation refresh shows where to focus on when updating your own content for SEO.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-documentation-refresh-offers-seo-lessons-on-content-updates/584464/\">Google&#8217;s Documentation Refresh Offers Ideas For SEO Content Updates</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-03T09:17:27+00:00",
+      "fetched": "2026-08-03T21:57:32.300956+00:00"
+    },
+    {
       "id": "2bd18691-2335-4e07-8f46-696716fdf8ad",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -131,95 +219,7 @@
       "summary": "Treat Europe as one Google market, and you'll miss Seznam, Ecosia, Zalando, and a regulatory layer that can close a door overnight.\n\nThe post <a href=\"https://www.searchenginejournal.com/european-search-strategy-goes-beyond-google-bing/581780/\">European Search Strategy Goes Beyond Google &#038; Bing</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-07-29T17:32:12+00:00",
       "fetched": "2026-07-29T21:47:53.150026+00:00"
-    },
-    {
-      "id": "51701709-53e7-42a5-a71b-24e81547a9c5",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Opens Search Console Social Reporting To Everyone via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-opens-search-console-social-reporting-to-everyone/584144/",
-      "summary": "Search Console platform properties are now open to everyone worldwide, and Google has published a guide to reading your social and video search data.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-opens-search-console-social-reporting-to-everyone/584144/\">Google Opens Search Console Social Reporting To Everyone</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-29T17:11:33+00:00",
-      "fetched": "2026-07-29T21:47:53.150043+00:00"
-    },
-    {
-      "id": "f9dc42f2-3fda-4db5-8a99-fb6b85b2354f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Ads Bidding Strategies: Where To Spend Your Time In 2026 via @sejournal, @LisaRocksSEM",
-      "link": "https://www.searchenginejournal.com/google-ads-bidding-strategies-where-to-spend-your-time-in-2026/581479/",
-      "summary": "Lead-gen and ecommerce managers: two Google Ads bidding changes landed this summer. Here's what shifts, what doesn't, and which campaigns to audit first.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ads-bidding-strategies-where-to-spend-your-time-in-2026/581479/\">Google Ads Bidding Strategies: Where To Spend Your Time In 2026</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-29T14:30:33+00:00",
-      "fetched": "2026-07-29T21:47:53.150063+00:00"
-    },
-    {
-      "id": "e5e63171-8b7e-4dfe-b9bc-01aadf74477e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How Perplexity Actually Picks Sources (I Read The Stream, Not The Answers) via @sejournal, @suganthan",
-      "link": "https://www.searchenginejournal.com/how-perplexity-actually-picks-sources-i-read-the-stream-not-the-answers/583769/",
-      "summary": "Perplexity never skips the web, so every query is winnable. Here's what its live answer stream reveals about citations, video, and local.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-perplexity-actually-picks-sources-i-read-the-stream-not-the-answers/583769/\">How Perplexity Actually Picks Sources (I Read The Stream, Not The Answers)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-29T12:01:39+00:00",
-      "fetched": "2026-07-29T21:47:53.150079+00:00"
-    },
-    {
-      "id": "39d5da0b-e6fb-4b72-985c-6772d1bf2873",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Open Knowledge Format Adds Five Trust Signals via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/googles-open-knowledge-format-adds-five-trust-signals/584120/",
-      "summary": "Google announced version 0.2 of the Open Knowledge Format, introducing five new trust signals.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-open-knowledge-format-adds-five-trust-signals/584120/\">Google&#8217;s Open Knowledge Format Adds Five Trust Signals</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-29T11:00:20+00:00",
-      "fetched": "2026-07-29T21:47:53.150091+00:00"
-    },
-    {
-      "id": "2f438ccd-a01e-45f8-aa22-f8d49a5354bf",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Mueller: Fix Conflicting Metadata, Don\u2019t Test It via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/googles-mueller-fix-conflicting-metadata-dont-test-it/584055/",
-      "summary": "Google's John Mueller says if sites are serving conflicting metadata, they should fix the conflict, not test which source wins.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-mueller-fix-conflicting-metadata-dont-test-it/584055/\">Google&#8217;s Mueller: Fix Conflicting Metadata, Don&#8217;t Test It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-29T10:30:57+00:00",
-      "fetched": "2026-07-29T21:47:53.150110+00:00"
-    },
-    {
-      "id": "21c41066-ff87-4c7d-bc51-d6883b6e3409",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "YouTube Views Rose While Long-Form Ad Revenue Fell, Data Shows via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/youtube-views-rose-while-long-form-ad-revenue-fell-data-shows/584040/",
-      "summary": "Metricool data shows views per long-form YouTube post increased while estimated ad revenue and average view duration fell.\n\nThe post <a href=\"https://www.searchenginejournal.com/youtube-views-rose-while-long-form-ad-revenue-fell-data-shows/584040/\">YouTube Views Rose While Long-Form Ad Revenue Fell, Data Shows</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-29T09:00:29+00:00",
-      "fetched": "2026-07-29T21:47:53.150124+00:00"
-    },
-    {
-      "id": "38d5b1c5-0c52-45a7-903d-4dfe518fdb5e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Illyes Unsure On Shifting unavailable_after Dates via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/googles-illyes-unsure-on-shifting-unavailable_after-dates/584064/",
-      "summary": "Google's Gary Illyes said he would need to check whether pushing an unavailable_after date forward on every renewal causes problems. He gave a first read.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-illyes-unsure-on-shifting-unavailable_after-dates/584064/\">Google&#8217;s Illyes Unsure On Shifting unavailable_after Dates</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-29T07:00:06+00:00",
-      "fetched": "2026-07-29T21:47:53.150136+00:00"
-    },
-    {
-      "id": "cb8cf2f7-2c37-4df6-8589-fb76f4cb84d6",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Recognizes 96% Of Brands But Mentions Almost None, New Study Finds",
-      "link": "https://www.searchenginejournal.com/ai-brand-mention-study-victorious-spa/582765/",
-      "summary": "Find out how AI accurately describes brands but struggles with visibility. Explore Victorious' findings in this insightful report.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-brand-mention-study-victorious-spa/582765/\">AI Recognizes 96% Of Brands But Mentions Almost None, New Study Finds</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-29T05:00:32+00:00",
-      "fetched": "2026-07-29T21:47:53.150147+00:00"
     }
   ],
-  "last_updated": "2026-08-02T21:43:30.742700+00:00"
+  "last_updated": "2026-08-03T21:57:33.180092+00:00"
 }
