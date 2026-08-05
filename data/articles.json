@@ -1,6 +1,83 @@
 {
   "articles": [
     {
+      "id": "ab4ab009-8a58-4436-99bd-97f063e9c083",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Referrals Are Recreating The Oldest Mistake In Conversion Optimization via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/ai-referrals-are-recreating-the-oldest-mistake-in-conversion-optimization/584331/",
+      "summary": "If you run CRO or SEO, the oldest mistake in your discipline just came back wearing a new referrer string. Here's the fix.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-referrals-are-recreating-the-oldest-mistake-in-conversion-optimization/584331/\">AI Referrals Are Recreating The Oldest Mistake In Conversion Optimization</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-05T20:12:01+00:00",
+      "fetched": "2026-08-05T22:04:39.755039+00:00"
+    },
+    {
+      "id": "1fd1f032-370d-4cc6-b905-462af8015a32",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Future Of Discoverability",
+      "link": "https://www.searchenginejournal.com/the-future-of-discoverability/584489/",
+      "summary": "Articles alone stopped being a viable product. A discoverability framework for publishers: passive, active, owned \u2013 plus the intent-led journalism that gets you there.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-future-of-discoverability/584489/\">The Future Of Discoverability</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-05T19:00:27+00:00",
+      "fetched": "2026-08-05T22:04:39.755066+00:00"
+    },
+    {
+      "id": "bf3d4fd2-4613-45f7-af15-d99c637a5eeb",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "When AI Takes The Click, Click Worthiness Should Guide Your Strategy via @sejournal, @billhunt",
+      "link": "https://www.searchenginejournal.com/when-ai-takes-the-click-click-worthiness-should-guide-your-strategy/582587/",
+      "summary": "Search volume told you what people want to know. It no longer tells you whether they need you after AI answers. Click Worthiness does.\n\nThe post <a href=\"https://www.searchenginejournal.com/when-ai-takes-the-click-click-worthiness-should-guide-your-strategy/582587/\">When AI Takes The Click, Click Worthiness Should Guide Your Strategy</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-05T17:30:05+00:00",
+      "fetched": "2026-08-05T22:04:39.755086+00:00"
+    },
+    {
+      "id": "83c56543-af4b-4a93-b22b-3ce4fe685f13",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Microsoft Advertising Adds AI Visibility Insights, PMax Testing, And Creative Preview Updates via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/microsoft-advertising-adds-ai-visibility-insights-pmax-testing-and-creative-preview-updates/584760/",
+      "summary": "Microsoft Advertising expands AI Visibility, Performance Max testing, and Ad Preview Hub with new reporting, experimentation, and creative review capabilities.\n\nThe post <a href=\"https://www.searchenginejournal.com/microsoft-advertising-adds-ai-visibility-insights-pmax-testing-and-creative-preview-updates/584760/\">Microsoft Advertising Adds AI Visibility Insights, PMax Testing, And Creative Preview Updates</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal<",
+      "published": "2026-08-05T17:00:19+00:00",
+      "fetched": "2026-08-05T22:04:39.755108+00:00"
+    },
+    {
+      "id": "2adee0d6-4887-4e99-b9e2-50bac18c75c0",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Visibility Measurement: What To Track & What To Ignore",
+      "link": "https://www.searchenginejournal.com/ai-visibility-measurement-what-to-track-what-to-ignore/582009/",
+      "summary": "Citations, sentiment, and LLM referral traffic make poor KPIs. Here are the AI visibility metrics that actually connect to leads, pipeline, and revenue.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-visibility-measurement-what-to-track-what-to-ignore/582009/\">AI Visibility Measurement: What To Track &#038; What To Ignore</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-05T14:30:03+00:00",
+      "fetched": "2026-08-05T22:04:39.755126+00:00"
+    },
+    {
+      "id": "956b7939-f0ae-44ae-85f1-c440d99333a7",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Reddit Wants To Be The Destination, Not Just The Source Behind Search & AI via @sejournal, @brentcsutoras",
+      "link": "https://www.searchenginejournal.com/reddit-wants-to-be-the-destination-not-just-the-source-behind-search-ai/584586/",
+      "summary": "Reddit's Q2 call laid out the daily destination strategy and the participation problem standing in its way. What marketers should do now.\n\nThe post <a href=\"https://www.searchenginejournal.com/reddit-wants-to-be-the-destination-not-just-the-source-behind-search-ai/584586/\">Reddit Wants To Be The Destination, Not Just The Source Behind Search &#038; AI</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-05T12:00:08+00:00",
+      "fetched": "2026-08-05T22:04:39.755143+00:00"
+    },
+    {
+      "id": "59149f5a-d63e-42ad-b774-8070e056e3a5",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Reddit CEO Intends To Show More Reviews And Recommendations via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/reddit-ceo-intends-to-show-more-reviews-and-recommendations/584731/",
+      "summary": "Reddit CEO Steve Huffman revealed intent to leverage the platform's vast amount of evergreen content on recommendations and reviews.\n\nThe post <a href=\"https://www.searchenginejournal.com/reddit-ceo-intends-to-show-more-reviews-and-recommendations/584731/\">Reddit CEO Intends To Show More Reviews And Recommendations</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-05T09:17:33+00:00",
+      "fetched": "2026-08-05T22:04:39.755160+00:00"
+    },
+    {
       "id": "f4e84eff-726d-42a7-8705-39f35a41afc3",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -142,84 +219,7 @@
       "summary": "The European Commission's AI transparency law that has taken effect contains four exemptions from its AI labeling requirements.\n\nThe post <a href=\"https://www.searchenginejournal.com/eu-commission-article-50-ai-transparency-law-has-four-exemptions/584528/\">EU Commission Article 50 AI Transparency Law Has Four Exemptions</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-08-03T11:27:15+00:00",
       "fetched": "2026-08-03T21:57:32.300930+00:00"
-    },
-    {
-      "id": "a459f1ce-e479-4d51-a15b-a360b4814f92",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Documentation Refresh Offers Ideas For SEO Content Updates via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/googles-documentation-refresh-offers-seo-lessons-on-content-updates/584464/",
-      "summary": "Google's updated documentation refresh shows where to focus on when updating your own content for SEO.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-documentation-refresh-offers-seo-lessons-on-content-updates/584464/\">Google&#8217;s Documentation Refresh Offers Ideas For SEO Content Updates</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-03T09:17:27+00:00",
-      "fetched": "2026-08-03T21:57:32.300956+00:00"
-    },
-    {
-      "id": "2bd18691-2335-4e07-8f46-696716fdf8ad",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "What Opting Out Of Google\u2019s AI Search Features Means Now via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/what-opting-out-of-googles-ai-search-features-means-now/584321/",
-      "summary": "Google's AI search opt-out is rolling out as Top Stories appear inside AI Overviews. What the control covers and what businesses can measure before deciding.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-opting-out-of-googles-ai-search-features-means-now/584321/\">What Opting Out Of Google&#8217;s AI Search Features Means Now</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-01T12:00:39+00:00",
-      "fetched": "2026-08-01T21:43:07.636562+00:00"
-    },
-    {
-      "id": "1e49b6b9-5734-4243-a318-63321a4ada04",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Cloudflare\u2019s PACT Is Not Live Yet \u2013 Decide Which Track Your Traffic Needs via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/cloudflares-pact-is-not-live-yet-decide-which-track-your-traffic-needs/580328/",
-      "summary": "Cloudflare and three rival browsers agreed on one protocol. That's rare. It still only solves half of the agentic access problem.\n\nThe post <a href=\"https://www.searchenginejournal.com/cloudflares-pact-is-not-live-yet-decide-which-track-your-traffic-needs/580328/\">Cloudflare&#8217;s PACT Is Not Live Yet \u2013 Decide Which Track Your Traffic Needs</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-31T14:30:32+00:00",
-      "fetched": "2026-07-31T21:55:49.679522+00:00"
-    },
-    {
-      "id": "8c0ed93e-b39c-450d-9c5d-681806bf335b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Social Search Data For All, AI-Detected Pages Rank Lower \u2013 SEO Pulse via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-social-search-data-for-all-ai-detected-pages-rank-lower/584337/",
-      "summary": "This week\u2019s SEO Pulse covers expanded Search Console social reporting, Ahrefs\u2019 AI-content ranking analysis, AI opt-out implications, and metadata guidance.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-social-search-data-for-all-ai-detected-pages-rank-lower/584337/\">Social Search Data For All, AI-Detected Pages Rank Lower \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-31T12:30:09+00:00",
-      "fetched": "2026-07-31T21:55:49.679548+00:00"
-    },
-    {
-      "id": "0a33f5d6-785c-495b-a9be-9b5950353ddd",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google May Treat Search Box Pages As A Site Quality Issue via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-may-treat-search-box-pages-as-a-site-quality-issue/584419/",
-      "summary": "Google said that spammed search box pages may become a site quality issue and dealt with as if they were hacked.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-may-treat-search-box-pages-as-a-site-quality-issue/584419/\">Google May Treat Search Box Pages As A Site Quality Issue</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-31T11:24:14+00:00",
-      "fetched": "2026-07-31T21:55:49.679567+00:00"
-    },
-    {
-      "id": "a1d55c85-7113-461d-a5e8-1838e8251007",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "WP Engine Partners With BigCommerce To Scale WordPress Stores via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/wp-engine-bigcommerce-wordpress-stores/584343/",
-      "summary": "WP Engine announced Commerce Connect, a safe way for fast-growth brands to modernize and scale while preserving design, SEO, and user experience.\n\nThe post <a href=\"https://www.searchenginejournal.com/wp-engine-bigcommerce-wordpress-stores/584343/\">WP Engine Partners With BigCommerce To Scale WordPress Stores</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-30T23:04:36+00:00",
-      "fetched": "2026-07-31T21:55:49.679590+00:00"
-    },
-    {
-      "id": "b7f132ed-31ed-4631-81be-5f2b297cd254",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Search Isn\u2019t Replacing Google, It\u2019s Layering On Top \u2013 Similarweb Data via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/ai-search-isnt-replacing-google-its-layering-on-top-similarweb-data/583378/",
-      "summary": "New Similarweb figures reveal how narrowly ChatGPT distributes its outbound clicks, and what that concentration means for publishers chasing AI referral traffic.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-search-isnt-replacing-google-its-layering-on-top-similarweb-data/583378/\">AI Search Isn&#8217;t Replacing Google, It&#8217;s Layering On Top \u2013 Similarweb Data</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-07-30T19:00:03+00:00",
-      "fetched": "2026-07-30T21:58:21.970425+00:00"
     }
   ],
-  "last_updated": "2026-08-04T22:02:30.705121+00:00"
+  "last_updated": "2026-08-05T22:04:40.661741+00:00"
 }
