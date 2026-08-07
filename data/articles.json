@@ -1,6 +1,83 @@
 {
   "articles": [
     {
+      "id": "ba4344b2-da6e-4127-a216-bd932cd4bbf6",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "WordPress Security Release 7.0.3 Fixes High Severity XSS Vulnerability via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/wordpress-security-release-7-0-3-fixes-high-severity-xss-vulnerability/584927/",
+      "summary": "WordPress security update fixes 12 vulnerabilities. Security researcher: \"nastiest one is a login screen XSS.\"\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-security-release-7-0-3-fixes-high-severity-xss-vulnerability/584927/\">WordPress Security Release 7.0.3 Fixes High Severity XSS Vulnerability</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-06T23:02:34+00:00",
+      "fetched": "2026-08-07T00:58:48.945491+00:00"
+    },
+    {
+      "id": "781902f4-2c84-4ea7-820b-2d645cf66695",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "I Helped Scale Google Ads To Billions \u2013 Here\u2019s How I\u2019d Build An AI Search Strategy Today",
+      "link": "https://www.searchenginejournal.com/i-helped-scale-google-ads-to-billions-heres-how-id-build-an-ai-search-strategy-today/582556/",
+      "summary": "Impression share ran the auction years. Citation share runs this one. A 90-day sprint for measuring and winning AI search visibility.\n\nThe post <a href=\"https://www.searchenginejournal.com/i-helped-scale-google-ads-to-billions-heres-how-id-build-an-ai-search-strategy-today/582556/\">I Helped Scale Google Ads To Billions \u2013 Here&#8217;s How I&#8217;d Build An AI Search Strategy Today</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-06T19:00:59+00:00",
+      "fetched": "2026-08-07T00:58:48.945521+00:00"
+    },
+    {
+      "id": "d2377357-59b4-4ed6-bc94-33a16da3cd8a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why Part Of Your AI Authority Takes Years, Not Campaigns & Why It Comes From Other People via @sejournal, @DuaneForrester",
+      "link": "https://www.searchenginejournal.com/why-part-of-your-ai-authority-takes-years-not-campaigns-why-it-comes-from-other-people/584467/",
+      "summary": "Set expectations before tactics: parametric standing moves on model generations, responds to being described, and sits in functions nobody measured against it.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-part-of-your-ai-authority-takes-years-not-campaigns-why-it-comes-from-other-people/584467/\">Why Part Of Your AI Authority Takes Years, Not Campaigns &#038; Why It Comes From Other People</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.",
+      "published": "2026-08-06T14:30:36+00:00",
+      "fetched": "2026-08-07T00:58:48.945542+00:00"
+    },
+    {
+      "id": "5f42109a-342d-4d0d-a5c8-e96c4fb08589",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "WordPress 7.1 Accessibility Change May Break Some Plugins via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/wordpress-7-1-accessibility-change-may-break-some-plugins/584820/",
+      "summary": "A WordPress 7.1 accessibility improvement could impact some plugins that make changes in the admin screens.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-7-1-accessibility-change-may-break-some-plugins/584820/\">WordPress 7.1 Accessibility Change May Break Some Plugins</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-06T13:10:41+00:00",
+      "fetched": "2026-08-07T00:58:48.945565+00:00"
+    },
+    {
+      "id": "20642dfc-e78f-4c02-93e2-80cbd97d03e1",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How AI Search Trends Are Changing PPC Campaign Structures\u00a0\u2013 Ask A PPC via @sejournal, @navahf",
+      "link": "https://www.searchenginejournal.com/how-ai-search-trends-are-changing-ppc-campaign-structures-ask-a-ppc/584004/",
+      "summary": "AI research habits are reshaping PPC accounts. Here is when to consolidate, when to segment, and how conversion values keep budget flowing to valuable buyers.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-ai-search-trends-are-changing-ppc-campaign-structures-ask-a-ppc/584004/\">How AI Search Trends Are Changing PPC Campaign Structures\u00a0\u2013 Ask A PPC</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-06T12:00:53+00:00",
+      "fetched": "2026-08-07T00:58:48.945586+00:00"
+    },
+    {
+      "id": "77c417cf-4d9f-45a9-9328-8c645be6631f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Trust Signals That Get Your Brand Cited By AI Overviews, Just Like Freshpet [Webinar] via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/the-trust-signals-that-get-your-brand-cited-by-ai-overviews-just-like-freshpet-webinar/584796/",
+      "summary": "Learn how Freshpet stands out in AI Overviews and why trust signals matter for brand recognition in AI search.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-trust-signals-that-get-your-brand-cited-by-ai-overviews-just-like-freshpet-webinar/584796/\">The Trust Signals That Get Your Brand Cited By AI Overviews, Just Like Freshpet [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-06T07:45:50+00:00",
+      "fetched": "2026-08-07T00:58:48.945605+00:00"
+    },
+    {
+      "id": "b1c30cb0-fc1f-473c-8b47-66b4fb2c1e20",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Chief Scientist Who Helped Build Modern Search And AI Steps Away via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-loses-the-engineer-who-helped-build-search-and-modern-ai/584785/",
+      "summary": "Google loses Jeff Dean, who helped build Google Search and AI, replaced by DeepMind's Demis Hassabis as Chief Scientist.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-loses-the-engineer-who-helped-build-search-and-modern-ai/584785/\">Google Chief Scientist Who Helped Build Modern Search And AI Steps Away</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-05T22:16:33+00:00",
+      "fetched": "2026-08-07T00:58:48.945627+00:00"
+    },
+    {
       "id": "ab4ab009-8a58-4436-99bd-97f063e9c083",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -142,84 +219,7 @@
       "summary": "Snap announced that it is removing wholly AI-generated videos from Snapchat's Spotlight recommendations in favor of promoting authentic human-authored experiences.\n\nThe post <a href=\"https://www.searchenginejournal.com/snapchat-clamps-down-on-ai-generated-spotlight-videos/584594/\">Snapchat Clamps Down On AI-Generated Videos</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-08-03T22:23:57+00:00",
       "fetched": "2026-08-04T22:02:29.914119+00:00"
-    },
-    {
-      "id": "fa2c6ad1-7269-45df-af0e-3e67baf67b81",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Open Knowledge Format v0.2 Adds A Trust Layer \u2013 No AI Agent Reads It Yet via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/open-knowledge-format-v0-2-adds-a-trust-layer-no-ai-agent-reads-it-yet/583661/",
-      "summary": "No agent reads your OKF bundle. Write one anyway: v0.2's provenance and staleness fields expose every claim your website cannot defend.\n\nThe post <a href=\"https://www.searchenginejournal.com/open-knowledge-format-v0-2-adds-a-trust-layer-no-ai-agent-reads-it-yet/583661/\">Open Knowledge Format v0.2 Adds A Trust Layer \u2013 No AI Agent Reads It Yet</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-03T19:00:01+00:00",
-      "fetched": "2026-08-03T21:57:32.300806+00:00"
-    },
-    {
-      "id": "08291d7c-8bb1-452d-8185-de166a579008",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why AI Recommends Your Competitor & What To Do About It via @sejournal, @lorenbaker",
-      "link": "https://www.searchenginejournal.com/why-ai-recommends-your-competitor-what-to-do-about-it/584488/",
-      "summary": "Kris Jones says one word decides whether AI recommends your brand: synthesis. Here's what that means for where you spend next quarter's budget.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-ai-recommends-your-competitor-what-to-do-about-it/584488/\">Why AI Recommends Your Competitor &#038; What To Do About It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-03T17:30:55+00:00",
-      "fetched": "2026-08-03T21:57:32.300832+00:00"
-    },
-    {
-      "id": "a6abaa28-8ace-420e-99c5-435f30bf947b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Free Advanced Link Training Lessons via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/free-advanced-link-training-lessons/584551/",
-      "summary": "One of the most advanced SEOs of all time, Bill Hartzer, is giving away free advanced link training lessons. \n\nThe post <a href=\"https://www.searchenginejournal.com/free-advanced-link-training-lessons/584551/\">Free Advanced Link Training Lessons</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-03T13:17:55+00:00",
-      "fetched": "2026-08-03T21:57:32.300852+00:00"
-    },
-    {
-      "id": "96edf150-1e43-4dd1-a07a-f7184325d481",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Recommends Using 304 Status Code To Conserve Crawl Budget via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-recommends-using-304-status-code-to-conserve-crawl-budget/584543/",
-      "summary": "Google's updated crawl budget documentation recommends serving a 304 response code to Googlebot for pages that haven't changed.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-recommends-using-304-status-code-to-conserve-crawl-budget/584543/\">Google Recommends Using 304 Status Code To Conserve Crawl Budget</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-03T12:55:15+00:00",
-      "fetched": "2026-08-03T21:57:32.300875+00:00"
-    },
-    {
-      "id": "80b1d087-768f-45c3-bd83-cbaf26c61799",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s AI Image Generation In Google Earth Literally Became Disastrous via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/googles-ai-image-generation-in-google-earth-literally-became-disastrous/584536/",
-      "summary": "Google Earth's AI image generator was rolled back after the internet used it to create realistic scenes of destruction.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-ai-image-generation-in-google-earth-literally-became-disastrous/584536/\">Google&#8217;s AI Image Generation In Google Earth Literally Became Disastrous</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-03T12:01:02+00:00",
-      "fetched": "2026-08-03T21:57:32.300895+00:00"
-    },
-    {
-      "id": "8e1f0ecd-6043-4ee8-9144-53652f2543a4",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Reviews, Reputation & Listings: The Local Signals AI Now Reads via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/reviews-reputation-listings-the-local-signals-ai-now-reads/583795/",
-      "summary": "Listing inconsistencies, review language, and third-party citations now decide whether AI assistants name your business. Fix them in this order before chasing AI visibility tactics.\n\nThe post <a href=\"https://www.searchenginejournal.com/reviews-reputation-listings-the-local-signals-ai-now-reads/583795/\">Reviews, Reputation &#038; Listings: The Local Signals AI Now Reads</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-03T12:00:26+00:00",
-      "fetched": "2026-08-03T21:57:32.300913+00:00"
-    },
-    {
-      "id": "d9e8f88c-08dc-473c-bcec-817f3471b7f6",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "EU Commission Article 50 AI Transparency Law Has Four Exemptions via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/eu-commission-article-50-ai-transparency-law-has-four-exemptions/584528/",
-      "summary": "The European Commission's AI transparency law that has taken effect contains four exemptions from its AI labeling requirements.\n\nThe post <a href=\"https://www.searchenginejournal.com/eu-commission-article-50-ai-transparency-law-has-four-exemptions/584528/\">EU Commission Article 50 AI Transparency Law Has Four Exemptions</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-03T11:27:15+00:00",
-      "fetched": "2026-08-03T21:57:32.300930+00:00"
     }
   ],
-  "last_updated": "2026-08-05T22:04:40.661741+00:00"
+  "last_updated": "2026-08-07T00:58:49.877559+00:00"
 }
