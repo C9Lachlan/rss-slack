@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "a8777780-a8da-415a-b05a-97d97347f50f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Search Only Feels New If Your SEO Was Shallow via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/ai-search-only-feels-new-if-your-seo-was-shallow/584115/",
+      "summary": "AI search only feels like a new sport to the people who were never really training. Here's what actually changed, and what didn't.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-search-only-feels-new-if-your-seo-was-shallow/584115/\">AI Search Only Feels New If Your SEO Was Shallow</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-07T19:00:31+00:00",
+      "fetched": "2026-08-07T21:27:38.630984+00:00"
+    },
+    {
+      "id": "e3e815c7-a61f-42f9-a93f-439cb84319d8",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Gen Z Now Treats Claude And OpenAI Like Consumer Brands, But Trust Is Still An Issue via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/gen-z-now-treats-claude-and-openai-like-consumer-brands-but-trust-is-still-an-issue/584449/",
+      "summary": "YouGov data shows Claude and OpenAI doubling Gen Z consideration while U.S. trust in AI assistants sits at 28%, a gap that reshapes GEO plans.\n\nThe post <a href=\"https://www.searchenginejournal.com/gen-z-now-treats-claude-and-openai-like-consumer-brands-but-trust-is-still-an-issue/584449/\">Gen Z Now Treats Claude And OpenAI Like Consumer Brands, But Trust Is Still An Issue</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-07T14:30:16+00:00",
+      "fetched": "2026-08-07T21:27:38.631009+00:00"
+    },
+    {
+      "id": "58d3fe65-81b6-46d3-a6db-9d576fc436b4",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Ex-AI Chief Jeff Dean Explains How To Improve Context Engineering via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/googles-ex-ai-chief-jeff-dean-explains-how-to-improve-context-engineering/584955/",
+      "summary": "Google's former Chief Scientist explains why AI models are less important and why context engineering increasingly matters more.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-ex-ai-chief-jeff-dean-explains-how-to-improve-context-engineering/584955/\">Google&#8217;s Ex-AI Chief Jeff Dean Explains How To Improve Context Engineering</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-07T12:11:48+00:00",
+      "fetched": "2026-08-07T21:27:38.631028+00:00"
+    },
+    {
+      "id": "991f77bd-c119-460b-814c-db4bc2238429",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How Cats.txt Showed LLMs.txt Evidence Is GEO Astrology",
+      "link": "https://www.searchenginejournal.com/how-cats-txt-showed-llms-txt-evidence-is-geo-astrology/584653/",
+      "summary": "The four arguments used to sell llms.txt would pass a text file about cats. Here's why that matters for every GEO tactic you're buying.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-cats-txt-showed-llms-txt-evidence-is-geo-astrology/584653/\">How Cats.txt Showed LLMs.txt Evidence Is GEO Astrology</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-07T12:00:42+00:00",
+      "fetched": "2026-08-07T21:27:38.631050+00:00"
+    },
+    {
+      "id": "3c6c2496-321f-487c-a719-b9daee22a0df",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The AEO Playbook: How to Get Cited & Stay Visible via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/aeo-playbook-get-cited-stay-visible-recap/584926/",
+      "summary": "Unlock the AEO playbook and discover how to stay visible in an AI-driven search landscape and earn valuable citations.\n\nThe post <a href=\"https://www.searchenginejournal.com/aeo-playbook-get-cited-stay-visible-recap/584926/\">The AEO Playbook: How to Get Cited &#038; Stay Visible</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-07T07:45:43+00:00",
+      "fetched": "2026-08-07T21:27:38.631067+00:00"
+    },
+    {
       "id": "ba4344b2-da6e-4127-a216-bd932cd4bbf6",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -164,62 +219,7 @@
       "summary": "Most publishers think robots.txt keeps them out of AI Overviews. It doesn't. John Shehata's data shows what the wrong setting actually costs newsrooms.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-top-stories-inside-ai-overviews-means-for-publishers-and-brands-in-2026-and-beyond/584175/\">What Top Stories Inside AI Overviews Means For Publishers And Brands In 2026 And Beyond</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-08-04T19:00:12+00:00",
       "fetched": "2026-08-04T22:02:29.914018+00:00"
-    },
-    {
-      "id": "c463aaf2-e0ee-4645-8fa3-bdf8286eac10",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Report That Cloudflare AI Bot Blocking Prevents Googlebot From Indexing Sites via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/report-that-cloudflare-ai-bot-blocking-prevents-googlebot-from-indexing-sites/584673/",
-      "summary": "Anecdotal report that blocking AI training bots with Cloudflare blocks Googlebot from indexing websites.\n\nThe post <a href=\"https://www.searchenginejournal.com/report-that-cloudflare-ai-bot-blocking-prevents-googlebot-from-indexing-sites/584673/\">Report That Cloudflare AI Bot Blocking Prevents Googlebot From Indexing Sites</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-04T15:18:58+00:00",
-      "fetched": "2026-08-04T22:02:29.914044+00:00"
-    },
-    {
-      "id": "fa5f4bc6-b6a1-4f34-a516-ecc8d96abcad",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Now Reports AI Search Impressions. Here\u2019s How To Read Them via @sejournal, @cshel",
-      "link": "https://www.searchenginejournal.com/google-reports-ai-search-impressions-how-to-read-them/582824/",
-      "summary": "Comparing which pages Google uses in AI answers against how they rank conventionally is where the new Search Console report earns its keep.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-reports-ai-search-impressions-how-to-read-them/582824/\">Google Now Reports AI Search Impressions. Here\u2019s How To Read Them</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-04T14:30:39+00:00",
-      "fetched": "2026-08-04T22:02:29.914064+00:00"
-    },
-    {
-      "id": "21a1fad7-ffac-4f62-ac19-b8f73680d1b9",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Paid Search Absorbed Organic\u2019s Collapse \u2013 Then Q2 Slowed Down via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/paid-search-absorbed-organics-collapse-then-q2-slowed-down/583560/",
-      "summary": "Google paid search growth slowed in Q2 2026. See what tougher comparisons and shifting ad spend mean for PPC budgets and H2 planning.\n\nThe post <a href=\"https://www.searchenginejournal.com/paid-search-absorbed-organics-collapse-then-q2-slowed-down/583560/\">Paid Search Absorbed Organic&#8217;s Collapse \u2013 Then Q2 Slowed Down</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-04T12:00:50+00:00",
-      "fetched": "2026-08-04T22:02:29.914086+00:00"
-    },
-    {
-      "id": "08b7f09b-2f7f-45e3-a590-e4737c231d48",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "WooCommerce Social Login WordPress Plugin Enables Full Site Takeover via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/woocommerce-social-login-wordpress-plugin-enables-full-site-takeover/584601/",
-      "summary": "WooCommerce Social Login vulnerability enables unauthenticated attackers to gain full control of ecommerce sites.\n\nThe post <a href=\"https://www.searchenginejournal.com/woocommerce-social-login-wordpress-plugin-enables-full-site-takeover/584601/\">WooCommerce Social Login WordPress Plugin Enables Full Site Takeover</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-03T23:26:39+00:00",
-      "fetched": "2026-08-04T22:02:29.914103+00:00"
-    },
-    {
-      "id": "ff3a7f61-610f-4c02-908f-d583dedb0a5a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Snapchat Clamps Down On AI-Generated Videos via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/snapchat-clamps-down-on-ai-generated-spotlight-videos/584594/",
-      "summary": "Snap announced that it is removing wholly AI-generated videos from Snapchat's Spotlight recommendations in favor of promoting authentic human-authored experiences.\n\nThe post <a href=\"https://www.searchenginejournal.com/snapchat-clamps-down-on-ai-generated-spotlight-videos/584594/\">Snapchat Clamps Down On AI-Generated Videos</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-03T22:23:57+00:00",
-      "fetched": "2026-08-04T22:02:29.914119+00:00"
     }
   ],
-  "last_updated": "2026-08-07T00:58:49.877559+00:00"
+  "last_updated": "2026-08-07T21:27:39.280152+00:00"
 }
