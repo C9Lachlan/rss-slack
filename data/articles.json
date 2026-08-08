@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": "2a27c2a4-2c54-4d25-a694-2cdd531ebd3a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI\u2019s Impact Is Outrunning Measurement: The Trust And Attribution Gap Facing Brands via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/ais-impact-is-outrunning-measurement-the-trust-and-attribution-gap-facing-brands/584141/",
+      "summary": "AI's impact outpaced our ability to measure it in H1 2026. Indig's citation data, agent share shifts, and the intelligence-versus-agency split explain what changes next.\n\nThe post <a href=\"https://www.searchenginejournal.com/ais-impact-is-outrunning-measurement-the-trust-and-attribution-gap-facing-brands/584141/\">AI&#8217;s Impact Is Outrunning Measurement: The Trust And Attribution Gap Facing Brands</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-08T12:00:30+00:00",
+      "fetched": "2026-08-08T21:19:08.212331+00:00"
+    },
+    {
       "id": "a8777780-a8da-415a-b05a-97d97347f50f",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -208,18 +219,7 @@
       "summary": "Reddit CEO Steve Huffman revealed intent to leverage the platform's vast amount of evergreen content on recommendations and reviews.\n\nThe post <a href=\"https://www.searchenginejournal.com/reddit-ceo-intends-to-show-more-reviews-and-recommendations/584731/\">Reddit CEO Intends To Show More Reviews And Recommendations</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-08-05T09:17:33+00:00",
       "fetched": "2026-08-05T22:04:39.755160+00:00"
-    },
-    {
-      "id": "f4e84eff-726d-42a7-8705-39f35a41afc3",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "What Top Stories Inside AI Overviews Means For Publishers And Brands In 2026 And Beyond via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/what-top-stories-inside-ai-overviews-means-for-publishers-and-brands-in-2026-and-beyond/584175/",
-      "summary": "Most publishers think robots.txt keeps them out of AI Overviews. It doesn't. John Shehata's data shows what the wrong setting actually costs newsrooms.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-top-stories-inside-ai-overviews-means-for-publishers-and-brands-in-2026-and-beyond/584175/\">What Top Stories Inside AI Overviews Means For Publishers And Brands In 2026 And Beyond</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-04T19:00:12+00:00",
-      "fetched": "2026-08-04T22:02:29.914018+00:00"
     }
   ],
-  "last_updated": "2026-08-07T21:27:39.280152+00:00"
+  "last_updated": "2026-08-08T21:19:09.329001+00:00"
 }
