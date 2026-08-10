@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "4b804bc1-78d3-4d54-9165-2588c2fd5733",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Scenic Route To ROI: Mastering Non-Linear Targeting In Google Ads",
+      "link": "https://www.searchenginejournal.com/the-scenic-route-to-roi-mastering-non-linear-targeting-in-google-ads/581784/",
+      "summary": "Six real non-linear campaigns showing which adjacent Google Ads segments actually reach restricted or niche audiences.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-scenic-route-to-roi-mastering-non-linear-targeting-in-google-ads/581784/\">The Scenic Route To ROI: Mastering Non-Linear Targeting In Google Ads</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-10T19:02:53+00:00",
+      "fetched": "2026-08-10T21:31:10.402655+00:00"
+    },
+    {
+      "id": "4fda7fd4-a405-494f-bbb7-06e2973ad149",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Announces Campaign Benchmarking In Google Analytics via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-analytics-will-benchmark-campaigns-through-ask-advisor/585213/",
+      "summary": "Google announced that its Ask Advisor AI agent will compare campaign performance in Google Analytics against anonymized averages from similar businesses.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-analytics-will-benchmark-campaigns-through-ask-advisor/585213/\">Google Announces Campaign Benchmarking In Google Analytics</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-10T14:30:42+00:00",
+      "fetched": "2026-08-10T21:31:10.402681+00:00"
+    },
+    {
+      "id": "52da5528-785d-442c-a076-de7b307cde05",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Microsoft Clarity Now Separates Branded And Non-Branded AI Citations via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/clarity-branded-non-branded-ai-citations/584654/",
+      "summary": "Clarity now splits AI citation queries into branded and non-branded. The two mean different things, and only one counts as discovery.\n\nThe post <a href=\"https://www.searchenginejournal.com/clarity-branded-non-branded-ai-citations/584654/\">Microsoft Clarity Now Separates Branded And Non-Branded AI Citations</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-10T13:06:54+00:00",
+      "fetched": "2026-08-10T21:31:10.402699+00:00"
+    },
+    {
+      "id": "7bcf0434-3971-4053-95a3-1947be284acc",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Common Crawl Published A Manual For Being Visible To AI, I Automated It via @sejournal, @suganthan",
+      "link": "https://www.searchenginejournal.com/common-crawl-published-a-manual-for-being-visible-to-ai-i-automated-it/584466/",
+      "summary": "Check captures, robots.txt history, block fingerprints and a live CCBot probe for any domain, free, straight from Common Crawl's own archives.\n\nThe post <a href=\"https://www.searchenginejournal.com/common-crawl-published-a-manual-for-being-visible-to-ai-i-automated-it/584466/\">Common Crawl Published A Manual For Being Visible To AI, I Automated It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-10T12:00:21+00:00",
+      "fetched": "2026-08-10T21:31:10.402721+00:00"
+    },
+    {
+      "id": "9230aef4-bb51-4425-af56-786aeb8c703c",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Remove Negative Content From Google Before AI Answers Cite It via @sejournal, @EraseDotCom",
+      "link": "https://www.searchenginejournal.com/how-to-remove-negative-content-from-google-before-ai-answers-cite-it-spa/582989/",
+      "summary": "Can you remove negative content from Google? Uncover the truth about suppression and overcoming unfavorable online articles.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-remove-negative-content-from-google-before-ai-answers-cite-it-spa/582989/\">How To Remove Negative Content From Google Before AI Answers Cite It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-10T05:00:33+00:00",
+      "fetched": "2026-08-10T21:31:10.402738+00:00"
+    },
+    {
       "id": "2a27c2a4-2c54-4d25-a694-2cdd531ebd3a",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -164,62 +219,7 @@
       "summary": "Articles alone stopped being a viable product. A discoverability framework for publishers: passive, active, owned \u2013 plus the intent-led journalism that gets you there.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-future-of-discoverability/584489/\">The Future Of Discoverability</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-08-05T19:00:27+00:00",
       "fetched": "2026-08-05T22:04:39.755066+00:00"
-    },
-    {
-      "id": "bf3d4fd2-4613-45f7-af15-d99c637a5eeb",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "When AI Takes The Click, Click Worthiness Should Guide Your Strategy via @sejournal, @billhunt",
-      "link": "https://www.searchenginejournal.com/when-ai-takes-the-click-click-worthiness-should-guide-your-strategy/582587/",
-      "summary": "Search volume told you what people want to know. It no longer tells you whether they need you after AI answers. Click Worthiness does.\n\nThe post <a href=\"https://www.searchenginejournal.com/when-ai-takes-the-click-click-worthiness-should-guide-your-strategy/582587/\">When AI Takes The Click, Click Worthiness Should Guide Your Strategy</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-05T17:30:05+00:00",
-      "fetched": "2026-08-05T22:04:39.755086+00:00"
-    },
-    {
-      "id": "83c56543-af4b-4a93-b22b-3ce4fe685f13",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Microsoft Advertising Adds AI Visibility Insights, PMax Testing, And Creative Preview Updates via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/microsoft-advertising-adds-ai-visibility-insights-pmax-testing-and-creative-preview-updates/584760/",
-      "summary": "Microsoft Advertising expands AI Visibility, Performance Max testing, and Ad Preview Hub with new reporting, experimentation, and creative review capabilities.\n\nThe post <a href=\"https://www.searchenginejournal.com/microsoft-advertising-adds-ai-visibility-insights-pmax-testing-and-creative-preview-updates/584760/\">Microsoft Advertising Adds AI Visibility Insights, PMax Testing, And Creative Preview Updates</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal<",
-      "published": "2026-08-05T17:00:19+00:00",
-      "fetched": "2026-08-05T22:04:39.755108+00:00"
-    },
-    {
-      "id": "2adee0d6-4887-4e99-b9e2-50bac18c75c0",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Visibility Measurement: What To Track & What To Ignore",
-      "link": "https://www.searchenginejournal.com/ai-visibility-measurement-what-to-track-what-to-ignore/582009/",
-      "summary": "Citations, sentiment, and LLM referral traffic make poor KPIs. Here are the AI visibility metrics that actually connect to leads, pipeline, and revenue.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-visibility-measurement-what-to-track-what-to-ignore/582009/\">AI Visibility Measurement: What To Track &#038; What To Ignore</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-05T14:30:03+00:00",
-      "fetched": "2026-08-05T22:04:39.755126+00:00"
-    },
-    {
-      "id": "956b7939-f0ae-44ae-85f1-c440d99333a7",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Reddit Wants To Be The Destination, Not Just The Source Behind Search & AI via @sejournal, @brentcsutoras",
-      "link": "https://www.searchenginejournal.com/reddit-wants-to-be-the-destination-not-just-the-source-behind-search-ai/584586/",
-      "summary": "Reddit's Q2 call laid out the daily destination strategy and the participation problem standing in its way. What marketers should do now.\n\nThe post <a href=\"https://www.searchenginejournal.com/reddit-wants-to-be-the-destination-not-just-the-source-behind-search-ai/584586/\">Reddit Wants To Be The Destination, Not Just The Source Behind Search &#038; AI</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-05T12:00:08+00:00",
-      "fetched": "2026-08-05T22:04:39.755143+00:00"
-    },
-    {
-      "id": "59149f5a-d63e-42ad-b774-8070e056e3a5",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Reddit CEO Intends To Show More Reviews And Recommendations via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/reddit-ceo-intends-to-show-more-reviews-and-recommendations/584731/",
-      "summary": "Reddit CEO Steve Huffman revealed intent to leverage the platform's vast amount of evergreen content on recommendations and reviews.\n\nThe post <a href=\"https://www.searchenginejournal.com/reddit-ceo-intends-to-show-more-reviews-and-recommendations/584731/\">Reddit CEO Intends To Show More Reviews And Recommendations</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-05T09:17:33+00:00",
-      "fetched": "2026-08-05T22:04:39.755160+00:00"
     }
   ],
-  "last_updated": "2026-08-09T21:20:54.251156+00:00"
+  "last_updated": "2026-08-10T21:31:11.204943+00:00"
 }
