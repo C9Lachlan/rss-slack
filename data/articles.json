@@ -1,6 +1,94 @@
 {
   "articles": [
     {
+      "id": "1f32738b-e991-4b39-b02c-e8db941a627a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "ChatGPT\u2019s Search Index Serves Small Sites Too, Data Shows via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/chatgpts-search-index-serves-small-sites-too-data-shows/585388/",
+      "summary": "New data finds no difference in how OpenAI's in-house search index served licensed and unlicensed sites.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpts-search-index-serves-small-sites-too-data-shows/585388/\">ChatGPT&#8217;s Search Index Serves Small Sites Too, Data Shows</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-11T19:11:46+00:00",
+      "fetched": "2026-08-11T21:34:09.765988+00:00"
+    },
+    {
+      "id": "28edc8bb-4ffa-4dfc-8c97-2b4f208d6be5",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Metric Most SEOs Are Still Not Measuring In The Age Of AI via @sejournal, @SequinsNsearch",
+      "link": "https://www.searchenginejournal.com/the-metric-most-seos-are-still-not-measuring-in-the-age-of-ai/584027/",
+      "summary": "AI answers now shape choices before anyone reaches your site. Measuring alignment with decision drivers matters more than measuring the clicks that follow.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-metric-most-seos-are-still-not-measuring-in-the-age-of-ai/584027/\">The Metric Most SEOs Are Still Not Measuring In The Age Of AI</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-11T19:00:19+00:00",
+      "fetched": "2026-08-11T21:34:09.766014+00:00"
+    },
+    {
+      "id": "4fd58a95-a9bc-46b6-be58-23cd64ada5bd",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Organic Traffic Dropped? What to Tell Clients & the AI Visibility Metrics to Report Instead",
+      "link": "https://www.searchenginejournal.com/organic-traffic-dropped-what-to-tell-clients-the-ai-visibility-metrics-to-report-instead-spa/584388/",
+      "summary": "Is your organic traffic dropped? Learn the reasons behind this common issue affecting many agencies today.\n\nThe post <a href=\"https://www.searchenginejournal.com/organic-traffic-dropped-what-to-tell-clients-the-ai-visibility-metrics-to-report-instead-spa/584388/\">Organic Traffic Dropped? What to Tell Clients &#038; the AI Visibility Metrics to Report Instead</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-11T18:59:11+00:00",
+      "fetched": "2026-08-11T21:34:09.766032+00:00"
+    },
+    {
+      "id": "6c2b1e0e-cbb9-48af-be7a-0ed99936a81c",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Anthropic To Mark Claude Text & Files Under EU AI Act Code via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/anthropic-claude-watermarks-eu-ai-act-code/585355/",
+      "summary": "Anthropic will embed invisible watermarks in Claude text and sign generated files.\n\nThe post <a href=\"https://www.searchenginejournal.com/anthropic-claude-watermarks-eu-ai-act-code/585355/\">Anthropic To Mark Claude Text &#038; Files Under EU AI Act Code</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-11T16:03:35+00:00",
+      "fetched": "2026-08-11T21:34:09.766055+00:00"
+    },
+    {
+      "id": "5ba90134-c7bf-4f91-8e4f-b86cf6a3cd27",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How TransUnion\u2019s AI Findings Should Change the Way SEOs Pitch GEO via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/how-transunions-ai-findings-should-change-the-way-seos-pitch-geo/584922/",
+      "summary": "TransUnion's survey of 100 marketing leaders shows AI search blind spots mirror walled garden measurement gaps. Frame GEO as a company-wide problem to get funded.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-transunions-ai-findings-should-change-the-way-seos-pitch-geo/584922/\">How TransUnion&#8217;s AI Findings Should Change the Way SEOs Pitch GEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-11T14:30:56+00:00",
+      "fetched": "2026-08-11T21:34:09.766072+00:00"
+    },
+    {
+      "id": "2cd3d3bc-333d-42b4-be42-eb46e0ce4e4d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "YouTube Updates Partner Program Terms & Shorts Payout Rules via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/youtube-updates-partner-program-terms-shorts-payout-rules/585331/",
+      "summary": "YouTube announced Partner Program changes taking effect in 2027, including new Shorts earnings rules, activity checks, and a terms deadline.\n\nThe post <a href=\"https://www.searchenginejournal.com/youtube-updates-partner-program-terms-shorts-payout-rules/585331/\">YouTube Updates Partner Program Terms &#038; Shorts Payout Rules</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-11T12:13:24+00:00",
+      "fetched": "2026-08-11T21:34:09.766088+00:00"
+    },
+    {
+      "id": "20fc954d-e12b-4640-bfa3-59d8dbd4829c",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The AI Detection False Economy: Fueling FOW (Fear of Writing) via @sejournal, @andybetts1",
+      "link": "https://www.searchenginejournal.com/the-ai-detection-false-economy-fueling-fear-of-writing/584967/",
+      "summary": "AI detectors gave wildly different verdicts on the same human-written article, and even flagged writing from 2014.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-ai-detection-false-economy-fueling-fear-of-writing/584967/\">The AI Detection False Economy: Fueling FOW (Fear of Writing)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-11T12:00:08+00:00",
+      "fetched": "2026-08-11T21:34:09.766119+00:00"
+    },
+    {
+      "id": "ac64d457-27f4-4ce0-ae02-4433a4f363f8",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "WPForms Lite Accused Of Adding Backdoor. I Tested It And Was Surprised via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/wpforms-lite-accused-of-adding-backdoor-i-tested-it-and-was-surprised/585273/",
+      "summary": "WPForms Lite WordPress plugin accused of adding a backdoor to new installs. I gave it and try and what happened was unexpected.\n\nThe post <a href=\"https://www.searchenginejournal.com/wpforms-lite-accused-of-adding-backdoor-i-tested-it-and-was-surprised/585273/\">WPForms Lite Accused Of Adding Backdoor. I Tested It And Was Surprised</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-11T09:03:14+00:00",
+      "fetched": "2026-08-11T21:34:09.766145+00:00"
+    },
+    {
       "id": "4b804bc1-78d3-4d54-9165-2588c2fd5733",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -131,95 +219,7 @@
       "summary": "WordPress security update fixes 12 vulnerabilities. Security researcher: \"nastiest one is a login screen XSS.\"\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-security-release-7-0-3-fixes-high-severity-xss-vulnerability/584927/\">WordPress Security Release 7.0.3 Fixes High Severity XSS Vulnerability</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-08-06T23:02:34+00:00",
       "fetched": "2026-08-07T00:58:48.945491+00:00"
-    },
-    {
-      "id": "781902f4-2c84-4ea7-820b-2d645cf66695",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "I Helped Scale Google Ads To Billions \u2013 Here\u2019s How I\u2019d Build An AI Search Strategy Today",
-      "link": "https://www.searchenginejournal.com/i-helped-scale-google-ads-to-billions-heres-how-id-build-an-ai-search-strategy-today/582556/",
-      "summary": "Impression share ran the auction years. Citation share runs this one. A 90-day sprint for measuring and winning AI search visibility.\n\nThe post <a href=\"https://www.searchenginejournal.com/i-helped-scale-google-ads-to-billions-heres-how-id-build-an-ai-search-strategy-today/582556/\">I Helped Scale Google Ads To Billions \u2013 Here&#8217;s How I&#8217;d Build An AI Search Strategy Today</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-06T19:00:59+00:00",
-      "fetched": "2026-08-07T00:58:48.945521+00:00"
-    },
-    {
-      "id": "d2377357-59b4-4ed6-bc94-33a16da3cd8a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why Part Of Your AI Authority Takes Years, Not Campaigns & Why It Comes From Other People via @sejournal, @DuaneForrester",
-      "link": "https://www.searchenginejournal.com/why-part-of-your-ai-authority-takes-years-not-campaigns-why-it-comes-from-other-people/584467/",
-      "summary": "Set expectations before tactics: parametric standing moves on model generations, responds to being described, and sits in functions nobody measured against it.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-part-of-your-ai-authority-takes-years-not-campaigns-why-it-comes-from-other-people/584467/\">Why Part Of Your AI Authority Takes Years, Not Campaigns &#038; Why It Comes From Other People</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.",
-      "published": "2026-08-06T14:30:36+00:00",
-      "fetched": "2026-08-07T00:58:48.945542+00:00"
-    },
-    {
-      "id": "5f42109a-342d-4d0d-a5c8-e96c4fb08589",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "WordPress 7.1 Accessibility Change May Break Some Plugins via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/wordpress-7-1-accessibility-change-may-break-some-plugins/584820/",
-      "summary": "A WordPress 7.1 accessibility improvement could impact some plugins that make changes in the admin screens.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-7-1-accessibility-change-may-break-some-plugins/584820/\">WordPress 7.1 Accessibility Change May Break Some Plugins</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-06T13:10:41+00:00",
-      "fetched": "2026-08-07T00:58:48.945565+00:00"
-    },
-    {
-      "id": "20642dfc-e78f-4c02-93e2-80cbd97d03e1",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How AI Search Trends Are Changing PPC Campaign Structures\u00a0\u2013 Ask A PPC via @sejournal, @navahf",
-      "link": "https://www.searchenginejournal.com/how-ai-search-trends-are-changing-ppc-campaign-structures-ask-a-ppc/584004/",
-      "summary": "AI research habits are reshaping PPC accounts. Here is when to consolidate, when to segment, and how conversion values keep budget flowing to valuable buyers.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-ai-search-trends-are-changing-ppc-campaign-structures-ask-a-ppc/584004/\">How AI Search Trends Are Changing PPC Campaign Structures\u00a0\u2013 Ask A PPC</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-06T12:00:53+00:00",
-      "fetched": "2026-08-07T00:58:48.945586+00:00"
-    },
-    {
-      "id": "77c417cf-4d9f-45a9-9328-8c645be6631f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Trust Signals That Get Your Brand Cited By AI Overviews, Just Like Freshpet [Webinar] via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/the-trust-signals-that-get-your-brand-cited-by-ai-overviews-just-like-freshpet-webinar/584796/",
-      "summary": "Learn how Freshpet stands out in AI Overviews and why trust signals matter for brand recognition in AI search.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-trust-signals-that-get-your-brand-cited-by-ai-overviews-just-like-freshpet-webinar/584796/\">The Trust Signals That Get Your Brand Cited By AI Overviews, Just Like Freshpet [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-06T07:45:50+00:00",
-      "fetched": "2026-08-07T00:58:48.945605+00:00"
-    },
-    {
-      "id": "b1c30cb0-fc1f-473c-8b47-66b4fb2c1e20",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Chief Scientist Who Helped Build Modern Search And AI Steps Away via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-loses-the-engineer-who-helped-build-search-and-modern-ai/584785/",
-      "summary": "Google loses Jeff Dean, who helped build Google Search and AI, replaced by DeepMind's Demis Hassabis as Chief Scientist.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-loses-the-engineer-who-helped-build-search-and-modern-ai/584785/\">Google Chief Scientist Who Helped Build Modern Search And AI Steps Away</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-05T22:16:33+00:00",
-      "fetched": "2026-08-07T00:58:48.945627+00:00"
-    },
-    {
-      "id": "ab4ab009-8a58-4436-99bd-97f063e9c083",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Referrals Are Recreating The Oldest Mistake In Conversion Optimization via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/ai-referrals-are-recreating-the-oldest-mistake-in-conversion-optimization/584331/",
-      "summary": "If you run CRO or SEO, the oldest mistake in your discipline just came back wearing a new referrer string. Here's the fix.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-referrals-are-recreating-the-oldest-mistake-in-conversion-optimization/584331/\">AI Referrals Are Recreating The Oldest Mistake In Conversion Optimization</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-05T20:12:01+00:00",
-      "fetched": "2026-08-05T22:04:39.755039+00:00"
-    },
-    {
-      "id": "1fd1f032-370d-4cc6-b905-462af8015a32",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Future Of Discoverability",
-      "link": "https://www.searchenginejournal.com/the-future-of-discoverability/584489/",
-      "summary": "Articles alone stopped being a viable product. A discoverability framework for publishers: passive, active, owned \u2013 plus the intent-led journalism that gets you there.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-future-of-discoverability/584489/\">The Future Of Discoverability</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-05T19:00:27+00:00",
-      "fetched": "2026-08-05T22:04:39.755066+00:00"
     }
   ],
-  "last_updated": "2026-08-10T21:31:11.204943+00:00"
+  "last_updated": "2026-08-11T21:34:11.292650+00:00"
 }
