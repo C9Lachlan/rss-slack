@@ -1,6 +1,72 @@
 {
   "articles": [
     {
+      "id": "1eae428a-633c-4531-a68a-77cbd3e2b622",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How to Create Health & YMYL Content That Performs in AI Search",
+      "link": "https://www.searchenginejournal.com/how-to-create-health-ymyl-content-that-performs-in-ai-search/584431/",
+      "summary": "Thin health content was always risky. With AI Overviews answering most medical queries, it's now invisible. Here's what earns citations instead.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-create-health-ymyl-content-that-performs-in-ai-search/584431/\">How to Create Health &#038; YMYL Content That Performs in AI Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-12T19:00:47+00:00",
+      "fetched": "2026-08-12T21:33:47.789843+00:00"
+    },
+    {
+      "id": "0b140822-7bf5-4faa-b6fc-5a3c39ea1fc1",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Amends SerpApi Suit With Content Licensing Terms via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-amends-serpapi-suit-with-content-licensing-terms/585505/",
+      "summary": "Google amended its DMCA complaint against SerpApi, adding licensing terms after a court dismissed the original claims over search scraping.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-amends-serpapi-suit-with-content-licensing-terms/585505/\">Google Amends SerpApi Suit With Content Licensing Terms</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-12T18:02:14+00:00",
+      "fetched": "2026-08-12T21:33:47.789871+00:00"
+    },
+    {
+      "id": "1440c438-6df1-4c0b-83a9-3394fc4bff80",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "OpenAI Allows Some Health & Finance Ads In ChatGPT via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/openai-allows-some-health-finance-ads-in-chatgpt/585516/",
+      "summary": "OpenAI's ad rules now allow some health and finance advertisers in ChatGPT, while placement restrictions still apply to sensitive conversations.\n\nThe post <a href=\"https://www.searchenginejournal.com/openai-allows-some-health-finance-ads-in-chatgpt/585516/\">OpenAI Allows Some Health &#038; Finance Ads In ChatGPT</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-12T15:14:23+00:00",
+      "fetched": "2026-08-12T21:33:47.789890+00:00"
+    },
+    {
+      "id": "dcfbef8b-6818-4a17-82b9-b34b3e977afc",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Cloudflare Gives AI Agents Wallets That Pay For What They Access via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/cloudflare-gives-ai-agents-wallets-that-pay-for-what-they-access/584959/",
+      "summary": "Cloudflare announced wallets and optional identity handles for AI agents on August 4, extending paid access past crawlers to any caller and any resource.\n\nThe post <a href=\"https://www.searchenginejournal.com/cloudflare-gives-ai-agents-wallets-that-pay-for-what-they-access/584959/\">Cloudflare Gives AI Agents Wallets That Pay For What They Access</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-12T14:30:08+00:00",
+      "fetched": "2026-08-12T21:33:47.789912+00:00"
+    },
+    {
+      "id": "27d24182-1a87-4335-90e2-7071cfc7ddc9",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Is Ending Target Overperformance \u2013 What to Fix Before August 17 via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/google-is-ending-target-overperformance-what-to-fix-before-august-17/584875/",
+      "summary": "Google Smart Bidding changes August 17. Learn which Target CPA and Target ROAS campaigns to audit and what to update before the deadline.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-is-ending-target-overperformance-what-to-fix-before-august-17/584875/\">Google Is Ending Target Overperformance \u2013 What to Fix Before August 17</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-12T12:00:33+00:00",
+      "fetched": "2026-08-12T21:33:47.789931+00:00"
+    },
+    {
+      "id": "fb048f08-8e61-4279-8591-919ecb6e4e71",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Automattic Fires Back At WP Engine\u2019s Motion For Sanctions via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/automattic-fires-back-at-wp-engines-motion-for-sanctions/585472/",
+      "summary": "Automattic rebuts WP Engine, says Matt Mullenweg's \"personal communications with romantic partners\" has \"nothing to do with this case.\"\n\nThe post <a href=\"https://www.searchenginejournal.com/automattic-fires-back-at-wp-engines-motion-for-sanctions/585472/\">Automattic Fires Back At WP Engine&#8217;s Motion For Sanctions</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-12T10:33:17+00:00",
+      "fetched": "2026-08-12T21:33:47.789948+00:00"
+    },
+    {
       "id": "1f32738b-e991-4b39-b02c-e8db941a627a",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -153,73 +219,7 @@
       "summary": "AI's impact outpaced our ability to measure it in H1 2026. Indig's citation data, agent share shifts, and the intelligence-versus-agency split explain what changes next.\n\nThe post <a href=\"https://www.searchenginejournal.com/ais-impact-is-outrunning-measurement-the-trust-and-attribution-gap-facing-brands/584141/\">AI&#8217;s Impact Is Outrunning Measurement: The Trust And Attribution Gap Facing Brands</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-08-08T12:00:30+00:00",
       "fetched": "2026-08-08T21:19:08.212331+00:00"
-    },
-    {
-      "id": "a8777780-a8da-415a-b05a-97d97347f50f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Search Only Feels New If Your SEO Was Shallow via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/ai-search-only-feels-new-if-your-seo-was-shallow/584115/",
-      "summary": "AI search only feels like a new sport to the people who were never really training. Here's what actually changed, and what didn't.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-search-only-feels-new-if-your-seo-was-shallow/584115/\">AI Search Only Feels New If Your SEO Was Shallow</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-07T19:00:31+00:00",
-      "fetched": "2026-08-07T21:27:38.630984+00:00"
-    },
-    {
-      "id": "e3e815c7-a61f-42f9-a93f-439cb84319d8",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Gen Z Now Treats Claude And OpenAI Like Consumer Brands, But Trust Is Still An Issue via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/gen-z-now-treats-claude-and-openai-like-consumer-brands-but-trust-is-still-an-issue/584449/",
-      "summary": "YouGov data shows Claude and OpenAI doubling Gen Z consideration while U.S. trust in AI assistants sits at 28%, a gap that reshapes GEO plans.\n\nThe post <a href=\"https://www.searchenginejournal.com/gen-z-now-treats-claude-and-openai-like-consumer-brands-but-trust-is-still-an-issue/584449/\">Gen Z Now Treats Claude And OpenAI Like Consumer Brands, But Trust Is Still An Issue</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-07T14:30:16+00:00",
-      "fetched": "2026-08-07T21:27:38.631009+00:00"
-    },
-    {
-      "id": "58d3fe65-81b6-46d3-a6db-9d576fc436b4",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Ex-AI Chief Jeff Dean Explains How To Improve Context Engineering via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/googles-ex-ai-chief-jeff-dean-explains-how-to-improve-context-engineering/584955/",
-      "summary": "Google's former Chief Scientist explains why AI models are less important and why context engineering increasingly matters more.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-ex-ai-chief-jeff-dean-explains-how-to-improve-context-engineering/584955/\">Google&#8217;s Ex-AI Chief Jeff Dean Explains How To Improve Context Engineering</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-07T12:11:48+00:00",
-      "fetched": "2026-08-07T21:27:38.631028+00:00"
-    },
-    {
-      "id": "991f77bd-c119-460b-814c-db4bc2238429",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How Cats.txt Showed LLMs.txt Evidence Is GEO Astrology",
-      "link": "https://www.searchenginejournal.com/how-cats-txt-showed-llms-txt-evidence-is-geo-astrology/584653/",
-      "summary": "The four arguments used to sell llms.txt would pass a text file about cats. Here's why that matters for every GEO tactic you're buying.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-cats-txt-showed-llms-txt-evidence-is-geo-astrology/584653/\">How Cats.txt Showed LLMs.txt Evidence Is GEO Astrology</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-07T12:00:42+00:00",
-      "fetched": "2026-08-07T21:27:38.631050+00:00"
-    },
-    {
-      "id": "3c6c2496-321f-487c-a719-b9daee22a0df",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The AEO Playbook: How to Get Cited & Stay Visible via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/aeo-playbook-get-cited-stay-visible-recap/584926/",
-      "summary": "Unlock the AEO playbook and discover how to stay visible in an AI-driven search landscape and earn valuable citations.\n\nThe post <a href=\"https://www.searchenginejournal.com/aeo-playbook-get-cited-stay-visible-recap/584926/\">The AEO Playbook: How to Get Cited &#038; Stay Visible</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-07T07:45:43+00:00",
-      "fetched": "2026-08-07T21:27:38.631067+00:00"
-    },
-    {
-      "id": "ba4344b2-da6e-4127-a216-bd932cd4bbf6",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "WordPress Security Release 7.0.3 Fixes High Severity XSS Vulnerability via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/wordpress-security-release-7-0-3-fixes-high-severity-xss-vulnerability/584927/",
-      "summary": "WordPress security update fixes 12 vulnerabilities. Security researcher: \"nastiest one is a login screen XSS.\"\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-security-release-7-0-3-fixes-high-severity-xss-vulnerability/584927/\">WordPress Security Release 7.0.3 Fixes High Severity XSS Vulnerability</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-06T23:02:34+00:00",
-      "fetched": "2026-08-07T00:58:48.945491+00:00"
     }
   ],
-  "last_updated": "2026-08-11T21:34:11.292650+00:00"
+  "last_updated": "2026-08-12T21:33:48.549467+00:00"
 }
