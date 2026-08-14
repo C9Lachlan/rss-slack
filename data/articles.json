@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "4fe57936-76f8-482b-9a09-a9937bc4cd03",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "OpenAI Says Robots.txt May Not Apply To ChatGPT\u2019s Fetch Bot via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/openai-says-robots-txt-may-not-apply-to-chatgpts-fetch-bot/585864/",
+      "summary": "New data shows ChatGPT's page-fetching bot is reaching sites that have disallowed it, and OpenAI's own documentation explains why the file may not stop it.\n\nThe post <a href=\"https://www.searchenginejournal.com/openai-says-robots-txt-may-not-apply-to-chatgpts-fetch-bot/585864/\">OpenAI Says Robots.txt May Not Apply To ChatGPT&#8217;s Fetch Bot</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-14T19:10:07+00:00",
+      "fetched": "2026-08-14T21:15:04.116076+00:00"
+    },
+    {
+      "id": "38397fea-8bd3-43e4-8da7-1f88fedd89ea",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "What A Claude Watermark Can & Can\u2019t Tell You About Authorship via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/what-a-claude-watermark-can-cant-tell-you-about-authorship/585754/",
+      "summary": "Anthropic plans to watermark Claude text. This article explains what a watermark can confirm and why not finding one doesn't mean the text isn't AI-generated.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-a-claude-watermark-can-cant-tell-you-about-authorship/585754/\">What A Claude Watermark Can &#038; Can&#8217;t Tell You About Authorship</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-14T19:00:39+00:00",
+      "fetched": "2026-08-14T21:15:04.116105+00:00"
+    },
+    {
+      "id": "5e9b7398-1193-4a44-96f2-e8bdd2991cdb",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "YouTube Measures Creator Video on Branded Search Lift, But The Attribution Gap Still Exists via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/youtube-measures-creator-video-on-branded-search-lift-but-the-attribution-gap-still-exists/584876/",
+      "summary": "Google's creator playbook proves creator campaigns lift branded search, but omits attribution windows, baselines, and controls.\n\nThe post <a href=\"https://www.searchenginejournal.com/youtube-measures-creator-video-on-branded-search-lift-but-the-attribution-gap-still-exists/584876/\">YouTube Measures Creator Video on Branded Search Lift, But The Attribution Gap Still Exists</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-14T17:30:21+00:00",
+      "fetched": "2026-08-14T21:15:04.116125+00:00"
+    },
+    {
+      "id": "87396780-4632-4ee5-b7ec-12634f1f8410",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Cloudflare: Machine Traffic Could Hit 1,000x Human Traffic In 5 Years via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/the-biggest-ai-crawler-on-my-website-was-hunting-for-credentials/585159/",
+      "summary": "One company measures the bot problem, frames it, and sells the fix. Cloudflare now owns both the meter and the valve. Check your own logs.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-biggest-ai-crawler-on-my-website-was-hunting-for-credentials/585159/\">Cloudflare: Machine Traffic Could Hit 1,000x Human Traffic In 5 Years</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-14T14:30:22+00:00",
+      "fetched": "2026-08-14T21:15:04.116148+00:00"
+    },
+    {
+      "id": "50d2e53f-0604-4eb8-9fb1-1360a948d496",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "ChatGPT Already Knows Who It\u2019ll Recommend Before It Searches via @sejournal, @suganthan",
+      "link": "https://www.searchenginejournal.com/chatgpt-already-knows-who-itll-recommend-before-it-searches/585162/",
+      "summary": "ChatGPT names brands in its own search queries before it fetches anything. Being in that query is worth 33 times more.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-already-knows-who-itll-recommend-before-it-searches/585162/\">ChatGPT Already Knows Who It&#8217;ll Recommend Before It Searches</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-14T12:00:06+00:00",
+      "fetched": "2026-08-14T21:15:04.116166+00:00"
+    },
+    {
       "id": "1a8ddeac-8701-4b9b-ba52-fe070021f08d",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -164,62 +219,7 @@
       "summary": "New data finds no difference in how OpenAI's in-house search index served licensed and unlicensed sites.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpts-search-index-serves-small-sites-too-data-shows/585388/\">ChatGPT&#8217;s Search Index Serves Small Sites Too, Data Shows</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-08-11T19:11:46+00:00",
       "fetched": "2026-08-11T21:34:09.765988+00:00"
-    },
-    {
-      "id": "28edc8bb-4ffa-4dfc-8c97-2b4f208d6be5",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Metric Most SEOs Are Still Not Measuring In The Age Of AI via @sejournal, @SequinsNsearch",
-      "link": "https://www.searchenginejournal.com/the-metric-most-seos-are-still-not-measuring-in-the-age-of-ai/584027/",
-      "summary": "AI answers now shape choices before anyone reaches your site. Measuring alignment with decision drivers matters more than measuring the clicks that follow.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-metric-most-seos-are-still-not-measuring-in-the-age-of-ai/584027/\">The Metric Most SEOs Are Still Not Measuring In The Age Of AI</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-11T19:00:19+00:00",
-      "fetched": "2026-08-11T21:34:09.766014+00:00"
-    },
-    {
-      "id": "4fd58a95-a9bc-46b6-be58-23cd64ada5bd",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Organic Traffic Dropped? What to Tell Clients & the AI Visibility Metrics to Report Instead",
-      "link": "https://www.searchenginejournal.com/organic-traffic-dropped-what-to-tell-clients-the-ai-visibility-metrics-to-report-instead-spa/584388/",
-      "summary": "Is your organic traffic dropped? Learn the reasons behind this common issue affecting many agencies today.\n\nThe post <a href=\"https://www.searchenginejournal.com/organic-traffic-dropped-what-to-tell-clients-the-ai-visibility-metrics-to-report-instead-spa/584388/\">Organic Traffic Dropped? What to Tell Clients &#038; the AI Visibility Metrics to Report Instead</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-11T18:59:11+00:00",
-      "fetched": "2026-08-11T21:34:09.766032+00:00"
-    },
-    {
-      "id": "6c2b1e0e-cbb9-48af-be7a-0ed99936a81c",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Anthropic To Mark Claude Text & Files Under EU AI Act Code via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/anthropic-claude-watermarks-eu-ai-act-code/585355/",
-      "summary": "Anthropic will embed invisible watermarks in Claude text and sign generated files.\n\nThe post <a href=\"https://www.searchenginejournal.com/anthropic-claude-watermarks-eu-ai-act-code/585355/\">Anthropic To Mark Claude Text &#038; Files Under EU AI Act Code</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-11T16:03:35+00:00",
-      "fetched": "2026-08-11T21:34:09.766055+00:00"
-    },
-    {
-      "id": "5ba90134-c7bf-4f91-8e4f-b86cf6a3cd27",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How TransUnion\u2019s AI Findings Should Change the Way SEOs Pitch GEO via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/how-transunions-ai-findings-should-change-the-way-seos-pitch-geo/584922/",
-      "summary": "TransUnion's survey of 100 marketing leaders shows AI search blind spots mirror walled garden measurement gaps. Frame GEO as a company-wide problem to get funded.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-transunions-ai-findings-should-change-the-way-seos-pitch-geo/584922/\">How TransUnion&#8217;s AI Findings Should Change the Way SEOs Pitch GEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-11T14:30:56+00:00",
-      "fetched": "2026-08-11T21:34:09.766072+00:00"
-    },
-    {
-      "id": "2cd3d3bc-333d-42b4-be42-eb46e0ce4e4d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "YouTube Updates Partner Program Terms & Shorts Payout Rules via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/youtube-updates-partner-program-terms-shorts-payout-rules/585331/",
-      "summary": "YouTube announced Partner Program changes taking effect in 2027, including new Shorts earnings rules, activity checks, and a terms deadline.\n\nThe post <a href=\"https://www.searchenginejournal.com/youtube-updates-partner-program-terms-shorts-payout-rules/585331/\">YouTube Updates Partner Program Terms &#038; Shorts Payout Rules</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-11T12:13:24+00:00",
-      "fetched": "2026-08-11T21:34:09.766088+00:00"
     }
   ],
-  "last_updated": "2026-08-13T21:33:39.845913+00:00"
+  "last_updated": "2026-08-14T21:15:04.772982+00:00"
 }
