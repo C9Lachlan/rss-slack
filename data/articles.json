@@ -1,6 +1,39 @@
 {
   "articles": [
     {
+      "id": "e7a2101e-f41e-49e0-931a-8a31a2e696f9",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "ChatGPT\u2019s Index, GA Benchmarks, Google Refiles Complaint \u2013 SEO Pulse via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/seo-pulse-chatgpts-index-ga-benchmarks-google-refiles-complaint/585748/",
+      "summary": "Google Analytics adds campaign benchmarking, new data on ChatGPT's index search index, and Google refiles its SerpApi claims with new terms.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-chatgpts-index-ga-benchmarks-google-refiles-complaint/585748/\">ChatGPT&#8217;s Index, GA Benchmarks, Google Refiles Complaint \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-15T12:00:14+00:00",
+      "fetched": "2026-08-15T21:11:02.178200+00:00"
+    },
+    {
+      "id": "d88a922d-d267-49a9-9bba-d2264fc7e20c",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Anthropic Reveals What The Watermark Is And How It Can Be Defeated via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/anthropic-reveals-what-the-watermark-is-and-how-it-can-be-defeated/585930/",
+      "summary": "Anthropic offers more details about its watermark including how it can be defeated.\n\nThe post <a href=\"https://www.searchenginejournal.com/anthropic-reveals-what-the-watermark-is-and-how-it-can-be-defeated/585930/\">Anthropic Reveals What The Watermark Is And How It Can Be Defeated</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-15T10:46:00+00:00",
+      "fetched": "2026-08-15T21:11:02.178227+00:00"
+    },
+    {
+      "id": "af72e6d2-0fdd-4eaf-a6f7-f92b7b90bd44",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Brings Gemini 3.7 Flash To AI Mode In Search via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-brings-gemini-3-7-flash-to-ai-mode-in-search/585923/",
+      "summary": "Google is rolling out Gemini 3.7 Flash in AI Mode for Google AI Pro and Ultra subscribers, a day after the model's initial release.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-brings-gemini-3-7-flash-to-ai-mode-in-search/585923/\">Google Brings Gemini 3.7 Flash To AI Mode In Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-14T23:02:04+00:00",
+      "fetched": "2026-08-15T21:11:02.178247+00:00"
+    },
+    {
       "id": "4fe57936-76f8-482b-9a09-a9937bc4cd03",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -186,40 +219,7 @@
       "summary": "Cloudflare announced wallets and optional identity handles for AI agents on August 4, extending paid access past crawlers to any caller and any resource.\n\nThe post <a href=\"https://www.searchenginejournal.com/cloudflare-gives-ai-agents-wallets-that-pay-for-what-they-access/584959/\">Cloudflare Gives AI Agents Wallets That Pay For What They Access</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-08-12T14:30:08+00:00",
       "fetched": "2026-08-12T21:33:47.789912+00:00"
-    },
-    {
-      "id": "27d24182-1a87-4335-90e2-7071cfc7ddc9",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Is Ending Target Overperformance \u2013 What to Fix Before August 17 via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/google-is-ending-target-overperformance-what-to-fix-before-august-17/584875/",
-      "summary": "Google Smart Bidding changes August 17. Learn which Target CPA and Target ROAS campaigns to audit and what to update before the deadline.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-is-ending-target-overperformance-what-to-fix-before-august-17/584875/\">Google Is Ending Target Overperformance \u2013 What to Fix Before August 17</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-12T12:00:33+00:00",
-      "fetched": "2026-08-12T21:33:47.789931+00:00"
-    },
-    {
-      "id": "fb048f08-8e61-4279-8591-919ecb6e4e71",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Automattic Fires Back At WP Engine\u2019s Motion For Sanctions via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/automattic-fires-back-at-wp-engines-motion-for-sanctions/585472/",
-      "summary": "Automattic rebuts WP Engine, says Matt Mullenweg's \"personal communications with romantic partners\" has \"nothing to do with this case.\"\n\nThe post <a href=\"https://www.searchenginejournal.com/automattic-fires-back-at-wp-engines-motion-for-sanctions/585472/\">Automattic Fires Back At WP Engine&#8217;s Motion For Sanctions</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-12T10:33:17+00:00",
-      "fetched": "2026-08-12T21:33:47.789948+00:00"
-    },
-    {
-      "id": "1f32738b-e991-4b39-b02c-e8db941a627a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "ChatGPT\u2019s Search Index Serves Small Sites Too, Data Shows via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/chatgpts-search-index-serves-small-sites-too-data-shows/585388/",
-      "summary": "New data finds no difference in how OpenAI's in-house search index served licensed and unlicensed sites.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpts-search-index-serves-small-sites-too-data-shows/585388/\">ChatGPT&#8217;s Search Index Serves Small Sites Too, Data Shows</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-11T19:11:46+00:00",
-      "fetched": "2026-08-11T21:34:09.765988+00:00"
     }
   ],
-  "last_updated": "2026-08-14T21:15:04.772982+00:00"
+  "last_updated": "2026-08-15T21:11:03.660233+00:00"
 }
