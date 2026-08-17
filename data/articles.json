@@ -1,6 +1,83 @@
 {
   "articles": [
     {
+      "id": "80743578-bbc6-4469-84dd-4abc97df8674",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "YouTube Changes How It Counts Views On Long-Form & Live via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/youtube-changes-how-it-counts-views-on-long-form-live/586166/",
+      "summary": "YouTube is changing how it counts views on long-form videos and live streams.\n\nThe post <a href=\"https://www.searchenginejournal.com/youtube-changes-how-it-counts-views-on-long-form-live/586166/\">YouTube Changes How It Counts Views On Long-Form &#038; Live</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-17T20:10:31+00:00",
+      "fetched": "2026-08-17T21:15:33.374576+00:00"
+    },
+    {
+      "id": "8b960ddc-0220-462d-b071-480614f6f8d6",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The AI Conversations Leaking Into Your Search Console via @sejournal, @suganthan",
+      "link": "https://www.searchenginejournal.com/the-ai-conversations-leaking-into-your-search-console/585663/",
+      "summary": "Search Console records what people say to AI Mode. Here's how to pull those fragments out and sort them into seven buckets.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-ai-conversations-leaking-into-your-search-console/585663/\">The AI Conversations Leaking Into Your Search Console</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-17T19:00:05+00:00",
+      "fetched": "2026-08-17T21:15:33.374604+00:00"
+    },
+    {
+      "id": "81d5af85-fcbb-4ff9-9cf7-50e103116455",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Lets You Turn Off Visible Watermarks In Gemini via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-lets-you-turn-off-visible-watermarks-in-gemini/586145/",
+      "summary": "Google Gemini allows users to disable the visible watermark on AI-generated images, videos, and music, while SynthID and C2PA marks stay embedded.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-lets-you-turn-off-visible-watermarks-in-gemini/586145/\">Google Lets You Turn Off Visible Watermarks In Gemini</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-17T17:00:44+00:00",
+      "fetched": "2026-08-17T21:15:33.374623+00:00"
+    },
+    {
+      "id": "9a451ee8-4e32-4e93-8f5d-44fec6ec8249",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Llms.txt V2 Adds Formal Markdown Linking For AI Agents via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/llms-txt-v2-formal-markdown-linking-ai-agents/586119/",
+      "summary": "A v2 update to the llms.txt spec has shipped, adding formal link relations that help AI agents locate Markdown versions of pages.\n\nThe post <a href=\"https://www.searchenginejournal.com/llms-txt-v2-formal-markdown-linking-ai-agents/586119/\">Llms.txt V2 Adds Formal Markdown Linking For AI Agents</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-17T16:06:23+00:00",
+      "fetched": "2026-08-17T21:15:33.374645+00:00"
+    },
+    {
+      "id": "b4a25788-e2ff-4939-9063-c4051db8a718",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Paid \u2018Search\u2019 Email Placement: Right Place, Right Time via @sejournal, @jonkagan",
+      "link": "https://www.searchenginejournal.com/the-paid-search-email-placement-right-place-right-time/583613/",
+      "summary": "Email placements work, but not as a replacement for email marketing. What Demand Gen and Audience Ads actually deliver, and how to set them up.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-paid-search-email-placement-right-place-right-time/583613/\">The Paid &#8216;Search&#8217; Email Placement: Right Place, Right Time</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-17T14:30:29+00:00",
+      "fetched": "2026-08-17T21:15:33.374663+00:00"
+    },
+    {
+      "id": "cf7727fc-b387-4778-9d9e-6adb11586d24",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Assistants Are Choosing Local Businesses For Your Customers via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/ai-assistants-are-choosing-local-businesses-for-your-customers/585275/",
+      "summary": "AI assistants narrow local searches before customers reach a website. See how Google builds those answers and which local signals businesses can optimize.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-assistants-are-choosing-local-businesses-for-your-customers/585275/\">AI Assistants Are Choosing Local Businesses For Your Customers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-17T12:00:06+00:00",
+      "fetched": "2026-08-17T21:15:33.374679+00:00"
+    },
+    {
+      "id": "45282112-e169-44ae-9c8c-803e0d109237",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google: Subject/Object Entity Order Affects AI Answers via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-subject-object-entity-order-affects-ai-answers/586089/",
+      "summary": "Google's research shows that LLMs struggle to recall facts when questions reverse the usual subject/object entity order.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-subject-object-entity-order-affects-ai-answers/586089/\">Google: Subject/Object Entity Order Affects AI Answers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-17T11:11:31+00:00",
+      "fetched": "2026-08-17T21:15:33.374695+00:00"
+    },
+    {
       "id": "e7a2101e-f41e-49e0-931a-8a31a2e696f9",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -142,84 +219,7 @@
       "summary": "Search referrals measure how people reach Reddit. They don't measure why people go looking for it, and that gap is where the value sits.\n\nThe post <a href=\"https://www.searchenginejournal.com/reddit-preserved-the-part-of-the-internet-we-broke/585485/\">Reddit Preserved The Part Of The Internet We Broke</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-08-13T14:30:44+00:00",
       "fetched": "2026-08-13T21:33:39.354418+00:00"
-    },
-    {
-      "id": "2f1b3b09-e1f6-4515-a745-0bba21c86f7c",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How Do I Know If AI Overviews Are Taking Clicks From My Site And What Can I Do About It? \u2013 Ask An SEO via @sejournal, @HelenPollitt1",
-      "link": "https://www.searchenginejournal.com/how-do-i-know-if-ai-overviews-are-taking-clicks-from-my-site-and-what-can-i-do-about-it-ask-an-seo/583417/",
-      "summary": "Stable rankings, stable impressions, falling CTR: the signature of AI Overview click loss. Learn to spot it and decide what's worth recovering.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-do-i-know-if-ai-overviews-are-taking-clicks-from-my-site-and-what-can-i-do-about-it-ask-an-seo/583417/\">How Do I Know If AI Overviews Are Taking Clicks From My Site And What Can I Do About It? \u2013 Ask An SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</",
-      "published": "2026-08-13T12:00:20+00:00",
-      "fetched": "2026-08-13T21:33:39.354439+00:00"
-    },
-    {
-      "id": "fcb02b37-047c-4825-b705-5d8e7ddf5df9",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Overviews: How Freshpet Stands Out in SEO & GEO [Webinar] via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/ai-overviews-how-freshpet-stands-out-seo-geo/584796/",
-      "summary": "Learn how Freshpet stands out in AI Overviews and why trust signals matter for brand recognition in AI search.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-overviews-how-freshpet-stands-out-seo-geo/584796/\">AI Overviews: How Freshpet Stands Out in SEO &#038; GEO [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-13T11:06:50+00:00",
-      "fetched": "2026-08-13T21:33:39.354457+00:00"
-    },
-    {
-      "id": "f27bc9f4-69f2-4c89-85c8-667e6e7c3b79",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Gemini Passes 1B Monthly Users, 63% Now Use Voice via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-gemini-passes-1b-monthly-users-63-now-use-voice/585624/",
-      "summary": "Google says its Gemini app passed 1 billion monthly users and reports that 63% now use voice, alongside camera, uploads, and app automation data.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-gemini-passes-1b-monthly-users-63-now-use-voice/585624/\">Google Gemini Passes 1B Monthly Users, 63% Now Use Voice</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-13T01:00:07+00:00",
-      "fetched": "2026-08-13T21:33:39.354483+00:00"
-    },
-    {
-      "id": "1eae428a-633c-4531-a68a-77cbd3e2b622",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How to Create Health & YMYL Content That Performs in AI Search",
-      "link": "https://www.searchenginejournal.com/how-to-create-health-ymyl-content-that-performs-in-ai-search/584431/",
-      "summary": "Thin health content was always risky. With AI Overviews answering most medical queries, it's now invisible. Here's what earns citations instead.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-create-health-ymyl-content-that-performs-in-ai-search/584431/\">How to Create Health &#038; YMYL Content That Performs in AI Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-12T19:00:47+00:00",
-      "fetched": "2026-08-12T21:33:47.789843+00:00"
-    },
-    {
-      "id": "0b140822-7bf5-4faa-b6fc-5a3c39ea1fc1",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Amends SerpApi Suit With Content Licensing Terms via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-amends-serpapi-suit-with-content-licensing-terms/585505/",
-      "summary": "Google amended its DMCA complaint against SerpApi, adding licensing terms after a court dismissed the original claims over search scraping.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-amends-serpapi-suit-with-content-licensing-terms/585505/\">Google Amends SerpApi Suit With Content Licensing Terms</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-12T18:02:14+00:00",
-      "fetched": "2026-08-12T21:33:47.789871+00:00"
-    },
-    {
-      "id": "1440c438-6df1-4c0b-83a9-3394fc4bff80",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "OpenAI Allows Some Health & Finance Ads In ChatGPT via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/openai-allows-some-health-finance-ads-in-chatgpt/585516/",
-      "summary": "OpenAI's ad rules now allow some health and finance advertisers in ChatGPT, while placement restrictions still apply to sensitive conversations.\n\nThe post <a href=\"https://www.searchenginejournal.com/openai-allows-some-health-finance-ads-in-chatgpt/585516/\">OpenAI Allows Some Health &#038; Finance Ads In ChatGPT</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-12T15:14:23+00:00",
-      "fetched": "2026-08-12T21:33:47.789890+00:00"
-    },
-    {
-      "id": "dcfbef8b-6818-4a17-82b9-b34b3e977afc",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Cloudflare Gives AI Agents Wallets That Pay For What They Access via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/cloudflare-gives-ai-agents-wallets-that-pay-for-what-they-access/584959/",
-      "summary": "Cloudflare announced wallets and optional identity handles for AI agents on August 4, extending paid access past crawlers to any caller and any resource.\n\nThe post <a href=\"https://www.searchenginejournal.com/cloudflare-gives-ai-agents-wallets-that-pay-for-what-they-access/584959/\">Cloudflare Gives AI Agents Wallets That Pay For What They Access</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-12T14:30:08+00:00",
-      "fetched": "2026-08-12T21:33:47.789912+00:00"
     }
   ],
-  "last_updated": "2026-08-16T21:09:52.233295+00:00"
+  "last_updated": "2026-08-17T21:15:34.182011+00:00"
 }
