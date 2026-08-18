@@ -1,6 +1,83 @@
 {
   "articles": [
     {
+      "id": "bf958382-11cd-47b7-a900-e02ec324ba5c",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How Google AIOs Use Facebook, Instagram & TikTok From 300 Million US Searches",
+      "link": "https://www.searchenginejournal.com/how-google-aios-use-facebook-instagram-tiktok-from-300-million-us-searches/585244/",
+      "summary": "Facebook, Instagram, and TikTok earn AI citations for different queries, rewarding precise answers over large audiences.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-google-aios-use-facebook-instagram-tiktok-from-300-million-us-searches/585244/\">How Google AIOs Use Facebook, Instagram &#038; TikTok From 300 Million US Searches</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-18T19:00:48+00:00",
+      "fetched": "2026-08-18T21:13:02.217909+00:00"
+    },
+    {
+      "id": "1c2d7a76-48b9-450f-a0f5-4cac9e3b3837",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Everyone Is Negotiating With Google While Meta Reads The Web For Free via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/everyone-is-negotiating-with-google-while-meta-reads-the-web-for-free/584465/",
+      "summary": "The machine-access fight is aimed at Google. Meta reads more, returns almost nothing, and no one is asking it to stop.\n\nThe post <a href=\"https://www.searchenginejournal.com/everyone-is-negotiating-with-google-while-meta-reads-the-web-for-free/584465/\">Everyone Is Negotiating With Google While Meta Reads The Web For Free</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-18T17:30:31+00:00",
+      "fetched": "2026-08-18T21:13:02.217942+00:00"
+    },
+    {
+      "id": "744e37ca-b76c-438f-af13-948eb5693c0e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Begins Rolling Out The August 2026 Spam Update via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-begins-rolling-out-the-august-2026-spam-update/586301/",
+      "summary": "Google has begun rolling out the August 2026 spam update, applying globally and to all languages, its third one this year.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-begins-rolling-out-the-august-2026-spam-update/586301/\">Google Begins Rolling Out The August 2026 Spam Update</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-18T17:10:40+00:00",
+      "fetched": "2026-08-18T21:13:02.217960+00:00"
+    },
+    {
+      "id": "d503d733-c448-4d82-9619-892f588a2179",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why Search Volume Is Screening Out Your Best Content Opportunities",
+      "link": "https://www.searchenginejournal.com/why-search-volume-is-screening-out-your-best-content-opportunities/585048/",
+      "summary": "AI assistants turn contextual prompts into multiple queries, making buyer decisions and sub-questions more valuable content targets than raw keyword volume.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-search-volume-is-screening-out-your-best-content-opportunities/585048/\">Why Search Volume Is Screening Out Your Best Content Opportunities</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-18T14:30:48+00:00",
+      "fetched": "2026-08-18T21:13:02.217983+00:00"
+    },
+    {
+      "id": "cf551e54-953e-4e1c-ba77-a4898924cf9b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "9 AI Search Myths, Debunked by 15 Million Data Points via @sejournal, @ahrefs",
+      "link": "https://www.searchenginejournal.com/ai-search-myths-debunked-ahrefs-spa/584393/",
+      "summary": "Unveil the truth about AI search with interesting findings from 15 million data points. Learn what really influences rankings.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-search-myths-debunked-ahrefs-spa/584393/\">9 AI Search Myths, Debunked by 15 Million Data Points</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-18T14:26:59+00:00",
+      "fetched": "2026-08-18T21:13:02.218000+00:00"
+    },
+    {
+      "id": "82b8b55c-145d-42d3-b7d8-1afc3cbdd515",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "What We Can Learn From Evolving ChatGPT Fan-Out Queries via @sejournal, @lilyraynyc",
+      "link": "https://www.searchenginejournal.com/what-we-can-learn-from-evolving-chatgpt-fan-out-queries/586254/",
+      "summary": "ChatGPT's search behavior is starting to look like E-E-A-T. Here's the data behind that theory, and what to do about it. \n\nThe post <a href=\"https://www.searchenginejournal.com/what-we-can-learn-from-evolving-chatgpt-fan-out-queries/586254/\">What We Can Learn From Evolving ChatGPT Fan-Out Queries</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-18T13:01:30+00:00",
+      "fetched": "2026-08-18T21:13:02.218050+00:00"
+    },
+    {
+      "id": "fe94f06b-216d-49e6-a9d2-868f6bf5cd69",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Get Your Business Found & Chosen In AI Search [Free SEJ Live Event]",
+      "link": "https://www.searchenginejournal.com/get-your-business-found-chosen-in-ai-search-free-sej-live-event/584710/",
+      "summary": "Turn AI-driven local discovery into actual customers. SEJ Live on August 26 brings three hours of practical guidance and live Q&amp;A.\n\nThe post <a href=\"https://www.searchenginejournal.com/get-your-business-found-chosen-in-ai-search-free-sej-live-event/584710/\">Get Your Business Found &#038; Chosen In AI Search [Free SEJ Live Event]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-18T12:00:54+00:00",
+      "fetched": "2026-08-18T21:13:02.218071+00:00"
+    },
+    {
       "id": "80743578-bbc6-4469-84dd-4abc97df8674",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -142,84 +219,7 @@
       "summary": "Google's creator playbook proves creator campaigns lift branded search, but omits attribution windows, baselines, and controls.\n\nThe post <a href=\"https://www.searchenginejournal.com/youtube-measures-creator-video-on-branded-search-lift-but-the-attribution-gap-still-exists/584876/\">YouTube Measures Creator Video on Branded Search Lift, But The Attribution Gap Still Exists</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-08-14T17:30:21+00:00",
       "fetched": "2026-08-14T21:15:04.116125+00:00"
-    },
-    {
-      "id": "87396780-4632-4ee5-b7ec-12634f1f8410",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Cloudflare: Machine Traffic Could Hit 1,000x Human Traffic In 5 Years via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/the-biggest-ai-crawler-on-my-website-was-hunting-for-credentials/585159/",
-      "summary": "One company measures the bot problem, frames it, and sells the fix. Cloudflare now owns both the meter and the valve. Check your own logs.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-biggest-ai-crawler-on-my-website-was-hunting-for-credentials/585159/\">Cloudflare: Machine Traffic Could Hit 1,000x Human Traffic In 5 Years</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-14T14:30:22+00:00",
-      "fetched": "2026-08-14T21:15:04.116148+00:00"
-    },
-    {
-      "id": "50d2e53f-0604-4eb8-9fb1-1360a948d496",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "ChatGPT Already Knows Who It\u2019ll Recommend Before It Searches via @sejournal, @suganthan",
-      "link": "https://www.searchenginejournal.com/chatgpt-already-knows-who-itll-recommend-before-it-searches/585162/",
-      "summary": "ChatGPT names brands in its own search queries before it fetches anything. Being in that query is worth 33 times more.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-already-knows-who-itll-recommend-before-it-searches/585162/\">ChatGPT Already Knows Who It&#8217;ll Recommend Before It Searches</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-14T12:00:06+00:00",
-      "fetched": "2026-08-14T21:15:04.116166+00:00"
-    },
-    {
-      "id": "1a8ddeac-8701-4b9b-ba52-fe070021f08d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Is Removing Language Targeting From Search Campaigns via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/google-is-removing-language-targeting-from-search-campaigns/585592/",
-      "summary": "Google Ads is changing language targeting for Search and Performance Max in September 2026. Learn what\u2019s changing and what advertisers need to know.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-is-removing-language-targeting-from-search-campaigns/585592/\">Google Is Removing Language Targeting From Search Campaigns</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-13T21:30:33+00:00",
-      "fetched": "2026-08-13T21:33:39.354330+00:00"
-    },
-    {
-      "id": "771e7311-336a-43a8-bad9-c0912038ba0d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The GEO Trust Gap: SEOs Want The Data, But Not The Platforms Selling It via @sejournal, @DuaneForrester",
-      "link": "https://www.searchenginejournal.com/the-geo-trust-gap-seos-want-the-data-but-not-the-platforms-selling-it/585161/",
-      "summary": "Practitioners value AI visibility data highly and won't fund the platforms selling it. New survey data on what's actually blocking the category.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-geo-trust-gap-seos-want-the-data-but-not-the-platforms-selling-it/585161/\">The GEO Trust Gap: SEOs Want The Data, But Not The Platforms Selling It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-13T19:00:43+00:00",
-      "fetched": "2026-08-13T21:33:39.354357+00:00"
-    },
-    {
-      "id": "13408282-2b70-4371-8025-6914bc5efe27",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The PPC Clean-Up: How to Audit and Fix \u2018Value Inflation\u2019 in Google Ads",
-      "link": "https://www.searchenginejournal.com/the-ppc-clean-up-how-to-audit-and-fix-value-inflation-in-google-ads/583009/",
-      "summary": "PPC managers inheriting an account: verify the conversion value before touching the bid strategy. Five checks that separate real revenue from phantom value.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-ppc-clean-up-how-to-audit-and-fix-value-inflation-in-google-ads/583009/\">The PPC Clean-Up: How to Audit and Fix &#8216;Value Inflation&#8217; in Google Ads</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-13T17:30:31+00:00",
-      "fetched": "2026-08-13T21:33:39.354377+00:00"
-    },
-    {
-      "id": "62442be2-a6ea-425c-9895-2706a80bdc5d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why Anthropic\u2019s Claude Watermark May Be A New Text-Marking Method via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/why-anthropics-claude-watermark-may-be-a-new-text-marking-method/585703/",
-      "summary": "Anthropic has revealed enough about Claude's watermark to identify how it might work. A new research paper may be the clue.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-anthropics-claude-watermark-may-be-a-new-text-marking-method/585703/\">Why Anthropic&#8217;s Claude Watermark May Be A New Text-Marking Method</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-13T15:23:00+00:00",
-      "fetched": "2026-08-13T21:33:39.354400+00:00"
-    },
-    {
-      "id": "b744b9fc-bca9-4e5b-847e-8a33e6138054",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Reddit Preserved The Part Of The Internet We Broke via @sejournal, @brentcsutoras",
-      "link": "https://www.searchenginejournal.com/reddit-preserved-the-part-of-the-internet-we-broke/585485/",
-      "summary": "Search referrals measure how people reach Reddit. They don't measure why people go looking for it, and that gap is where the value sits.\n\nThe post <a href=\"https://www.searchenginejournal.com/reddit-preserved-the-part-of-the-internet-we-broke/585485/\">Reddit Preserved The Part Of The Internet We Broke</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-13T14:30:44+00:00",
-      "fetched": "2026-08-13T21:33:39.354418+00:00"
     }
   ],
-  "last_updated": "2026-08-17T21:15:34.182011+00:00"
+  "last_updated": "2026-08-18T21:13:03.006135+00:00"
 }
