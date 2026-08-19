@@ -1,6 +1,94 @@
 {
   "articles": [
     {
+      "id": "8cbffc1d-45fb-4b52-a027-7b9fa1ce7d1c",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Microsoft Advertising Rolls Out AI Max Globally via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/microsoft-advertising-rolls-out-ai-max-globally/586459/",
+      "summary": "Microsoft Advertising is rolling out AI Max globally, bringing expanded Search matching, text customization, URL expansion and new advertiser controls to Search campaigns.\n\nThe post <a href=\"https://www.searchenginejournal.com/microsoft-advertising-rolls-out-ai-max-globally/586459/\">Microsoft Advertising Rolls Out AI Max Globally</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-19T19:41:53+00:00",
+      "fetched": "2026-08-19T21:15:22.318535+00:00"
+    },
+    {
+      "id": "ce9e06ab-26f8-492c-a0de-40b0129c0f36",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Expands Generative UI Beyond AI Mode Into AI Overviews via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-expands-generative-ui-beyond-ai-mode-into-ai-overviews/586452/",
+      "summary": "Google's generative UI, which builds custom visual layouts and interactive tools, has started reaching AI Overviews after launching in AI Mode last year.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-expands-generative-ui-beyond-ai-mode-into-ai-overviews/586452/\">Google Expands Generative UI Beyond AI Mode Into AI Overviews</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-19T19:00:27+00:00",
+      "fetched": "2026-08-19T21:15:22.318561+00:00"
+    },
+    {
+      "id": "0a95f4ea-edf5-4189-b9dc-80a181af853d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Decision Coverage: Why AI Recommends Some Brands And Not Others via @sejournal, @billhunt",
+      "link": "https://www.searchenginejournal.com/decision-coverage-why-ai-recommends-some-brands-and-not-others/583028/",
+      "summary": "AI doesn't recommend products, it recommends decisions. A SaaS case study shows why missing evidence, not weak authority, causes exclusion from AI recommendations.\n\nThe post <a href=\"https://www.searchenginejournal.com/decision-coverage-why-ai-recommends-some-brands-and-not-others/583028/\">Decision Coverage: Why AI Recommends Some Brands And Not Others</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-19T19:00:10+00:00",
+      "fetched": "2026-08-19T21:15:22.318580+00:00"
+    },
+    {
+      "id": "122b8ff5-0a26-4362-9bfe-9f5756b5fd09",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Clicks Are Down 42%, LinkedIn Reach Down 47% But You\u2019re Raging At The Wrong Target via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/clicks-are-down-42-linkedin-reach-down-47-but-youre-raging-at-the-wrong-target/585862/",
+      "summary": "LinkedIn reach and Google clicks are collapsing, but Tony Uphoff argues SEO pros are diagnosing structural disruption as decline, and prescribing the wrong fix.\n\nThe post <a href=\"https://www.searchenginejournal.com/clicks-are-down-42-linkedin-reach-down-47-but-youre-raging-at-the-wrong-target/585862/\">Clicks Are Down 42%, LinkedIn Reach Down 47% But You&#8217;re Raging At The Wrong Target</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-19T14:30:55+00:00",
+      "fetched": "2026-08-19T21:15:22.318624+00:00"
+    },
+    {
+      "id": "e1f3b256-fae7-4877-b3b2-500d5d5fc9d8",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "InMotion Hosting Launches Tiered Agency Partner Program via @sejournal, @inmotionhosting",
+      "link": "https://www.searchenginejournal.com/inmotion-hosting-launches-tiered-agency-partner-program-spn/586195/",
+      "summary": "InMotion Hosting launches a tiered Agency Partner Program helping digital agencies earn recurring revenue, access client leads, receive hosting discounts, and simplify account management.\n\nThe post <a href=\"https://www.searchenginejournal.com/inmotion-hosting-launches-tiered-agency-partner-program-spn/586195/\">InMotion Hosting Launches Tiered Agency Partner Program</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-19T14:29:43+00:00",
+      "fetched": "2026-08-19T21:15:22.318645+00:00"
+    },
+    {
+      "id": "5a269479-3791-4c78-bfc3-7d9f84bfc88f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Track Google AI Mode Traffic In Search Console via @sejournal, @suganthan",
+      "link": "https://www.searchenginejournal.com/how-to-track-google-ai-mode-traffic-in-search-console/586194/",
+      "summary": "Search Console hides AI Mode query data by default. This breakdown compares four extraction methods, including a free ML-powered tool.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-track-google-ai-mode-traffic-in-search-console/586194/\">How To Track Google AI Mode Traffic In Search Console</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-19T12:00:51+00:00",
+      "fetched": "2026-08-19T21:15:22.318663+00:00"
+    },
+    {
+      "id": "3f85c83c-6e81-4303-9689-47a41ee5b3df",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Answers Why Spam Updates Need To Happen via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-answers-why-spam-updates-need-to-happen/586382/",
+      "summary": "Why does Google have spam updates every once in a while? Google\u2019s John Mueller answers that question and explains the reason why Google doesn\u2019t just get rid of spam on a regular basis with existing algorithms. Spam Algorithms And Updates There are many kinds of search spam, and Google\u2019s systems handle them with different algorithms. They have something called SpamBrain that\u2019s an AI for figuring out what pages are spam. There are quality factors that weed out spammy sites, and there are link algo",
+      "published": "2026-08-19T10:42:13+00:00",
+      "fetched": "2026-08-19T21:15:22.318683+00:00"
+    },
+    {
+      "id": "e14d1a57-e666-40fe-bb1a-637c6beba245",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Answers Why Search Updates Aren\u2019t Announced Right Away via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-answers-why-search-updates-arent-announced-right-away/586370/",
+      "summary": "Google's John Mueller explains why updates aren't announced earlier when rankings are already bouncing around.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-answers-why-search-updates-arent-announced-right-away/586370/\">Google Answers Why Search Updates Aren&#8217;t Announced Right Away</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-19T10:19:30+00:00",
+      "fetched": "2026-08-19T21:15:22.318708+00:00"
+    },
+    {
       "id": "bf958382-11cd-47b7-a900-e02ec324ba5c",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -131,95 +219,7 @@
       "summary": "Email placements work, but not as a replacement for email marketing. What Demand Gen and Audience Ads actually deliver, and how to set them up.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-paid-search-email-placement-right-place-right-time/583613/\">The Paid &#8216;Search&#8217; Email Placement: Right Place, Right Time</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-08-17T14:30:29+00:00",
       "fetched": "2026-08-17T21:15:33.374663+00:00"
-    },
-    {
-      "id": "cf7727fc-b387-4778-9d9e-6adb11586d24",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Assistants Are Choosing Local Businesses For Your Customers via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/ai-assistants-are-choosing-local-businesses-for-your-customers/585275/",
-      "summary": "AI assistants narrow local searches before customers reach a website. See how Google builds those answers and which local signals businesses can optimize.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-assistants-are-choosing-local-businesses-for-your-customers/585275/\">AI Assistants Are Choosing Local Businesses For Your Customers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-17T12:00:06+00:00",
-      "fetched": "2026-08-17T21:15:33.374679+00:00"
-    },
-    {
-      "id": "45282112-e169-44ae-9c8c-803e0d109237",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google: Subject/Object Entity Order Affects AI Answers via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-subject-object-entity-order-affects-ai-answers/586089/",
-      "summary": "Google's research shows that LLMs struggle to recall facts when questions reverse the usual subject/object entity order.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-subject-object-entity-order-affects-ai-answers/586089/\">Google: Subject/Object Entity Order Affects AI Answers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-17T11:11:31+00:00",
-      "fetched": "2026-08-17T21:15:33.374695+00:00"
-    },
-    {
-      "id": "e7a2101e-f41e-49e0-931a-8a31a2e696f9",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "ChatGPT\u2019s Index, GA Benchmarks, Google Refiles Complaint \u2013 SEO Pulse via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-chatgpts-index-ga-benchmarks-google-refiles-complaint/585748/",
-      "summary": "Google Analytics adds campaign benchmarking, new data on ChatGPT's index search index, and Google refiles its SerpApi claims with new terms.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-chatgpts-index-ga-benchmarks-google-refiles-complaint/585748/\">ChatGPT&#8217;s Index, GA Benchmarks, Google Refiles Complaint \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-15T12:00:14+00:00",
-      "fetched": "2026-08-15T21:11:02.178200+00:00"
-    },
-    {
-      "id": "d88a922d-d267-49a9-9bba-d2264fc7e20c",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Anthropic Reveals What The Watermark Is And How It Can Be Defeated via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/anthropic-reveals-what-the-watermark-is-and-how-it-can-be-defeated/585930/",
-      "summary": "Anthropic offers more details about its watermark including how it can be defeated.\n\nThe post <a href=\"https://www.searchenginejournal.com/anthropic-reveals-what-the-watermark-is-and-how-it-can-be-defeated/585930/\">Anthropic Reveals What The Watermark Is And How It Can Be Defeated</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-15T10:46:00+00:00",
-      "fetched": "2026-08-15T21:11:02.178227+00:00"
-    },
-    {
-      "id": "af72e6d2-0fdd-4eaf-a6f7-f92b7b90bd44",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Brings Gemini 3.7 Flash To AI Mode In Search via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-brings-gemini-3-7-flash-to-ai-mode-in-search/585923/",
-      "summary": "Google is rolling out Gemini 3.7 Flash in AI Mode for Google AI Pro and Ultra subscribers, a day after the model's initial release.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-brings-gemini-3-7-flash-to-ai-mode-in-search/585923/\">Google Brings Gemini 3.7 Flash To AI Mode In Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-14T23:02:04+00:00",
-      "fetched": "2026-08-15T21:11:02.178247+00:00"
-    },
-    {
-      "id": "4fe57936-76f8-482b-9a09-a9937bc4cd03",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "OpenAI Says Robots.txt May Not Apply To ChatGPT\u2019s Fetch Bot via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/openai-says-robots-txt-may-not-apply-to-chatgpts-fetch-bot/585864/",
-      "summary": "New data shows ChatGPT's page-fetching bot is reaching sites that have disallowed it, and OpenAI's own documentation explains why the file may not stop it.\n\nThe post <a href=\"https://www.searchenginejournal.com/openai-says-robots-txt-may-not-apply-to-chatgpts-fetch-bot/585864/\">OpenAI Says Robots.txt May Not Apply To ChatGPT&#8217;s Fetch Bot</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-14T19:10:07+00:00",
-      "fetched": "2026-08-14T21:15:04.116076+00:00"
-    },
-    {
-      "id": "38397fea-8bd3-43e4-8da7-1f88fedd89ea",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "What A Claude Watermark Can & Can\u2019t Tell You About Authorship via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/what-a-claude-watermark-can-cant-tell-you-about-authorship/585754/",
-      "summary": "Anthropic plans to watermark Claude text. This article explains what a watermark can confirm and why not finding one doesn't mean the text isn't AI-generated.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-a-claude-watermark-can-cant-tell-you-about-authorship/585754/\">What A Claude Watermark Can &#038; Can&#8217;t Tell You About Authorship</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-14T19:00:39+00:00",
-      "fetched": "2026-08-14T21:15:04.116105+00:00"
-    },
-    {
-      "id": "5e9b7398-1193-4a44-96f2-e8bdd2991cdb",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "YouTube Measures Creator Video on Branded Search Lift, But The Attribution Gap Still Exists via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/youtube-measures-creator-video-on-branded-search-lift-but-the-attribution-gap-still-exists/584876/",
-      "summary": "Google's creator playbook proves creator campaigns lift branded search, but omits attribution windows, baselines, and controls.\n\nThe post <a href=\"https://www.searchenginejournal.com/youtube-measures-creator-video-on-branded-search-lift-but-the-attribution-gap-still-exists/584876/\">YouTube Measures Creator Video on Branded Search Lift, But The Attribution Gap Still Exists</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-14T17:30:21+00:00",
-      "fetched": "2026-08-14T21:15:04.116125+00:00"
     }
   ],
-  "last_updated": "2026-08-18T21:13:03.006135+00:00"
+  "last_updated": "2026-08-19T21:15:23.000782+00:00"
 }
