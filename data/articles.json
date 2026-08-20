@@ -1,6 +1,83 @@
 {
   "articles": [
     {
+      "id": "43ed5fda-42b3-421d-9c96-10982a687548",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Keyword Universe Was Always Smaller Than We Thought via @sejournal, @DuaneForrester",
+      "link": "https://www.searchenginejournal.com/the-keyword-universe-was-always-smaller-than-we-thought/586065/",
+      "summary": "Citation tools answer a different question than rank trackers did: not why you appeared, but whether the phrase you're chasing has already settled.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-keyword-universe-was-always-smaller-than-we-thought/586065/\">The Keyword Universe Was Always Smaller Than We Thought</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-20T19:00:38+00:00",
+      "fetched": "2026-08-20T21:17:31.683234+00:00"
+    },
+    {
+      "id": "262bab8c-18cb-4cda-9c9d-ae6cf62f421a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Microsoft Ads Is Removing Max CPC From New Campaigns via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/microsoft-ads-is-removing-max-cpc-from-new-campaigns/586527/",
+      "summary": "Microsoft Advertising will remove Max CPC from new non-portfolio campaigns starting Oct. 1, shifting advertisers toward automated bidding controls and performance targets.\n\nThe post <a href=\"https://www.searchenginejournal.com/microsoft-ads-is-removing-max-cpc-from-new-campaigns/586527/\">Microsoft Ads Is Removing Max CPC From New Campaigns</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-20T18:13:03+00:00",
+      "fetched": "2026-08-20T21:17:31.683260+00:00"
+    },
+    {
+      "id": "15471845-97b4-4fed-8af6-c21cd96fd25f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How Do I Identify Cannibalization Problems & Consolidate Without Loss Of Visibility? \u2013 Ask An SEO via @sejournal, @rollerblader",
+      "link": "https://www.searchenginejournal.com/ask-an-seo-how-do-i-identify-cannibalization-problems-consolidate-without-loss-of-visibility/553881/",
+      "summary": "A practical guide to spotting keyword cannibalization using Search Console, site crawlers, and rank trackers, plus fixes like canonicals, meta robots, and internal linking.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-an-seo-how-do-i-identify-cannibalization-problems-consolidate-without-loss-of-visibility/553881/\">How Do I Identify Cannibalization Problems &#038; Consolidate Without Loss Of Visibility? \u2013 Ask An SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\"",
+      "published": "2026-08-20T17:30:58+00:00",
+      "fetched": "2026-08-20T21:17:31.683282+00:00"
+    },
+    {
+      "id": "42463522-04bd-4756-9eb2-b9e19ea35179",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Expands Personalization Across Search, Discover & News via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-expands-personalization-across-search-discover-news/586528/",
+      "summary": "Google is rolling out a new embeddable Preferred Sources button, natural language Discover controls, and customizable audio briefings in the Google News app.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-expands-personalization-across-search-discover-news/586528/\">Google Expands Personalization Across Search, Discover &#038; News</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-20T16:02:52+00:00",
+      "fetched": "2026-08-20T21:17:31.683305+00:00"
+    },
+    {
+      "id": "896f96f9-e9f4-4527-bd3e-edb14a9887c6",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Conversion Setup Errors That Break Smart Bidding",
+      "link": "https://www.searchenginejournal.com/the-conversion-setup-errors-that-break-smart-bidding/584671/",
+      "summary": "Smart Bidding problems often trace back to broken conversion tracking, not bidding strategy. Seven silent setup errors that corrupt the data feeding your campaigns.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-conversion-setup-errors-that-break-smart-bidding/584671/\">The Conversion Setup Errors That Break Smart Bidding</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-20T14:30:03+00:00",
+      "fetched": "2026-08-20T21:17:31.683323+00:00"
+    },
+    {
+      "id": "278c4764-0552-44ea-a1bc-c47e35ee4295",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Prompt Injections Just Proved Something SEO Has Known For 25 Years via @sejournal, @theshelleywalsh",
+      "link": "https://www.searchenginejournal.com/prompt-injection-just-proved-something-seo-has-known-for-25-years/586405/",
+      "summary": "Hidden white-on-white text was an SEO trick 25 years ago. Now, it tells AI models what to conclude about you.\n\nThe post <a href=\"https://www.searchenginejournal.com/prompt-injection-just-proved-something-seo-has-known-for-25-years/586405/\">Prompt Injections Just Proved Something SEO Has Known For 25 Years</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-20T12:00:39+00:00",
+      "fetched": "2026-08-20T21:17:31.683343+00:00"
+    },
+    {
+      "id": "0ad2d166-aeeb-466e-bb89-50d31a78ac23",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why Reddit\u2019s ChatGPT Citation Drop Isn\u2019t Fully Explained via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/why-reddits-chatgpt-citation-drop-isnt-fully-explained/586479/",
+      "summary": "New Promptwatch data shows a sharp drop in Reddit's ChatGPT Search citations this month.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-reddits-chatgpt-citation-drop-isnt-fully-explained/586479/\">Why Reddit&#8217;s ChatGPT Citation Drop Isn&#8217;t Fully Explained</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-19T22:03:26+00:00",
+      "fetched": "2026-08-20T21:17:31.683361+00:00"
+    },
+    {
       "id": "8cbffc1d-45fb-4b52-a027-7b9fa1ce7d1c",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -142,84 +219,7 @@
       "summary": "Unveil the truth about AI search with interesting findings from 15 million data points. Learn what really influences rankings.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-search-myths-debunked-ahrefs-spa/584393/\">9 AI Search Myths, Debunked by 15 Million Data Points</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-08-18T14:26:59+00:00",
       "fetched": "2026-08-18T21:13:02.218000+00:00"
-    },
-    {
-      "id": "82b8b55c-145d-42d3-b7d8-1afc3cbdd515",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "What We Can Learn From Evolving ChatGPT Fan-Out Queries via @sejournal, @lilyraynyc",
-      "link": "https://www.searchenginejournal.com/what-we-can-learn-from-evolving-chatgpt-fan-out-queries/586254/",
-      "summary": "ChatGPT's search behavior is starting to look like E-E-A-T. Here's the data behind that theory, and what to do about it. \n\nThe post <a href=\"https://www.searchenginejournal.com/what-we-can-learn-from-evolving-chatgpt-fan-out-queries/586254/\">What We Can Learn From Evolving ChatGPT Fan-Out Queries</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-18T13:01:30+00:00",
-      "fetched": "2026-08-18T21:13:02.218050+00:00"
-    },
-    {
-      "id": "fe94f06b-216d-49e6-a9d2-868f6bf5cd69",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Get Your Business Found & Chosen In AI Search [Free SEJ Live Event]",
-      "link": "https://www.searchenginejournal.com/get-your-business-found-chosen-in-ai-search-free-sej-live-event/584710/",
-      "summary": "Turn AI-driven local discovery into actual customers. SEJ Live on August 26 brings three hours of practical guidance and live Q&amp;A.\n\nThe post <a href=\"https://www.searchenginejournal.com/get-your-business-found-chosen-in-ai-search-free-sej-live-event/584710/\">Get Your Business Found &#038; Chosen In AI Search [Free SEJ Live Event]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-18T12:00:54+00:00",
-      "fetched": "2026-08-18T21:13:02.218071+00:00"
-    },
-    {
-      "id": "80743578-bbc6-4469-84dd-4abc97df8674",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "YouTube Changes How It Counts Views On Long-Form & Live via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/youtube-changes-how-it-counts-views-on-long-form-live/586166/",
-      "summary": "YouTube is changing how it counts views on long-form videos and live streams.\n\nThe post <a href=\"https://www.searchenginejournal.com/youtube-changes-how-it-counts-views-on-long-form-live/586166/\">YouTube Changes How It Counts Views On Long-Form &#038; Live</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-17T20:10:31+00:00",
-      "fetched": "2026-08-17T21:15:33.374576+00:00"
-    },
-    {
-      "id": "8b960ddc-0220-462d-b071-480614f6f8d6",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The AI Conversations Leaking Into Your Search Console via @sejournal, @suganthan",
-      "link": "https://www.searchenginejournal.com/the-ai-conversations-leaking-into-your-search-console/585663/",
-      "summary": "Search Console records what people say to AI Mode. Here's how to pull those fragments out and sort them into seven buckets.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-ai-conversations-leaking-into-your-search-console/585663/\">The AI Conversations Leaking Into Your Search Console</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-17T19:00:05+00:00",
-      "fetched": "2026-08-17T21:15:33.374604+00:00"
-    },
-    {
-      "id": "81d5af85-fcbb-4ff9-9cf7-50e103116455",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Lets You Turn Off Visible Watermarks In Gemini via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-lets-you-turn-off-visible-watermarks-in-gemini/586145/",
-      "summary": "Google Gemini allows users to disable the visible watermark on AI-generated images, videos, and music, while SynthID and C2PA marks stay embedded.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-lets-you-turn-off-visible-watermarks-in-gemini/586145/\">Google Lets You Turn Off Visible Watermarks In Gemini</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-17T17:00:44+00:00",
-      "fetched": "2026-08-17T21:15:33.374623+00:00"
-    },
-    {
-      "id": "9a451ee8-4e32-4e93-8f5d-44fec6ec8249",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Llms.txt V2 Adds Formal Markdown Linking For AI Agents via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/llms-txt-v2-formal-markdown-linking-ai-agents/586119/",
-      "summary": "A v2 update to the llms.txt spec has shipped, adding formal link relations that help AI agents locate Markdown versions of pages.\n\nThe post <a href=\"https://www.searchenginejournal.com/llms-txt-v2-formal-markdown-linking-ai-agents/586119/\">Llms.txt V2 Adds Formal Markdown Linking For AI Agents</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-17T16:06:23+00:00",
-      "fetched": "2026-08-17T21:15:33.374645+00:00"
-    },
-    {
-      "id": "b4a25788-e2ff-4939-9063-c4051db8a718",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Paid \u2018Search\u2019 Email Placement: Right Place, Right Time via @sejournal, @jonkagan",
-      "link": "https://www.searchenginejournal.com/the-paid-search-email-placement-right-place-right-time/583613/",
-      "summary": "Email placements work, but not as a replacement for email marketing. What Demand Gen and Audience Ads actually deliver, and how to set them up.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-paid-search-email-placement-right-place-right-time/583613/\">The Paid &#8216;Search&#8217; Email Placement: Right Place, Right Time</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-17T14:30:29+00:00",
-      "fetched": "2026-08-17T21:15:33.374663+00:00"
     }
   ],
-  "last_updated": "2026-08-19T21:15:23.000782+00:00"
+  "last_updated": "2026-08-20T21:17:32.595846+00:00"
 }
