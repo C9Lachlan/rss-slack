@@ -1,6 +1,50 @@
 {
   "articles": [
     {
+      "id": "2dd8d3b9-9ea2-4ac9-9f88-8ad0d56ffe53",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Mode Queries Are 3X Longer \u2013 Why Your Page Should Lead With The Answer via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/ai-mode-queries-are-3x-longer-the-case-for-leading-with-the-answer/585990/",
+      "summary": "One year of AI Mode data shows people asking questions, not typing fragments, which is why the lead-first paragraph now beats the narrative arc.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-mode-queries-are-3x-longer-the-case-for-leading-with-the-answer/585990/\">AI Mode Queries Are 3X Longer \u2013 Why Your Page Should Lead With The Answer</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-21T19:00:14+00:00",
+      "fetched": "2026-08-21T21:13:04.808696+00:00"
+    },
+    {
+      "id": "9769a04b-cd77-4007-adbb-f327a32b6225",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The House Doesn\u2019t Publish Its Tells via @sejournal, @pedrodias",
+      "link": "https://www.searchenginejournal.com/the-house-doesnt-publish-its-tells/586359/",
+      "summary": "AI labs are buying pre-2022 books to avoid training on AI slop while quietly building text watermarking, exposing why content-at-scale strategies are a losing bet.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-house-doesnt-publish-its-tells/586359/\">The House Doesn&#8217;t Publish Its Tells</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-21T14:30:45+00:00",
+      "fetched": "2026-08-21T21:13:04.808723+00:00"
+    },
+    {
+      "id": "8f4e4b69-5e94-4e5f-9166-2e2313474219",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Generated Interfaces Could Compete With Tool Pages via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/googles-generated-interfaces-could-compete-with-tool-pages/586589/",
+      "summary": "AI Overviews can now build interactive tools inside Search. Google\u2019s testing shows generated interfaces often beat top results in head-to-head comparisons.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-generated-interfaces-could-compete-with-tool-pages/586589/\">Google\u2019s Generated Interfaces Could Compete With Tool Pages</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-21T12:00:32+00:00",
+      "fetched": "2026-08-21T21:13:04.808744+00:00"
+    },
+    {
+      "id": "5c1cb907-cba5-4310-807b-07f1793d68ef",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "What AI Bot Data From Hundreds Of Sites Reveals About AI Search [Webinar] via @sejournal, @lorenbaker",
+      "link": "https://www.searchenginejournal.com/what-ai-bot-data-from-hundreds-of-sites-reveals-about-ai-search-webinar/586556/",
+      "summary": "Optimize your marketing strategy by learning the limitations of AI search metrics and how to utilize your data effectively.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-ai-bot-data-from-hundreds-of-sites-reveals-about-ai-search-webinar/586556/\">What AI Bot Data From Hundreds Of Sites Reveals About AI Search [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-21T07:45:38+00:00",
+      "fetched": "2026-08-21T21:13:04.808767+00:00"
+    },
+    {
       "id": "43ed5fda-42b3-421d-9c96-10982a687548",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -175,51 +219,7 @@
       "summary": "Facebook, Instagram, and TikTok earn AI citations for different queries, rewarding precise answers over large audiences.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-google-aios-use-facebook-instagram-tiktok-from-300-million-us-searches/585244/\">How Google AIOs Use Facebook, Instagram &#038; TikTok From 300 Million US Searches</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-08-18T19:00:48+00:00",
       "fetched": "2026-08-18T21:13:02.217909+00:00"
-    },
-    {
-      "id": "1c2d7a76-48b9-450f-a0f5-4cac9e3b3837",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Everyone Is Negotiating With Google While Meta Reads The Web For Free via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/everyone-is-negotiating-with-google-while-meta-reads-the-web-for-free/584465/",
-      "summary": "The machine-access fight is aimed at Google. Meta reads more, returns almost nothing, and no one is asking it to stop.\n\nThe post <a href=\"https://www.searchenginejournal.com/everyone-is-negotiating-with-google-while-meta-reads-the-web-for-free/584465/\">Everyone Is Negotiating With Google While Meta Reads The Web For Free</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-18T17:30:31+00:00",
-      "fetched": "2026-08-18T21:13:02.217942+00:00"
-    },
-    {
-      "id": "744e37ca-b76c-438f-af13-948eb5693c0e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Begins Rolling Out The August 2026 Spam Update via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-begins-rolling-out-the-august-2026-spam-update/586301/",
-      "summary": "Google has begun rolling out the August 2026 spam update, applying globally and to all languages, its third one this year.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-begins-rolling-out-the-august-2026-spam-update/586301/\">Google Begins Rolling Out The August 2026 Spam Update</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-18T17:10:40+00:00",
-      "fetched": "2026-08-18T21:13:02.217960+00:00"
-    },
-    {
-      "id": "d503d733-c448-4d82-9619-892f588a2179",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why Search Volume Is Screening Out Your Best Content Opportunities",
-      "link": "https://www.searchenginejournal.com/why-search-volume-is-screening-out-your-best-content-opportunities/585048/",
-      "summary": "AI assistants turn contextual prompts into multiple queries, making buyer decisions and sub-questions more valuable content targets than raw keyword volume.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-search-volume-is-screening-out-your-best-content-opportunities/585048/\">Why Search Volume Is Screening Out Your Best Content Opportunities</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-18T14:30:48+00:00",
-      "fetched": "2026-08-18T21:13:02.217983+00:00"
-    },
-    {
-      "id": "cf551e54-953e-4e1c-ba77-a4898924cf9b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "9 AI Search Myths, Debunked by 15 Million Data Points via @sejournal, @ahrefs",
-      "link": "https://www.searchenginejournal.com/ai-search-myths-debunked-ahrefs-spa/584393/",
-      "summary": "Unveil the truth about AI search with interesting findings from 15 million data points. Learn what really influences rankings.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-search-myths-debunked-ahrefs-spa/584393/\">9 AI Search Myths, Debunked by 15 Million Data Points</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-18T14:26:59+00:00",
-      "fetched": "2026-08-18T21:13:02.218000+00:00"
     }
   ],
-  "last_updated": "2026-08-20T21:17:32.595846+00:00"
+  "last_updated": "2026-08-21T21:13:05.994014+00:00"
 }
