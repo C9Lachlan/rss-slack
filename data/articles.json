@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": "3bb0c811-c6e8-4271-8034-5053af5c42be",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Spam Update, Generative UI In AIOs, Reddit Drop \u2013 SEO Pulse via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/seo-pulse-spam-update-generative-ui-ai-overviews-reddit-drop/586597/",
+      "summary": "Google's August spam update rolls out as generative UI reaches AI Overviews, websites get a new button, and Reddit's ChatGPT citation share falls.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-spam-update-generative-ui-ai-overviews-reddit-drop/586597/\">Spam Update, Generative UI In AIOs, Reddit Drop \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-22T12:30:28+00:00",
+      "fetched": "2026-08-22T21:11:30.122923+00:00"
+    },
+    {
       "id": "2dd8d3b9-9ea2-4ac9-9f88-8ad0d56ffe53",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -208,18 +219,7 @@
       "summary": "Google's John Mueller explains why updates aren't announced earlier when rankings are already bouncing around.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-answers-why-search-updates-arent-announced-right-away/586370/\">Google Answers Why Search Updates Aren&#8217;t Announced Right Away</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-08-19T10:19:30+00:00",
       "fetched": "2026-08-19T21:15:22.318708+00:00"
-    },
-    {
-      "id": "bf958382-11cd-47b7-a900-e02ec324ba5c",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How Google AIOs Use Facebook, Instagram & TikTok From 300 Million US Searches",
-      "link": "https://www.searchenginejournal.com/how-google-aios-use-facebook-instagram-tiktok-from-300-million-us-searches/585244/",
-      "summary": "Facebook, Instagram, and TikTok earn AI citations for different queries, rewarding precise answers over large audiences.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-google-aios-use-facebook-instagram-tiktok-from-300-million-us-searches/585244/\">How Google AIOs Use Facebook, Instagram &#038; TikTok From 300 Million US Searches</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-18T19:00:48+00:00",
-      "fetched": "2026-08-18T21:13:02.217909+00:00"
     }
   ],
-  "last_updated": "2026-08-21T21:13:05.994014+00:00"
+  "last_updated": "2026-08-22T21:11:30.741797+00:00"
 }
