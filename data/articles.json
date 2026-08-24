@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "020792b6-3bd8-404d-b583-6266b9bd3c76",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "1 In 10 Webpages Shows Signs Of AI Authorship, Pew Reports via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/1-in-10-webpages-shows-signs-of-ai-authorship-pew-reports/586883/",
+      "summary": "Pew found AI authorship signs on 10% of sampled webpages and 35% of pages carrying a post-ChatGPT publication date.\n\nThe post <a href=\"https://www.searchenginejournal.com/1-in-10-webpages-shows-signs-of-ai-authorship-pew-reports/586883/\">1 In 10 Webpages Shows Signs Of AI Authorship, Pew Reports</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-24T18:50:15+00:00",
+      "fetched": "2026-08-24T21:18:27.256105+00:00"
+    },
+    {
+      "id": "88e76284-4258-4215-b7d0-533cfe0fb203",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Ads Launches New Search and AI Max Experimentation Tools via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/google-ads-launches-new-search-and-ai-max-experimentation-tools/586549/",
+      "summary": "Google Ads adds new Search and AI Max experimentation tools for testing budgets, ROI targets, brand controls, location settings, and campaign changes.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ads-launches-new-search-and-ai-max-experimentation-tools/586549/\">Google Ads Launches New Search and AI Max Experimentation Tools</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-24T14:50:16+00:00",
+      "fetched": "2026-08-24T21:18:27.256131+00:00"
+    },
+    {
+      "id": "df0e6337-c2b1-4638-a481-3a1417ded94a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "SEOs Are Becoming The Tools Of Their Tools \u2013 The AI Slop Backlash via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/seos-are-becoming-the-tools-of-their-tools-the-ai-slop-backlash/586298/",
+      "summary": "Platforms like Spotify and LinkedIn are cracking down on AI slop. SEOs face a choice: treat AI as a shortcut or as an editorial assistant.\n\nThe post <a href=\"https://www.searchenginejournal.com/seos-are-becoming-the-tools-of-their-tools-the-ai-slop-backlash/586298/\">SEOs Are Becoming The Tools Of Their Tools \u2013 The AI Slop Backlash</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-24T14:30:06+00:00",
+      "fetched": "2026-08-24T21:18:27.256152+00:00"
+    },
+    {
+      "id": "86325b23-b17e-4220-a2f4-479fbf60caa0",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Audit Publisher Websites In 2026",
+      "link": "https://www.searchenginejournal.com/how-to-audit-publisher-websites-in-2026/586349/",
+      "summary": "A practical framework for auditing publisher websites in 2026, covering technical SEO, content quality, E-E-A-T, and entity consistency across passive and active discovery channels.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-audit-publisher-websites-in-2026/586349/\">How To Audit Publisher Websites In 2026</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-24T12:00:14+00:00",
+      "fetched": "2026-08-24T21:18:27.256174+00:00"
+    },
+    {
+      "id": "b5f721a3-c552-420c-8678-2b2be03d8ef3",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Answers If Some Sites Can Ignore GEO And Just Focus On SEO via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-answers-if-some-sites-can-ignore-geo-and-just-focus-on-seo/586737/",
+      "summary": "Google explains whether some industries can get away with focusing on search and ignore GEO altogether.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-answers-if-some-sites-can-ignore-geo-and-just-focus-on-seo/586737/\">Google Answers If Some Sites Can Ignore GEO And Just Focus On SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-24T10:52:48+00:00",
+      "fetched": "2026-08-24T21:18:27.256192+00:00"
+    },
+    {
       "id": "3bb0c811-c6e8-4271-8034-5053af5c42be",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -164,62 +219,7 @@
       "summary": "AI doesn't recommend products, it recommends decisions. A SaaS case study shows why missing evidence, not weak authority, causes exclusion from AI recommendations.\n\nThe post <a href=\"https://www.searchenginejournal.com/decision-coverage-why-ai-recommends-some-brands-and-not-others/583028/\">Decision Coverage: Why AI Recommends Some Brands And Not Others</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-08-19T19:00:10+00:00",
       "fetched": "2026-08-19T21:15:22.318580+00:00"
-    },
-    {
-      "id": "122b8ff5-0a26-4362-9bfe-9f5756b5fd09",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Clicks Are Down 42%, LinkedIn Reach Down 47% But You\u2019re Raging At The Wrong Target via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/clicks-are-down-42-linkedin-reach-down-47-but-youre-raging-at-the-wrong-target/585862/",
-      "summary": "LinkedIn reach and Google clicks are collapsing, but Tony Uphoff argues SEO pros are diagnosing structural disruption as decline, and prescribing the wrong fix.\n\nThe post <a href=\"https://www.searchenginejournal.com/clicks-are-down-42-linkedin-reach-down-47-but-youre-raging-at-the-wrong-target/585862/\">Clicks Are Down 42%, LinkedIn Reach Down 47% But You&#8217;re Raging At The Wrong Target</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-19T14:30:55+00:00",
-      "fetched": "2026-08-19T21:15:22.318624+00:00"
-    },
-    {
-      "id": "e1f3b256-fae7-4877-b3b2-500d5d5fc9d8",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "InMotion Hosting Launches Tiered Agency Partner Program via @sejournal, @inmotionhosting",
-      "link": "https://www.searchenginejournal.com/inmotion-hosting-launches-tiered-agency-partner-program-spn/586195/",
-      "summary": "InMotion Hosting launches a tiered Agency Partner Program helping digital agencies earn recurring revenue, access client leads, receive hosting discounts, and simplify account management.\n\nThe post <a href=\"https://www.searchenginejournal.com/inmotion-hosting-launches-tiered-agency-partner-program-spn/586195/\">InMotion Hosting Launches Tiered Agency Partner Program</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-19T14:29:43+00:00",
-      "fetched": "2026-08-19T21:15:22.318645+00:00"
-    },
-    {
-      "id": "5a269479-3791-4c78-bfc3-7d9f84bfc88f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Track Google AI Mode Traffic In Search Console via @sejournal, @suganthan",
-      "link": "https://www.searchenginejournal.com/how-to-track-google-ai-mode-traffic-in-search-console/586194/",
-      "summary": "Search Console hides AI Mode query data by default. This breakdown compares four extraction methods, including a free ML-powered tool.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-track-google-ai-mode-traffic-in-search-console/586194/\">How To Track Google AI Mode Traffic In Search Console</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-19T12:00:51+00:00",
-      "fetched": "2026-08-19T21:15:22.318663+00:00"
-    },
-    {
-      "id": "3f85c83c-6e81-4303-9689-47a41ee5b3df",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Answers Why Spam Updates Need To Happen via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-answers-why-spam-updates-need-to-happen/586382/",
-      "summary": "Why does Google have spam updates every once in a while? Google\u2019s John Mueller answers that question and explains the reason why Google doesn\u2019t just get rid of spam on a regular basis with existing algorithms. Spam Algorithms And Updates There are many kinds of search spam, and Google\u2019s systems handle them with different algorithms. They have something called SpamBrain that\u2019s an AI for figuring out what pages are spam. There are quality factors that weed out spammy sites, and there are link algo",
-      "published": "2026-08-19T10:42:13+00:00",
-      "fetched": "2026-08-19T21:15:22.318683+00:00"
-    },
-    {
-      "id": "e14d1a57-e666-40fe-bb1a-637c6beba245",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Answers Why Search Updates Aren\u2019t Announced Right Away via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-answers-why-search-updates-arent-announced-right-away/586370/",
-      "summary": "Google's John Mueller explains why updates aren't announced earlier when rankings are already bouncing around.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-answers-why-search-updates-arent-announced-right-away/586370/\">Google Answers Why Search Updates Aren&#8217;t Announced Right Away</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-19T10:19:30+00:00",
-      "fetched": "2026-08-19T21:15:22.318708+00:00"
     }
   ],
-  "last_updated": "2026-08-23T21:11:18.716430+00:00"
+  "last_updated": "2026-08-24T21:18:28.526713+00:00"
 }
