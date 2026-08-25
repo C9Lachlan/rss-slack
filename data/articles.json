@@ -1,6 +1,94 @@
 {
   "articles": [
     {
+      "id": "57cb5666-575c-401d-85bf-cfdbe94932cc",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "ChatGPT Rebuilt Its Search Tool, I Read The New Language It Speaks via @sejournal, @suganthan",
+      "link": "https://www.searchenginejournal.com/chatgpt-rebuilt-its-search-tool-i-read-the-new-language-it-speaks/586710/",
+      "summary": "84 Reddit threads entered the retrieval pool. Zero got cited. The new tool-call format shows what ChatGPT fetches before it answers.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-rebuilt-its-search-tool-i-read-the-new-language-it-speaks/586710/\">ChatGPT Rebuilt Its Search Tool, I Read The New Language It Speaks</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-25T19:00:30+00:00",
+      "fetched": "2026-08-25T21:17:06.068061+00:00"
+    },
+    {
+      "id": "a0341c81-e562-4bf3-af16-3d118a86cf63",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Brings Developing-Topic Link Carousels To AI Mode via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-brings-developing-topic-link-carousels-to-ai-mode/587022/",
+      "summary": "Google has brought its developing-topic link carousels to AI Mode, putting timely article links and Preferred Sources prominently inside AI responses.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-brings-developing-topic-link-carousels-to-ai-mode/587022/\">Google Brings Developing-Topic Link Carousels To AI Mode</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-25T17:39:07+00:00",
+      "fetched": "2026-08-25T21:17:06.068086+00:00"
+    },
+    {
+      "id": "4791be54-ce70-4949-9139-a0127a329493",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why International SEO Needs Machine-Recognizable E-E-A-T via @sejournal, @motokohunt",
+      "link": "https://www.searchenginejournal.com/why-international-seo-needs-machine-recognizable-e-e-a-t/583439/",
+      "summary": "AI can flatten decades of localized expertise into one generic brand impression, meaning global brands must translate credentials into evidence machines actually recognize.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-international-seo-needs-machine-recognizable-e-e-a-t/583439/\">Why International SEO Needs Machine-Recognizable E-E-A-T</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-25T14:30:30+00:00",
+      "fetched": "2026-08-25T21:17:06.068103+00:00"
+    },
+    {
+      "id": "43f7e781-8820-40ee-902b-45d77535c290",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Your Promo Code Field May Be Sending Revenue To Affiliates via @sejournal, @lorenbaker",
+      "link": "https://www.searchenginejournal.com/promo-code-search-affiliate-revenue-leak/586554/",
+      "summary": "An owned promo code page can keep purchase-ready shoppers away from coupon affiliates and recover revenue leaking from ecommerce checkout flows.\n\nThe post <a href=\"https://www.searchenginejournal.com/promo-code-search-affiliate-revenue-leak/586554/\">Your Promo Code Field May Be Sending Revenue To Affiliates</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-25T12:30:50+00:00",
+      "fetched": "2026-08-25T21:17:06.068124+00:00"
+    },
+    {
+      "id": "161686e9-12d4-43eb-9d76-3c6e9436eb87",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Reports Indicate Google\u2019s Spam Update Focused On SEO AI Content via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/reports-indicate-googles-spam-update-focused-on-seo-ai-content/586978/",
+      "summary": "Google's recent Spam Update may have partially focused on catching mass-generated SEO AI content.\n\nThe post <a href=\"https://www.searchenginejournal.com/reports-indicate-googles-spam-update-focused-on-seo-ai-content/586978/\">Reports Indicate Google&#8217;s Spam Update Focused On SEO AI Content</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-25T11:20:31+00:00",
+      "fetched": "2026-08-25T21:17:06.068140+00:00"
+    },
+    {
+      "id": "2f9c29b7-8c06-4e84-b9db-7b66395acdb3",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Cloudflare Says EmDash Version 1.0 Is Releasing Soon via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/cloudflare-says-emdash-version-1-0-is-releasing-soon/586951/",
+      "summary": "Cloudflare's EmDash CMS, the spiritual successor to WordPress, is set to release version 1.0 soon after proving itself on their high traffic blog.\n\nThe post <a href=\"https://www.searchenginejournal.com/cloudflare-says-emdash-version-1-0-is-releasing-soon/586951/\">Cloudflare Says EmDash Version 1.0 Is Releasing Soon</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-25T10:14:19+00:00",
+      "fetched": "2026-08-25T21:17:06.068155+00:00"
+    },
+    {
+      "id": "e123671b-3eae-4d7a-b3af-60ab2e82e543",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Webflow\u2019s New OpenAI Codex Integration Simplifies Site Management via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/webflows-new-openai-codex-integration-simplifies-site-management/586931/",
+      "summary": "Webflow adds Codex support with built-in Skills that vastly simplifies automating common website management and development tasks.\n\nThe post <a href=\"https://www.searchenginejournal.com/webflows-new-openai-codex-integration-simplifies-site-management/586931/\">Webflow&#8217;s New OpenAI Codex Integration Simplifies Site Management</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-25T09:17:23+00:00",
+      "fetched": "2026-08-25T21:17:06.068170+00:00"
+    },
+    {
+      "id": "28d4edcd-66a4-4982-96a3-b62c09fab005",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Local Services Ads Are Moving To Performance Max: What To Check First",
+      "link": "https://www.searchenginejournal.com/google-local-services-ads-performance-max-webinar/586879/",
+      "summary": "Google is folding Local Services Ads into Performance Max. Join CallRail's on 9/8 for the audit checklist to run before and after your account migrates.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-local-services-ads-performance-max-webinar/586879/\">Google Local Services Ads Are Moving To Performance Max: What To Check First</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-25T07:45:03+00:00",
+      "fetched": "2026-08-25T21:17:06.068193+00:00"
+    },
+    {
       "id": "020792b6-3bd8-404d-b583-6266b9bd3c76",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -131,95 +219,7 @@
       "summary": "Microsoft Advertising will remove Max CPC from new non-portfolio campaigns starting Oct. 1, shifting advertisers toward automated bidding controls and performance targets.\n\nThe post <a href=\"https://www.searchenginejournal.com/microsoft-ads-is-removing-max-cpc-from-new-campaigns/586527/\">Microsoft Ads Is Removing Max CPC From New Campaigns</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-08-20T18:13:03+00:00",
       "fetched": "2026-08-20T21:17:31.683260+00:00"
-    },
-    {
-      "id": "15471845-97b4-4fed-8af6-c21cd96fd25f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How Do I Identify Cannibalization Problems & Consolidate Without Loss Of Visibility? \u2013 Ask An SEO via @sejournal, @rollerblader",
-      "link": "https://www.searchenginejournal.com/ask-an-seo-how-do-i-identify-cannibalization-problems-consolidate-without-loss-of-visibility/553881/",
-      "summary": "A practical guide to spotting keyword cannibalization using Search Console, site crawlers, and rank trackers, plus fixes like canonicals, meta robots, and internal linking.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-an-seo-how-do-i-identify-cannibalization-problems-consolidate-without-loss-of-visibility/553881/\">How Do I Identify Cannibalization Problems &#038; Consolidate Without Loss Of Visibility? \u2013 Ask An SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\"",
-      "published": "2026-08-20T17:30:58+00:00",
-      "fetched": "2026-08-20T21:17:31.683282+00:00"
-    },
-    {
-      "id": "42463522-04bd-4756-9eb2-b9e19ea35179",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Expands Personalization Across Search, Discover & News via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-expands-personalization-across-search-discover-news/586528/",
-      "summary": "Google is rolling out a new embeddable Preferred Sources button, natural language Discover controls, and customizable audio briefings in the Google News app.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-expands-personalization-across-search-discover-news/586528/\">Google Expands Personalization Across Search, Discover &#038; News</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-20T16:02:52+00:00",
-      "fetched": "2026-08-20T21:17:31.683305+00:00"
-    },
-    {
-      "id": "896f96f9-e9f4-4527-bd3e-edb14a9887c6",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Conversion Setup Errors That Break Smart Bidding",
-      "link": "https://www.searchenginejournal.com/the-conversion-setup-errors-that-break-smart-bidding/584671/",
-      "summary": "Smart Bidding problems often trace back to broken conversion tracking, not bidding strategy. Seven silent setup errors that corrupt the data feeding your campaigns.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-conversion-setup-errors-that-break-smart-bidding/584671/\">The Conversion Setup Errors That Break Smart Bidding</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-20T14:30:03+00:00",
-      "fetched": "2026-08-20T21:17:31.683323+00:00"
-    },
-    {
-      "id": "278c4764-0552-44ea-a1bc-c47e35ee4295",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Prompt Injections Just Proved Something SEO Has Known For 25 Years via @sejournal, @theshelleywalsh",
-      "link": "https://www.searchenginejournal.com/prompt-injection-just-proved-something-seo-has-known-for-25-years/586405/",
-      "summary": "Hidden white-on-white text was an SEO trick 25 years ago. Now, it tells AI models what to conclude about you.\n\nThe post <a href=\"https://www.searchenginejournal.com/prompt-injection-just-proved-something-seo-has-known-for-25-years/586405/\">Prompt Injections Just Proved Something SEO Has Known For 25 Years</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-20T12:00:39+00:00",
-      "fetched": "2026-08-20T21:17:31.683343+00:00"
-    },
-    {
-      "id": "0ad2d166-aeeb-466e-bb89-50d31a78ac23",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why Reddit\u2019s ChatGPT Citation Drop Isn\u2019t Fully Explained via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/why-reddits-chatgpt-citation-drop-isnt-fully-explained/586479/",
-      "summary": "New Promptwatch data shows a sharp drop in Reddit's ChatGPT Search citations this month.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-reddits-chatgpt-citation-drop-isnt-fully-explained/586479/\">Why Reddit&#8217;s ChatGPT Citation Drop Isn&#8217;t Fully Explained</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-19T22:03:26+00:00",
-      "fetched": "2026-08-20T21:17:31.683361+00:00"
-    },
-    {
-      "id": "8cbffc1d-45fb-4b52-a027-7b9fa1ce7d1c",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Microsoft Advertising Rolls Out AI Max Globally via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/microsoft-advertising-rolls-out-ai-max-globally/586459/",
-      "summary": "Microsoft Advertising is rolling out AI Max globally, bringing expanded Search matching, text customization, URL expansion and new advertiser controls to Search campaigns.\n\nThe post <a href=\"https://www.searchenginejournal.com/microsoft-advertising-rolls-out-ai-max-globally/586459/\">Microsoft Advertising Rolls Out AI Max Globally</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-19T19:41:53+00:00",
-      "fetched": "2026-08-19T21:15:22.318535+00:00"
-    },
-    {
-      "id": "ce9e06ab-26f8-492c-a0de-40b0129c0f36",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Expands Generative UI Beyond AI Mode Into AI Overviews via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-expands-generative-ui-beyond-ai-mode-into-ai-overviews/586452/",
-      "summary": "Google's generative UI, which builds custom visual layouts and interactive tools, has started reaching AI Overviews after launching in AI Mode last year.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-expands-generative-ui-beyond-ai-mode-into-ai-overviews/586452/\">Google Expands Generative UI Beyond AI Mode Into AI Overviews</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-19T19:00:27+00:00",
-      "fetched": "2026-08-19T21:15:22.318561+00:00"
-    },
-    {
-      "id": "0a95f4ea-edf5-4189-b9dc-80a181af853d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Decision Coverage: Why AI Recommends Some Brands And Not Others via @sejournal, @billhunt",
-      "link": "https://www.searchenginejournal.com/decision-coverage-why-ai-recommends-some-brands-and-not-others/583028/",
-      "summary": "AI doesn't recommend products, it recommends decisions. A SaaS case study shows why missing evidence, not weak authority, causes exclusion from AI recommendations.\n\nThe post <a href=\"https://www.searchenginejournal.com/decision-coverage-why-ai-recommends-some-brands-and-not-others/583028/\">Decision Coverage: Why AI Recommends Some Brands And Not Others</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-19T19:00:10+00:00",
-      "fetched": "2026-08-19T21:15:22.318580+00:00"
     }
   ],
-  "last_updated": "2026-08-24T21:18:28.526713+00:00"
+  "last_updated": "2026-08-25T21:17:07.652491+00:00"
 }
