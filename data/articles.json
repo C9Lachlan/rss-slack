@@ -1,6 +1,83 @@
 {
   "articles": [
     {
+      "id": "5f34f56c-6ee9-48b3-acf3-0b9f631af281",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Judge In Penske Vs Google Says AI Situation \u201cSeems Really Unfair\u201d via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/judge-in-penske-vs-google-says-ai-situation-seems-really-unfair/587216/",
+      "summary": "Judge who ruled that Google is a monopoly said in the Penske vs Google hearing that the AI Overviews situation \"seems really unfair.\"\n\nThe post <a href=\"https://www.searchenginejournal.com/judge-in-penske-vs-google-says-ai-situation-seems-really-unfair/587216/\">Judge In Penske Vs Google Says AI Situation &#8220;Seems Really Unfair&#8221;</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-26T22:06:00+00:00",
+      "fetched": "2026-08-27T00:20:08.158432+00:00"
+    },
+    {
+      "id": "1fc5b33c-31b3-47c6-8214-10268f56b5c7",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Tools Recommend Brands But Cite Other Sites, Data Shows via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/ai-tools-recommend-brands-but-cite-other-sites-data-shows/587160/",
+      "summary": "A report finds AI tools often recommend brands while citing other websites as the source.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-tools-recommend-brands-but-cite-other-sites-data-shows/587160/\">AI Tools Recommend Brands But Cite Other Sites, Data Shows</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-26T21:13:06+00:00",
+      "fetched": "2026-08-27T00:20:08.158462+00:00"
+    },
+    {
+      "id": "4fe38172-d43c-4f69-8a4e-41356ff48196",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why Running YouTube Ads Like Search Will Burn Your Budget",
+      "link": "https://www.searchenginejournal.com/why-running-youtube-ads-like-search-will-burn-your-budget/584794/",
+      "summary": "Before funding YouTube Ads, businesses must fix attribution, build skip-proof creative, budget for algorithmic calibration, and simplify offers to one clear promise.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-running-youtube-ads-like-search-will-burn-your-budget/584794/\">Why Running YouTube Ads Like Search Will Burn Your Budget</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-26T19:00:30+00:00",
+      "fetched": "2026-08-27T00:20:08.158482+00:00"
+    },
+    {
+      "id": "22c2136b-564a-4209-9e96-8902c72ea437",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Brand Preference Now Splits By Generation, Claude Leads Gen Z More Than 7-To-1 via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/ai-brand-preference-now-splits-by-generation-claude-leads-gen-z-more-than-7-to-1/586624/",
+      "summary": "Claude's Gen Z preference now outpaces Boomers nearly 8-to-1, and a chicken salad chain's rise shows why AI consideration scores never equal user trust.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-brand-preference-now-splits-by-generation-claude-leads-gen-z-more-than-7-to-1/586624/\">AI Brand Preference Now Splits By Generation, Claude Leads Gen Z More Than 7-To-1</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-26T14:30:21+00:00",
+      "fetched": "2026-08-27T00:20:08.158506+00:00"
+    },
+    {
+      "id": "0ee2a82b-8b69-4e3e-aeb4-b3ca1efc34a2",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Advertise In Google AI Mode For Ecommerce via @sejournal, @tonyadam",
+      "link": "https://www.searchenginejournal.com/how-to-advertise-in-google-ai-mode-for-ecommerce/582810/",
+      "summary": "Google generates AI Mode ads directly from your product feed, not your ad copy. Here's which Merchant Center attributes decide whether your products get chosen.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-advertise-in-google-ai-mode-for-ecommerce/582810/\">How To Advertise In Google AI Mode For Ecommerce</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-26T12:00:17+00:00",
+      "fetched": "2026-08-27T00:20:08.158526+00:00"
+    },
+    {
+      "id": "f3c13fde-f7ac-460b-93de-dbcca10f3ac8",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Wix Introduces Symphony, An Easy Way For Local Businesses To Use AI Agents via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/wix-introduces-symphony-an-easy-way-for-local-businesses-to-use-ai-agents/587093/",
+      "summary": "Wix introduced Symphony, an easy and safe way for small to medium size local businesses to use AI agents.\n\nThe post <a href=\"https://www.searchenginejournal.com/wix-introduces-symphony-an-easy-way-for-local-businesses-to-use-ai-agents/587093/\">Wix Introduces Symphony, An Easy Way For Local Businesses To Use AI Agents</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-26T09:17:38+00:00",
+      "fetched": "2026-08-27T00:20:08.158544+00:00"
+    },
+    {
+      "id": "ce0e5db9-43c7-48e4-92b7-2f6412de0a16",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": ".Org Sites Are 34% Likelier To Generate Ecommerce Revenue Than .Com via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/org-sites-are-34-likelier-to-generate-ecommerce-revenue-than-com/587082/",
+      "summary": "Data shows that alternative domain extensions show stronger performance over traditional .com domains.\n\nThe post <a href=\"https://www.searchenginejournal.com/org-sites-are-34-likelier-to-generate-ecommerce-revenue-than-com/587082/\">.Org Sites Are 34% Likelier To Generate Ecommerce Revenue Than .Com</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-25T22:36:35+00:00",
+      "fetched": "2026-08-27T00:20:08.158561+00:00"
+    },
+    {
       "id": "57cb5666-575c-401d-85bf-cfdbe94932cc",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -142,84 +219,7 @@
       "summary": "Google explains whether some industries can get away with focusing on search and ignore GEO altogether.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-answers-if-some-sites-can-ignore-geo-and-just-focus-on-seo/586737/\">Google Answers If Some Sites Can Ignore GEO And Just Focus On SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-08-24T10:52:48+00:00",
       "fetched": "2026-08-24T21:18:27.256192+00:00"
-    },
-    {
-      "id": "3bb0c811-c6e8-4271-8034-5053af5c42be",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Spam Update, Generative UI In AIOs, Reddit Drop \u2013 SEO Pulse via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-spam-update-generative-ui-ai-overviews-reddit-drop/586597/",
-      "summary": "Google's August spam update rolls out as generative UI reaches AI Overviews, websites get a new button, and Reddit's ChatGPT citation share falls.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-spam-update-generative-ui-ai-overviews-reddit-drop/586597/\">Spam Update, Generative UI In AIOs, Reddit Drop \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-22T12:30:28+00:00",
-      "fetched": "2026-08-22T21:11:30.122923+00:00"
-    },
-    {
-      "id": "2dd8d3b9-9ea2-4ac9-9f88-8ad0d56ffe53",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Mode Queries Are 3X Longer \u2013 Why Your Page Should Lead With The Answer via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/ai-mode-queries-are-3x-longer-the-case-for-leading-with-the-answer/585990/",
-      "summary": "One year of AI Mode data shows people asking questions, not typing fragments, which is why the lead-first paragraph now beats the narrative arc.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-mode-queries-are-3x-longer-the-case-for-leading-with-the-answer/585990/\">AI Mode Queries Are 3X Longer \u2013 Why Your Page Should Lead With The Answer</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-21T19:00:14+00:00",
-      "fetched": "2026-08-21T21:13:04.808696+00:00"
-    },
-    {
-      "id": "9769a04b-cd77-4007-adbb-f327a32b6225",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The House Doesn\u2019t Publish Its Tells via @sejournal, @pedrodias",
-      "link": "https://www.searchenginejournal.com/the-house-doesnt-publish-its-tells/586359/",
-      "summary": "AI labs are buying pre-2022 books to avoid training on AI slop while quietly building text watermarking, exposing why content-at-scale strategies are a losing bet.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-house-doesnt-publish-its-tells/586359/\">The House Doesn&#8217;t Publish Its Tells</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-21T14:30:45+00:00",
-      "fetched": "2026-08-21T21:13:04.808723+00:00"
-    },
-    {
-      "id": "8f4e4b69-5e94-4e5f-9166-2e2313474219",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Generated Interfaces Could Compete With Tool Pages via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/googles-generated-interfaces-could-compete-with-tool-pages/586589/",
-      "summary": "AI Overviews can now build interactive tools inside Search. Google\u2019s testing shows generated interfaces often beat top results in head-to-head comparisons.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-generated-interfaces-could-compete-with-tool-pages/586589/\">Google\u2019s Generated Interfaces Could Compete With Tool Pages</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-21T12:00:32+00:00",
-      "fetched": "2026-08-21T21:13:04.808744+00:00"
-    },
-    {
-      "id": "5c1cb907-cba5-4310-807b-07f1793d68ef",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "What AI Bot Data From Hundreds Of Sites Reveals About AI Search [Webinar] via @sejournal, @lorenbaker",
-      "link": "https://www.searchenginejournal.com/what-ai-bot-data-from-hundreds-of-sites-reveals-about-ai-search-webinar/586556/",
-      "summary": "Optimize your marketing strategy by learning the limitations of AI search metrics and how to utilize your data effectively.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-ai-bot-data-from-hundreds-of-sites-reveals-about-ai-search-webinar/586556/\">What AI Bot Data From Hundreds Of Sites Reveals About AI Search [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-21T07:45:38+00:00",
-      "fetched": "2026-08-21T21:13:04.808767+00:00"
-    },
-    {
-      "id": "43ed5fda-42b3-421d-9c96-10982a687548",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Keyword Universe Was Always Smaller Than We Thought via @sejournal, @DuaneForrester",
-      "link": "https://www.searchenginejournal.com/the-keyword-universe-was-always-smaller-than-we-thought/586065/",
-      "summary": "Citation tools answer a different question than rank trackers did: not why you appeared, but whether the phrase you're chasing has already settled.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-keyword-universe-was-always-smaller-than-we-thought/586065/\">The Keyword Universe Was Always Smaller Than We Thought</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-20T19:00:38+00:00",
-      "fetched": "2026-08-20T21:17:31.683234+00:00"
-    },
-    {
-      "id": "262bab8c-18cb-4cda-9c9d-ae6cf62f421a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Microsoft Ads Is Removing Max CPC From New Campaigns via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/microsoft-ads-is-removing-max-cpc-from-new-campaigns/586527/",
-      "summary": "Microsoft Advertising will remove Max CPC from new non-portfolio campaigns starting Oct. 1, shifting advertisers toward automated bidding controls and performance targets.\n\nThe post <a href=\"https://www.searchenginejournal.com/microsoft-ads-is-removing-max-cpc-from-new-campaigns/586527/\">Microsoft Ads Is Removing Max CPC From New Campaigns</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-20T18:13:03+00:00",
-      "fetched": "2026-08-20T21:17:31.683260+00:00"
     }
   ],
-  "last_updated": "2026-08-25T21:17:07.652491+00:00"
+  "last_updated": "2026-08-27T00:20:09.218959+00:00"
 }
