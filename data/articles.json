@@ -1,6 +1,72 @@
 {
   "articles": [
     {
+      "id": "a871068a-e0af-46ee-8f67-f00f14ab86d0",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Search Didn\u2019t Remove Cognitive Load, It Moved It via @sejournal, @DuaneForrester",
+      "link": "https://www.searchenginejournal.com/ai-search-didnt-remove-cognitive-load-it-moved-it/586700/",
+      "summary": "Answer sooner, write less, simplify: standard advice that can relocate informational work rather than remove it. Here's the sharper test.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-search-didnt-remove-cognitive-load-it-moved-it/586700/\">AI Search Didn\u2019t Remove Cognitive Load, It Moved It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-27T19:00:52+00:00",
+      "fetched": "2026-08-28T05:01:09.405374+00:00"
+    },
+    {
+      "id": "7385cd82-b6a3-40a2-8383-c0d8b79e1ac7",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Starts Rolling Out Hotel Booking In AI Mode via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-starts-rolling-out-hotel-booking-in-ai-mode/587288/",
+      "summary": "Google is rolling out hotel booking in AI Mode with Google Pay checkout. Flight alerts and rewards pricing are available in supported markets.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-starts-rolling-out-hotel-booking-in-ai-mode/587288/\">Google Starts Rolling Out Hotel Booking In AI Mode</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-27T16:00:35+00:00",
+      "fetched": "2026-08-28T05:01:09.405403+00:00"
+    },
+    {
+      "id": "755f3aef-ac92-44f1-b44b-c42b2e68a362",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "OpenAI Adds WebMCP Site Tools To ChatGPT\u2019s Browser via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/chatgpt-adds-webmcp-support/587237/",
+      "summary": "OpenAI added WebMCP support to ChatGPT\u2019s desktop browser, letting supported webpages expose structured actions to ChatGPT Work and Codex.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-adds-webmcp-support/587237/\">OpenAI Adds WebMCP Site Tools To ChatGPT\u2019s Browser</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-27T15:18:34+00:00",
+      "fetched": "2026-08-28T05:01:09.405424+00:00"
+    },
+    {
+      "id": "276e9113-c241-4edb-9cc4-8acce9f2ac90",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Become A Strategic Partner & Keep Clients Years Longer",
+      "link": "https://www.searchenginejournal.com/vendor-to-strategic-partner-client-lifetime-value/585254/",
+      "summary": "Client-agency relationships now average seven years, but only when agencies act as strategic partners instead of task-completing vendors clients can replace.\n\nThe post <a href=\"https://www.searchenginejournal.com/vendor-to-strategic-partner-client-lifetime-value/585254/\">How To Become A Strategic Partner &#038; Keep Clients Years Longer</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-27T14:30:58+00:00",
+      "fetched": "2026-08-28T05:01:09.405448+00:00"
+    },
+    {
+      "id": "fd194c6a-805f-4550-9d55-63d7dec70a54",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "We Analyzed 107 Million AI Answers. Here\u2019s Where Each Industry\u2019s Citations Actually Come From via @sejournal, @trendos_com",
+      "link": "https://www.searchenginejournal.com/ai-search-citation-sources-trendos-spa/586289/",
+      "summary": "Discover the top citation sources for AI answers and how they impact recommendations across major AI platforms.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-search-citation-sources-trendos-spa/586289/\">We Analyzed 107 Million AI Answers. Here&#8217;s Where Each Industry&#8217;s Citations Actually Come From</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-27T13:37:27+00:00",
+      "fetched": "2026-08-28T05:01:09.405466+00:00"
+    },
+    {
+      "id": "e4eaa966-2050-4618-8af0-40638caa527e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "ChatGPT Searches Individual Subreddits By Name via @sejournal, @suganthan",
+      "link": "https://www.searchenginejournal.com/chatgpt-searches-individual-subreddits-by-name/586925/",
+      "summary": "Reddit still wins ChatGPT citations where a forum is the best source. Two captures, four days apart, show what actually decides the credit.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-searches-individual-subreddits-by-name/586925/\">ChatGPT Searches Individual Subreddits By Name</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-27T12:00:30+00:00",
+      "fetched": "2026-08-28T05:01:09.405484+00:00"
+    },
+    {
       "id": "5f34f56c-6ee9-48b3-acf3-0b9f631af281",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -153,73 +219,7 @@
       "summary": "Webflow adds Codex support with built-in Skills that vastly simplifies automating common website management and development tasks.\n\nThe post <a href=\"https://www.searchenginejournal.com/webflows-new-openai-codex-integration-simplifies-site-management/586931/\">Webflow&#8217;s New OpenAI Codex Integration Simplifies Site Management</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-08-25T09:17:23+00:00",
       "fetched": "2026-08-25T21:17:06.068170+00:00"
-    },
-    {
-      "id": "28d4edcd-66a4-4982-96a3-b62c09fab005",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Local Services Ads Are Moving To Performance Max: What To Check First",
-      "link": "https://www.searchenginejournal.com/google-local-services-ads-performance-max-webinar/586879/",
-      "summary": "Google is folding Local Services Ads into Performance Max. Join CallRail's on 9/8 for the audit checklist to run before and after your account migrates.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-local-services-ads-performance-max-webinar/586879/\">Google Local Services Ads Are Moving To Performance Max: What To Check First</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-25T07:45:03+00:00",
-      "fetched": "2026-08-25T21:17:06.068193+00:00"
-    },
-    {
-      "id": "020792b6-3bd8-404d-b583-6266b9bd3c76",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "1 In 10 Webpages Shows Signs Of AI Authorship, Pew Reports via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/1-in-10-webpages-shows-signs-of-ai-authorship-pew-reports/586883/",
-      "summary": "Pew found AI authorship signs on 10% of sampled webpages and 35% of pages carrying a post-ChatGPT publication date.\n\nThe post <a href=\"https://www.searchenginejournal.com/1-in-10-webpages-shows-signs-of-ai-authorship-pew-reports/586883/\">1 In 10 Webpages Shows Signs Of AI Authorship, Pew Reports</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-24T18:50:15+00:00",
-      "fetched": "2026-08-24T21:18:27.256105+00:00"
-    },
-    {
-      "id": "88e76284-4258-4215-b7d0-533cfe0fb203",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Ads Launches New Search and AI Max Experimentation Tools via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/google-ads-launches-new-search-and-ai-max-experimentation-tools/586549/",
-      "summary": "Google Ads adds new Search and AI Max experimentation tools for testing budgets, ROI targets, brand controls, location settings, and campaign changes.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ads-launches-new-search-and-ai-max-experimentation-tools/586549/\">Google Ads Launches New Search and AI Max Experimentation Tools</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-24T14:50:16+00:00",
-      "fetched": "2026-08-24T21:18:27.256131+00:00"
-    },
-    {
-      "id": "df0e6337-c2b1-4638-a481-3a1417ded94a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "SEOs Are Becoming The Tools Of Their Tools \u2013 The AI Slop Backlash via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/seos-are-becoming-the-tools-of-their-tools-the-ai-slop-backlash/586298/",
-      "summary": "Platforms like Spotify and LinkedIn are cracking down on AI slop. SEOs face a choice: treat AI as a shortcut or as an editorial assistant.\n\nThe post <a href=\"https://www.searchenginejournal.com/seos-are-becoming-the-tools-of-their-tools-the-ai-slop-backlash/586298/\">SEOs Are Becoming The Tools Of Their Tools \u2013 The AI Slop Backlash</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-24T14:30:06+00:00",
-      "fetched": "2026-08-24T21:18:27.256152+00:00"
-    },
-    {
-      "id": "86325b23-b17e-4220-a2f4-479fbf60caa0",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Audit Publisher Websites In 2026",
-      "link": "https://www.searchenginejournal.com/how-to-audit-publisher-websites-in-2026/586349/",
-      "summary": "A practical framework for auditing publisher websites in 2026, covering technical SEO, content quality, E-E-A-T, and entity consistency across passive and active discovery channels.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-audit-publisher-websites-in-2026/586349/\">How To Audit Publisher Websites In 2026</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-24T12:00:14+00:00",
-      "fetched": "2026-08-24T21:18:27.256174+00:00"
-    },
-    {
-      "id": "b5f721a3-c552-420c-8678-2b2be03d8ef3",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Answers If Some Sites Can Ignore GEO And Just Focus On SEO via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-answers-if-some-sites-can-ignore-geo-and-just-focus-on-seo/586737/",
-      "summary": "Google explains whether some industries can get away with focusing on search and ignore GEO altogether.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-answers-if-some-sites-can-ignore-geo-and-just-focus-on-seo/586737/\">Google Answers If Some Sites Can Ignore GEO And Just Focus On SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-24T10:52:48+00:00",
-      "fetched": "2026-08-24T21:18:27.256192+00:00"
     }
   ],
-  "last_updated": "2026-08-27T00:20:09.218959+00:00"
+  "last_updated": "2026-08-28T05:01:10.578289+00:00"
 }
