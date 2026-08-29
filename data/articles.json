@@ -1,6 +1,72 @@
 {
   "articles": [
     {
+      "id": "f7e74994-51c8-40b7-8a10-d1e5ee9273f2",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Add Google\u2019s Preferred Sources Button To Your Website via @sejournal, @vahandev",
+      "link": "https://www.searchenginejournal.com/add-google-preferred-sources-button-website/586908/",
+      "summary": "Add Google's Preferred Sources button with the standard embed, a configurable WordPress widget, or a deeplink.\n\nThe post <a href=\"https://www.searchenginejournal.com/add-google-preferred-sources-button-website/586908/\">How To Add Google&#8217;s Preferred Sources Button To Your Website</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-28T19:00:53+00:00",
+      "fetched": "2026-08-29T02:56:13.586062+00:00"
+    },
+    {
+      "id": "b94cbfe9-0902-4af1-9167-429b325bd488",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Isn\u2019t Killing Marketing Accountability, It\u2019s Exposing Who Never Had It via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/ai-isnt-killing-marketing-accountability-its-exposing-who-never-had-it/586486/",
+      "summary": "When Meta's ad AI altered approved creative without warning, it exposed a deeper problem: marketing teams rarely define who owns AI mistakes after sign-off.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-isnt-killing-marketing-accountability-its-exposing-who-never-had-it/586486/\">AI Isn&#8217;t Killing Marketing Accountability, It&#8217;s Exposing Who Never Had It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-28T14:30:07+00:00",
+      "fetched": "2026-08-29T02:56:13.586090+00:00"
+    },
+    {
+      "id": "a1018856-1cf5-4659-95f4-2f79c96c8157",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "WebMCP Connects AI Agents To Actions Inside Websites via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/webmcp-connects-ai-agents-actions-inside-websites/587303/",
+      "summary": "OpenAI, Shopify, and Cloudflare are putting WebMCP into live products, giving AI agents a structured way to use websites without relying on visual clicks.\n\nThe post <a href=\"https://www.searchenginejournal.com/webmcp-connects-ai-agents-actions-inside-websites/587303/\">WebMCP Connects AI Agents To Actions Inside Websites</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-28T12:00:10+00:00",
+      "fetched": "2026-08-29T02:56:13.586110+00:00"
+    },
+    {
+      "id": "663d96d1-5f07-4ab8-817c-0efb576e29c2",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Is Changing Website Security. Here\u2019s What SEO Teams Should Know via @sejournal, @vahandev",
+      "link": "https://www.searchenginejournal.com/ai-changing-website-security-seo-teams-should-know/587352/",
+      "summary": "More than 100 organizations, including OpenAI, Google, and Microsoft, urge governments and website owners to prepare now for escalating AI cyberattacks.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-changing-website-security-seo-teams-should-know/587352/\">AI Is Changing Website Security. Here\u2019s What SEO Teams Should Know</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-28T11:56:38+00:00",
+      "fetched": "2026-08-29T02:56:13.586136+00:00"
+    },
+    {
+      "id": "50322877-7b0f-406d-be0d-7f5ec514528d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Answers If Updates Come With Actionable SEO Signals via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-answers-if-updates-come-with-actionable-seo-signals/587432/",
+      "summary": "Google explains why a named update can shake up rankings without giving affected site owners anything specific to act on.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-answers-if-updates-come-with-actionable-seo-signals/587432/\">Google Answers If Updates Come With Actionable SEO Signals</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-28T11:45:08+00:00",
+      "fetched": "2026-08-29T02:56:13.586154+00:00"
+    },
+    {
+      "id": "8e3e0fff-51ff-4d93-af08-aaebfc8db87a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Updates Site Reputation Abuse (Parasite SEO) Policy via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-updates-site-reputation-abuse-policy-removes-penalties-in-eea/587423/",
+      "summary": "Google is replacing site reputation abuse manual actions in the EEA with a system that can rank affected site sections independently.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-updates-site-reputation-abuse-policy-removes-penalties-in-eea/587423/\">Google Updates Site Reputation Abuse (Parasite SEO) Policy</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-28T11:18:58+00:00",
+      "fetched": "2026-08-29T02:56:13.586171+00:00"
+    },
+    {
       "id": "a871068a-e0af-46ee-8f67-f00f14ab86d0",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -153,73 +219,7 @@
       "summary": "84 Reddit threads entered the retrieval pool. Zero got cited. The new tool-call format shows what ChatGPT fetches before it answers.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-rebuilt-its-search-tool-i-read-the-new-language-it-speaks/586710/\">ChatGPT Rebuilt Its Search Tool, I Read The New Language It Speaks</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-08-25T19:00:30+00:00",
       "fetched": "2026-08-25T21:17:06.068061+00:00"
-    },
-    {
-      "id": "a0341c81-e562-4bf3-af16-3d118a86cf63",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Brings Developing-Topic Link Carousels To AI Mode via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-brings-developing-topic-link-carousels-to-ai-mode/587022/",
-      "summary": "Google has brought its developing-topic link carousels to AI Mode, putting timely article links and Preferred Sources prominently inside AI responses.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-brings-developing-topic-link-carousels-to-ai-mode/587022/\">Google Brings Developing-Topic Link Carousels To AI Mode</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-25T17:39:07+00:00",
-      "fetched": "2026-08-25T21:17:06.068086+00:00"
-    },
-    {
-      "id": "4791be54-ce70-4949-9139-a0127a329493",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why International SEO Needs Machine-Recognizable E-E-A-T via @sejournal, @motokohunt",
-      "link": "https://www.searchenginejournal.com/why-international-seo-needs-machine-recognizable-e-e-a-t/583439/",
-      "summary": "AI can flatten decades of localized expertise into one generic brand impression, meaning global brands must translate credentials into evidence machines actually recognize.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-international-seo-needs-machine-recognizable-e-e-a-t/583439/\">Why International SEO Needs Machine-Recognizable E-E-A-T</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-25T14:30:30+00:00",
-      "fetched": "2026-08-25T21:17:06.068103+00:00"
-    },
-    {
-      "id": "43f7e781-8820-40ee-902b-45d77535c290",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Your Promo Code Field May Be Sending Revenue To Affiliates via @sejournal, @lorenbaker",
-      "link": "https://www.searchenginejournal.com/promo-code-search-affiliate-revenue-leak/586554/",
-      "summary": "An owned promo code page can keep purchase-ready shoppers away from coupon affiliates and recover revenue leaking from ecommerce checkout flows.\n\nThe post <a href=\"https://www.searchenginejournal.com/promo-code-search-affiliate-revenue-leak/586554/\">Your Promo Code Field May Be Sending Revenue To Affiliates</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-25T12:30:50+00:00",
-      "fetched": "2026-08-25T21:17:06.068124+00:00"
-    },
-    {
-      "id": "161686e9-12d4-43eb-9d76-3c6e9436eb87",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Reports Indicate Google\u2019s Spam Update Focused On SEO AI Content via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/reports-indicate-googles-spam-update-focused-on-seo-ai-content/586978/",
-      "summary": "Google's recent Spam Update may have partially focused on catching mass-generated SEO AI content.\n\nThe post <a href=\"https://www.searchenginejournal.com/reports-indicate-googles-spam-update-focused-on-seo-ai-content/586978/\">Reports Indicate Google&#8217;s Spam Update Focused On SEO AI Content</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-25T11:20:31+00:00",
-      "fetched": "2026-08-25T21:17:06.068140+00:00"
-    },
-    {
-      "id": "2f9c29b7-8c06-4e84-b9db-7b66395acdb3",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Cloudflare Says EmDash Version 1.0 Is Releasing Soon via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/cloudflare-says-emdash-version-1-0-is-releasing-soon/586951/",
-      "summary": "Cloudflare's EmDash CMS, the spiritual successor to WordPress, is set to release version 1.0 soon after proving itself on their high traffic blog.\n\nThe post <a href=\"https://www.searchenginejournal.com/cloudflare-says-emdash-version-1-0-is-releasing-soon/586951/\">Cloudflare Says EmDash Version 1.0 Is Releasing Soon</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-25T10:14:19+00:00",
-      "fetched": "2026-08-25T21:17:06.068155+00:00"
-    },
-    {
-      "id": "e123671b-3eae-4d7a-b3af-60ab2e82e543",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Webflow\u2019s New OpenAI Codex Integration Simplifies Site Management via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/webflows-new-openai-codex-integration-simplifies-site-management/586931/",
-      "summary": "Webflow adds Codex support with built-in Skills that vastly simplifies automating common website management and development tasks.\n\nThe post <a href=\"https://www.searchenginejournal.com/webflows-new-openai-codex-integration-simplifies-site-management/586931/\">Webflow&#8217;s New OpenAI Codex Integration Simplifies Site Management</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-25T09:17:23+00:00",
-      "fetched": "2026-08-25T21:17:06.068170+00:00"
     }
   ],
-  "last_updated": "2026-08-28T05:01:10.578289+00:00"
+  "last_updated": "2026-08-29T02:56:19.072791+00:00"
 }
