@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": "9e35a1bf-66b5-4300-bee3-22c4cea3f45b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Judge Questions Google AI, Spam Update Fallout \u2013 SEO Pulse via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/seo-pulse-judge-questions-google-ai-spam-update-fallout/587325/",
+      "summary": "This week\u2019s SEO Pulse covers Google\u2019s AI publisher dispute, spam update fallout, the GEO debate, AI citation gaps, and ChatGPT\u2019s Reddit behavior in search.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-judge-questions-google-ai-spam-update-fallout/587325/\">Judge Questions Google AI, Spam Update Fallout \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-29T12:30:49+00:00",
+      "fetched": "2026-08-29T22:54:53.512353+00:00"
+    },
+    {
       "id": "f7e74994-51c8-40b7-8a10-d1e5ee9273f2",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -208,18 +219,7 @@
       "summary": "Data shows that alternative domain extensions show stronger performance over traditional .com domains.\n\nThe post <a href=\"https://www.searchenginejournal.com/org-sites-are-34-likelier-to-generate-ecommerce-revenue-than-com/587082/\">.Org Sites Are 34% Likelier To Generate Ecommerce Revenue Than .Com</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-08-25T22:36:35+00:00",
       "fetched": "2026-08-27T00:20:08.158561+00:00"
-    },
-    {
-      "id": "57cb5666-575c-401d-85bf-cfdbe94932cc",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "ChatGPT Rebuilt Its Search Tool, I Read The New Language It Speaks via @sejournal, @suganthan",
-      "link": "https://www.searchenginejournal.com/chatgpt-rebuilt-its-search-tool-i-read-the-new-language-it-speaks/586710/",
-      "summary": "84 Reddit threads entered the retrieval pool. Zero got cited. The new tool-call format shows what ChatGPT fetches before it answers.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-rebuilt-its-search-tool-i-read-the-new-language-it-speaks/586710/\">ChatGPT Rebuilt Its Search Tool, I Read The New Language It Speaks</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-25T19:00:30+00:00",
-      "fetched": "2026-08-25T21:17:06.068061+00:00"
     }
   ],
-  "last_updated": "2026-08-29T02:56:19.072791+00:00"
+  "last_updated": "2026-08-29T22:54:54.544479+00:00"
 }
