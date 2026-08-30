@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "id": "9abb234c-7f9c-4e7f-8cff-b6384a3a12a2",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Anthropic Warns Hackers Are Stealing Claude Sessions To Hijack Accounts via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/anthropic-warns-hackers-are-stealing-claude-sessions-to-hijack-accounts/587566/",
+      "summary": "Anthropic warns that infostealer malware is stealing Claude login sessions to drain account usage.\n\nThe post <a href=\"https://www.searchenginejournal.com/anthropic-warns-hackers-are-stealing-claude-sessions-to-hijack-accounts/587566/\">Anthropic Warns Hackers Are Stealing Claude Sessions To Hijack Accounts</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-30T22:45:39+00:00",
+      "fetched": "2026-08-30T23:00:09.058719+00:00"
+    },
+    {
+      "id": "3b80c862-0ca4-4dd3-84aa-d0e7391898bc",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Rank Math WordPress Plugin Accused Of Secretly Taking Admin Access via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/rank-math-wordpress-plugin-accused-of-secretly-taking-admin-access/587554/",
+      "summary": "New allegations surfaced that the Rank Math WordPress plugin has introduced a functionality that silently gives the company administrator-level permissions over WordPress sites. The access is triggered when a user is connected to a free Rank Math account and the user opens the plugin\u2019s Help & Support section. Allegedly There Is Zero Consent Or Notification The developer of The SEO Framework SEO plugin recently tweeted that when a user opens Rank Math\u2019s Help & Support section that the plugin crea",
+      "published": "2026-08-30T11:11:17+00:00",
+      "fetched": "2026-08-30T23:00:09.058747+00:00"
+    },
+    {
       "id": "9e35a1bf-66b5-4300-bee3-22c4cea3f45b",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -197,29 +219,7 @@
       "summary": "Google generates AI Mode ads directly from your product feed, not your ad copy. Here's which Merchant Center attributes decide whether your products get chosen.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-advertise-in-google-ai-mode-for-ecommerce/582810/\">How To Advertise In Google AI Mode For Ecommerce</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-08-26T12:00:17+00:00",
       "fetched": "2026-08-27T00:20:08.158526+00:00"
-    },
-    {
-      "id": "f3c13fde-f7ac-460b-93de-dbcca10f3ac8",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Wix Introduces Symphony, An Easy Way For Local Businesses To Use AI Agents via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/wix-introduces-symphony-an-easy-way-for-local-businesses-to-use-ai-agents/587093/",
-      "summary": "Wix introduced Symphony, an easy and safe way for small to medium size local businesses to use AI agents.\n\nThe post <a href=\"https://www.searchenginejournal.com/wix-introduces-symphony-an-easy-way-for-local-businesses-to-use-ai-agents/587093/\">Wix Introduces Symphony, An Easy Way For Local Businesses To Use AI Agents</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-26T09:17:38+00:00",
-      "fetched": "2026-08-27T00:20:08.158544+00:00"
-    },
-    {
-      "id": "ce0e5db9-43c7-48e4-92b7-2f6412de0a16",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": ".Org Sites Are 34% Likelier To Generate Ecommerce Revenue Than .Com via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/org-sites-are-34-likelier-to-generate-ecommerce-revenue-than-com/587082/",
-      "summary": "Data shows that alternative domain extensions show stronger performance over traditional .com domains.\n\nThe post <a href=\"https://www.searchenginejournal.com/org-sites-are-34-likelier-to-generate-ecommerce-revenue-than-com/587082/\">.Org Sites Are 34% Likelier To Generate Ecommerce Revenue Than .Com</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-25T22:36:35+00:00",
-      "fetched": "2026-08-27T00:20:08.158561+00:00"
     }
   ],
-  "last_updated": "2026-08-29T22:54:54.544479+00:00"
+  "last_updated": "2026-08-30T23:00:10.518692+00:00"
 }
