@@ -1,6 +1,116 @@
 {
   "articles": [
     {
+      "id": "98c53d66-d64a-4a2b-a165-84e28a84eeaa",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "FTC Sues Amazon Over Alleged $20 Billion Advertising Surcharge Scheme via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/ftc-sues-amazon-over-alleged-20-billion-advertising-surcharge-scheme/587870/",
+      "summary": "FTC and 22 states sued Amazon over alleged changes to its ad auctions that the agency says overcharged advertisers by more than $20 billion.\n\nThe post <a href=\"https://www.searchenginejournal.com/ftc-sues-amazon-over-alleged-20-billion-advertising-surcharge-scheme/587870/\">FTC Sues Amazon Over Alleged $20 Billion Advertising Surcharge Scheme</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-31T23:49:40+00:00",
+      "fetched": "2026-09-01T00:10:45.944946+00:00"
+    },
+    {
+      "id": "2d78d4d6-06d6-4fc7-9af5-c89b8586c337",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Rank Math SEO Plugin Pauses Controversial Feature. Says It Will Return via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/rank-math-seo-plugin-pauses-controversial-feature-says-it-will-return/587853/",
+      "summary": "Rank Math paused its controversial feature, acknowledge a serious consent failure, and explains why it's coming back.\n\nThe post <a href=\"https://www.searchenginejournal.com/rank-math-seo-plugin-pauses-controversial-feature-says-it-will-return/587853/\">Rank Math SEO Plugin Pauses Controversial Feature. Says It Will Return</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-31T21:40:45+00:00",
+      "fetched": "2026-09-01T00:10:45.944976+00:00"
+    },
+    {
+      "id": "cdefaea0-cd72-40fb-a846-77552ed5cfe7",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Search Console AI Reports Rolled Out Worldwide via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-search-console-ai-reports-rolled-out-worldwide/587836/",
+      "summary": "Google says Search Console's generative AI performance reports, which track AI Overviews and AI Mode impressions, have now rolled out to all sites worldwide.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-search-console-ai-reports-rolled-out-worldwide/587836/\">Google Search Console AI Reports Rolled Out Worldwide</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-31T19:04:38+00:00",
+      "fetched": "2026-09-01T00:10:45.944997+00:00"
+    },
+    {
+      "id": "930879cf-fe17-444e-9eb8-2bc1836e8042",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "ChatGPT Is Now A \u201cVery Large Online Search Engine\u201d In The EU via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/chatgpt-is-now-a-very-large-online-search-engine-in-the-eu/587801/",
+      "summary": "ChatGPT is now a very large online search engine under the EU Digital Services Act after OpenAI reported about 159.1 million average monthly search recipients.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-is-now-a-very-large-online-search-engine-in-the-eu/587801/\">ChatGPT Is Now A &#8220;Very Large Online Search Engine&#8221; In The EU</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-31T18:31:32+00:00",
+      "fetched": "2026-09-01T00:10:45.945028+00:00"
+    },
+    {
+      "id": "174b8e15-10ee-4b40-9741-e04a3555446c",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Restructure Your Marketing Team & Budget For The AI-Search Era",
+      "link": "https://www.searchenginejournal.com/how-to-restructure-your-marketing-team-budget-for-the-ai-search-era/586153/",
+      "summary": "Three role changes and a budget rebalance can move a marketing team from invisible to cited in AI search results, no new headcount required.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-restructure-your-marketing-team-budget-for-the-ai-search-era/586153/\">How To Restructure Your Marketing Team &#038; Budget For The AI-Search Era</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-31T14:30:03+00:00",
+      "fetched": "2026-09-01T00:10:45.945048+00:00"
+    },
+    {
+      "id": "86d10a8a-95a6-4e33-936e-8f245f3c2d8f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Ads Is Automating More Decisions, Your Measurement Needs To Get Better via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/google-ads-is-automating-more-decisions-your-measurement-needs-to-get-better/586887/",
+      "summary": "As Google Ads automates more decisions, advertisers must define success beyond platform metrics, tracking leads and sales through to actual business outcomes.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ads-is-automating-more-decisions-your-measurement-needs-to-get-better/586887/\">Google Ads Is Automating More Decisions, Your Measurement Needs To Get Better</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-31T12:00:36+00:00",
+      "fetched": "2026-09-01T00:10:45.945067+00:00"
+    },
+    {
+      "id": "aa24ec11-c62b-422f-9f5f-3721d27853fe",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Mueller Shares Their Experience With Markdown For AI SEO via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/googles-mueller-shares-their-experience-with-markdown-for-ai-seo/587671/",
+      "summary": "Google's John Mueller shares what happened when he checked whether AI crawlers were actually asking his sites for markdown.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-mueller-shares-their-experience-with-markdown-for-ai-seo/587671/\">Google&#8217;s Mueller Shares Their Experience With Markdown For AI SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-31T10:44:54+00:00",
+      "fetched": "2026-09-01T00:10:45.945085+00:00"
+    },
+    {
+      "id": "6a6fdc47-de71-45ee-a275-969f8387150e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "UCP Releases Spec Update With Schema Changes via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/ucp-releases-spec-update-with-schema-changes/587590/",
+      "summary": "The Universal Commerce Protocol's first spec release since April adds grocery readiness, lays groundwork for food and lodging, and brings schema changes.\n\nThe post <a href=\"https://www.searchenginejournal.com/ucp-releases-spec-update-with-schema-changes/587590/\">UCP Releases Spec Update With Schema Changes</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-31T10:00:27+00:00",
+      "fetched": "2026-09-01T00:10:45.945111+00:00"
+    },
+    {
+      "id": "617a4be8-b613-41a4-8fe7-eb3f6891275b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Claude Searches Web Differently From Claude Code, Data Shows via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/claude-code-rarely-searches-web-compared-claude-data/587584/",
+      "summary": "New data finds Claude and Claude Code search at different rates, mention different brands, and send their agents to different types of pages.\n\nThe post <a href=\"https://www.searchenginejournal.com/claude-code-rarely-searches-web-compared-claude-data/587584/\">Claude Searches Web Differently From Claude Code, Data Shows</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-31T08:30:36+00:00",
+      "fetched": "2026-09-01T00:10:45.945130+00:00"
+    },
+    {
+      "id": "463e445d-99da-4fb8-89a6-688bbdfddf31",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Facebook Groups Are Google\u2019s No. 2 Forum Source via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/facebook-groups-are-googles-no-2-forum-source/587545/",
+      "summary": "Ahrefs data shows public Facebook Group posts appear in 38% of Google's Discussions and forums results, passing Quora and trailing only Reddit.\n\nThe post <a href=\"https://www.searchenginejournal.com/facebook-groups-are-googles-no-2-forum-source/587545/\">Facebook Groups Are Google&#8217;s No. 2 Forum Source</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-08-31T07:00:24+00:00",
+      "fetched": "2026-09-01T00:10:45.945148+00:00"
+    },
+    {
       "id": "9abb234c-7f9c-4e7f-8cff-b6384a3a12a2",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -109,117 +219,7 @@
       "summary": "Answer sooner, write less, simplify: standard advice that can relocate informational work rather than remove it. Here's the sharper test.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-search-didnt-remove-cognitive-load-it-moved-it/586700/\">AI Search Didn\u2019t Remove Cognitive Load, It Moved It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-08-27T19:00:52+00:00",
       "fetched": "2026-08-28T05:01:09.405374+00:00"
-    },
-    {
-      "id": "7385cd82-b6a3-40a2-8383-c0d8b79e1ac7",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Starts Rolling Out Hotel Booking In AI Mode via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-starts-rolling-out-hotel-booking-in-ai-mode/587288/",
-      "summary": "Google is rolling out hotel booking in AI Mode with Google Pay checkout. Flight alerts and rewards pricing are available in supported markets.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-starts-rolling-out-hotel-booking-in-ai-mode/587288/\">Google Starts Rolling Out Hotel Booking In AI Mode</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-27T16:00:35+00:00",
-      "fetched": "2026-08-28T05:01:09.405403+00:00"
-    },
-    {
-      "id": "755f3aef-ac92-44f1-b44b-c42b2e68a362",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "OpenAI Adds WebMCP Site Tools To ChatGPT\u2019s Browser via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/chatgpt-adds-webmcp-support/587237/",
-      "summary": "OpenAI added WebMCP support to ChatGPT\u2019s desktop browser, letting supported webpages expose structured actions to ChatGPT Work and Codex.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-adds-webmcp-support/587237/\">OpenAI Adds WebMCP Site Tools To ChatGPT\u2019s Browser</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-27T15:18:34+00:00",
-      "fetched": "2026-08-28T05:01:09.405424+00:00"
-    },
-    {
-      "id": "276e9113-c241-4edb-9cc4-8acce9f2ac90",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Become A Strategic Partner & Keep Clients Years Longer",
-      "link": "https://www.searchenginejournal.com/vendor-to-strategic-partner-client-lifetime-value/585254/",
-      "summary": "Client-agency relationships now average seven years, but only when agencies act as strategic partners instead of task-completing vendors clients can replace.\n\nThe post <a href=\"https://www.searchenginejournal.com/vendor-to-strategic-partner-client-lifetime-value/585254/\">How To Become A Strategic Partner &#038; Keep Clients Years Longer</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-27T14:30:58+00:00",
-      "fetched": "2026-08-28T05:01:09.405448+00:00"
-    },
-    {
-      "id": "fd194c6a-805f-4550-9d55-63d7dec70a54",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "We Analyzed 107 Million AI Answers. Here\u2019s Where Each Industry\u2019s Citations Actually Come From via @sejournal, @trendos_com",
-      "link": "https://www.searchenginejournal.com/ai-search-citation-sources-trendos-spa/586289/",
-      "summary": "Discover the top citation sources for AI answers and how they impact recommendations across major AI platforms.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-search-citation-sources-trendos-spa/586289/\">We Analyzed 107 Million AI Answers. Here&#8217;s Where Each Industry&#8217;s Citations Actually Come From</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-27T13:37:27+00:00",
-      "fetched": "2026-08-28T05:01:09.405466+00:00"
-    },
-    {
-      "id": "e4eaa966-2050-4618-8af0-40638caa527e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "ChatGPT Searches Individual Subreddits By Name via @sejournal, @suganthan",
-      "link": "https://www.searchenginejournal.com/chatgpt-searches-individual-subreddits-by-name/586925/",
-      "summary": "Reddit still wins ChatGPT citations where a forum is the best source. Two captures, four days apart, show what actually decides the credit.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-searches-individual-subreddits-by-name/586925/\">ChatGPT Searches Individual Subreddits By Name</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-27T12:00:30+00:00",
-      "fetched": "2026-08-28T05:01:09.405484+00:00"
-    },
-    {
-      "id": "5f34f56c-6ee9-48b3-acf3-0b9f631af281",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Judge In Penske Vs Google Says AI Situation \u201cSeems Really Unfair\u201d via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/judge-in-penske-vs-google-says-ai-situation-seems-really-unfair/587216/",
-      "summary": "Judge who ruled that Google is a monopoly said in the Penske vs Google hearing that the AI Overviews situation \"seems really unfair.\"\n\nThe post <a href=\"https://www.searchenginejournal.com/judge-in-penske-vs-google-says-ai-situation-seems-really-unfair/587216/\">Judge In Penske Vs Google Says AI Situation &#8220;Seems Really Unfair&#8221;</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-26T22:06:00+00:00",
-      "fetched": "2026-08-27T00:20:08.158432+00:00"
-    },
-    {
-      "id": "1fc5b33c-31b3-47c6-8214-10268f56b5c7",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Tools Recommend Brands But Cite Other Sites, Data Shows via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/ai-tools-recommend-brands-but-cite-other-sites-data-shows/587160/",
-      "summary": "A report finds AI tools often recommend brands while citing other websites as the source.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-tools-recommend-brands-but-cite-other-sites-data-shows/587160/\">AI Tools Recommend Brands But Cite Other Sites, Data Shows</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-26T21:13:06+00:00",
-      "fetched": "2026-08-27T00:20:08.158462+00:00"
-    },
-    {
-      "id": "4fe38172-d43c-4f69-8a4e-41356ff48196",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why Running YouTube Ads Like Search Will Burn Your Budget",
-      "link": "https://www.searchenginejournal.com/why-running-youtube-ads-like-search-will-burn-your-budget/584794/",
-      "summary": "Before funding YouTube Ads, businesses must fix attribution, build skip-proof creative, budget for algorithmic calibration, and simplify offers to one clear promise.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-running-youtube-ads-like-search-will-burn-your-budget/584794/\">Why Running YouTube Ads Like Search Will Burn Your Budget</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-26T19:00:30+00:00",
-      "fetched": "2026-08-27T00:20:08.158482+00:00"
-    },
-    {
-      "id": "22c2136b-564a-4209-9e96-8902c72ea437",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Brand Preference Now Splits By Generation, Claude Leads Gen Z More Than 7-To-1 via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/ai-brand-preference-now-splits-by-generation-claude-leads-gen-z-more-than-7-to-1/586624/",
-      "summary": "Claude's Gen Z preference now outpaces Boomers nearly 8-to-1, and a chicken salad chain's rise shows why AI consideration scores never equal user trust.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-brand-preference-now-splits-by-generation-claude-leads-gen-z-more-than-7-to-1/586624/\">AI Brand Preference Now Splits By Generation, Claude Leads Gen Z More Than 7-To-1</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-26T14:30:21+00:00",
-      "fetched": "2026-08-27T00:20:08.158506+00:00"
-    },
-    {
-      "id": "0ee2a82b-8b69-4e3e-aeb4-b3ca1efc34a2",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Advertise In Google AI Mode For Ecommerce via @sejournal, @tonyadam",
-      "link": "https://www.searchenginejournal.com/how-to-advertise-in-google-ai-mode-for-ecommerce/582810/",
-      "summary": "Google generates AI Mode ads directly from your product feed, not your ad copy. Here's which Merchant Center attributes decide whether your products get chosen.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-advertise-in-google-ai-mode-for-ecommerce/582810/\">How To Advertise In Google AI Mode For Ecommerce</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-26T12:00:17+00:00",
-      "fetched": "2026-08-27T00:20:08.158526+00:00"
     }
   ],
-  "last_updated": "2026-08-30T23:00:10.518692+00:00"
+  "last_updated": "2026-09-01T00:10:47.007325+00:00"
 }
