@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "3be9de37-a698-47fc-b55a-c8fdae218f76",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Technical Signals AI Search Uses That Most SEOs Still Aren\u2019t Optimizing",
+      "link": "https://www.searchenginejournal.com/the-technical-signals-ai-search-uses-that-most-seos-still-arent-optimizing/586381/",
+      "summary": "Getting cited in AI responses is the easy part. Our audit of 50 major websites shows where real AI readiness begins.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-technical-signals-ai-search-uses-that-most-seos-still-arent-optimizing/586381/\">The Technical Signals AI Search Uses That Most SEOs Still Aren&#8217;t Optimizing</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-01T19:00:47+00:00",
+      "fetched": "2026-09-01T22:53:29.939976+00:00"
+    },
+    {
+      "id": "143c5690-7a45-4be5-8a6c-d6ead3cf906a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Details Who Can License Its Search Data In Europe via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-details-who-can-license-its-search-data-in-europe/587995/",
+      "summary": "Google published eligibility rules, samples, and key dates for licensing ranking, query, click, and view data from EEA Search under the EU's Digital Markets Act.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-details-who-can-license-its-search-data-in-europe/587995/\">Google Details Who Can License Its Search Data In Europe</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-01T17:20:25+00:00",
+      "fetched": "2026-09-01T22:53:29.940004+00:00"
+    },
+    {
+      "id": "b954e42e-0c57-4242-ba9c-656b14a8e694",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "WordPress Announces A Proactive Security Initiative via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/wordpress-announces-a-proactive-security-initiative/587942/",
+      "summary": "WordPress announced an initiative to scale security as AI makes it easier for criminal to find and exploit vulnerabilities.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-announces-a-proactive-security-initiative/587942/\">WordPress Announces A Proactive Security Initiative</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-01T12:10:20+00:00",
+      "fetched": "2026-09-01T22:53:29.940023+00:00"
+    },
+    {
+      "id": "ea934f67-07e9-486b-8802-13b7c022e68f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Schema For AI Citations: How To Become A Trusted Source via @sejournal, @lorenbaker",
+      "link": "https://www.searchenginejournal.com/schema-ai-citations-trusted-source/586785/",
+      "summary": "Schema is not a magic ranking switch. Loren Baker explains how consistent structured data strengthens entity trust across local, ecommerce, and author-driven content.\n\nThe post <a href=\"https://www.searchenginejournal.com/schema-ai-citations-trusted-source/586785/\">Schema For AI Citations: How To Become A Trusted Source</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-01T12:00:02+00:00",
+      "fetched": "2026-09-01T22:53:29.940045+00:00"
+    },
+    {
+      "id": "e45c72a0-74b5-4972-888a-0c0dfb2d5d56",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How We Earned 1,000+ Links For GEO/SEO via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/how-we-earned-1000-links-geo-seo-recap/587850/",
+      "summary": "Kevin Rowe broke down the digital PR system behind 1,000+ earned citations, which data stories journalists cover, and how research wins AI Overviews spots.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-we-earned-1000-links-geo-seo-recap/587850/\">How We Earned 1,000+ Links For GEO/SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-01T07:45:17+00:00",
+      "fetched": "2026-09-01T22:53:29.940065+00:00"
+    },
+    {
       "id": "98c53d66-d64a-4a2b-a165-84e28a84eeaa",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -164,62 +219,7 @@
       "summary": "When Meta's ad AI altered approved creative without warning, it exposed a deeper problem: marketing teams rarely define who owns AI mistakes after sign-off.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-isnt-killing-marketing-accountability-its-exposing-who-never-had-it/586486/\">AI Isn&#8217;t Killing Marketing Accountability, It&#8217;s Exposing Who Never Had It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-08-28T14:30:07+00:00",
       "fetched": "2026-08-29T02:56:13.586090+00:00"
-    },
-    {
-      "id": "a1018856-1cf5-4659-95f4-2f79c96c8157",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "WebMCP Connects AI Agents To Actions Inside Websites via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/webmcp-connects-ai-agents-actions-inside-websites/587303/",
-      "summary": "OpenAI, Shopify, and Cloudflare are putting WebMCP into live products, giving AI agents a structured way to use websites without relying on visual clicks.\n\nThe post <a href=\"https://www.searchenginejournal.com/webmcp-connects-ai-agents-actions-inside-websites/587303/\">WebMCP Connects AI Agents To Actions Inside Websites</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-28T12:00:10+00:00",
-      "fetched": "2026-08-29T02:56:13.586110+00:00"
-    },
-    {
-      "id": "663d96d1-5f07-4ab8-817c-0efb576e29c2",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Is Changing Website Security. Here\u2019s What SEO Teams Should Know via @sejournal, @vahandev",
-      "link": "https://www.searchenginejournal.com/ai-changing-website-security-seo-teams-should-know/587352/",
-      "summary": "More than 100 organizations, including OpenAI, Google, and Microsoft, urge governments and website owners to prepare now for escalating AI cyberattacks.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-changing-website-security-seo-teams-should-know/587352/\">AI Is Changing Website Security. Here\u2019s What SEO Teams Should Know</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-28T11:56:38+00:00",
-      "fetched": "2026-08-29T02:56:13.586136+00:00"
-    },
-    {
-      "id": "50322877-7b0f-406d-be0d-7f5ec514528d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Answers If Updates Come With Actionable SEO Signals via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-answers-if-updates-come-with-actionable-seo-signals/587432/",
-      "summary": "Google explains why a named update can shake up rankings without giving affected site owners anything specific to act on.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-answers-if-updates-come-with-actionable-seo-signals/587432/\">Google Answers If Updates Come With Actionable SEO Signals</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-28T11:45:08+00:00",
-      "fetched": "2026-08-29T02:56:13.586154+00:00"
-    },
-    {
-      "id": "8e3e0fff-51ff-4d93-af08-aaebfc8db87a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Updates Site Reputation Abuse (Parasite SEO) Policy via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-updates-site-reputation-abuse-policy-removes-penalties-in-eea/587423/",
-      "summary": "Google is replacing site reputation abuse manual actions in the EEA with a system that can rank affected site sections independently.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-updates-site-reputation-abuse-policy-removes-penalties-in-eea/587423/\">Google Updates Site Reputation Abuse (Parasite SEO) Policy</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-28T11:18:58+00:00",
-      "fetched": "2026-08-29T02:56:13.586171+00:00"
-    },
-    {
-      "id": "a871068a-e0af-46ee-8f67-f00f14ab86d0",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Search Didn\u2019t Remove Cognitive Load, It Moved It via @sejournal, @DuaneForrester",
-      "link": "https://www.searchenginejournal.com/ai-search-didnt-remove-cognitive-load-it-moved-it/586700/",
-      "summary": "Answer sooner, write less, simplify: standard advice that can relocate informational work rather than remove it. Here's the sharper test.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-search-didnt-remove-cognitive-load-it-moved-it/586700/\">AI Search Didn\u2019t Remove Cognitive Load, It Moved It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-27T19:00:52+00:00",
-      "fetched": "2026-08-28T05:01:09.405374+00:00"
     }
   ],
-  "last_updated": "2026-09-01T00:10:47.007325+00:00"
+  "last_updated": "2026-09-01T22:53:30.554523+00:00"
 }
