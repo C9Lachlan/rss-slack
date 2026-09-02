@@ -1,6 +1,94 @@
 {
   "articles": [
     {
+      "id": "e41c5d5a-869f-4708-9f94-66758ffbd64a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Responds To Sitemap SEO Technique That Forces Daily Crawling via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-responds-to-sitemap-seo-technique-that-forces-daily-crawling/588222/",
+      "summary": "Google's Mueller comments on a sitemap SEO method that forces search engines to crawl and index web pages every day.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-responds-to-sitemap-seo-technique-that-forces-daily-crawling/588222/\">Google Responds To Sitemap SEO Technique That Forces Daily Crawling</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-02T22:09:39+00:00",
+      "fetched": "2026-09-02T22:53:54.918912+00:00"
+    },
+    {
+      "id": "312a69c4-875a-4e76-ba2e-5fd7f5480dbd",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Adds Gemini 3.8 Flash To AI Mode via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-gemini-3-8-flash-ai-mode/588194/",
+      "summary": "Google added Gemini 3.8 Flash to AI Mode's model menu on release day.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-gemini-3-8-flash-ai-mode/588194/\">Google Adds Gemini 3.8 Flash To AI Mode</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-02T19:41:19+00:00",
+      "fetched": "2026-09-02T22:53:54.918956+00:00"
+    },
+    {
+      "id": "28423fd4-4504-49eb-8a38-b8342bb24a6d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Next AI Protocol Won\u2019t Save Your SEO Strategy via @sejournal, @billhunt",
+      "link": "https://www.searchenginejournal.com/the-next-ai-protocol-wont-save-your-seo-strategy/585714/",
+      "summary": "Publishing a format is not the same as possessing the knowledge. Bill Hunt on why knowledge architecture outlasts every AI protocol.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-next-ai-protocol-wont-save-your-seo-strategy/585714/\">The Next AI Protocol Won&#8217;t Save Your SEO Strategy</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-02T19:00:07+00:00",
+      "fetched": "2026-09-02T22:53:54.918976+00:00"
+    },
+    {
+      "id": "af758220-a4aa-4f14-9d83-f79069dfa553",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Entities Are The Foundation Of Modern SEO",
+      "link": "https://www.searchenginejournal.com/entities-are-the-foundation-of-modern-seo/587886/",
+      "summary": "GEO is just entity SEO with a new name. The foundations haven't changed in 15 years, but most brands still ignore them.\n\nThe post <a href=\"https://www.searchenginejournal.com/entities-are-the-foundation-of-modern-seo/587886/\">Entities Are The Foundation Of Modern SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-02T14:31:43+00:00",
+      "fetched": "2026-09-02T22:53:54.918998+00:00"
+    },
+    {
+      "id": "ff2d443b-f799-4f1e-a171-dff0c1e6c04c",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google To Bring New Video Understanding Tech To Ask YouTube via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-video-understanding-ask-youtube/588123/",
+      "summary": "Google says a new Gemini system that inspects frames, audio, and transcripts on demand will power Ask YouTube on video watch pages.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-video-understanding-ask-youtube/588123/\">Google To Bring New Video Understanding Tech To Ask YouTube</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-02T14:08:29+00:00",
+      "fetched": "2026-09-02T22:53:54.919015+00:00"
+    },
+    {
+      "id": "5a3dca1a-7990-48f7-a853-cce5e5004b5f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "YouTube Says Bigger Thumbnails Drove More Long-Form Views via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/youtube-bigger-thumbnails-long-form-engagement/588102/",
+      "summary": "YouTube's Todd Beaupr\u00e9 says the desktop homepage redesign with larger thumbnails drove more long-form engagement despite showing fewer videos at once.\n\nThe post <a href=\"https://www.searchenginejournal.com/youtube-bigger-thumbnails-long-form-engagement/588102/\">YouTube Says Bigger Thumbnails Drove More Long-Form Views</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-02T13:11:52+00:00",
+      "fetched": "2026-09-02T22:53:54.919033+00:00"
+    },
+    {
+      "id": "3bc04870-6f21-42d5-b67d-da73878d34c6",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "What Happens To PPC When You Stop Managing Google Ads Through Google Ads via @sejournal, @siliconvallaeys",
+      "link": "https://www.searchenginejournal.com/what-happens-to-ppc-when-you-stop-managing-google-ads-through-google-ads/586580/",
+      "summary": "As agents and MCP connectors take over PPC management outside the Google Ads UI, this piece maps the risks and the governance needed to avoid.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-happens-to-ppc-when-you-stop-managing-google-ads-through-google-ads/586580/\">What Happens To PPC When You Stop Managing Google Ads Through Google Ads</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-02T12:00:10+00:00",
+      "fetched": "2026-09-02T22:53:54.919050+00:00"
+    },
+    {
+      "id": "dc5802eb-73d6-4690-a3ec-e9523b2d9315",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google DeepMind Says Gemini Is Evolving From Chatbot To AI Agent via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-deepmind-says-gemini-is-evolving-from-chatbot-to-ai-agent/588077/",
+      "summary": "Interview with head of Google DeepMind explains how Gemini is moving beyond answers toward AI that can use tools and accomplish tasks.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-deepmind-says-gemini-is-evolving-from-chatbot-to-ai-agent/588077/\">Google DeepMind Says Gemini Is Evolving From Chatbot To AI Agent</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-02T11:24:00+00:00",
+      "fetched": "2026-09-02T22:53:54.919076+00:00"
+    },
+    {
       "id": "3be9de37-a698-47fc-b55a-c8fdae218f76",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -131,95 +219,7 @@
       "summary": "Google's John Mueller shares what happened when he checked whether AI crawlers were actually asking his sites for markdown.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-mueller-shares-their-experience-with-markdown-for-ai-seo/587671/\">Google&#8217;s Mueller Shares Their Experience With Markdown For AI SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-08-31T10:44:54+00:00",
       "fetched": "2026-09-01T00:10:45.945085+00:00"
-    },
-    {
-      "id": "6a6fdc47-de71-45ee-a275-969f8387150e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "UCP Releases Spec Update With Schema Changes via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/ucp-releases-spec-update-with-schema-changes/587590/",
-      "summary": "The Universal Commerce Protocol's first spec release since April adds grocery readiness, lays groundwork for food and lodging, and brings schema changes.\n\nThe post <a href=\"https://www.searchenginejournal.com/ucp-releases-spec-update-with-schema-changes/587590/\">UCP Releases Spec Update With Schema Changes</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-31T10:00:27+00:00",
-      "fetched": "2026-09-01T00:10:45.945111+00:00"
-    },
-    {
-      "id": "617a4be8-b613-41a4-8fe7-eb3f6891275b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Claude Searches Web Differently From Claude Code, Data Shows via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/claude-code-rarely-searches-web-compared-claude-data/587584/",
-      "summary": "New data finds Claude and Claude Code search at different rates, mention different brands, and send their agents to different types of pages.\n\nThe post <a href=\"https://www.searchenginejournal.com/claude-code-rarely-searches-web-compared-claude-data/587584/\">Claude Searches Web Differently From Claude Code, Data Shows</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-31T08:30:36+00:00",
-      "fetched": "2026-09-01T00:10:45.945130+00:00"
-    },
-    {
-      "id": "463e445d-99da-4fb8-89a6-688bbdfddf31",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Facebook Groups Are Google\u2019s No. 2 Forum Source via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/facebook-groups-are-googles-no-2-forum-source/587545/",
-      "summary": "Ahrefs data shows public Facebook Group posts appear in 38% of Google's Discussions and forums results, passing Quora and trailing only Reddit.\n\nThe post <a href=\"https://www.searchenginejournal.com/facebook-groups-are-googles-no-2-forum-source/587545/\">Facebook Groups Are Google&#8217;s No. 2 Forum Source</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-31T07:00:24+00:00",
-      "fetched": "2026-09-01T00:10:45.945148+00:00"
-    },
-    {
-      "id": "9abb234c-7f9c-4e7f-8cff-b6384a3a12a2",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Anthropic Warns Hackers Are Stealing Claude Sessions To Hijack Accounts via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/anthropic-warns-hackers-are-stealing-claude-sessions-to-hijack-accounts/587566/",
-      "summary": "Anthropic warns that infostealer malware is stealing Claude login sessions to drain account usage.\n\nThe post <a href=\"https://www.searchenginejournal.com/anthropic-warns-hackers-are-stealing-claude-sessions-to-hijack-accounts/587566/\">Anthropic Warns Hackers Are Stealing Claude Sessions To Hijack Accounts</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-30T22:45:39+00:00",
-      "fetched": "2026-08-30T23:00:09.058719+00:00"
-    },
-    {
-      "id": "3b80c862-0ca4-4dd3-84aa-d0e7391898bc",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Rank Math WordPress Plugin Accused Of Secretly Taking Admin Access via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/rank-math-wordpress-plugin-accused-of-secretly-taking-admin-access/587554/",
-      "summary": "New allegations surfaced that the Rank Math WordPress plugin has introduced a functionality that silently gives the company administrator-level permissions over WordPress sites. The access is triggered when a user is connected to a free Rank Math account and the user opens the plugin\u2019s Help & Support section. Allegedly There Is Zero Consent Or Notification The developer of The SEO Framework SEO plugin recently tweeted that when a user opens Rank Math\u2019s Help & Support section that the plugin crea",
-      "published": "2026-08-30T11:11:17+00:00",
-      "fetched": "2026-08-30T23:00:09.058747+00:00"
-    },
-    {
-      "id": "9e35a1bf-66b5-4300-bee3-22c4cea3f45b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Judge Questions Google AI, Spam Update Fallout \u2013 SEO Pulse via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-judge-questions-google-ai-spam-update-fallout/587325/",
-      "summary": "This week\u2019s SEO Pulse covers Google\u2019s AI publisher dispute, spam update fallout, the GEO debate, AI citation gaps, and ChatGPT\u2019s Reddit behavior in search.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-judge-questions-google-ai-spam-update-fallout/587325/\">Judge Questions Google AI, Spam Update Fallout \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-29T12:30:49+00:00",
-      "fetched": "2026-08-29T22:54:53.512353+00:00"
-    },
-    {
-      "id": "f7e74994-51c8-40b7-8a10-d1e5ee9273f2",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Add Google\u2019s Preferred Sources Button To Your Website via @sejournal, @vahandev",
-      "link": "https://www.searchenginejournal.com/add-google-preferred-sources-button-website/586908/",
-      "summary": "Add Google's Preferred Sources button with the standard embed, a configurable WordPress widget, or a deeplink.\n\nThe post <a href=\"https://www.searchenginejournal.com/add-google-preferred-sources-button-website/586908/\">How To Add Google&#8217;s Preferred Sources Button To Your Website</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-28T19:00:53+00:00",
-      "fetched": "2026-08-29T02:56:13.586062+00:00"
-    },
-    {
-      "id": "b94cbfe9-0902-4af1-9167-429b325bd488",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Isn\u2019t Killing Marketing Accountability, It\u2019s Exposing Who Never Had It via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/ai-isnt-killing-marketing-accountability-its-exposing-who-never-had-it/586486/",
-      "summary": "When Meta's ad AI altered approved creative without warning, it exposed a deeper problem: marketing teams rarely define who owns AI mistakes after sign-off.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-isnt-killing-marketing-accountability-its-exposing-who-never-had-it/586486/\">AI Isn&#8217;t Killing Marketing Accountability, It&#8217;s Exposing Who Never Had It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-28T14:30:07+00:00",
-      "fetched": "2026-08-29T02:56:13.586090+00:00"
     }
   ],
-  "last_updated": "2026-09-01T22:53:30.554523+00:00"
+  "last_updated": "2026-09-02T22:53:55.809488+00:00"
 }
