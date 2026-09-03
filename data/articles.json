@@ -1,6 +1,83 @@
 {
   "articles": [
     {
+      "id": "b46e6237-3b4f-4b87-86ba-19c458d0ff4c",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s New Weather AI In Search Continues Shift Away From 10 Blue Links via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/googles-new-weather-ai-in-search-continues-shift-away-from-10-blue-links/588392/",
+      "summary": "Google's latest Search integration is another step to a future where users get things done without traditional search results.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-new-weather-ai-in-search-continues-shift-away-from-10-blue-links/588392/\">Google&#8217;s New Weather AI In Search Continues Shift Away From 10 Blue Links</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-03T21:00:25+00:00",
+      "fetched": "2026-09-03T22:52:54.961279+00:00"
+    },
+    {
+      "id": "281ba25e-c372-4182-b192-d6ce2008f2cd",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Product Pages Get 24% Of AI Citations, Reddit & YouTube 4% via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/product-pages-get-24-of-ai-citations-reddit-youtube-4/587560/",
+      "summary": "Ten Speed's citation study shows product pages beating Reddit nearly six to one for B2B buyers, verified only after six pointed fact-check questions.\n\nThe post <a href=\"https://www.searchenginejournal.com/product-pages-get-24-of-ai-citations-reddit-youtube-4/587560/\">Product Pages Get 24% Of AI Citations, Reddit &#038; YouTube 4%</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-03T19:00:45+00:00",
+      "fetched": "2026-09-03T22:52:54.961305+00:00"
+    },
+    {
+      "id": "b47c6dff-f3ac-4183-9d46-c1e33f85a280",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "When AI Has Nothing On Your Company, It Describes Someone Else via @sejournal, @DuaneForrester",
+      "link": "https://www.searchenginejournal.com/when-ai-has-nothing-on-your-company-it-describes-someone-else/587876/",
+      "summary": "Publishing more content won't fix AI substitution. Retrieval repeats the same popularity bias that thinned your presence in the weights.\n\nThe post <a href=\"https://www.searchenginejournal.com/when-ai-has-nothing-on-your-company-it-describes-someone-else/587876/\">When AI Has Nothing On Your Company, It Describes Someone Else</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-03T14:30:00+00:00",
+      "fetched": "2026-09-03T22:52:54.961325+00:00"
+    },
+    {
+      "id": "46b20a5f-a1a9-4d08-942e-3f7bde013b01",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Should I Block AI Crawlers At Robots.txt Or Server Level? \u2013 Ask An SEO via @sejournal, @HelenPollitt1",
+      "link": "https://www.searchenginejournal.com/ask-an-seo-should-i-block-ai-crawlers-at-robots-txt-or-server-level/586390/",
+      "summary": "Robots.txt relies on bot compliance, while WAF, CDN, and server-level blocks enforce it. A breakdown of which layer stops AI crawlers for good.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-an-seo-should-i-block-ai-crawlers-at-robots-txt-or-server-level/586390/\">Should I Block AI Crawlers At Robots.txt Or Server Level? \u2013 Ask An SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-03T12:00:18+00:00",
+      "fetched": "2026-09-03T22:52:54.961349+00:00"
+    },
+    {
+      "id": "1b1b31e9-126e-4929-bf2f-883e5cd131bb",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Says Ranking Recovery Takes Months After SEO Issues Are Fixed via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-says-ranking-recovery-takes-months-after-seo-issues-are-fixed/588268/",
+      "summary": "Google explains why fixing what caused a ranking drop doesn\u2019t necessarily mean rankings will come back anytime soon.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-says-ranking-recovery-takes-months-after-seo-issues-are-fixed/588268/\">Google Says Ranking Recovery Takes Months After SEO Issues Are Fixed</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-03T10:37:14+00:00",
+      "fetched": "2026-09-03T22:52:54.961367+00:00"
+    },
+    {
+      "id": "2c96afe4-b0fd-451c-8b5e-df538193e70f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Slop Cleanup Job Listings Up 87%, Report Says via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/ai-slop-cleanup-job-listings-report/588235/",
+      "summary": "The Guardian reports AI cleanup listings are up 87%, while freelancers say clients lowball the work.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-slop-cleanup-job-listings-report/588235/\">AI Slop Cleanup Job Listings Up 87%, Report Says</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-03T09:30:43+00:00",
+      "fetched": "2026-09-03T22:52:54.961383+00:00"
+    },
+    {
+      "id": "a2433a2d-712e-4f7b-82e5-696f53df1887",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google AI Mode Prices Differ From Product Carousel For Same Items via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-ai-mode-prices-differ-from-product-carousel-for-same-items/588227/",
+      "summary": "Data finds Google AI Mode rarely shows the same products as the regular results carousel, and often lists a different seller when it does.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ai-mode-prices-differ-from-product-carousel-for-same-items/588227/\">Google AI Mode Prices Differ From Product Carousel For Same Items</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-03T08:00:14+00:00",
+      "fetched": "2026-09-03T22:52:54.961400+00:00"
+    },
+    {
       "id": "e41c5d5a-869f-4708-9f94-66758ffbd64a",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -142,84 +219,7 @@
       "summary": "Kevin Rowe broke down the digital PR system behind 1,000+ earned citations, which data stories journalists cover, and how research wins AI Overviews spots.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-we-earned-1000-links-geo-seo-recap/587850/\">How We Earned 1,000+ Links For GEO/SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-09-01T07:45:17+00:00",
       "fetched": "2026-09-01T22:53:29.940065+00:00"
-    },
-    {
-      "id": "98c53d66-d64a-4a2b-a165-84e28a84eeaa",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "FTC Sues Amazon Over Alleged $20 Billion Advertising Surcharge Scheme via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/ftc-sues-amazon-over-alleged-20-billion-advertising-surcharge-scheme/587870/",
-      "summary": "FTC and 22 states sued Amazon over alleged changes to its ad auctions that the agency says overcharged advertisers by more than $20 billion.\n\nThe post <a href=\"https://www.searchenginejournal.com/ftc-sues-amazon-over-alleged-20-billion-advertising-surcharge-scheme/587870/\">FTC Sues Amazon Over Alleged $20 Billion Advertising Surcharge Scheme</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-31T23:49:40+00:00",
-      "fetched": "2026-09-01T00:10:45.944946+00:00"
-    },
-    {
-      "id": "2d78d4d6-06d6-4fc7-9af5-c89b8586c337",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Rank Math SEO Plugin Pauses Controversial Feature. Says It Will Return via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/rank-math-seo-plugin-pauses-controversial-feature-says-it-will-return/587853/",
-      "summary": "Rank Math paused its controversial feature, acknowledge a serious consent failure, and explains why it's coming back.\n\nThe post <a href=\"https://www.searchenginejournal.com/rank-math-seo-plugin-pauses-controversial-feature-says-it-will-return/587853/\">Rank Math SEO Plugin Pauses Controversial Feature. Says It Will Return</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-31T21:40:45+00:00",
-      "fetched": "2026-09-01T00:10:45.944976+00:00"
-    },
-    {
-      "id": "cdefaea0-cd72-40fb-a846-77552ed5cfe7",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Search Console AI Reports Rolled Out Worldwide via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-search-console-ai-reports-rolled-out-worldwide/587836/",
-      "summary": "Google says Search Console's generative AI performance reports, which track AI Overviews and AI Mode impressions, have now rolled out to all sites worldwide.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-search-console-ai-reports-rolled-out-worldwide/587836/\">Google Search Console AI Reports Rolled Out Worldwide</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-31T19:04:38+00:00",
-      "fetched": "2026-09-01T00:10:45.944997+00:00"
-    },
-    {
-      "id": "930879cf-fe17-444e-9eb8-2bc1836e8042",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "ChatGPT Is Now A \u201cVery Large Online Search Engine\u201d In The EU via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/chatgpt-is-now-a-very-large-online-search-engine-in-the-eu/587801/",
-      "summary": "ChatGPT is now a very large online search engine under the EU Digital Services Act after OpenAI reported about 159.1 million average monthly search recipients.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-is-now-a-very-large-online-search-engine-in-the-eu/587801/\">ChatGPT Is Now A &#8220;Very Large Online Search Engine&#8221; In The EU</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-31T18:31:32+00:00",
-      "fetched": "2026-09-01T00:10:45.945028+00:00"
-    },
-    {
-      "id": "174b8e15-10ee-4b40-9741-e04a3555446c",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Restructure Your Marketing Team & Budget For The AI-Search Era",
-      "link": "https://www.searchenginejournal.com/how-to-restructure-your-marketing-team-budget-for-the-ai-search-era/586153/",
-      "summary": "Three role changes and a budget rebalance can move a marketing team from invisible to cited in AI search results, no new headcount required.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-restructure-your-marketing-team-budget-for-the-ai-search-era/586153/\">How To Restructure Your Marketing Team &#038; Budget For The AI-Search Era</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-31T14:30:03+00:00",
-      "fetched": "2026-09-01T00:10:45.945048+00:00"
-    },
-    {
-      "id": "86d10a8a-95a6-4e33-936e-8f245f3c2d8f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Ads Is Automating More Decisions, Your Measurement Needs To Get Better via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/google-ads-is-automating-more-decisions-your-measurement-needs-to-get-better/586887/",
-      "summary": "As Google Ads automates more decisions, advertisers must define success beyond platform metrics, tracking leads and sales through to actual business outcomes.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ads-is-automating-more-decisions-your-measurement-needs-to-get-better/586887/\">Google Ads Is Automating More Decisions, Your Measurement Needs To Get Better</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-31T12:00:36+00:00",
-      "fetched": "2026-09-01T00:10:45.945067+00:00"
-    },
-    {
-      "id": "aa24ec11-c62b-422f-9f5f-3721d27853fe",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Mueller Shares Their Experience With Markdown For AI SEO via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/googles-mueller-shares-their-experience-with-markdown-for-ai-seo/587671/",
-      "summary": "Google's John Mueller shares what happened when he checked whether AI crawlers were actually asking his sites for markdown.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-mueller-shares-their-experience-with-markdown-for-ai-seo/587671/\">Google&#8217;s Mueller Shares Their Experience With Markdown For AI SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-08-31T10:44:54+00:00",
-      "fetched": "2026-09-01T00:10:45.945085+00:00"
     }
   ],
-  "last_updated": "2026-09-02T22:53:55.809488+00:00"
+  "last_updated": "2026-09-03T22:52:55.733512+00:00"
 }
