@@ -1,6 +1,50 @@
 {
   "articles": [
     {
+      "id": "e24a5d8e-7f3e-424a-9f8e-3f155113e073",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Win More Citations In AI Answers, Live With Ahrefs\u2019 Constance Tan via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/most-teams-can-measure-ai-visibility-few-can-move-it/588219/",
+      "summary": "Learn which AI visibility metrics matter, how to prioritize your next steps, and the tactics that win more citations in AI answers.\n\nThe post <a href=\"https://www.searchenginejournal.com/most-teams-can-measure-ai-visibility-few-can-move-it/588219/\">How To Win More Citations In AI Answers, Live With Ahrefs&#8217; Constance Tan</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-04T18:08:42+00:00",
+      "fetched": "2026-09-04T22:37:30.238198+00:00"
+    },
+    {
+      "id": "091998b9-6570-4b30-be93-a8a7b170095b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Getting Your Product Into ChatGPT Isn\u2019t The Hard Part, Getting It Through Checkout Is via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/getting-your-product-into-chatgpt-isnt-the-hard-part-getting-it-through-checkout-is/587470/",
+      "summary": "Getting surfaced in ChatGPT is the easy half. Three checks every retailer should run before connecting a fourth agentic commerce protocol.\n\nThe post <a href=\"https://www.searchenginejournal.com/getting-your-product-into-chatgpt-isnt-the-hard-part-getting-it-through-checkout-is/587470/\">Getting Your Product Into ChatGPT Isn&#8217;t The Hard Part, Getting It Through Checkout Is</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-04T14:30:02+00:00",
+      "fetched": "2026-09-04T22:37:30.238226+00:00"
+    },
+    {
+      "id": "c428e5d9-2857-4527-813d-523972e91f77",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Measure Your Brand\u2019s Visibility In AI Answers (And Fix What You Find)",
+      "link": "https://www.searchenginejournal.com/measure-brand-ai-visibility-hubspot-spa/588040/",
+      "summary": "Explore how to improve your brand's visibility in AI search results and understand ranking discrepancies with traditional methods.\n\nThe post <a href=\"https://www.searchenginejournal.com/measure-brand-ai-visibility-hubspot-spa/588040/\">How To Measure Your Brand&#8217;s Visibility In AI Answers (And Fix What You Find)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-04T13:57:33+00:00",
+      "fetched": "2026-09-04T22:37:30.238244+00:00"
+    },
+    {
+      "id": "0afbc370-ab51-43c2-abde-760cbd506c68",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "People Aren\u2019t Leaving Google For AI. They\u2019re Using Both via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-chatgpt-audience-search-queries-clicks/588200/",
+      "summary": "Research shows how people can keep using Google while making fewer traditional searches and clicking through to fewer websites.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-chatgpt-audience-search-queries-clicks/588200/\">People Aren&#8217;t Leaving Google For AI. They&#8217;re Using Both</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-04T12:00:01+00:00",
+      "fetched": "2026-09-04T22:37:30.238270+00:00"
+    },
+    {
       "id": "b46e6237-3b4f-4b87-86ba-19c458d0ff4c",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -175,51 +219,7 @@
       "summary": "Getting cited in AI responses is the easy part. Our audit of 50 major websites shows where real AI readiness begins.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-technical-signals-ai-search-uses-that-most-seos-still-arent-optimizing/586381/\">The Technical Signals AI Search Uses That Most SEOs Still Aren&#8217;t Optimizing</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-09-01T19:00:47+00:00",
       "fetched": "2026-09-01T22:53:29.939976+00:00"
-    },
-    {
-      "id": "143c5690-7a45-4be5-8a6c-d6ead3cf906a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Details Who Can License Its Search Data In Europe via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-details-who-can-license-its-search-data-in-europe/587995/",
-      "summary": "Google published eligibility rules, samples, and key dates for licensing ranking, query, click, and view data from EEA Search under the EU's Digital Markets Act.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-details-who-can-license-its-search-data-in-europe/587995/\">Google Details Who Can License Its Search Data In Europe</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-01T17:20:25+00:00",
-      "fetched": "2026-09-01T22:53:29.940004+00:00"
-    },
-    {
-      "id": "b954e42e-0c57-4242-ba9c-656b14a8e694",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "WordPress Announces A Proactive Security Initiative via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/wordpress-announces-a-proactive-security-initiative/587942/",
-      "summary": "WordPress announced an initiative to scale security as AI makes it easier for criminal to find and exploit vulnerabilities.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-announces-a-proactive-security-initiative/587942/\">WordPress Announces A Proactive Security Initiative</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-01T12:10:20+00:00",
-      "fetched": "2026-09-01T22:53:29.940023+00:00"
-    },
-    {
-      "id": "ea934f67-07e9-486b-8802-13b7c022e68f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Schema For AI Citations: How To Become A Trusted Source via @sejournal, @lorenbaker",
-      "link": "https://www.searchenginejournal.com/schema-ai-citations-trusted-source/586785/",
-      "summary": "Schema is not a magic ranking switch. Loren Baker explains how consistent structured data strengthens entity trust across local, ecommerce, and author-driven content.\n\nThe post <a href=\"https://www.searchenginejournal.com/schema-ai-citations-trusted-source/586785/\">Schema For AI Citations: How To Become A Trusted Source</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-01T12:00:02+00:00",
-      "fetched": "2026-09-01T22:53:29.940045+00:00"
-    },
-    {
-      "id": "e45c72a0-74b5-4972-888a-0c0dfb2d5d56",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How We Earned 1,000+ Links For GEO/SEO via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/how-we-earned-1000-links-geo-seo-recap/587850/",
-      "summary": "Kevin Rowe broke down the digital PR system behind 1,000+ earned citations, which data stories journalists cover, and how research wins AI Overviews spots.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-we-earned-1000-links-geo-seo-recap/587850/\">How We Earned 1,000+ Links For GEO/SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-01T07:45:17+00:00",
-      "fetched": "2026-09-01T22:53:29.940065+00:00"
     }
   ],
-  "last_updated": "2026-09-03T22:52:55.733512+00:00"
+  "last_updated": "2026-09-04T22:37:31.828727+00:00"
 }
