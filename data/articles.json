@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": "f426b7eb-41b0-449f-a6d4-6ca3dc273686",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Search Console AI Reports Go Global, Mueller On Recovery \u2013 SEO Pulse via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/seo-pulse-search-console-ai-reports-go-global-mueller-recovery/588443/",
+      "summary": "Google says Search Console AI reports are now worldwide, and John Mueller weighs in on recovery timing, markdown for AI crawlers, and sitemap cache-busting.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-search-console-ai-reports-go-global-mueller-recovery/588443/\">Search Console AI Reports Go Global, Mueller On Recovery \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-05T12:30:53+00:00",
+      "fetched": "2026-09-05T22:28:05.253084+00:00"
+    },
+    {
       "id": "e24a5d8e-7f3e-424a-9f8e-3f155113e073",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -208,18 +219,7 @@
       "summary": "Interview with head of Google DeepMind explains how Gemini is moving beyond answers toward AI that can use tools and accomplish tasks.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-deepmind-says-gemini-is-evolving-from-chatbot-to-ai-agent/588077/\">Google DeepMind Says Gemini Is Evolving From Chatbot To AI Agent</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-09-02T11:24:00+00:00",
       "fetched": "2026-09-02T22:53:54.919076+00:00"
-    },
-    {
-      "id": "3be9de37-a698-47fc-b55a-c8fdae218f76",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Technical Signals AI Search Uses That Most SEOs Still Aren\u2019t Optimizing",
-      "link": "https://www.searchenginejournal.com/the-technical-signals-ai-search-uses-that-most-seos-still-arent-optimizing/586381/",
-      "summary": "Getting cited in AI responses is the easy part. Our audit of 50 major websites shows where real AI readiness begins.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-technical-signals-ai-search-uses-that-most-seos-still-arent-optimizing/586381/\">The Technical Signals AI Search Uses That Most SEOs Still Aren&#8217;t Optimizing</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-01T19:00:47+00:00",
-      "fetched": "2026-09-01T22:53:29.939976+00:00"
     }
   ],
-  "last_updated": "2026-09-04T22:37:31.828727+00:00"
+  "last_updated": "2026-09-05T22:28:06.390075+00:00"
 }
