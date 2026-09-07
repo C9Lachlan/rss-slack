@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "id": "b702694c-4eee-4472-bfaf-49223ec17cd3",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Harvard Found The Public Has Little Objection To AI Taking Search Marketers\u2019 Jobs via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/harvard-found-the-public-has-little-objection-to-ai-taking-search-marketers-jobs/587715/",
+      "summary": "Harvard scored 940 occupations on how morally objectionable the public finds automating them. Search marketing scored low at 2.31 out of 7\n\nThe post <a href=\"https://www.searchenginejournal.com/harvard-found-the-public-has-little-objection-to-ai-taking-search-marketers-jobs/587715/\">Harvard Found The Public Has Little Objection To AI Taking Search Marketers&#8217; Jobs</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-07T14:30:22+00:00",
+      "fetched": "2026-09-07T23:09:20.355567+00:00"
+    },
+    {
+      "id": "cd90b6f7-611e-447b-98ee-7bfc357ad8ea",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Your Biggest AI Search Risk Is Conflicting Information About Your Brand via @sejournal, @cshel",
+      "link": "https://www.searchenginejournal.com/biggest-ai-search-risk-is-conflicting-information/586904/",
+      "summary": "Publishing more content won't fix what AI gets wrong about your brand. Too many versions of the truth is the real problem.\n\nThe post <a href=\"https://www.searchenginejournal.com/biggest-ai-search-risk-is-conflicting-information/586904/\">Your Biggest AI Search Risk Is Conflicting Information About Your Brand</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-07T12:00:11+00:00",
+      "fetched": "2026-09-07T23:09:20.355593+00:00"
+    },
+    {
       "id": "f426b7eb-41b0-449f-a6d4-6ca3dc273686",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -197,29 +219,7 @@
       "summary": "YouTube's Todd Beaupr\u00e9 says the desktop homepage redesign with larger thumbnails drove more long-form engagement despite showing fewer videos at once.\n\nThe post <a href=\"https://www.searchenginejournal.com/youtube-bigger-thumbnails-long-form-engagement/588102/\">YouTube Says Bigger Thumbnails Drove More Long-Form Views</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-09-02T13:11:52+00:00",
       "fetched": "2026-09-02T22:53:54.919033+00:00"
-    },
-    {
-      "id": "3bc04870-6f21-42d5-b67d-da73878d34c6",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "What Happens To PPC When You Stop Managing Google Ads Through Google Ads via @sejournal, @siliconvallaeys",
-      "link": "https://www.searchenginejournal.com/what-happens-to-ppc-when-you-stop-managing-google-ads-through-google-ads/586580/",
-      "summary": "As agents and MCP connectors take over PPC management outside the Google Ads UI, this piece maps the risks and the governance needed to avoid.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-happens-to-ppc-when-you-stop-managing-google-ads-through-google-ads/586580/\">What Happens To PPC When You Stop Managing Google Ads Through Google Ads</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-02T12:00:10+00:00",
-      "fetched": "2026-09-02T22:53:54.919050+00:00"
-    },
-    {
-      "id": "dc5802eb-73d6-4690-a3ec-e9523b2d9315",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google DeepMind Says Gemini Is Evolving From Chatbot To AI Agent via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-deepmind-says-gemini-is-evolving-from-chatbot-to-ai-agent/588077/",
-      "summary": "Interview with head of Google DeepMind explains how Gemini is moving beyond answers toward AI that can use tools and accomplish tasks.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-deepmind-says-gemini-is-evolving-from-chatbot-to-ai-agent/588077/\">Google DeepMind Says Gemini Is Evolving From Chatbot To AI Agent</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-02T11:24:00+00:00",
-      "fetched": "2026-09-02T22:53:54.919076+00:00"
     }
   ],
-  "last_updated": "2026-09-06T22:32:40.779986+00:00"
+  "last_updated": "2026-09-07T23:09:21.315947+00:00"
 }
