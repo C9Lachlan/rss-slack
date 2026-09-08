@@ -1,6 +1,72 @@
 {
   "articles": [
     {
+      "id": "fd104d1c-9b74-47be-885a-beed08902688",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "UK Publisher Loses 98% Of News Search Visibility After .com Move via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/uk-publisher-news-search-visibility-com-move/588840/",
+      "summary": "A UK news site's trending-query visibility collapsed after moving from .co.uk to .com, and the new domain didn't pick up what the old one lost.\n\nThe post <a href=\"https://www.searchenginejournal.com/uk-publisher-news-search-visibility-com-move/588840/\">UK Publisher Loses 98% Of News Search Visibility After .com Move</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-08T19:24:24+00:00",
+      "fetched": "2026-09-08T23:02:54.191018+00:00"
+    },
+    {
+      "id": "6cf2571e-343c-47a0-b89b-be7efaf16e8b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Says Old Low-Value Pages May Affect Site Recovery via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-says-old-low-value-pages-may-affect-site-recovery/588837/",
+      "summary": "John Mueller says Google's systems may still judge a site by its old low-value programmatic pages, and that showing value again takes time and effort.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-says-old-low-value-pages-may-affect-site-recovery/588837/\">Google Says Old Low-Value Pages May Affect Site Recovery</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-08T18:42:36+00:00",
+      "fetched": "2026-09-08T23:02:54.191047+00:00"
+    },
+    {
+      "id": "03fea620-aad1-43df-831c-0c9b8a17dd29",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "InMotion Cloud Debuts Fixed-Price Managed Cloud via @sejournal, @inmotionhosting",
+      "link": "https://www.searchenginejournal.com/inmotion-cloud-debuts-fixed-price-managed-private-cloud-spn/587527/",
+      "summary": "InMotion Cloud launches a fixed-price Managed Private Cloud built on bare metal, with predictable monthly rates, fixed egress, and U.S.-based support.\n\nThe post <a href=\"https://www.searchenginejournal.com/inmotion-cloud-debuts-fixed-price-managed-private-cloud-spn/587527/\">InMotion Cloud Debuts Fixed-Price Managed Cloud</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-08T17:05:00+00:00",
+      "fetched": "2026-09-08T23:02:54.191068+00:00"
+    },
+    {
+      "id": "f03bd6a3-55c5-4b2d-8ae5-9fc46e8773e8",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "When Attribution Looks More Precise Than The Data Behind It via @sejournal, @bngsrc",
+      "link": "https://www.searchenginejournal.com/when-attribution-looks-more-precise-than-the-data-behind-it/586762/",
+      "summary": "Modeled data now fills the gaps left by signal loss, and mistaking estimates for measurements can lead to costly budget misallocation.\n\nThe post <a href=\"https://www.searchenginejournal.com/when-attribution-looks-more-precise-than-the-data-behind-it/586762/\">When Attribution Looks More Precise Than The Data Behind It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-08T14:30:05+00:00",
+      "fetched": "2026-09-08T23:02:54.191105+00:00"
+    },
+    {
+      "id": "975f32dc-acc0-48a8-b3be-ec4ac17ab826",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Some Sites Use llms.txt Like robots.txt, Common Crawl Finds via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/common-crawl-llms-txt-robots-txt/588786/",
+      "summary": "Common Crawl analyzed 584,107 llms.txt files and found most came from templates, many had no links, and some carried crawler rules the format can't enforce.\n\nThe post <a href=\"https://www.searchenginejournal.com/common-crawl-llms-txt-robots-txt/588786/\">Some Sites Use llms.txt Like robots.txt, Common Crawl Finds</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-08T14:09:20+00:00",
+      "fetched": "2026-09-08T23:02:54.191123+00:00"
+    },
+    {
+      "id": "c1cfc5ce-01d3-4b1d-8d0a-e12d1d95c063",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "6 Months Into ChatGPT Ads, Advertisers Still Don\u2019t Know What \u2018Good\u2019 Looks Like via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/6-months-into-chatgpt-ads-advertisers-still-dont-know-what-good-looks-like/587583/",
+      "summary": "Advertiser data now spans single-digit to $22 CPCs, but ChatGPT Ads still lacks auction insights, industry benchmarks, and reliable audience data to judge performance.\n\nThe post <a href=\"https://www.searchenginejournal.com/6-months-into-chatgpt-ads-advertisers-still-dont-know-what-good-looks-like/587583/\">6 Months Into ChatGPT Ads, Advertisers Still Don\u2019t Know What &#8216;Good&#8217; Looks Like</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-08T12:00:00+00:00",
+      "fetched": "2026-09-08T23:02:54.191141+00:00"
+    },
+    {
       "id": "b702694c-4eee-4472-bfaf-49223ec17cd3",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -153,73 +219,7 @@
       "summary": "Data finds Google AI Mode rarely shows the same products as the regular results carousel, and often lists a different seller when it does.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ai-mode-prices-differ-from-product-carousel-for-same-items/588227/\">Google AI Mode Prices Differ From Product Carousel For Same Items</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-09-03T08:00:14+00:00",
       "fetched": "2026-09-03T22:52:54.961400+00:00"
-    },
-    {
-      "id": "e41c5d5a-869f-4708-9f94-66758ffbd64a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Responds To Sitemap SEO Technique That Forces Daily Crawling via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-responds-to-sitemap-seo-technique-that-forces-daily-crawling/588222/",
-      "summary": "Google's Mueller comments on a sitemap SEO method that forces search engines to crawl and index web pages every day.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-responds-to-sitemap-seo-technique-that-forces-daily-crawling/588222/\">Google Responds To Sitemap SEO Technique That Forces Daily Crawling</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-02T22:09:39+00:00",
-      "fetched": "2026-09-02T22:53:54.918912+00:00"
-    },
-    {
-      "id": "312a69c4-875a-4e76-ba2e-5fd7f5480dbd",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Adds Gemini 3.8 Flash To AI Mode via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-gemini-3-8-flash-ai-mode/588194/",
-      "summary": "Google added Gemini 3.8 Flash to AI Mode's model menu on release day.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-gemini-3-8-flash-ai-mode/588194/\">Google Adds Gemini 3.8 Flash To AI Mode</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-02T19:41:19+00:00",
-      "fetched": "2026-09-02T22:53:54.918956+00:00"
-    },
-    {
-      "id": "28423fd4-4504-49eb-8a38-b8342bb24a6d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Next AI Protocol Won\u2019t Save Your SEO Strategy via @sejournal, @billhunt",
-      "link": "https://www.searchenginejournal.com/the-next-ai-protocol-wont-save-your-seo-strategy/585714/",
-      "summary": "Publishing a format is not the same as possessing the knowledge. Bill Hunt on why knowledge architecture outlasts every AI protocol.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-next-ai-protocol-wont-save-your-seo-strategy/585714/\">The Next AI Protocol Won&#8217;t Save Your SEO Strategy</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-02T19:00:07+00:00",
-      "fetched": "2026-09-02T22:53:54.918976+00:00"
-    },
-    {
-      "id": "af758220-a4aa-4f14-9d83-f79069dfa553",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Entities Are The Foundation Of Modern SEO",
-      "link": "https://www.searchenginejournal.com/entities-are-the-foundation-of-modern-seo/587886/",
-      "summary": "GEO is just entity SEO with a new name. The foundations haven't changed in 15 years, but most brands still ignore them.\n\nThe post <a href=\"https://www.searchenginejournal.com/entities-are-the-foundation-of-modern-seo/587886/\">Entities Are The Foundation Of Modern SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-02T14:31:43+00:00",
-      "fetched": "2026-09-02T22:53:54.918998+00:00"
-    },
-    {
-      "id": "ff2d443b-f799-4f1e-a171-dff0c1e6c04c",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google To Bring New Video Understanding Tech To Ask YouTube via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-video-understanding-ask-youtube/588123/",
-      "summary": "Google says a new Gemini system that inspects frames, audio, and transcripts on demand will power Ask YouTube on video watch pages.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-video-understanding-ask-youtube/588123/\">Google To Bring New Video Understanding Tech To Ask YouTube</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-02T14:08:29+00:00",
-      "fetched": "2026-09-02T22:53:54.919015+00:00"
-    },
-    {
-      "id": "5a3dca1a-7990-48f7-a853-cce5e5004b5f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "YouTube Says Bigger Thumbnails Drove More Long-Form Views via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/youtube-bigger-thumbnails-long-form-engagement/588102/",
-      "summary": "YouTube's Todd Beaupr\u00e9 says the desktop homepage redesign with larger thumbnails drove more long-form engagement despite showing fewer videos at once.\n\nThe post <a href=\"https://www.searchenginejournal.com/youtube-bigger-thumbnails-long-form-engagement/588102/\">YouTube Says Bigger Thumbnails Drove More Long-Form Views</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-02T13:11:52+00:00",
-      "fetched": "2026-09-02T22:53:54.919033+00:00"
     }
   ],
-  "last_updated": "2026-09-07T23:09:21.315947+00:00"
+  "last_updated": "2026-09-08T23:02:54.969242+00:00"
 }
