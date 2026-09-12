@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": "e7ae8aba-c10b-4372-9d4c-cde27a790f9f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Search Redesign, Business Profile Post Views \u2013 SEO Pulse via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-search-redesign-business-profile-post-views-seo-pulse/589151/",
+      "summary": "Google redesigned Search results across the EEA, Business Profile posts get view counts again, and ChatGPT Shopping now leans harder on product feeds.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-search-redesign-business-profile-post-views-seo-pulse/589151/\">Google Search Redesign, Business Profile Post Views \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-12T12:30:38+00:00",
+      "fetched": "2026-09-12T22:42:11.731104+00:00"
+    },
+    {
       "id": "6428c689-d9e8-4edf-ac51-9f0d14c7b776",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -208,18 +219,7 @@
       "summary": "ChatGPT Shopping is pulling more product picks from what it calls feed-integrated sources, and store visibility moved too.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-shopping-results-lean-hard-on-product-feeds/589000/\">ChatGPT Shopping Results Lean Hard On Product Feeds</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-09-09T21:39:29+00:00",
       "fetched": "2026-09-09T22:49:31.678523+00:00"
-    },
-    {
-      "id": "01455768-a99e-45b6-8ba3-efcf00f794ce",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "ChatGPT, Gemini & Claude Lead AI Visibility, Is It Time To Stop Tracking Perplexity? via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/chatgpt-gemini-claude-lead-ai-visibility-is-it-time-to-stop-tracking-perplexity/588378/",
-      "summary": "Giving Perplexity less weight in AI search tracking can prevent distorted visibility scores without erasing useful competitive signals.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-gemini-claude-lead-ai-visibility-is-it-time-to-stop-tracking-perplexity/588378/\">ChatGPT, Gemini &#038; Claude Lead AI Visibility, Is It Time To Stop Tracking Perplexity?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-09T19:00:58+00:00",
-      "fetched": "2026-09-09T22:49:31.678544+00:00"
     }
   ],
-  "last_updated": "2026-09-11T22:52:13.076237+00:00"
+  "last_updated": "2026-09-12T22:42:12.613036+00:00"
 }
