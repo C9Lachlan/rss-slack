@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "id": "3f6166c4-6090-473b-a24c-89cf4efad690",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Matt Mullenweg Apparently Back In Charge At Automattic via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/matt-mullenweg-apparently-back-in-charge-at-automattic/589251/",
+      "summary": "Automattic says Matt Mullenweg has returned with the board's full support. But its official announcement raises additional questions.\n\nThe post <a href=\"https://www.searchenginejournal.com/matt-mullenweg-apparently-back-in-charge-at-automattic/589251/\">Matt Mullenweg Apparently Back In Charge At Automattic</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-13T21:10:22+00:00",
+      "fetched": "2026-09-13T22:42:48.051207+00:00"
+    },
+    {
+      "id": "527723b9-cc6b-4b34-9d24-427a4f8bcb14",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Admits Search Console Reporting For AI Search Is Inadequate via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-admits-search-console-reporting-for-ai-search-is-inadequate/589236/",
+      "summary": "Google admits that Search Console's AI search reporting does not adequately reflect AI search positioning data for SEO.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-admits-search-console-reporting-for-ai-search-is-inadequate/589236/\">Google Admits Search Console Reporting For AI Search Is Inadequate</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-13T12:17:31+00:00",
+      "fetched": "2026-09-13T22:42:48.051233+00:00"
+    },
+    {
       "id": "e7ae8aba-c10b-4372-9d4c-cde27a790f9f",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -197,29 +219,7 @@
       "summary": "Explore how multi-location businesses can optimize for AI models like ChatGPT and Gemini. Learn the key factors for success.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-signals-multi-location-uberall-spa/587988/\">5 AI Models, 4 Signals: What 120K Mentions Reveal About Multi-Location SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-09-10T05:00:48+00:00",
       "fetched": "2026-09-10T22:50:37.783231+00:00"
-    },
-    {
-      "id": "b756c793-d39e-49d1-a96d-39db30eb65b1",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "WordPress Co-Founder Matt Mullenweg Ousted From Automattic via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/wordpress-co-founder-matt-mullenweg-ousted-from-automattic/589009/",
-      "summary": "Automattic's board of directors placed Matt Mullenweg on paid leave of absence. Mullenweg claims conspiracy against him.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-co-founder-matt-mullenweg-ousted-from-automattic/589009/\">WordPress Co-Founder Matt Mullenweg Ousted From Automattic</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-09T22:16:35+00:00",
-      "fetched": "2026-09-09T22:49:31.678494+00:00"
-    },
-    {
-      "id": "6bca5425-e1a4-4292-b9eb-26c8cf7d7148",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "ChatGPT Shopping Results Lean Hard On Product Feeds via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/chatgpt-shopping-results-lean-hard-on-product-feeds/589000/",
-      "summary": "ChatGPT Shopping is pulling more product picks from what it calls feed-integrated sources, and store visibility moved too.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-shopping-results-lean-hard-on-product-feeds/589000/\">ChatGPT Shopping Results Lean Hard On Product Feeds</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-09T21:39:29+00:00",
-      "fetched": "2026-09-09T22:49:31.678523+00:00"
     }
   ],
-  "last_updated": "2026-09-12T22:42:12.613036+00:00"
+  "last_updated": "2026-09-13T22:42:48.761046+00:00"
 }
