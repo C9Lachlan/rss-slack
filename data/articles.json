@@ -1,6 +1,39 @@
 {
   "articles": [
     {
+      "id": "2103a1a2-97da-459e-8eeb-703710ee3da6",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Tests Paying Publishers For AI Answers Via Search Console via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-tests-paying-publishers-for-ai-answers-via-search-console/589414/",
+      "summary": "Google is testing a Search Console pilot that pays publishers when their content contributes to Gemini, AI Overviews, and AI Mode answers.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-tests-paying-publishers-for-ai-answers-via-search-console/589414/\">Google Tests Paying Publishers For AI Answers Via Search Console</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-14T17:38:53+00:00",
+      "fetched": "2026-09-14T23:34:59.508397+00:00"
+    },
+    {
+      "id": "0dc7b69f-f3ee-48c2-b887-4229435ea719",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Isn\u2019t Delivering Marketing Efficiency, It\u2019s Repeating Programmatic\u2019s Broken Promise via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/ai-isnt-delivering-marketing-efficiency-its-repeating-programmatics-broken-promise/588722/",
+      "summary": "Count AI marketing's hidden rework and maintenance costs before claiming efficiency gains, or risk repeating programmatic's mistake and starving long-term strategy.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-isnt-delivering-marketing-efficiency-its-repeating-programmatics-broken-promise/588722/\">AI Isn&#8217;t Delivering Marketing Efficiency, It&#8217;s Repeating Programmatic&#8217;s Broken Promise</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine J",
+      "published": "2026-09-14T14:30:08+00:00",
+      "fetched": "2026-09-14T23:34:59.508425+00:00"
+    },
+    {
+      "id": "1262bf7c-48e3-4f90-ad61-5430fd25e2ee",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Connect AI Search Visibility To Local Leads via @sejournal, @lorenbaker",
+      "link": "https://www.searchenginejournal.com/how-to-connect-ai-search-visibility-to-local-leads/588096/",
+      "summary": "Sean McCrohan and Steve Wiideman explain how citation clicks, calls, prompt libraries, and customer language can connect AI discovery to local leads.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-connect-ai-search-visibility-to-local-leads/588096/\">How To Connect AI Search Visibility To Local Leads</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-14T12:00:25+00:00",
+      "fetched": "2026-09-14T23:34:59.508444+00:00"
+    },
+    {
       "id": "3f6166c4-6090-473b-a24c-89cf4efad690",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -186,40 +219,7 @@
       "summary": "Google DeepMind researchers test Autoregressive Ranking (ARR), a unified model that can replace current retrieval and ranking methods.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-deepmind-develops-new-ai-search-ranking-model/589062/\">Google DeepMind Develops New AI Search Ranking Model</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-09-10T11:24:46+00:00",
       "fetched": "2026-09-10T22:50:37.783178+00:00"
-    },
-    {
-      "id": "fc5e91f2-2141-4731-9afe-c23920b7dcbe",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How Freshpet Earned AI\u2019s Trust: A GEO & AI Visibility Playbook via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/how-freshpet-earned-ais-trust-a-geo-ai-visibility-playbook-recap/588706/",
-      "summary": "Freshpet and Intero Digital explain how brands can audit AI visibility, restructure content for citation, and connect GEO work to business priorities.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-freshpet-earned-ais-trust-a-geo-ai-visibility-playbook-recap/588706/\">How Freshpet Earned AI&#8217;s Trust: A GEO &#038; AI Visibility Playbook</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-10T07:45:26+00:00",
-      "fetched": "2026-09-10T22:50:37.783198+00:00"
-    },
-    {
-      "id": "32d2393c-5322-45f5-97b4-f5b75d57db69",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Le Monde Says AI Overviews Haven\u2019t Hurt Its Audience So Far via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/le-monde-says-ai-overviews-havent-hurt-its-audience-so-far/589018/",
-      "summary": "Le Monde says its audience hasn't dropped since AI Overviews launched in France, while app traffic and subscriber growth complicate the broader traffic story.\n\nThe post <a href=\"https://www.searchenginejournal.com/le-monde-says-ai-overviews-havent-hurt-its-audience-so-far/589018/\">Le Monde Says AI Overviews Haven&#8217;t Hurt Its Audience So Far</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-10T07:00:03+00:00",
-      "fetched": "2026-09-10T22:50:37.783214+00:00"
-    },
-    {
-      "id": "65479223-d080-431a-b719-c4c6ddc7260f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "5 AI Models, 4 Signals: What 120K Mentions Reveal About Multi-Location SEO",
-      "link": "https://www.searchenginejournal.com/ai-signals-multi-location-uberall-spa/587988/",
-      "summary": "Explore how multi-location businesses can optimize for AI models like ChatGPT and Gemini. Learn the key factors for success.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-signals-multi-location-uberall-spa/587988/\">5 AI Models, 4 Signals: What 120K Mentions Reveal About Multi-Location SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-10T05:00:48+00:00",
-      "fetched": "2026-09-10T22:50:37.783231+00:00"
     }
   ],
-  "last_updated": "2026-09-13T22:42:48.761046+00:00"
+  "last_updated": "2026-09-14T23:35:00.131145+00:00"
 }
