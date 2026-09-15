@@ -1,6 +1,94 @@
 {
   "articles": [
     {
+      "id": "effabb5f-215c-4664-803e-35ebb2fcc540",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Adds New Ad Experience Metrics To CrUX Report via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-adds-new-ad-experience-metrics-to-crux-report/589569/",
+      "summary": "Google is turning publisher advertising into user experience metric that adds four more numbers that publishers need to track.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-adds-new-ad-experience-metrics-to-crux-report/589569/\">Google Adds New Ad Experience Metrics To CrUX Report</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-15T21:46:09+00:00",
+      "fetched": "2026-09-15T23:17:42.350628+00:00"
+    },
+    {
+      "id": "cebf842c-10fa-40de-bdba-e8386cdc8875",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Cloudflare Lets Sites Disallow AI Training Without Blocking Googlebot via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/cloudflare-lets-sites-disallow-ai-training-without-blocking-googlebot/589559/",
+      "summary": "Cloudflare's Disallow AI Training keeps mixed-use crawlers available for search. Google and Apple honor training opt-outs; Bing robots.txt support is pending.\n\nThe post <a href=\"https://www.searchenginejournal.com/cloudflare-lets-sites-disallow-ai-training-without-blocking-googlebot/589559/\">Cloudflare Lets Sites Disallow AI Training Without Blocking Googlebot</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-15T21:29:41+00:00",
+      "fetched": "2026-09-15T23:17:42.350654+00:00"
+    },
+    {
+      "id": "640c1d1f-4701-47da-a099-61d267182beb",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Brand Protection In AI Search: How To Audit And Defend Your Brand\u2019s Identity",
+      "link": "https://www.searchenginejournal.com/brand-protection-in-ai-search-how-to-audit-and-defend-your-brands-identity/587581/",
+      "summary": "Spot false claims and impersonators in AI search, then match each brand protection problem to the right correction, report, or preventive action.\n\nThe post <a href=\"https://www.searchenginejournal.com/brand-protection-in-ai-search-how-to-audit-and-defend-your-brands-identity/587581/\">Brand Protection In AI Search: How To Audit And Defend Your Brand&#8217;s Identity</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-15T19:00:14+00:00",
+      "fetched": "2026-09-15T23:17:42.350674+00:00"
+    },
+    {
+      "id": "c7de9eb0-9287-485d-bd02-179fca2eb036",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Meta Published 2 Documents About Muse And Only One Mentions Attacks via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/meta-published-2-documents-about-muse-and-only-one-mentions-attacks/589071/",
+      "summary": "Meta published two Muse documents on the same day. One never mentions risk, attack, or prompt injection. The other uses them 39 times.\n\nThe post <a href=\"https://www.searchenginejournal.com/meta-published-2-documents-about-muse-and-only-one-mentions-attacks/589071/\">Meta Published 2 Documents About Muse And Only One Mentions Attacks</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-15T14:30:08+00:00",
+      "fetched": "2026-09-15T23:17:42.350697+00:00"
+    },
+    {
+      "id": "d6e30b40-300a-44e0-86d1-91b97b2effa8",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Selling On ChatGPT: How Brands Are Driving Revenue Through Ads & GEO [Webinar] via @sejournal, @lorenbaker",
+      "link": "https://www.searchenginejournal.com/selling-on-chatgpt-how-brands-are-driving-revenue-through-ads-geo-webinar/589430/",
+      "summary": "We go live with OpenAI (ChatGPT) on Sept 22, to help you understand how your business can sell products or drive leads on ChatGPT. \n\nThe post <a href=\"https://www.searchenginejournal.com/selling-on-chatgpt-how-brands-are-driving-revenue-through-ads-geo-webinar/589430/\">Selling On ChatGPT: How Brands Are Driving Revenue Through Ads &#038; GEO [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-15T14:10:14+00:00",
+      "fetched": "2026-09-15T23:17:42.350721+00:00"
+    },
+    {
+      "id": "8c08b52d-efc5-4ab5-9331-d152817995a7",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "ChatGPT Ads Aren\u2019t Paid Search \u2013 5 Questions To Answer Before You Shift Budget via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/chatgpt-ads-arent-paid-search-5-questions-to-answer-before-you-shift-budget/589256/",
+      "summary": "Give ChatGPT Ads a clear role, budget source, and success criteria before pulling money from paid search campaigns that already perform.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-ads-arent-paid-search-5-questions-to-answer-before-you-shift-budget/589256/\">ChatGPT Ads Aren&#8217;t Paid Search \u2013 5 Questions To Answer Before You Shift Budget</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-15T12:00:30+00:00",
+      "fetched": "2026-09-15T23:17:42.350740+00:00"
+    },
+    {
+      "id": "16756b02-c807-4ce0-adf3-8cf9daad9720",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Anthropic Shares Power Prompts That Improve AI Results via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/anthropic-shares-power-prompts-that-improve-ai-results/589448/",
+      "summary": "Anthropic shares prompting upgrades that save tokens, improve how AI writes, code more efficiently, and handle longer tasks.\n\nThe post <a href=\"https://www.searchenginejournal.com/anthropic-shares-power-prompts-that-improve-ai-results/589448/\">Anthropic Shares Power Prompts That Improve AI Results</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-15T10:14:18+00:00",
+      "fetched": "2026-09-15T23:17:42.350757+00:00"
+    },
+    {
+      "id": "6b76093f-2bbf-4f7f-ae18-6e0ac7cc39f4",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Local Services Ads To Performance Max: What To Audit Before Migration via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/local-services-ads-to-performance-max-what-to-audit-before-migration-recap/588906/",
+      "summary": "CallRail\u2019s Meagan McLoughlin explains what to audit before/after Local Services Ads migrate into Google Ads, from historical reports to tracking numbers and lead quality.\n\nThe post <a href=\"https://www.searchenginejournal.com/local-services-ads-to-performance-max-what-to-audit-before-migration-recap/588906/\">Local Services Ads To Performance Max: What To Audit Before Migration</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-15T07:45:08+00:00",
+      "fetched": "2026-09-15T23:17:42.350783+00:00"
+    },
+    {
       "id": "2103a1a2-97da-459e-8eeb-703710ee3da6",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -131,95 +219,7 @@
       "summary": "Google says Business Profile post view counts are rolling out globally for posts published in the past 18 months, combining views from Search and Maps.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-business-profile-post-view-counts/589128/\">Google Adds Post View Counts To Business Profiles</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-09-10T21:13:27+00:00",
       "fetched": "2026-09-10T22:50:37.783011+00:00"
-    },
-    {
-      "id": "b978414c-38dc-4c8f-ad67-28392541c890",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Is Your Local SEO Strategy Ready For Google\u2019s Next AI Updates? [Webinar] via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/is-your-local-seo-strategy-ready-for-googles-next-ai-updates/589119/",
-      "summary": "Google & Uberall go live on Sept 24, sharing what comes next in Google Search and five local marketing strategy fixes that get locations recommended.\n\nThe post <a href=\"https://www.searchenginejournal.com/is-your-local-seo-strategy-ready-for-googles-next-ai-updates/589119/\">Is Your Local SEO Strategy Ready For Google&#8217;s Next AI Updates? [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-10T20:11:11+00:00",
-      "fetched": "2026-09-10T22:50:37.783036+00:00"
-    },
-    {
-      "id": "6d4c58fb-f428-4052-81f6-efa441b659bf",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Everyone Is Quoting The Same Number And Getting Different Answers via @sejournal, @DuaneForrester",
-      "link": "https://www.searchenginejournal.com/everyone-is-quoting-the-same-number-and-getting-different-answers/588659/",
-      "summary": "Publishers are blocking AI crawlers on a metric whose denominator is missing an unknown share of referrals.\n\nThe post <a href=\"https://www.searchenginejournal.com/everyone-is-quoting-the-same-number-and-getting-different-answers/588659/\">Everyone Is Quoting The Same Number And Getting Different Answers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-10T19:00:21+00:00",
-      "fetched": "2026-09-10T22:50:37.783055+00:00"
-    },
-    {
-      "id": "11a83c51-e21e-47c6-b7fb-50b9dc5e4cca",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How Do I Keep Control As Platforms Automate My Account? \u2013 Ask A PPC via @sejournal, @navahf",
-      "link": "https://www.searchenginejournal.com/ask-a-ppc-how-do-i-keep-control-as-platforms-automate-my-account/587340/",
-      "summary": "Keep AI-driven PPC accountable with transparent reporting, brand-safe creative guardrails, and campaign structures that preserve performance without surrendering control.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-a-ppc-how-do-i-keep-control-as-platforms-automate-my-account/587340/\">How Do I Keep Control As Platforms Automate My Account? \u2013 Ask A PPC</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-10T14:30:20+00:00",
-      "fetched": "2026-09-10T22:50:37.783078+00:00"
-    },
-    {
-      "id": "8d85745e-19e3-406d-b958-26165985e310",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "YouTube Gives You Feedback On Shorts Before Publishing via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/youtube-gives-you-feedback-on-shorts-before-publishing/589088/",
-      "summary": "YouTube is expanding Get Feedback, a tool that reviews a Shorts before publishing, to U.S. users\n\nThe post <a href=\"https://www.searchenginejournal.com/youtube-gives-you-feedback-on-shorts-before-publishing/589088/\">YouTube Gives You Feedback On Shorts Before Publishing</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-10T13:55:02+00:00",
-      "fetched": "2026-09-10T22:50:37.783096+00:00"
-    },
-    {
-      "id": "f800983d-2771-4575-900d-c9bebc8b56c7",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Launches Meridian GeoX Globally via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/google-launches-meridian-geox-globally/589030/",
-      "summary": "Google launches Meridian GeoX globally, giving marketers new ways to run geo experiments and bring incrementality results into marketing mix modeling.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-launches-meridian-geox-globally/589030/\">Google Launches Meridian GeoX Globally</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-10T13:02:34+00:00",
-      "fetched": "2026-09-10T22:50:37.783114+00:00"
-    },
-    {
-      "id": "5002ca63-6384-4266-bf6d-fb63286a92d7",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Expands Data Manager And Adds Uplift Measurement via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/google-expands-data-manager-and-adds-uplift-measurement/589025/",
-      "summary": "Google expands Data Manager across GA and DV360 and introduces a Data Strength Uplift Metric to measure the impact of first-party data.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-expands-data-manager-and-adds-uplift-measurement/589025/\">Google Expands Data Manager And Adds Uplift Measurement</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-10T13:00:08+00:00",
-      "fetched": "2026-09-10T22:50:37.783135+00:00"
-    },
-    {
-      "id": "5cedc03b-8e1e-463e-abf2-3f3dc0768d4c",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How Local Businesses Can Build Visibility In AI Search via @sejournal, @lorenbaker",
-      "link": "https://www.searchenginejournal.com/how-local-businesses-can-build-visibility-in-ai-search/588095/",
-      "summary": "Moz leaders Jonathan Berthold and Kevin Chen explain how listings, reviews, mentions, and social activity shape local recommendations in AI search.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-local-businesses-can-build-visibility-in-ai-search/588095/\">How Local Businesses Can Build Visibility In AI Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-10T12:00:53+00:00",
-      "fetched": "2026-09-10T22:50:37.783160+00:00"
-    },
-    {
-      "id": "100ab539-a152-4b09-b757-12fbc14c619c",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google DeepMind Develops New AI Search Ranking Model via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-deepmind-develops-new-ai-search-ranking-model/589062/",
-      "summary": "Google DeepMind researchers test Autoregressive Ranking (ARR), a unified model that can replace current retrieval and ranking methods.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-deepmind-develops-new-ai-search-ranking-model/589062/\">Google DeepMind Develops New AI Search Ranking Model</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-10T11:24:46+00:00",
-      "fetched": "2026-09-10T22:50:37.783178+00:00"
     }
   ],
-  "last_updated": "2026-09-14T23:35:00.131145+00:00"
+  "last_updated": "2026-09-15T23:17:43.582140+00:00"
 }
