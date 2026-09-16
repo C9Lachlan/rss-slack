@@ -1,6 +1,94 @@
 {
   "articles": [
     {
+      "id": "0a58112e-75fb-4c82-96b6-2e74eb9fcb31",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Search Profile Badges Expose The Publisher Traffic Crisis via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-search-profile-badges-expose-the-publisher-traffic-crisis/589724/",
+      "summary": "Google published guidance for adding a Search profile badge as Search becomes a destination for following creators and publisher.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-search-profile-badges-expose-the-publisher-traffic-crisis/589724/\">Google Search Profile Badges Expose The Publisher Traffic Crisis</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-16T23:07:48+00:00",
+      "fetched": "2026-09-16T23:22:45.678053+00:00"
+    },
+    {
+      "id": "404d612a-f155-4205-af2e-01e8ddaae515",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google UCP Update Lets Merchants Enable Cart Transfer To Site via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-ucp-update-lets-merchants-enable-cart-transfer-to-site/589713/",
+      "summary": "Google is rolling out cart transfer and checkout testing in the Merchant Center UCP hub, plus a YouTube ads beta and wider AI insights.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ucp-update-lets-merchants-enable-cart-transfer-to-site/589713/\">Google UCP Update Lets Merchants Enable Cart Transfer To Site</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-16T20:35:52+00:00",
+      "fetched": "2026-09-16T23:22:45.678104+00:00"
+    },
+    {
+      "id": "29efa584-8fe3-4853-b22a-251ed46121f3",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "It Was There A Minute Ago via @sejournal, @pedrodias",
+      "link": "https://www.searchenginejournal.com/it-was-there-a-minute-ago/589500/",
+      "summary": "A model can know the right answer and still defer to a wrong tool result. What does that mean for your visibility report?\n\nThe post <a href=\"https://www.searchenginejournal.com/it-was-there-a-minute-ago/589500/\">It Was There A Minute Ago</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-16T19:00:44+00:00",
+      "fetched": "2026-09-16T23:22:45.678125+00:00"
+    },
+    {
+      "id": "bae0eec8-fe74-4f32-a8c2-55d61710bcdd",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Search Profiles Now Available At 10,000 Followers via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-search-profiles-10000-followers/589635/",
+      "summary": "Google lowers Search profile eligibility to 10,000 followers for U.S. websites and creators, with new account tools and updated article displays.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-search-profiles-10000-followers/589635/\">Google Search Profiles Now Available At 10,000 Followers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-16T16:00:15+00:00",
+      "fetched": "2026-09-16T23:22:45.678155+00:00"
+    },
+    {
+      "id": "931760b1-5f00-46d6-89bd-7ec89d182e3a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "MIT, Anthropic & OpenAI Sent The Same Warning, Get Your Evidence House In Order Now via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/mit-anthropic-openai-sent-the-same-warning-get-your-evidence-house-in-order-now/589249/",
+      "summary": "Three AI warnings landed in five days. Nicholas Carr described the pattern in 2008, and it changes how you plan next quarter.\n\nThe post <a href=\"https://www.searchenginejournal.com/mit-anthropic-openai-sent-the-same-warning-get-your-evidence-house-in-order-now/589249/\">MIT, Anthropic &#038; OpenAI Sent The Same Warning, Get Your Evidence House In Order Now</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-16T14:30:54+00:00",
+      "fetched": "2026-09-16T23:22:45.678175+00:00"
+    },
+    {
+      "id": "82a3ae11-3aca-4f3a-8fe9-307a8fc48a2d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Detect Affiliate Brand Bidding And Hidden Revenue Leakage",
+      "link": "https://www.searchenginejournal.com/how-to-detect-affiliate-brand-bidding-and-hidden-revenue-leakage-spa/589274/",
+      "summary": "Strong affiliate numbers can hide brand bidding. Learn how to define violations, build a search test list, capture ad evidence, and match it to partners.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-detect-affiliate-brand-bidding-and-hidden-revenue-leakage-spa/589274/\">How To Detect Affiliate Brand Bidding And Hidden Revenue Leakage</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-16T14:04:23+00:00",
+      "fetched": "2026-09-16T23:22:45.678192+00:00"
+    },
+    {
+      "id": "9d0a060c-4d85-44a6-96a0-abde38d15558",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Beyond Content Parity: Building A Validated Content Workflow For AI Search via @sejournal, @billhunt",
+      "link": "https://www.searchenginejournal.com/beyond-content-parity-building-a-validated-content-workflow-for-ai-search/586184/",
+      "summary": "Build a validated content workflow for AI search by identifying decision gaps, acquiring original knowledge, and proving claims before publishing.\n\nThe post <a href=\"https://www.searchenginejournal.com/beyond-content-parity-building-a-validated-content-workflow-for-ai-search/586184/\">Beyond Content Parity: Building A Validated Content Workflow For AI Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-16T12:00:04+00:00",
+      "fetched": "2026-09-16T23:22:45.678212+00:00"
+    },
+    {
+      "id": "f0b1c6fa-9d4d-4dbd-8391-a2809a077dad",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Ex-Googler Jeff Dean Explains Design Choices Behind Gemini via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/ex-googler-jeff-dean-explains-what-users-should-understand-about-gemini/589593/",
+      "summary": "Ex-Googler Jeff Dean shares insights from Gemini's development and the approach he uses to discover promising new ideas.\n\nThe post <a href=\"https://www.searchenginejournal.com/ex-googler-jeff-dean-explains-what-users-should-understand-about-gemini/589593/\">Ex-Googler Jeff Dean Explains Design Choices Behind Gemini</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-16T10:31:08+00:00",
+      "fetched": "2026-09-16T23:22:45.678239+00:00"
+    },
+    {
       "id": "effabb5f-215c-4664-803e-35ebb2fcc540",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -131,95 +219,7 @@
       "summary": "Automattic says Matt Mullenweg has returned with the board's full support. But its official announcement raises additional questions.\n\nThe post <a href=\"https://www.searchenginejournal.com/matt-mullenweg-apparently-back-in-charge-at-automattic/589251/\">Matt Mullenweg Apparently Back In Charge At Automattic</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-09-13T21:10:22+00:00",
       "fetched": "2026-09-13T22:42:48.051207+00:00"
-    },
-    {
-      "id": "527723b9-cc6b-4b34-9d24-427a4f8bcb14",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Admits Search Console Reporting For AI Search Is Inadequate via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-admits-search-console-reporting-for-ai-search-is-inadequate/589236/",
-      "summary": "Google admits that Search Console's AI search reporting does not adequately reflect AI search positioning data for SEO.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-admits-search-console-reporting-for-ai-search-is-inadequate/589236/\">Google Admits Search Console Reporting For AI Search Is Inadequate</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-13T12:17:31+00:00",
-      "fetched": "2026-09-13T22:42:48.051233+00:00"
-    },
-    {
-      "id": "e7ae8aba-c10b-4372-9d4c-cde27a790f9f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Search Redesign, Business Profile Post Views \u2013 SEO Pulse via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-search-redesign-business-profile-post-views-seo-pulse/589151/",
-      "summary": "Google redesigned Search results across the EEA, Business Profile posts get view counts again, and ChatGPT Shopping now leans harder on product feeds.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-search-redesign-business-profile-post-views-seo-pulse/589151/\">Google Search Redesign, Business Profile Post Views \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-12T12:30:38+00:00",
-      "fetched": "2026-09-12T22:42:11.731104+00:00"
-    },
-    {
-      "id": "6428c689-d9e8-4edf-ac51-9f0d14c7b776",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "SEO For Paws Live Stream Conference: Free Tickets & Big Names For A Good Cause via @sejournal, @theshelleywalsh",
-      "link": "https://www.searchenginejournal.com/seo-for-paws-live-stream-conference-free-tickets-big-names-for-a-good-cause/588889/",
-      "summary": "SEO For Paws is back with Barry Schwartz, Glenn Gabe, and a lineup of search experts talking about search in the AI era.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-for-paws-live-stream-conference-free-tickets-big-names-for-a-good-cause/588889/\">SEO For Paws Live Stream Conference: Free Tickets &#038; Big Names For A Good Cause</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-11T19:00:59+00:00",
-      "fetched": "2026-09-11T22:52:12.221859+00:00"
-    },
-    {
-      "id": "87605ec8-fc6f-46da-9eaa-05f473bd6915",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Documents Partner-Only API For Full-Web Search Results via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-documents-partner-only-api-for-full-web-search-results/589194/",
-      "summary": "Google's developer docs for the Web Search Service API show a partner-only path to full-web search results.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-documents-partner-only-api-for-full-web-search-results/589194/\">Google Documents Partner-Only API For Full-Web Search Results</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-11T17:32:12+00:00",
-      "fetched": "2026-09-11T22:52:12.221886+00:00"
-    },
-    {
-      "id": "e00aea50-65a9-49b6-b200-5c86106c6fd9",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The 2003 Framework That Was Already Doing Query Fan-Out via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/the-2003-framework-that-was-already-doing-query-fan-out/588595/",
-      "summary": "Use nested phrases and timely publishing to reach new Google searches and the longer queries AI systems generate.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-2003-framework-that-was-already-doing-query-fan-out/588595/\">The 2003 Framework That Was Already Doing Query Fan-Out</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-11T14:30:50+00:00",
-      "fetched": "2026-09-11T22:52:12.221907+00:00"
-    },
-    {
-      "id": "56009830-3dca-43a7-97fb-8b1dfd773b7c",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "What Wikipedia Reveals About AI Overviews And Web Traffic via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/what-wikipedia-reveals-about-ai-overviews-and-web-traffic/589042/",
-      "summary": "A University of Washington paper estimates AI Overviews reduced search referrals to Wikipedia by about 5%, a metric Google disputes.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-wikipedia-reveals-about-ai-overviews-and-web-traffic/589042/\">What Wikipedia Reveals About AI Overviews And Web Traffic</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-11T12:00:42+00:00",
-      "fetched": "2026-09-11T22:52:12.221929+00:00"
-    },
-    {
-      "id": "13837b71-00a8-4295-9d82-07c30b370310",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "New AI Search & SEO KPIs: 4 Signals That Guide Real Decisions [Watch Now] via @sejournal, @lorenbaker",
-      "link": "https://www.searchenginejournal.com/new-ai-search-seo-kpis-4-signals-that-guide-real-decisions/588605/",
-      "summary": "Stas Levitan of LightSite AI explains four first-party signals marketers can use to connect AI bot attention with human traffic and better SEO decisions.\n\nThe post <a href=\"https://www.searchenginejournal.com/new-ai-search-seo-kpis-4-signals-that-guide-real-decisions/588605/\">New AI Search &#038; SEO KPIs: 4 Signals That Guide Real Decisions [Watch Now]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-11T07:45:21+00:00",
-      "fetched": "2026-09-11T22:52:12.221948+00:00"
-    },
-    {
-      "id": "613fab03-6244-4a0c-a49f-bcd1da792965",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Adds Post View Counts To Business Profiles via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-business-profile-post-view-counts/589128/",
-      "summary": "Google says Business Profile post view counts are rolling out globally for posts published in the past 18 months, combining views from Search and Maps.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-business-profile-post-view-counts/589128/\">Google Adds Post View Counts To Business Profiles</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-10T21:13:27+00:00",
-      "fetched": "2026-09-10T22:50:37.783011+00:00"
     }
   ],
-  "last_updated": "2026-09-15T23:17:43.582140+00:00"
+  "last_updated": "2026-09-16T23:22:47.891363+00:00"
 }
