@@ -1,6 +1,94 @@
 {
   "articles": [
     {
+      "id": "2e2cc57c-55c4-4932-a1d2-037c1ef63241",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Discover Test Adds Topic Overviews, Starting With Videos via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-discover-test-adds-topic-overviews-starting-with-videos/589963/",
+      "summary": "Google is testing a \"Dive deeper\" button in Discover, starting with videos.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-discover-test-adds-topic-overviews-starting-with-videos/589963/\">Google Discover Test Adds Topic Overviews, Starting With Videos</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-18T22:24:26+00:00",
+      "fetched": "2026-09-18T22:54:21.029312+00:00"
+    },
+    {
+      "id": "e2d5cd1e-3c91-4696-9cb8-ce5fbd5fb55a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Checking A Page Is Part Of A Retrieval Pipeline For AI via @sejournal, @chrisgreenseo",
+      "link": "https://www.searchenginejournal.com/checking-a-page-is-part-of-a-retrieval-pipeline-for-ai/589284/",
+      "summary": "No GSC for ChatGPT? Paste a distinctive snippet into a chatbot and ask for exact matches. If your URL comes back, retrieval isn't your problem.\n\nThe post <a href=\"https://www.searchenginejournal.com/checking-a-page-is-part-of-a-retrieval-pipeline-for-ai/589284/\">Checking A Page Is Part Of A Retrieval Pipeline For AI</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-18T19:00:53+00:00",
+      "fetched": "2026-09-18T22:54:21.029339+00:00"
+    },
+    {
+      "id": "d3e39057-31da-4650-b3cf-18afb0236968",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Adds Local Businesses To EEA Search Result Units via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-adds-local-businesses-to-eea-search-result-units/589955/",
+      "summary": "Google updated its Search documentation to add local business queries to the two result units rolled out in the EEA for directories and direct providers.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-adds-local-businesses-to-eea-search-result-units/589955/\">Google Adds Local Businesses To EEA Search Result Units</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-18T17:51:12+00:00",
+      "fetched": "2026-09-18T22:54:21.029358+00:00"
+    },
+    {
+      "id": "bdd4077a-794c-43d1-87e7-82c7f05a4ca0",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Your Brand Needs An AI Accountability Document, A School District Beat Big Tech To It via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/your-brand-needs-an-ai-accountability-document-a-school-district-beat-big-tech-to-it/589240/",
+      "summary": "Turn AI guardrails into search assets with a school district's template for published policies, named reviewers, and clear data protections.\n\nThe post <a href=\"https://www.searchenginejournal.com/your-brand-needs-an-ai-accountability-document-a-school-district-beat-big-tech-to-it/589240/\">Your Brand Needs An AI Accountability Document, A School District Beat Big Tech To It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-18T17:30:42+00:00",
+      "fetched": "2026-09-18T22:54:21.029381+00:00"
+    },
+    {
+      "id": "deee167d-eb3e-4b63-9dbf-84ae689f7c29",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Cloudflare Will Write Your Robots.txt, And It Has A Point via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/cloudflare-will-write-your-robots-txt-and-it-has-a-point/589262/",
+      "summary": "Bot Preference Sync sets AI crawler policy per category, not per crawler. Allow GPTBot and block Bytespider, and no setting describes what you do.\n\nThe post <a href=\"https://www.searchenginejournal.com/cloudflare-will-write-your-robots-txt-and-it-has-a-point/589262/\">Cloudflare Will Write Your Robots.txt, And It Has A Point</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-18T14:30:00+00:00",
+      "fetched": "2026-09-18T22:54:21.029399+00:00"
+    },
+    {
+      "id": "7f3b0bce-4661-4c7a-889e-7ef1cd976ddc",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "State Of Search 2027: What To Stop, Measure & Fund",
+      "link": "https://www.searchenginejournal.com/state-of-search-2027-what-to-stop-measure-fund/589617/",
+      "summary": "Is a traffic decline actually hurting your business? Our State of Search 2027 shows how to tell and where to invest next.\n\nThe post <a href=\"https://www.searchenginejournal.com/state-of-search-2027-what-to-stop-measure-fund/589617/\">State Of Search 2027: What To Stop, Measure &#038; Fund</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-18T14:15:43+00:00",
+      "fetched": "2026-09-18T22:54:21.029415+00:00"
+    },
+    {
+      "id": "54d3e452-7ac9-41f8-b871-3d5e05222772",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s AI Payment Pilot Vs. Cloudflare & Microsoft Models via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/googles-ai-payment-pilot-vs-cloudflare-and-microsoft-models/589636/",
+      "summary": "Google, Cloudflare, and Microsoft are testing different models for paying publishers when AI systems access or use their content.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-ai-payment-pilot-vs-cloudflare-and-microsoft-models/589636/\">Google&#8217;s AI Payment Pilot Vs. Cloudflare &#038; Microsoft Models</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-18T12:00:41+00:00",
+      "fetched": "2026-09-18T22:54:21.029431+00:00"
+    },
+    {
+      "id": "181db194-129d-476e-a1bf-f0652edbebbe",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Responds To Cross-Domain Canonical De-Indexing Report via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-responds-to-cross-domain-canonical-de-indexing-report/589917/",
+      "summary": "Google's John Mueller explains how publishers can catch site problems before they become an indexing crisis.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-responds-to-cross-domain-canonical-de-indexing-report/589917/\">Google Responds To Cross-Domain Canonical De-Indexing Report</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-18T11:39:51+00:00",
+      "fetched": "2026-09-18T22:54:21.029456+00:00"
+    },
+    {
       "id": "2e98c4ef-0fb2-433f-ad33-4676e66a96cc",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -131,95 +219,7 @@
       "summary": "Three AI warnings landed in five days. Nicholas Carr described the pattern in 2008, and it changes how you plan next quarter.\n\nThe post <a href=\"https://www.searchenginejournal.com/mit-anthropic-openai-sent-the-same-warning-get-your-evidence-house-in-order-now/589249/\">MIT, Anthropic &#038; OpenAI Sent The Same Warning, Get Your Evidence House In Order Now</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-09-16T14:30:54+00:00",
       "fetched": "2026-09-16T23:22:45.678175+00:00"
-    },
-    {
-      "id": "82a3ae11-3aca-4f3a-8fe9-307a8fc48a2d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Detect Affiliate Brand Bidding And Hidden Revenue Leakage",
-      "link": "https://www.searchenginejournal.com/how-to-detect-affiliate-brand-bidding-and-hidden-revenue-leakage-spa/589274/",
-      "summary": "Strong affiliate numbers can hide brand bidding. Learn how to define violations, build a search test list, capture ad evidence, and match it to partners.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-detect-affiliate-brand-bidding-and-hidden-revenue-leakage-spa/589274/\">How To Detect Affiliate Brand Bidding And Hidden Revenue Leakage</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-16T14:04:23+00:00",
-      "fetched": "2026-09-16T23:22:45.678192+00:00"
-    },
-    {
-      "id": "9d0a060c-4d85-44a6-96a0-abde38d15558",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Beyond Content Parity: Building A Validated Content Workflow For AI Search via @sejournal, @billhunt",
-      "link": "https://www.searchenginejournal.com/beyond-content-parity-building-a-validated-content-workflow-for-ai-search/586184/",
-      "summary": "Build a validated content workflow for AI search by identifying decision gaps, acquiring original knowledge, and proving claims before publishing.\n\nThe post <a href=\"https://www.searchenginejournal.com/beyond-content-parity-building-a-validated-content-workflow-for-ai-search/586184/\">Beyond Content Parity: Building A Validated Content Workflow For AI Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-16T12:00:04+00:00",
-      "fetched": "2026-09-16T23:22:45.678212+00:00"
-    },
-    {
-      "id": "f0b1c6fa-9d4d-4dbd-8391-a2809a077dad",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Ex-Googler Jeff Dean Explains Design Choices Behind Gemini via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/ex-googler-jeff-dean-explains-what-users-should-understand-about-gemini/589593/",
-      "summary": "Ex-Googler Jeff Dean shares insights from Gemini's development and the approach he uses to discover promising new ideas.\n\nThe post <a href=\"https://www.searchenginejournal.com/ex-googler-jeff-dean-explains-what-users-should-understand-about-gemini/589593/\">Ex-Googler Jeff Dean Explains Design Choices Behind Gemini</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-16T10:31:08+00:00",
-      "fetched": "2026-09-16T23:22:45.678239+00:00"
-    },
-    {
-      "id": "effabb5f-215c-4664-803e-35ebb2fcc540",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Adds New Ad Experience Metrics To CrUX Report via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-adds-new-ad-experience-metrics-to-crux-report/589569/",
-      "summary": "Google is turning publisher advertising into user experience metric that adds four more numbers that publishers need to track.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-adds-new-ad-experience-metrics-to-crux-report/589569/\">Google Adds New Ad Experience Metrics To CrUX Report</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-15T21:46:09+00:00",
-      "fetched": "2026-09-15T23:17:42.350628+00:00"
-    },
-    {
-      "id": "cebf842c-10fa-40de-bdba-e8386cdc8875",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Cloudflare Lets Sites Disallow AI Training Without Blocking Googlebot via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/cloudflare-lets-sites-disallow-ai-training-without-blocking-googlebot/589559/",
-      "summary": "Cloudflare's Disallow AI Training keeps mixed-use crawlers available for search. Google and Apple honor training opt-outs; Bing robots.txt support is pending.\n\nThe post <a href=\"https://www.searchenginejournal.com/cloudflare-lets-sites-disallow-ai-training-without-blocking-googlebot/589559/\">Cloudflare Lets Sites Disallow AI Training Without Blocking Googlebot</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-15T21:29:41+00:00",
-      "fetched": "2026-09-15T23:17:42.350654+00:00"
-    },
-    {
-      "id": "640c1d1f-4701-47da-a099-61d267182beb",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Brand Protection In AI Search: How To Audit And Defend Your Brand\u2019s Identity",
-      "link": "https://www.searchenginejournal.com/brand-protection-in-ai-search-how-to-audit-and-defend-your-brands-identity/587581/",
-      "summary": "Spot false claims and impersonators in AI search, then match each brand protection problem to the right correction, report, or preventive action.\n\nThe post <a href=\"https://www.searchenginejournal.com/brand-protection-in-ai-search-how-to-audit-and-defend-your-brands-identity/587581/\">Brand Protection In AI Search: How To Audit And Defend Your Brand&#8217;s Identity</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-15T19:00:14+00:00",
-      "fetched": "2026-09-15T23:17:42.350674+00:00"
-    },
-    {
-      "id": "c7de9eb0-9287-485d-bd02-179fca2eb036",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Meta Published 2 Documents About Muse And Only One Mentions Attacks via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/meta-published-2-documents-about-muse-and-only-one-mentions-attacks/589071/",
-      "summary": "Meta published two Muse documents on the same day. One never mentions risk, attack, or prompt injection. The other uses them 39 times.\n\nThe post <a href=\"https://www.searchenginejournal.com/meta-published-2-documents-about-muse-and-only-one-mentions-attacks/589071/\">Meta Published 2 Documents About Muse And Only One Mentions Attacks</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-15T14:30:08+00:00",
-      "fetched": "2026-09-15T23:17:42.350697+00:00"
-    },
-    {
-      "id": "d6e30b40-300a-44e0-86d1-91b97b2effa8",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Selling On ChatGPT: How Brands Are Driving Revenue Through Ads & GEO [Webinar] via @sejournal, @lorenbaker",
-      "link": "https://www.searchenginejournal.com/selling-on-chatgpt-how-brands-are-driving-revenue-through-ads-geo-webinar/589430/",
-      "summary": "We go live with OpenAI (ChatGPT) on Sept 22, to help you understand how your business can sell products or drive leads on ChatGPT. \n\nThe post <a href=\"https://www.searchenginejournal.com/selling-on-chatgpt-how-brands-are-driving-revenue-through-ads-geo-webinar/589430/\">Selling On ChatGPT: How Brands Are Driving Revenue Through Ads &#038; GEO [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-15T14:10:14+00:00",
-      "fetched": "2026-09-15T23:17:42.350721+00:00"
     }
   ],
-  "last_updated": "2026-09-17T23:14:23.007563+00:00"
+  "last_updated": "2026-09-18T22:54:21.891904+00:00"
 }
