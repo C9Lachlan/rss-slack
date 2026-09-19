@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": "b35ccb16-2d1d-4389-84f6-2a56496c7aa1",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google AI Payment Pilot, Search Profiles At 10,000 \u2013 SEO Pulse via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/seo-pulse-google-ai-payment-pilot-search-profiles-at-10000/589849/",
+      "summary": "Google is testing payments for content contributing to AI answers, Mueller says AI position data is hard to report, and Cloudflare splits training from search.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-google-ai-payment-pilot-search-profiles-at-10000/589849/\">Google AI Payment Pilot, Search Profiles At 10,000 \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-19T12:30:42+00:00",
+      "fetched": "2026-09-19T22:33:31.189694+00:00"
+    },
+    {
       "id": "2e2cc57c-55c4-4932-a1d2-037c1ef63241",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -208,18 +219,7 @@
       "summary": "Google lowers Search profile eligibility to 10,000 followers for U.S. websites and creators, with new account tools and updated article displays.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-search-profiles-10000-followers/589635/\">Google Search Profiles Now Available At 10,000 Followers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-09-16T16:00:15+00:00",
       "fetched": "2026-09-16T23:22:45.678155+00:00"
-    },
-    {
-      "id": "931760b1-5f00-46d6-89bd-7ec89d182e3a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "MIT, Anthropic & OpenAI Sent The Same Warning, Get Your Evidence House In Order Now via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/mit-anthropic-openai-sent-the-same-warning-get-your-evidence-house-in-order-now/589249/",
-      "summary": "Three AI warnings landed in five days. Nicholas Carr described the pattern in 2008, and it changes how you plan next quarter.\n\nThe post <a href=\"https://www.searchenginejournal.com/mit-anthropic-openai-sent-the-same-warning-get-your-evidence-house-in-order-now/589249/\">MIT, Anthropic &#038; OpenAI Sent The Same Warning, Get Your Evidence House In Order Now</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-16T14:30:54+00:00",
-      "fetched": "2026-09-16T23:22:45.678175+00:00"
     }
   ],
-  "last_updated": "2026-09-18T22:54:21.891904+00:00"
+  "last_updated": "2026-09-19T22:33:32.143104+00:00"
 }
