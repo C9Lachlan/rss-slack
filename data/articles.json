@@ -1,6 +1,94 @@
 {
   "articles": [
     {
+      "id": "603ecbce-7c61-4f63-9045-f83f1fce7a48",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Job Boards Say Google Indexing API Requests Get No Response via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-indexing-api-approval-job-sites/590316/",
+      "summary": "Job site operators report months-long waits for Google Indexing API approval, with no stated review timeframe in Google\u2019s documentation.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-indexing-api-approval-job-sites/590316/\">Job Boards Say Google Indexing API Requests Get No Response</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-21T20:30:43+00:00",
+      "fetched": "2026-09-21T23:43:21.082783+00:00"
+    },
+    {
+      "id": "da1a16d1-e705-4710-a842-01fad78b95ea",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "International SEO For Publishers: How To Succeed Across Borders",
+      "link": "https://www.searchenginejournal.com/international-seo-for-publishers-how-to-succeed-across-borders/589631/",
+      "summary": "A single .com works for The Guardian because of brand power. For most news publishers, separate country-code domains are the strategy that holds up.\n\nThe post <a href=\"https://www.searchenginejournal.com/international-seo-for-publishers-how-to-succeed-across-borders/589631/\">International SEO For Publishers: How To Succeed Across Borders</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-21T19:00:39+00:00",
+      "fetched": "2026-09-21T23:43:21.082812+00:00"
+    },
+    {
+      "id": "dfea07a9-328d-4842-b33d-004e24945cb7",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Find The Sources Shaping AI Answers In Your Industry via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/how-to-find-the-sources-shaping-ai-answers-in-your-industry/589756/",
+      "summary": "Trendos' Gintare Rimolaityte explains how to map AI citation sources by industry and engine, identify competitor gaps, and turn an audit into content and outreach priorities.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-find-the-sources-shaping-ai-answers-in-your-industry/589756/\">How To Find The Sources Shaping AI Answers In Your Industry</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-21T18:12:21+00:00",
+      "fetched": "2026-09-21T23:43:21.082833+00:00"
+    },
+    {
+      "id": "7e129a51-9a1b-464f-935c-e99445bcafc5",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Shopify CEO Warns AI \u2018Slop Grenades\u2019 Shift Work To Coworkers via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/shopify-ceo-ai-slop-grenades-coworkers/590292/",
+      "summary": "Shopify CEO Tobi L\u00fctke says unreviewed AI output is landing on coworkers. Freelance marketplace data shows demand for AI cleanup work rising elsewhere too.\n\nThe post <a href=\"https://www.searchenginejournal.com/shopify-ceo-ai-slop-grenades-coworkers/590292/\">Shopify CEO Warns AI &#8216;Slop Grenades&#8217; Shift Work To Coworkers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-21T15:14:46+00:00",
+      "fetched": "2026-09-21T23:43:21.082858+00:00"
+    },
+    {
+      "id": "6db75c84-baf3-46a4-9c84-a5f6e7bb6efb",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Lighthouse Adds Audit For AI Agent Resource Discovery via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-lighthouse-ai-agent-resource-discovery-audit/590274/",
+      "summary": "Lighthouse 13.5 adds an audit for AI agent resource discovery, but its checks differ from the latest ARD proposal.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-lighthouse-ai-agent-resource-discovery-audit/590274/\">Google Lighthouse Adds Audit For AI Agent Resource Discovery</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-21T14:32:33+00:00",
+      "fetched": "2026-09-21T23:43:21.082876+00:00"
+    },
+    {
+      "id": "b7428483-8dee-4ede-8c13-fca3a14fef5f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Agentic Commerce Is Not The Next Voice Shopping, But It Is Still Unproven via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/agentic-commerce-is-not-the-next-voice-shopping-but-it-is-still-unproven/589439/",
+      "summary": "Visa, Mastercard, PayPal, and Stripe name no live merchant. Google names three. Here is what the agentic commerce documentation still refuses to say.\n\nThe post <a href=\"https://www.searchenginejournal.com/agentic-commerce-is-not-the-next-voice-shopping-but-it-is-still-unproven/589439/\">Agentic Commerce Is Not The Next Voice Shopping, But It Is Still Unproven</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-21T14:30:37+00:00",
+      "fetched": "2026-09-21T23:43:21.082894+00:00"
+    },
+    {
+      "id": "7ab0a6e6-f0cb-462f-a96f-1a09fd95e26b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Build Local Pages AI Systems Can Find And Trust via @sejournal, @lorenbaker",
+      "link": "https://www.searchenginejournal.com/how-to-build-local-pages-ai-systems-can-find-and-trust/588097/",
+      "summary": "AI ranks passages, reads alt text, and cites whatever numbers you publish. Practical rules for local service pages from SEJ Live.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-build-local-pages-ai-systems-can-find-and-trust/588097/\">How To Build Local Pages AI Systems Can Find And Trust</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-21T12:00:25+00:00",
+      "fetched": "2026-09-21T23:43:21.082911+00:00"
+    },
+    {
+      "id": "a783180f-d0d4-49d7-97a8-c9a031878829",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Research Shows Google AI Mode Sends Less Clicks & Is A Poor User Experience via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/research-shows-google-ai-mode-sends-less-clicks-is-a-poor-user-experience/590221/",
+      "summary": "Is Google lying about AI Search? New research shows AI Mode decreases clicks and it gives a poor user experience.\n\nThe post <a href=\"https://www.searchenginejournal.com/research-shows-google-ai-mode-sends-less-clicks-is-a-poor-user-experience/590221/\">Research Shows Google AI Mode Sends Less Clicks &#038; Is A Poor User Experience</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-21T11:47:17+00:00",
+      "fetched": "2026-09-21T23:43:21.082959+00:00"
+    },
+    {
       "id": "b35ccb16-2d1d-4389-84f6-2a56496c7aa1",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -131,95 +219,7 @@
       "summary": "GPTBot, ClaudeBot, and Googlebot won't pay your price yet. Charge now and you lose citations. Here's what to decide before the dashboard toggle arrives.\n\nThe post <a href=\"https://www.searchenginejournal.com/i-made-my-website-charge-ai-agents-a-penny-per-page-then-i-watched-claude-pay-it/589447/\">I Made My Website Charge AI Agents A Penny Per Page, Then I Watched Claude Pay It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-09-17T19:00:29+00:00",
       "fetched": "2026-09-17T23:14:22.131937+00:00"
-    },
-    {
-      "id": "72839d83-2872-427b-83d8-2b9d25e46df9",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Citation Test Finds Source Order Matters Less Than It Looks via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/ai-citation-test-finds-source-order-matters-less-than-it-looks/589806/",
-      "summary": "A controlled AI citation test found source order mattered less than raw data suggested, while structured rewrites shifted how citation credit was distributed.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-citation-test-finds-source-order-matters-less-than-it-looks/589806/\">AI Citation Test Finds Source Order Matters Less Than It Looks</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-17T17:02:58+00:00",
-      "fetched": "2026-09-17T23:14:22.131952+00:00"
-    },
-    {
-      "id": "72a5d00e-499e-4ea3-9d15-7b41822b36ac",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Reddit AI Search Picks Already-Popular Comments, Audit Finds via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/reddit-ai-search-picks-already-popular-comments-audit-finds/589771/",
-      "summary": "An audit of Reddit AI search found formal, highly upvoted comments were selected more often, while experiential language appeared less often.\n\nThe post <a href=\"https://www.searchenginejournal.com/reddit-ai-search-picks-already-popular-comments-audit-finds/589771/\">Reddit AI Search Picks Already-Popular Comments, Audit Finds</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-17T15:44:51+00:00",
-      "fetched": "2026-09-17T23:14:22.131963+00:00"
-    },
-    {
-      "id": "cabb84c9-6a10-46d6-b42c-069e8e51f512",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Does My Product Page Copy Still Matter If Agents Read Feeds And Schema? \u2013 Ask An SEO via @sejournal, @rollerblader",
-      "link": "https://www.searchenginejournal.com/ask-an-seo-does-product-page-copy-matter-since-agents-read-feeds/585090/",
-      "summary": "Product page copy builds shopper trust and fills gaps in AI feeds, giving customers the details they need to buy.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-an-seo-does-product-page-copy-matter-since-agents-read-feeds/585090/\">Does My Product Page Copy Still Matter If Agents Read Feeds And Schema? \u2013 Ask An SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-17T14:30:32+00:00",
-      "fetched": "2026-09-17T23:14:22.131974+00:00"
-    },
-    {
-      "id": "4030c11a-a18f-429a-a572-a892291293d8",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "3 Predictions For 2027, And Why You Won\u2019t Be Able To Check Them via @sejournal, @DuaneForrester",
-      "link": "https://www.searchenginejournal.com/3-predictions-for-2027-and-why-you-wont-be-able-to-check-them/589263/",
-      "summary": "The surface that ranks and the surface that earns are decoupling. Three predictions for Google in 2027, plus one about whether you'll know.\n\nThe post <a href=\"https://www.searchenginejournal.com/3-predictions-for-2027-and-why-you-wont-be-able-to-check-them/589263/\">3 Predictions For 2027, And Why You Won\u2019t Be Able To Check Them</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-17T12:00:01+00:00",
-      "fetched": "2026-09-17T23:14:22.131985+00:00"
-    },
-    {
-      "id": "0a58112e-75fb-4c82-96b6-2e74eb9fcb31",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Search Profile Badges Expose The Publisher Traffic Crisis via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-search-profile-badges-expose-the-publisher-traffic-crisis/589724/",
-      "summary": "Google published guidance for adding a Search profile badge as Search becomes a destination for following creators and publisher.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-search-profile-badges-expose-the-publisher-traffic-crisis/589724/\">Google Search Profile Badges Expose The Publisher Traffic Crisis</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-16T23:07:48+00:00",
-      "fetched": "2026-09-16T23:22:45.678053+00:00"
-    },
-    {
-      "id": "404d612a-f155-4205-af2e-01e8ddaae515",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google UCP Update Lets Merchants Enable Cart Transfer To Site via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-ucp-update-lets-merchants-enable-cart-transfer-to-site/589713/",
-      "summary": "Google is rolling out cart transfer and checkout testing in the Merchant Center UCP hub, plus a YouTube ads beta and wider AI insights.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ucp-update-lets-merchants-enable-cart-transfer-to-site/589713/\">Google UCP Update Lets Merchants Enable Cart Transfer To Site</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-16T20:35:52+00:00",
-      "fetched": "2026-09-16T23:22:45.678104+00:00"
-    },
-    {
-      "id": "29efa584-8fe3-4853-b22a-251ed46121f3",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "It Was There A Minute Ago via @sejournal, @pedrodias",
-      "link": "https://www.searchenginejournal.com/it-was-there-a-minute-ago/589500/",
-      "summary": "A model can know the right answer and still defer to a wrong tool result. What does that mean for your visibility report?\n\nThe post <a href=\"https://www.searchenginejournal.com/it-was-there-a-minute-ago/589500/\">It Was There A Minute Ago</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-16T19:00:44+00:00",
-      "fetched": "2026-09-16T23:22:45.678125+00:00"
-    },
-    {
-      "id": "bae0eec8-fe74-4f32-a8c2-55d61710bcdd",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Search Profiles Now Available At 10,000 Followers via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-search-profiles-10000-followers/589635/",
-      "summary": "Google lowers Search profile eligibility to 10,000 followers for U.S. websites and creators, with new account tools and updated article displays.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-search-profiles-10000-followers/589635/\">Google Search Profiles Now Available At 10,000 Followers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-16T16:00:15+00:00",
-      "fetched": "2026-09-16T23:22:45.678155+00:00"
     }
   ],
-  "last_updated": "2026-09-20T22:47:02.296016+00:00"
+  "last_updated": "2026-09-21T23:43:21.823999+00:00"
 }
