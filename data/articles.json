@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "cb0b6fb1-4cc2-48d7-b4d0-a2d4f22a3fd0",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Which Data Sources Should You Care About For AI Search? via @sejournal, @chrisgreenseo",
+      "link": "https://www.searchenginejournal.com/which-data-sources-should-you-care-about-for-ai-search/590086/",
+      "summary": "AI search pulls from more sources than most SEOs track. Here's a tiered view of which data sources deserve your attention first.\n\nThe post <a href=\"https://www.searchenginejournal.com/which-data-sources-should-you-care-about-for-ai-search/590086/\">Which Data Sources Should You Care About For AI Search?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-22T19:00:31+00:00",
+      "fetched": "2026-09-22T23:21:54.570694+00:00"
+    },
+    {
+      "id": "7abf1fc2-8e48-4be0-b648-3d28bdf2d99d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Customer Lifecycle Goals: The Good, The Bad, The Ugly",
+      "link": "https://www.searchenginejournal.com/customer-lifecycle-goals-the-good-the-bad-the-ugly/588192/",
+      "summary": "Decide whether Google Ads Customer Lifecycle Goals fit your business, and avoid settings that inflate ROAS or exclude valuable prospects.\n\nThe post <a href=\"https://www.searchenginejournal.com/customer-lifecycle-goals-the-good-the-bad-the-ugly/588192/\">Customer Lifecycle Goals: The Good, The Bad, The Ugly</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-22T14:30:28+00:00",
+      "fetched": "2026-09-22T23:21:54.570709+00:00"
+    },
+    {
+      "id": "3400f0d9-8f25-432d-93ab-6ae46b451946",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "GEO Requests Rise Among More Search Freelancers Than Google SEO via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/fiverr-survey-search-freelancers-geo-demand/590403/",
+      "summary": "Fiverr's holiday survey finds more of its search freelancers reporting rising GEO requests than Google-ranking requests, though most still back SEO long term.\n\nThe post <a href=\"https://www.searchenginejournal.com/fiverr-survey-search-freelancers-geo-demand/590403/\">GEO Requests Rise Among More Search Freelancers Than Google SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-22T14:05:38+00:00",
+      "fetched": "2026-09-22T23:21:54.570720+00:00"
+    },
+    {
+      "id": "bd76cbd9-94f4-4123-8e76-eafdfb79fa0f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "3 Steps To Win B2B Brand Consideration, Day Zero Decides The Shortlist via @sejournal, @alexanderkesler",
+      "link": "https://www.searchenginejournal.com/b2b-brand-consideration-day-zero-decides-the-shortlist/588593/",
+      "summary": "Buying groups arrive with vendors already chosen. AEO cannot fix a shortlist formed months earlier. Three steps to build brand consideration before research begins.\n\nThe post <a href=\"https://www.searchenginejournal.com/b2b-brand-consideration-day-zero-decides-the-shortlist/588593/\">3 Steps To Win B2B Brand Consideration, Day Zero Decides The Shortlist</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-22T12:00:42+00:00",
+      "fetched": "2026-09-22T23:21:54.570736+00:00"
+    },
+    {
+      "id": "2ce6fb15-42c4-4be4-a324-5024db6cbfe2",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Analytics Adds Include Filters For Hostnames via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-analytics-include-hostname-filters/590336/",
+      "summary": "Google Analytics supports Include data filters for hostnames, so a property can keep event data from approved domains instead of excluding spam one by one.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-analytics-include-hostname-filters/590336/\">Google Analytics Adds Include Filters For Hostnames</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-22T08:06:17+00:00",
+      "fetched": "2026-09-22T23:21:54.570746+00:00"
+    },
+    {
       "id": "603ecbce-7c61-4f63-9045-f83f1fce7a48",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -164,62 +219,7 @@
       "summary": "Is a traffic decline actually hurting your business? Our State of Search 2027 shows how to tell and where to invest next.\n\nThe post <a href=\"https://www.searchenginejournal.com/state-of-search-2027-what-to-stop-measure-fund/589617/\">State Of Search 2027: What To Stop, Measure &#038; Fund</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-09-18T14:15:43+00:00",
       "fetched": "2026-09-18T22:54:21.029415+00:00"
-    },
-    {
-      "id": "54d3e452-7ac9-41f8-b871-3d5e05222772",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s AI Payment Pilot Vs. Cloudflare & Microsoft Models via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/googles-ai-payment-pilot-vs-cloudflare-and-microsoft-models/589636/",
-      "summary": "Google, Cloudflare, and Microsoft are testing different models for paying publishers when AI systems access or use their content.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-ai-payment-pilot-vs-cloudflare-and-microsoft-models/589636/\">Google&#8217;s AI Payment Pilot Vs. Cloudflare &#038; Microsoft Models</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-18T12:00:41+00:00",
-      "fetched": "2026-09-18T22:54:21.029431+00:00"
-    },
-    {
-      "id": "181db194-129d-476e-a1bf-f0652edbebbe",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Responds To Cross-Domain Canonical De-Indexing Report via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-responds-to-cross-domain-canonical-de-indexing-report/589917/",
-      "summary": "Google's John Mueller explains how publishers can catch site problems before they become an indexing crisis.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-responds-to-cross-domain-canonical-de-indexing-report/589917/\">Google Responds To Cross-Domain Canonical De-Indexing Report</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-18T11:39:51+00:00",
-      "fetched": "2026-09-18T22:54:21.029456+00:00"
-    },
-    {
-      "id": "2e98c4ef-0fb2-433f-ad33-4676e66a96cc",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "More People Expect AI To Cut Jobs Than Add Them, Pew Finds via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/pew-ai-job-loss-expectations-survey/589836/",
-      "summary": "Pew's 37-country survey finds more people expect AI to reduce jobs than add them, a view more common in high-income countries than middle-income ones.\n\nThe post <a href=\"https://www.searchenginejournal.com/pew-ai-job-loss-expectations-survey/589836/\">More People Expect AI To Cut Jobs Than Add Them, Pew Finds</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-17T21:44:38+00:00",
-      "fetched": "2026-09-17T23:14:22.131908+00:00"
-    },
-    {
-      "id": "72e6bf60-5b17-47ef-9344-6c282df0ad5d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Updates Mediapartners-Google Crawler Guidance: Less About AdSense via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-updates-mediapartners-google-crawler-guidance-less-about-adsense/589821/",
-      "summary": "Google expanded their Mediapartners-Google guidance to make it about more than just AdSense.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-updates-mediapartners-google-crawler-guidance-less-about-adsense/589821/\">Google Updates Mediapartners-Google Crawler Guidance: Less About AdSense</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-17T20:51:57+00:00",
-      "fetched": "2026-09-17T23:14:22.131925+00:00"
-    },
-    {
-      "id": "5026b73a-0ed7-4e03-b7d1-3ec5b6c0b4ad",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "I Made My Website Charge AI Agents A Penny Per Page, Then I Watched Claude Pay It via @sejournal, @suganthan",
-      "link": "https://www.searchenginejournal.com/i-made-my-website-charge-ai-agents-a-penny-per-page-then-i-watched-claude-pay-it/589447/",
-      "summary": "GPTBot, ClaudeBot, and Googlebot won't pay your price yet. Charge now and you lose citations. Here's what to decide before the dashboard toggle arrives.\n\nThe post <a href=\"https://www.searchenginejournal.com/i-made-my-website-charge-ai-agents-a-penny-per-page-then-i-watched-claude-pay-it/589447/\">I Made My Website Charge AI Agents A Penny Per Page, Then I Watched Claude Pay It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-17T19:00:29+00:00",
-      "fetched": "2026-09-17T23:14:22.131937+00:00"
     }
   ],
-  "last_updated": "2026-09-21T23:43:21.823999+00:00"
+  "last_updated": "2026-09-22T23:21:55.561711+00:00"
 }
