@@ -1,6 +1,94 @@
 {
   "articles": [
     {
+      "id": "f5376347-8946-4489-96a4-30951b7e551d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "LLMs Are Time Machines That Don\u2019t Tell You How Far You Went via @sejournal, @DuaneForrester",
+      "link": "https://www.searchenginejournal.com/llms-are-time-machines-that-dont-tell-you-how-far-you-went/590090/",
+      "summary": "AI answers strip out the signals people once used to judge them. Here's why your content stack now misses in both directions.\n\nThe post <a href=\"https://www.searchenginejournal.com/llms-are-time-machines-that-dont-tell-you-how-far-you-went/590090/\">LLMs Are Time Machines That Don&#8217;t Tell You How Far You Went</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-24T19:00:37+00:00",
+      "fetched": "2026-09-24T23:39:37.877424+00:00"
+    },
+    {
+      "id": "f429152b-d866-4211-a9d6-0b649c2ed4d9",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Rolls Out September 2026 Spam Update Globally via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-september-2026-spam-update/590828/",
+      "summary": "Google\u2019s September 2026 spam update is rolling out worldwide and may take up to two weeks to complete.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-september-2026-spam-update/590828/\">Google Rolls Out September 2026 Spam Update Globally</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-24T16:45:40+00:00",
+      "fetched": "2026-09-24T23:39:37.877451+00:00"
+    },
+    {
+      "id": "474e9503-f747-41f4-8822-3648ba5f617d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Search Console Adds Multimodal Filter For Image-Based Searches via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-search-console-multimodal-filter/590781/",
+      "summary": "Search Console\u2019s new multimodal filter shows which pages receive traffic from image-based searches, without query data.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-search-console-multimodal-filter/590781/\">Google Search Console Adds Multimodal Filter For Image-Based Searches</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-24T14:52:48+00:00",
+      "fetched": "2026-09-24T23:39:37.877477+00:00"
+    },
+    {
+      "id": "7698d904-0c40-43ac-95c6-4f332680d105",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why Agencies Lose Clients In The First 90 Days (And How To Stop It)",
+      "link": "https://www.searchenginejournal.com/why-agencies-lose-clients-in-the-first-90-days-and-how-to-stop-it/582895/",
+      "summary": "Most client churn happens in the first 90 days, not month six. This phase-by-phase onboarding framework shows agencies how to keep clients engaged and retained.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-agencies-lose-clients-in-the-first-90-days-and-how-to-stop-it/582895/\">Why Agencies Lose Clients In The First 90 Days (And How To Stop It)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-24T14:30:56+00:00",
+      "fetched": "2026-09-24T23:39:37.877506+00:00"
+    },
+    {
+      "id": "7d4aabf4-84bb-4d0b-811c-efd0e41c3774",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Rising CPC? You\u2019re Funding The Competition. Here\u2019s How To Trace It.",
+      "link": "https://www.searchenginejournal.com/how-to-detect-affiliate-brand-bidding-and-hidden-revenue-leakage-spa/589274/",
+      "summary": "Strong affiliate numbers can hide brand bidding. Learn how to define violations, build a search test list, capture ad evidence, and match it to partners.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-detect-affiliate-brand-bidding-and-hidden-revenue-leakage-spa/589274/\">Rising CPC? You&#8217;re Funding The Competition. Here&#8217;s How To Trace It.</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-24T14:04:23+00:00",
+      "fetched": "2026-09-24T23:39:37.877525+00:00"
+    },
+    {
+      "id": "6e26b545-d2be-43fc-aa7a-9f3e3b450f7e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Search Console Uses Block Flattening For AIOs, Forget Position & Focus On Outcomes via @sejournal, @TaylorDanRW",
+      "link": "https://www.searchenginejournal.com/search-console-uses-block-flattening-for-aios-forget-position-focus-on-outcomes/589582/",
+      "summary": "Block flattening can make weak AI Overview visibility look like a top ranking, so measure visits and conversions to assess search performance.\n\nThe post <a href=\"https://www.searchenginejournal.com/search-console-uses-block-flattening-for-aios-forget-position-focus-on-outcomes/589582/\">Search Console Uses Block Flattening For AIOs, Forget Position &#038; Focus On Outcomes</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-24T12:00:06+00:00",
+      "fetched": "2026-09-24T23:39:37.877543+00:00"
+    },
+    {
+      "id": "b7e39525-0677-4b62-aa2f-9902189fb64b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Announces New Query Fan-Out Framework: R4T-Diffusion via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-announces-new-query-fan-out-framework-r4t-diffusion/590700/",
+      "summary": "Google announced a new query fan-out framework that is described as ready for production-scale search.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-announces-new-query-fan-out-framework-r4t-diffusion/590700/\">Google Announces New Query Fan-Out Framework: R4T-Diffusion</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-24T11:42:47+00:00",
+      "fetched": "2026-09-24T23:39:37.877560+00:00"
+    },
+    {
+      "id": "8207f858-b478-4dc7-b8e4-efe7adb83339",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Search Decline Steepened To 40% YoY For Publishers via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-search-decline-publishers-chartbeat/590681/",
+      "summary": "A report finds Google Search and Discover declines got steeper for publishers, while direct, internal, and dark social grew.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-search-decline-publishers-chartbeat/590681/\">Google Search Decline Steepened To 40% YoY For Publishers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-24T09:25:37+00:00",
+      "fetched": "2026-09-24T23:39:37.877588+00:00"
+    },
+    {
       "id": "4fcc0126-955a-4643-9edf-dff31f424f6d",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -131,95 +219,7 @@
       "summary": "Job site operators report months-long waits for Google Indexing API approval, with no stated review timeframe in Google\u2019s documentation.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-indexing-api-approval-job-sites/590316/\">Job Boards Say Google Indexing API Requests Get No Response</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-09-21T20:30:43+00:00",
       "fetched": "2026-09-21T23:43:21.082783+00:00"
-    },
-    {
-      "id": "da1a16d1-e705-4710-a842-01fad78b95ea",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "International SEO For Publishers: How To Succeed Across Borders",
-      "link": "https://www.searchenginejournal.com/international-seo-for-publishers-how-to-succeed-across-borders/589631/",
-      "summary": "A single .com works for The Guardian because of brand power. For most news publishers, separate country-code domains are the strategy that holds up.\n\nThe post <a href=\"https://www.searchenginejournal.com/international-seo-for-publishers-how-to-succeed-across-borders/589631/\">International SEO For Publishers: How To Succeed Across Borders</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-21T19:00:39+00:00",
-      "fetched": "2026-09-21T23:43:21.082812+00:00"
-    },
-    {
-      "id": "dfea07a9-328d-4842-b33d-004e24945cb7",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Find The Sources Shaping AI Answers In Your Industry via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/how-to-find-the-sources-shaping-ai-answers-in-your-industry/589756/",
-      "summary": "Trendos' Gintare Rimolaityte explains how to map AI citation sources by industry and engine, identify competitor gaps, and turn an audit into content and outreach priorities.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-find-the-sources-shaping-ai-answers-in-your-industry/589756/\">How To Find The Sources Shaping AI Answers In Your Industry</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-21T18:12:21+00:00",
-      "fetched": "2026-09-21T23:43:21.082833+00:00"
-    },
-    {
-      "id": "7e129a51-9a1b-464f-935c-e99445bcafc5",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Shopify CEO Warns AI \u2018Slop Grenades\u2019 Shift Work To Coworkers via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/shopify-ceo-ai-slop-grenades-coworkers/590292/",
-      "summary": "Shopify CEO Tobi L\u00fctke says unreviewed AI output is landing on coworkers. Freelance marketplace data shows demand for AI cleanup work rising elsewhere too.\n\nThe post <a href=\"https://www.searchenginejournal.com/shopify-ceo-ai-slop-grenades-coworkers/590292/\">Shopify CEO Warns AI &#8216;Slop Grenades&#8217; Shift Work To Coworkers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-21T15:14:46+00:00",
-      "fetched": "2026-09-21T23:43:21.082858+00:00"
-    },
-    {
-      "id": "6db75c84-baf3-46a4-9c84-a5f6e7bb6efb",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Lighthouse Adds Audit For AI Agent Resource Discovery via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-lighthouse-ai-agent-resource-discovery-audit/590274/",
-      "summary": "Lighthouse 13.5 adds an audit for AI agent resource discovery, but its checks differ from the latest ARD proposal.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-lighthouse-ai-agent-resource-discovery-audit/590274/\">Google Lighthouse Adds Audit For AI Agent Resource Discovery</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-21T14:32:33+00:00",
-      "fetched": "2026-09-21T23:43:21.082876+00:00"
-    },
-    {
-      "id": "b7428483-8dee-4ede-8c13-fca3a14fef5f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Agentic Commerce Is Not The Next Voice Shopping, But It Is Still Unproven via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/agentic-commerce-is-not-the-next-voice-shopping-but-it-is-still-unproven/589439/",
-      "summary": "Visa, Mastercard, PayPal, and Stripe name no live merchant. Google names three. Here is what the agentic commerce documentation still refuses to say.\n\nThe post <a href=\"https://www.searchenginejournal.com/agentic-commerce-is-not-the-next-voice-shopping-but-it-is-still-unproven/589439/\">Agentic Commerce Is Not The Next Voice Shopping, But It Is Still Unproven</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-21T14:30:37+00:00",
-      "fetched": "2026-09-21T23:43:21.082894+00:00"
-    },
-    {
-      "id": "7ab0a6e6-f0cb-462f-a96f-1a09fd95e26b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Build Local Pages AI Systems Can Find And Trust via @sejournal, @lorenbaker",
-      "link": "https://www.searchenginejournal.com/how-to-build-local-pages-ai-systems-can-find-and-trust/588097/",
-      "summary": "AI ranks passages, reads alt text, and cites whatever numbers you publish. Practical rules for local service pages from SEJ Live.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-build-local-pages-ai-systems-can-find-and-trust/588097/\">How To Build Local Pages AI Systems Can Find And Trust</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-21T12:00:25+00:00",
-      "fetched": "2026-09-21T23:43:21.082911+00:00"
-    },
-    {
-      "id": "a783180f-d0d4-49d7-97a8-c9a031878829",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Research Shows Google AI Mode Sends Less Clicks & Is A Poor User Experience via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/research-shows-google-ai-mode-sends-less-clicks-is-a-poor-user-experience/590221/",
-      "summary": "Is Google lying about AI Search? New research shows AI Mode decreases clicks and it gives a poor user experience.\n\nThe post <a href=\"https://www.searchenginejournal.com/research-shows-google-ai-mode-sends-less-clicks-is-a-poor-user-experience/590221/\">Research Shows Google AI Mode Sends Less Clicks &#038; Is A Poor User Experience</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-21T11:47:17+00:00",
-      "fetched": "2026-09-21T23:43:21.082959+00:00"
-    },
-    {
-      "id": "b35ccb16-2d1d-4389-84f6-2a56496c7aa1",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google AI Payment Pilot, Search Profiles At 10,000 \u2013 SEO Pulse via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-google-ai-payment-pilot-search-profiles-at-10000/589849/",
-      "summary": "Google is testing payments for content contributing to AI answers, Mueller says AI position data is hard to report, and Cloudflare splits training from search.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-google-ai-payment-pilot-search-profiles-at-10000/589849/\">Google AI Payment Pilot, Search Profiles At 10,000 \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-19T12:30:42+00:00",
-      "fetched": "2026-09-19T22:33:31.189694+00:00"
     }
   ],
-  "last_updated": "2026-09-23T23:18:51.669657+00:00"
+  "last_updated": "2026-09-24T23:39:38.627124+00:00"
 }
