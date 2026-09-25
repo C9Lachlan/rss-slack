@@ -1,6 +1,50 @@
 {
   "articles": [
     {
+      "id": "287ac95e-ef9d-49da-83f1-cc3e1119974e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Text-Only Version Of Your Website Strips Out The Wrong Layer via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/the-text-only-version-of-your-website-strips-out-the-wrong-layer/590088/",
+      "summary": "Strip the visual layer and a machine can still use a website. Strip the structure, as markdown does, and it can only read about it.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-text-only-version-of-your-website-strips-out-the-wrong-layer/590088/\">The Text-Only Version Of Your Website Strips Out The Wrong Layer</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-25T19:00:09+00:00",
+      "fetched": "2026-09-25T23:40:58.014515+00:00"
+    },
+    {
+      "id": "f2c8cfc0-4207-4268-9b02-a2e298ee250d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Agents Won\u2019t Fix Bad Audience Data, They\u2019ll Amplify It via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/ai-agents-wont-fix-bad-audience-data-theyll-amplify-it/589792/",
+      "summary": "AI models are everywhere. The data you feed them isn't. Mallory Gray of Skydeo explains why audience signals, not mention counts, decide who buys.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-agents-wont-fix-bad-audience-data-theyll-amplify-it/589792/\">AI Agents Won&#8217;t Fix Bad Audience Data, They&#8217;ll Amplify It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-25T14:30:43+00:00",
+      "fetched": "2026-09-25T23:40:58.014541+00:00"
+    },
+    {
+      "id": "094fa4e3-56bc-40e0-b4ea-46a3c0f8f6cf",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Has Deployed A New AI Spam Detector Called SAFE via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-has-deployed-a-new-ai-spam-detector-called-safe/590918/",
+      "summary": "Google's new system for catching AI content spam has already been deployed. This is why it may be a part of Google's Spam Update.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-has-deployed-a-new-ai-spam-detector-called-safe/590918/\">Google Has Deployed A New AI Spam Detector Called SAFE</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-25T12:47:46+00:00",
+      "fetched": "2026-09-25T23:40:58.014561+00:00"
+    },
+    {
+      "id": "71ca307d-afc0-48d9-a107-5b8c086323b6",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google AI Overviews Have More Links, But Not All Reach The Web via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-ai-overviews-have-more-links-but-not-all-reach-the-web/590762/",
+      "summary": "Google's AI Overview links can lead to websites or AI Mode, and Search Console measures those interactions differently.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ai-overviews-have-more-links-but-not-all-reach-the-web/590762/\">Google AI Overviews Have More Links, But Not All Reach The Web</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-25T12:00:57+00:00",
+      "fetched": "2026-09-25T23:40:58.014584+00:00"
+    },
+    {
       "id": "f5376347-8946-4489-96a4-30951b7e551d",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -175,51 +219,7 @@
       "summary": "Decide whether Google Ads Customer Lifecycle Goals fit your business, and avoid settings that inflate ROAS or exclude valuable prospects.\n\nThe post <a href=\"https://www.searchenginejournal.com/customer-lifecycle-goals-the-good-the-bad-the-ugly/588192/\">Customer Lifecycle Goals: The Good, The Bad, The Ugly</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-09-22T14:30:28+00:00",
       "fetched": "2026-09-22T23:21:54.570709+00:00"
-    },
-    {
-      "id": "3400f0d9-8f25-432d-93ab-6ae46b451946",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "GEO Requests Rise Among More Search Freelancers Than Google SEO via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/fiverr-survey-search-freelancers-geo-demand/590403/",
-      "summary": "Fiverr's holiday survey finds more of its search freelancers reporting rising GEO requests than Google-ranking requests, though most still back SEO long term.\n\nThe post <a href=\"https://www.searchenginejournal.com/fiverr-survey-search-freelancers-geo-demand/590403/\">GEO Requests Rise Among More Search Freelancers Than Google SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-22T14:05:38+00:00",
-      "fetched": "2026-09-22T23:21:54.570720+00:00"
-    },
-    {
-      "id": "bd76cbd9-94f4-4123-8e76-eafdfb79fa0f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "3 Steps To Win B2B Brand Consideration, Day Zero Decides The Shortlist via @sejournal, @alexanderkesler",
-      "link": "https://www.searchenginejournal.com/b2b-brand-consideration-day-zero-decides-the-shortlist/588593/",
-      "summary": "Buying groups arrive with vendors already chosen. AEO cannot fix a shortlist formed months earlier. Three steps to build brand consideration before research begins.\n\nThe post <a href=\"https://www.searchenginejournal.com/b2b-brand-consideration-day-zero-decides-the-shortlist/588593/\">3 Steps To Win B2B Brand Consideration, Day Zero Decides The Shortlist</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-22T12:00:42+00:00",
-      "fetched": "2026-09-22T23:21:54.570736+00:00"
-    },
-    {
-      "id": "2ce6fb15-42c4-4be4-a324-5024db6cbfe2",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Analytics Adds Include Filters For Hostnames via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-analytics-include-hostname-filters/590336/",
-      "summary": "Google Analytics supports Include data filters for hostnames, so a property can keep event data from approved domains instead of excluding spam one by one.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-analytics-include-hostname-filters/590336/\">Google Analytics Adds Include Filters For Hostnames</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-22T08:06:17+00:00",
-      "fetched": "2026-09-22T23:21:54.570746+00:00"
-    },
-    {
-      "id": "603ecbce-7c61-4f63-9045-f83f1fce7a48",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Job Boards Say Google Indexing API Requests Get No Response via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-indexing-api-approval-job-sites/590316/",
-      "summary": "Job site operators report months-long waits for Google Indexing API approval, with no stated review timeframe in Google\u2019s documentation.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-indexing-api-approval-job-sites/590316/\">Job Boards Say Google Indexing API Requests Get No Response</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-21T20:30:43+00:00",
-      "fetched": "2026-09-21T23:43:21.082783+00:00"
     }
   ],
-  "last_updated": "2026-09-24T23:39:38.627124+00:00"
+  "last_updated": "2026-09-25T23:40:58.866440+00:00"
 }
