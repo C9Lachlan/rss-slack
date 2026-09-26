@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": "7b77d104-e484-410b-9814-216c48f56a4a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Spam Update, Image Search Data In GSC \u2013 SEO Pulse via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/seo-pulse-google-spam-update-image-search-data/590882/",
+      "summary": "Google's September spam update may take up to two weeks, Search Console adds image-based search data, reports look at traffic from Search and AI Mode.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-google-spam-update-image-search-data/590882/\">Google Spam Update, Image Search Data In GSC \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-26T12:00:46+00:00",
+      "fetched": "2026-09-26T23:13:58.772685+00:00"
+    },
+    {
       "id": "287ac95e-ef9d-49da-83f1-cc3e1119974e",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -208,18 +219,7 @@
       "summary": "AI search pulls from more sources than most SEOs track. Here's a tiered view of which data sources deserve your attention first.\n\nThe post <a href=\"https://www.searchenginejournal.com/which-data-sources-should-you-care-about-for-ai-search/590086/\">Which Data Sources Should You Care About For AI Search?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-09-22T19:00:31+00:00",
       "fetched": "2026-09-22T23:21:54.570694+00:00"
-    },
-    {
-      "id": "7abf1fc2-8e48-4be0-b648-3d28bdf2d99d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Customer Lifecycle Goals: The Good, The Bad, The Ugly",
-      "link": "https://www.searchenginejournal.com/customer-lifecycle-goals-the-good-the-bad-the-ugly/588192/",
-      "summary": "Decide whether Google Ads Customer Lifecycle Goals fit your business, and avoid settings that inflate ROAS or exclude valuable prospects.\n\nThe post <a href=\"https://www.searchenginejournal.com/customer-lifecycle-goals-the-good-the-bad-the-ugly/588192/\">Customer Lifecycle Goals: The Good, The Bad, The Ugly</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-22T14:30:28+00:00",
-      "fetched": "2026-09-22T23:21:54.570709+00:00"
     }
   ],
-  "last_updated": "2026-09-25T23:40:58.866440+00:00"
+  "last_updated": "2026-09-26T23:13:59.642214+00:00"
 }
