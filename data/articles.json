@@ -1,6 +1,94 @@
 {
   "articles": [
     {
+      "id": "31af4e0d-9426-49d9-bcaf-1cec827c2719",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Anthropic Publishes Prompting Guidance For Claude Opus 5.5 via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/anthropic-claude-opus-5-5-prompting-guidance/591278/",
+      "summary": "Anthropic's Claude Opus 5.5 prompting guide asks developers to retest effort settings and reconsider chat prompt lines telling Claude to think carefully.\n\nThe post <a href=\"https://www.searchenginejournal.com/anthropic-claude-opus-5-5-prompting-guidance/591278/\">Anthropic Publishes Prompting Guidance For Claude Opus 5.5</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-28T20:48:12+00:00",
+      "fetched": "2026-09-29T00:43:32.012001+00:00"
+    },
+    {
+      "id": "9969e119-890c-4479-89a1-1e1a536606f0",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Court Filing Quotes OpenAI Engineer: Users \u201cWon\u2019t Click\u201d Links via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/openai-engineer-users-wont-click-links-court-filing/591303/",
+      "summary": "A court brief quotes an OpenAI engineer saying users \"won't click\" links and cites Microsoft data on lower CTRs in Bing Chat than in search.\n\nThe post <a href=\"https://www.searchenginejournal.com/openai-engineer-users-wont-click-links-court-filing/591303/\">Court Filing Quotes OpenAI Engineer: Users &#8220;Won&#8217;t Click&#8221; Links</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-28T20:23:46+00:00",
+      "fetched": "2026-09-29T00:43:32.012026+00:00"
+    },
+    {
+      "id": "64d50b8b-f97c-4000-80f0-10f6fa4d20c8",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "MIT & Harvard Data Show How SEO And Paid Media Managers Become Directors via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/mit-harvard-data-show-how-seo-and-paid-media-managers-become-directors/590669/",
+      "summary": "SEO and paid media managers can strengthen their promotion case by proving AI's net gains and building a reskilling plan for their teams.\n\nThe post <a href=\"https://www.searchenginejournal.com/mit-harvard-data-show-how-seo-and-paid-media-managers-become-directors/590669/\">MIT &#038; Harvard Data Show How SEO And Paid Media Managers Become Directors</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-28T19:00:01+00:00",
+      "fetched": "2026-09-29T00:43:32.012045+00:00"
+    },
+    {
+      "id": "23cbe7b5-b4b2-4096-974c-4543a4374c8b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "CallRail Makes ChatGPT Ads Measurable For SMBs And Marketing Agencies via @sejournal, @CallRail",
+      "link": "https://www.searchenginejournal.com/callrail-makes-chatgpt-ads-measurable-for-smbs-and-marketing-agencies-spn/589843/",
+      "summary": "CallRail's ChatGPT ads integration lets SMBs and agencies attribute calls, texts, and forms to campaigns, send conversion data to OpenAI, and compare performance across channels.\n\nThe post <a href=\"https://www.searchenginejournal.com/callrail-makes-chatgpt-ads-measurable-for-smbs-and-marketing-agencies-spn/589843/\">CallRail Makes ChatGPT Ads Measurable For SMBs And Marketing Agencies</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-28T15:46:48+00:00",
+      "fetched": "2026-09-29T00:43:32.012068+00:00"
+    },
+    {
+      "id": "c6f3e6cd-534a-46bf-b5d7-ccda9680979a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Generative AI Report Sucks \u2013 Let\u2019s Make It Brilliant",
+      "link": "https://www.searchenginejournal.com/the-generative-ai-report-sucks-lets-make-it-brilliant/590679/",
+      "summary": "Google's Generative AI report shows visibility and nothing else. Layer commercial data and traffic dependency on top and you get real exposure.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-generative-ai-report-sucks-lets-make-it-brilliant/590679/\">The Generative AI Report Sucks \u2013 Let\u2019s Make It Brilliant</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-28T14:30:29+00:00",
+      "fetched": "2026-09-29T00:43:32.012087+00:00"
+    },
+    {
+      "id": "ece46851-5b7c-47ff-a226-e74f6db8afef",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Plans To Adopt UCP Draft Spec For AI Mode Hotel Booking via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-plans-to-adopt-ucp-draft-spec-for-ai-mode-hotel-booking/591235/",
+      "summary": "UCP has published a draft hotel booking specification, Google says it will adopt the open standard for AI Mode hotel booking over the coming months.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-plans-to-adopt-ucp-draft-spec-for-ai-mode-hotel-booking/591235/\">Google Plans To Adopt UCP Draft Spec For AI Mode Hotel Booking</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-28T13:44:16+00:00",
+      "fetched": "2026-09-29T00:43:32.012104+00:00"
+    },
+    {
+      "id": "85a8c70d-540b-42d8-a8e8-488ee94a055c",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Workflows Outscored Human Translators In 4 Of 6 Content Types \u2013\u00a0China Benchmark Study via @sejournal, @MPentzek",
+      "link": "https://www.searchenginejournal.com/humans-lost-4-of-6-content-types-in-our-localization-benchmark/589294/",
+      "summary": "Stop evaluating \"Chinese LLMs\" as a category. A 774-output localization benchmark shows why model choice beats post-editing, and what to test yourself.\n\nThe post <a href=\"https://www.searchenginejournal.com/humans-lost-4-of-6-content-types-in-our-localization-benchmark/589294/\">AI Workflows Outscored Human Translators In 4 Of 6 Content Types \u2013\u00a0China Benchmark Study</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-28T12:00:01+00:00",
+      "fetched": "2026-09-29T00:43:32.012122+00:00"
+    },
+    {
+      "id": "b629d101-8d6e-4acf-9ee6-f43cbd42ada2",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Automattic & Matt Mullenweg Fail To Dismiss WP Engine Antitrust Claims via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/automattic-matt-mullenweg-fail-to-dismiss-wp-engine-antitrust-claims/591210/",
+      "summary": "WP Engine is gratified by the judge's antitrust ruling, but Automattic also scores seven victories.\n\nThe post <a href=\"https://www.searchenginejournal.com/automattic-matt-mullenweg-fail-to-dismiss-wp-engine-antitrust-claims/591210/\">Automattic &#038; Matt Mullenweg Fail To Dismiss WP Engine Antitrust Claims</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-28T11:46:33+00:00",
+      "fetched": "2026-09-29T00:43:32.012148+00:00"
+    },
+    {
       "id": "7b77d104-e484-410b-9814-216c48f56a4a",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -131,95 +219,7 @@
       "summary": "Google announced a new query fan-out framework that is described as ready for production-scale search.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-announces-new-query-fan-out-framework-r4t-diffusion/590700/\">Google Announces New Query Fan-Out Framework: R4T-Diffusion</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-09-24T11:42:47+00:00",
       "fetched": "2026-09-24T23:39:37.877560+00:00"
-    },
-    {
-      "id": "8207f858-b478-4dc7-b8e4-efe7adb83339",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Search Decline Steepened To 40% YoY For Publishers via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-search-decline-publishers-chartbeat/590681/",
-      "summary": "A report finds Google Search and Discover declines got steeper for publishers, while direct, internal, and dark social grew.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-search-decline-publishers-chartbeat/590681/\">Google Search Decline Steepened To 40% YoY For Publishers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-24T09:25:37+00:00",
-      "fetched": "2026-09-24T23:39:37.877588+00:00"
-    },
-    {
-      "id": "4fcc0126-955a-4643-9edf-dff31f424f6d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "YouTube Adds Shopping Features To Ask YouTube AI Search via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/youtube-shopping-ask-youtube-ai-search/590662/",
-      "summary": "YouTube is adding shopping features to Ask YouTube, which may organize product review videos into a comparison table and answer questions on watch pages.\n\nThe post <a href=\"https://www.searchenginejournal.com/youtube-shopping-ask-youtube-ai-search/590662/\">YouTube Adds Shopping Features To Ask YouTube AI Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-23T22:37:15+00:00",
-      "fetched": "2026-09-23T23:18:42.891906+00:00"
-    },
-    {
-      "id": "b85b1d63-d97b-4ef3-af79-724419f19f97",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "ChatGPT Ads And GEO: Where Paid And Earned AI Visibility Fit Together via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/chatgpt-ads-and-geo-where-paid-and-earned-ai-visibility-fit-together/590537/",
-      "summary": "OpenAI and Go Fish Digital unpack ChatGPT ads, earned AI visibility, practical GEO measurement, and what marketers can test next.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-ads-and-geo-where-paid-and-earned-ai-visibility-fit-together/590537/\">ChatGPT Ads And GEO: Where Paid And Earned AI Visibility Fit Together</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-23T19:08:12+00:00",
-      "fetched": "2026-09-23T23:18:42.891934+00:00"
-    },
-    {
-      "id": "06e46670-2831-48bc-93c3-5edb6f4ee1c0",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Amazon Marketing Cloud\u2019s 5-Year Dataset: 6 Use Cases Worth Building Now",
-      "link": "https://www.searchenginejournal.com/amazon-marketing-clouds-5-year-dataset-6-use-cases-worth-building-now/589137/",
-      "summary": "Use Amazon Marketing Cloud's extended purchase history to set acquisition budgets, identify valuable customers, and retarget shoppers beyond the old 13-month limit.\n\nThe post <a href=\"https://www.searchenginejournal.com/amazon-marketing-clouds-5-year-dataset-6-use-cases-worth-building-now/589137/\">Amazon Marketing Cloud&#8217;s 5-Year Dataset: 6 Use Cases Worth Building Now</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-23T19:00:57+00:00",
-      "fetched": "2026-09-23T23:18:42.891955+00:00"
-    },
-    {
-      "id": "2f189388-f91f-45aa-ac03-dfff741f569b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Agents Will Game Your SEO Metrics, MIT & Stanford Research Points To The Risk via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/ai-agents-will-game-your-seo-metrics-mit-stanford-research-points-to-the-risk/589948/",
-      "summary": "AI agents find the cheapest route to any target you set. Research from MIT and Stanford shows why SEO teams need metrics agents can't fake.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-agents-will-game-your-seo-metrics-mit-stanford-research-points-to-the-risk/589948/\">AI Agents Will Game Your SEO Metrics, MIT &#038; Stanford Research Points To The Risk</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-23T14:30:15+00:00",
-      "fetched": "2026-09-23T23:18:42.892003+00:00"
-    },
-    {
-      "id": "4e9137dc-79bb-468e-916c-6a2a3041884c",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Baidu Now Measures AI Citations: Here\u2019s What SEOs Should (And Shouldn\u2019t) Read Into It via @sejournal, @MPentzek",
-      "link": "https://www.searchenginejournal.com/baidu-now-measures-ai-citations-heres-what-seos-should-and-shouldnt-read-into-it/590276/",
-      "summary": "Baidu's new AI CTR divides clicks by citations, not impressions. Here's why that matters and what else the AI Traffic Analysis report will show.\n\nThe post <a href=\"https://www.searchenginejournal.com/baidu-now-measures-ai-citations-heres-what-seos-should-and-shouldnt-read-into-it/590276/\">Baidu Now Measures AI Citations: Here&#8217;s What SEOs Should (And Shouldn&#8217;t) Read Into It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-23T12:00:37+00:00",
-      "fetched": "2026-09-23T23:18:42.892031+00:00"
-    },
-    {
-      "id": "96558634-4509-4f5b-9350-0752abe7f328",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "ChatGPT Ads Appeared In 47% Of Video Gaming Chats, Data Shows via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/chatgpt-ads-appeared-in-47-of-video-gaming-chats-data-shows/590481/",
-      "summary": "Data shows ChatGPT ads becoming more common in retail conversations among US users on desktop.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-ads-appeared-in-47-of-video-gaming-chats-data-shows/590481/\">ChatGPT Ads Appeared In 47% Of Video Gaming Chats, Data Shows</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-23T07:00:33+00:00",
-      "fetched": "2026-09-23T23:18:42.892051+00:00"
-    },
-    {
-      "id": "cb0b6fb1-4cc2-48d7-b4d0-a2d4f22a3fd0",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Which Data Sources Should You Care About For AI Search? via @sejournal, @chrisgreenseo",
-      "link": "https://www.searchenginejournal.com/which-data-sources-should-you-care-about-for-ai-search/590086/",
-      "summary": "AI search pulls from more sources than most SEOs track. Here's a tiered view of which data sources deserve your attention first.\n\nThe post <a href=\"https://www.searchenginejournal.com/which-data-sources-should-you-care-about-for-ai-search/590086/\">Which Data Sources Should You Care About For AI Search?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-22T19:00:31+00:00",
-      "fetched": "2026-09-22T23:21:54.570694+00:00"
     }
   ],
-  "last_updated": "2026-09-27T23:28:31.931208+00:00"
+  "last_updated": "2026-09-29T00:43:32.679321+00:00"
 }
