@@ -1,6 +1,116 @@
 {
   "articles": [
     {
+      "id": "fa1c675e-caa4-4e6d-a315-e529018ab8f4",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Yes, You Can Change AI\u2019s Opinion. Here\u2019s How.",
+      "link": "https://www.searchenginejournal.com/ai-crawlers-machine-layer-answershare-spa/590837/",
+      "summary": "AnswerShare reports more recommendations in a client test after publishing sourced brand context. Here is how its machine-layer works & what it cannot fix.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-crawlers-machine-layer-answershare-spa/590837/\">Yes, You Can Change AI&#8217;s Opinion. Here&#8217;s How.</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-29T20:40:41+00:00",
+      "fetched": "2026-09-29T23:59:43.337526+00:00"
+    },
+    {
+      "id": "a5e0e0d8-7bd5-4864-af6a-4337a91b1144",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Trust As A Conversion Lever: How To Test Credibility In A Regulated Industry",
+      "link": "https://www.searchenginejournal.com/trust-as-a-conversion-lever-how-to-test-credibility-in-a-regulated-industry/589232/",
+      "summary": "Test whether honest expectations and money-back guarantees build trust in health marketing, then judge results beyond the first conversion.\n\nThe post <a href=\"https://www.searchenginejournal.com/trust-as-a-conversion-lever-how-to-test-credibility-in-a-regulated-industry/589232/\">Trust As A Conversion Lever: How To Test Credibility In A Regulated Industry</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-29T19:00:11+00:00",
+      "fetched": "2026-09-29T23:59:43.337552+00:00"
+    },
+    {
+      "id": "644e28ac-a2ba-4ae0-86e2-dc44c7b747ed",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Amazon Blocked Meta\u2019s Muse, And Robots.txt Had Nothing To Say via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/amazon-blocked-metas-muse-and-robots-txt-had-nothing-to-say/590494/",
+      "summary": "Any website can write Amazon's block-page sentence into its own terms. Spotting an agent that looks like a shopper is the hard part.\n\nThe post <a href=\"https://www.searchenginejournal.com/amazon-blocked-metas-muse-and-robots-txt-had-nothing-to-say/590494/\">Amazon Blocked Meta&#8217;s Muse, And Robots.txt Had Nothing To Say</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-29T14:30:54+00:00",
+      "fetched": "2026-09-29T23:59:43.337567+00:00"
+    },
+    {
+      "id": "96fd243a-56ff-47fe-be15-d06c1f031664",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Shopify Extends WebMCP Into Checkout For Browser Agents via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/shopify-extends-webmcp-into-checkout-for-browser-agents/591478/",
+      "summary": "Shopify has extended its WebMCP tools into checkout, letting browser agents update a shopper's checkout and place the order after the buyer confirms it.\n\nThe post <a href=\"https://www.searchenginejournal.com/shopify-extends-webmcp-into-checkout-for-browser-agents/591478/\">Shopify Extends WebMCP Into Checkout For Browser Agents</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-29T14:14:29+00:00",
+      "fetched": "2026-09-29T23:59:43.337595+00:00"
+    },
+    {
+      "id": "b21ba70a-f70d-419f-a65a-c491f75a363b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Desktop CTR Fell In Q2 While Mobile Rose, Data Shows via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-desktop-mobile-ctr-q2-2026/591402/",
+      "summary": "Q2 data shows Google desktop CTR down and mobile up at top positions, in a comparison spanning the end of a Search Console logging error.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-desktop-mobile-ctr-q2-2026/591402/\">Google Desktop CTR Fell In Q2 While Mobile Rose, Data Shows</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-29T13:26:52+00:00",
+      "fetched": "2026-09-29T23:59:43.337608+00:00"
+    },
+    {
+      "id": "927a51cf-bbe6-4c38-af16-80f89de67902",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "EmDash 1.0 Challenges WordPress Freedom With Cloudflare Lock-In via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/emdash-1-0-challenges-wordpress-freedom-with-cloudflare-lock-in/591378/",
+      "summary": "EmDash 1.0 trades WordPress's freedom of choice for heavy reliance on Cloudflare's infrastructure.\n\nThe post <a href=\"https://www.searchenginejournal.com/emdash-1-0-challenges-wordpress-freedom-with-cloudflare-lock-in/591378/\">EmDash 1.0 Challenges WordPress Freedom With Cloudflare Lock-In</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-29T12:17:17+00:00",
+      "fetched": "2026-09-29T23:59:43.337620+00:00"
+    },
+    {
+      "id": "e490c339-bd50-44c7-8428-bf0cb1ace73c",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "ChatGPT Ad CTR Topped 1% In 4 Markets, Not In The U.S.: Report via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/chatgpt-ad-ctr-markets-report/591384/",
+      "summary": "A report using Similarweb panel data breaks down ChatGPT ad click-through rates by market and tracks how often the top ChatGPT advertisers changed.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-ad-ctr-markets-report/591384/\">ChatGPT Ad CTR Topped 1% In 4 Markets, Not In The U.S.: Report</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-29T12:10:56+00:00",
+      "fetched": "2026-09-29T23:59:43.337632+00:00"
+    },
+    {
+      "id": "3fcfc6c5-3ad7-4ca0-8c98-4a3963eba503",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Won\u2019t Kill Us All, But It\u2019s Rewriting How Marketers Have To Work via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/ai-wont-kill-us-all-but-its-rewriting-how-marketers-have-to-work/590378/",
+      "summary": "Better AI marketing starts with testing assumptions, aligning brand messaging, and building evidence into PR pitches before publishing.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-wont-kill-us-all-but-its-rewriting-how-marketers-have-to-work/590378/\">AI Won&#8217;t Kill Us All, But It&#8217;s Rewriting How Marketers Have To Work</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-29T12:00:01+00:00",
+      "fetched": "2026-09-29T23:59:43.337651+00:00"
+    },
+    {
+      "id": "795e7f2a-3629-4155-9320-477d567fa2b2",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google On What\u2019s Next In AI Search + 5 Local Marketing Strategy Fixes via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/google-on-whats-next-in-ai-search-5-local-marketing-strategy-fixes/590978/",
+      "summary": "Google and Uberall explain how to improve local AI-search readiness through accurate Business Profiles, relevant content, review responses, and location-level measurement.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-on-whats-next-in-ai-search-5-local-marketing-strategy-fixes/590978/\">Google On What\u2019s Next In AI Search + 5 Local Marketing Strategy Fixes</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-29T07:45:43+00:00",
+      "fetched": "2026-09-29T23:59:43.337666+00:00"
+    },
+    {
+      "id": "0e33b7d1-a3fd-4c79-b392-3f025848e96b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Rolls Out AI Mode Info Monitoring To All Users Globally via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-ai-mode-info-monitoring-global-rollout/591312/",
+      "summary": "Google is rolling out AI Mode\u2019s information monitoring globally, with ongoing updates and suggested monitoring tasks in Search.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ai-mode-info-monitoring-global-rollout/591312/\">Google Rolls Out AI Mode Info Monitoring To All Users Globally</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-29T01:11:42+00:00",
+      "fetched": "2026-09-29T23:59:43.337679+00:00"
+    },
+    {
       "id": "31af4e0d-9426-49d9-bcaf-1cec827c2719",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -109,117 +219,7 @@
       "summary": "Strip the visual layer and a machine can still use a website. Strip the structure, as markdown does, and it can only read about it.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-text-only-version-of-your-website-strips-out-the-wrong-layer/590088/\">The Text-Only Version Of Your Website Strips Out The Wrong Layer</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-09-25T19:00:09+00:00",
       "fetched": "2026-09-25T23:40:58.014515+00:00"
-    },
-    {
-      "id": "f2c8cfc0-4207-4268-9b02-a2e298ee250d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Agents Won\u2019t Fix Bad Audience Data, They\u2019ll Amplify It via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/ai-agents-wont-fix-bad-audience-data-theyll-amplify-it/589792/",
-      "summary": "AI models are everywhere. The data you feed them isn't. Mallory Gray of Skydeo explains why audience signals, not mention counts, decide who buys.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-agents-wont-fix-bad-audience-data-theyll-amplify-it/589792/\">AI Agents Won&#8217;t Fix Bad Audience Data, They&#8217;ll Amplify It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-25T14:30:43+00:00",
-      "fetched": "2026-09-25T23:40:58.014541+00:00"
-    },
-    {
-      "id": "094fa4e3-56bc-40e0-b4ea-46a3c0f8f6cf",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Has Deployed A New AI Spam Detector Called SAFE via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-has-deployed-a-new-ai-spam-detector-called-safe/590918/",
-      "summary": "Google's new system for catching AI content spam has already been deployed. This is why it may be a part of Google's Spam Update.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-has-deployed-a-new-ai-spam-detector-called-safe/590918/\">Google Has Deployed A New AI Spam Detector Called SAFE</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-25T12:47:46+00:00",
-      "fetched": "2026-09-25T23:40:58.014561+00:00"
-    },
-    {
-      "id": "71ca307d-afc0-48d9-a107-5b8c086323b6",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google AI Overviews Have More Links, But Not All Reach The Web via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-ai-overviews-have-more-links-but-not-all-reach-the-web/590762/",
-      "summary": "Google's AI Overview links can lead to websites or AI Mode, and Search Console measures those interactions differently.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ai-overviews-have-more-links-but-not-all-reach-the-web/590762/\">Google AI Overviews Have More Links, But Not All Reach The Web</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-25T12:00:57+00:00",
-      "fetched": "2026-09-25T23:40:58.014584+00:00"
-    },
-    {
-      "id": "f5376347-8946-4489-96a4-30951b7e551d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "LLMs Are Time Machines That Don\u2019t Tell You How Far You Went via @sejournal, @DuaneForrester",
-      "link": "https://www.searchenginejournal.com/llms-are-time-machines-that-dont-tell-you-how-far-you-went/590090/",
-      "summary": "AI answers strip out the signals people once used to judge them. Here's why your content stack now misses in both directions.\n\nThe post <a href=\"https://www.searchenginejournal.com/llms-are-time-machines-that-dont-tell-you-how-far-you-went/590090/\">LLMs Are Time Machines That Don&#8217;t Tell You How Far You Went</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-24T19:00:37+00:00",
-      "fetched": "2026-09-24T23:39:37.877424+00:00"
-    },
-    {
-      "id": "f429152b-d866-4211-a9d6-0b649c2ed4d9",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Rolls Out September 2026 Spam Update Globally via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-september-2026-spam-update/590828/",
-      "summary": "Google\u2019s September 2026 spam update is rolling out worldwide and may take up to two weeks to complete.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-september-2026-spam-update/590828/\">Google Rolls Out September 2026 Spam Update Globally</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-24T16:45:40+00:00",
-      "fetched": "2026-09-24T23:39:37.877451+00:00"
-    },
-    {
-      "id": "474e9503-f747-41f4-8822-3648ba5f617d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Search Console Adds Multimodal Filter For Image-Based Searches via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-search-console-multimodal-filter/590781/",
-      "summary": "Search Console\u2019s new multimodal filter shows which pages receive traffic from image-based searches, without query data.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-search-console-multimodal-filter/590781/\">Google Search Console Adds Multimodal Filter For Image-Based Searches</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-24T14:52:48+00:00",
-      "fetched": "2026-09-24T23:39:37.877477+00:00"
-    },
-    {
-      "id": "7698d904-0c40-43ac-95c6-4f332680d105",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why Agencies Lose Clients In The First 90 Days (And How To Stop It)",
-      "link": "https://www.searchenginejournal.com/why-agencies-lose-clients-in-the-first-90-days-and-how-to-stop-it/582895/",
-      "summary": "Most client churn happens in the first 90 days, not month six. This phase-by-phase onboarding framework shows agencies how to keep clients engaged and retained.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-agencies-lose-clients-in-the-first-90-days-and-how-to-stop-it/582895/\">Why Agencies Lose Clients In The First 90 Days (And How To Stop It)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-24T14:30:56+00:00",
-      "fetched": "2026-09-24T23:39:37.877506+00:00"
-    },
-    {
-      "id": "7d4aabf4-84bb-4d0b-811c-efd0e41c3774",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Rising CPC? You\u2019re Funding The Competition. Here\u2019s How To Trace It.",
-      "link": "https://www.searchenginejournal.com/how-to-detect-affiliate-brand-bidding-and-hidden-revenue-leakage-spa/589274/",
-      "summary": "Strong affiliate numbers can hide brand bidding. Learn how to define violations, build a search test list, capture ad evidence, and match it to partners.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-detect-affiliate-brand-bidding-and-hidden-revenue-leakage-spa/589274/\">Rising CPC? You&#8217;re Funding The Competition. Here&#8217;s How To Trace It.</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-24T14:04:23+00:00",
-      "fetched": "2026-09-24T23:39:37.877525+00:00"
-    },
-    {
-      "id": "6e26b545-d2be-43fc-aa7a-9f3e3b450f7e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Search Console Uses Block Flattening For AIOs, Forget Position & Focus On Outcomes via @sejournal, @TaylorDanRW",
-      "link": "https://www.searchenginejournal.com/search-console-uses-block-flattening-for-aios-forget-position-focus-on-outcomes/589582/",
-      "summary": "Block flattening can make weak AI Overview visibility look like a top ranking, so measure visits and conversions to assess search performance.\n\nThe post <a href=\"https://www.searchenginejournal.com/search-console-uses-block-flattening-for-aios-forget-position-focus-on-outcomes/589582/\">Search Console Uses Block Flattening For AIOs, Forget Position &#038; Focus On Outcomes</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-24T12:00:06+00:00",
-      "fetched": "2026-09-24T23:39:37.877543+00:00"
-    },
-    {
-      "id": "b7e39525-0677-4b62-aa2f-9902189fb64b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Announces New Query Fan-Out Framework: R4T-Diffusion via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-announces-new-query-fan-out-framework-r4t-diffusion/590700/",
-      "summary": "Google announced a new query fan-out framework that is described as ready for production-scale search.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-announces-new-query-fan-out-framework-r4t-diffusion/590700/\">Google Announces New Query Fan-Out Framework: R4T-Diffusion</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-24T11:42:47+00:00",
-      "fetched": "2026-09-24T23:39:37.877560+00:00"
     }
   ],
-  "last_updated": "2026-09-29T00:43:32.679321+00:00"
+  "last_updated": "2026-09-29T23:59:43.997029+00:00"
 }
