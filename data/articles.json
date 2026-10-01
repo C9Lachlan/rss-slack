@@ -1,6 +1,83 @@
 {
   "articles": [
     {
+      "id": "e6afecbf-b52e-4f7e-9f6b-3426ac519ff7",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Using Local (AI) Compute To Reduce Reliance On Frontier Models via @sejournal, @chrisgreenseo",
+      "link": "https://www.searchenginejournal.com/using-local-ai-compute-to-reduce-reliance-on-frontier-models/591047/",
+      "summary": "How much SEO work can you move off the cloud and onto the user's machine? A Chrome extension experiment with Gemini Nano has answers.\n\nThe post <a href=\"https://www.searchenginejournal.com/using-local-ai-compute-to-reduce-reliance-on-frontier-models/591047/\">Using Local (AI) Compute To Reduce Reliance On Frontier Models</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-30T19:00:04+00:00",
+      "fetched": "2026-10-01T00:14:36.267458+00:00"
+    },
+    {
+      "id": "996d6ee8-51b0-4067-9198-2d12227108a6",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "OpenAI Dots Run Read-Only Research When Nobody Is Asking via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/openai-dots-read-only-proactive-research/591565/",
+      "summary": "OpenAI's Dots can review connected apps and run scheduled checks between conversations, with read-only limits on proactive research.\n\nThe post <a href=\"https://www.searchenginejournal.com/openai-dots-read-only-proactive-research/591565/\">OpenAI Dots Run Read-Only Research When Nobody Is Asking</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-30T14:44:15+00:00",
+      "fetched": "2026-10-01T00:14:36.267485+00:00"
+    },
+    {
+      "id": "15c889a8-28fa-42ee-9ce1-194f67eea646",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Wikipedia, Podcasts & Reddit Now Drive AI Citations, Ask Your PR Team How They Did It via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/wikipedia-podcasts-reddit-now-drive-ai-citations-ask-your-pr-team-how-they-did-it/590994/",
+      "summary": "Your PR team's Wikipedia, podcast, and Reddit expertise can help you build the third-party signals that support AI visibility.\n\nThe post <a href=\"https://www.searchenginejournal.com/wikipedia-podcasts-reddit-now-drive-ai-citations-ask-your-pr-team-how-they-did-it/590994/\">Wikipedia, Podcasts &#038; Reddit Now Drive AI Citations, Ask Your PR Team How They Did It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-30T14:30:05+00:00",
+      "fetched": "2026-10-01T00:14:36.267506+00:00"
+    },
+    {
+      "id": "b15aca28-98cd-4102-969b-7e25c048b53c",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Analytics Adds App Conversions To Cross-Channel Reports via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-analytics-app-conversions-cross-channel-reports/591558/",
+      "summary": "Google Analytics now supports app conversions in its performance and attribution reports.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-analytics-app-conversions-cross-channel-reports/591558/\">Google Analytics Adds App Conversions To Cross-Channel Reports</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-30T14:23:27+00:00",
+      "fetched": "2026-10-01T00:14:36.267529+00:00"
+    },
+    {
+      "id": "2c914322-54c7-4298-bbbc-1d65cd4e38cf",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The AI Search Metrics I Use To Track Client Pipelines",
+      "link": "https://www.searchenginejournal.com/the-ai-search-metrics-i-use-to-track-client-pipelines/589123/",
+      "summary": "See whether AI search reaches buyers and creates qualified opportunities with five measures covering brand presence, answer accuracy, and attribution.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-ai-search-metrics-i-use-to-track-client-pipelines/589123/\">The AI Search Metrics I Use To Track Client Pipelines</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-30T12:00:13+00:00",
+      "fetched": "2026-10-01T00:14:36.267546+00:00"
+    },
+    {
+      "id": "594f9e65-7415-4588-b807-7415254041e2",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "OuterBox Launches OBxFrontier to Kill Busywork With Custom AI",
+      "link": "https://www.searchenginejournal.com/outerbox-launches-obxfrontier-to-kill-busywork-with-custom-ai-spn/591288/",
+      "summary": "OuterBox launches OBxFrontier, a custom AI development service that maps client workflow problems and builds AI agents around their existing systems.\n\nThe post <a href=\"https://www.searchenginejournal.com/outerbox-launches-obxfrontier-to-kill-busywork-with-custom-ai-spn/591288/\">OuterBox Launches OBxFrontier to Kill Busywork With Custom AI</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-30T11:00:00+00:00",
+      "fetched": "2026-10-01T00:14:36.267563+00:00"
+    },
+    {
+      "id": "1d25b830-9ec5-4ac0-a840-638d25c0747f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How Are Enterprise SEO Pros Measuring AI Overviews & LLMs? [Webinar] via @sejournal, @lorenbaker",
+      "link": "https://www.searchenginejournal.com/how-are-enterprise-seo-pros-measuring-ai-overviews-llms-webinar/590971/",
+      "summary": "Tom Capper of STAT walks through the biggest AI search measurement challenges and a tactical solution for each one: October 14 at 2 p.m. ET.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-are-enterprise-seo-pros-measuring-ai-overviews-llms-webinar/590971/\">How Are Enterprise SEO Pros Measuring AI Overviews &#038; LLMs? [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-09-30T07:45:08+00:00",
+      "fetched": "2026-10-01T00:14:36.267584+00:00"
+    },
+    {
       "id": "fa1c675e-caa4-4e6d-a315-e529018ab8f4",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -142,84 +219,7 @@
       "summary": "SEO and paid media managers can strengthen their promotion case by proving AI's net gains and building a reskilling plan for their teams.\n\nThe post <a href=\"https://www.searchenginejournal.com/mit-harvard-data-show-how-seo-and-paid-media-managers-become-directors/590669/\">MIT &#038; Harvard Data Show How SEO And Paid Media Managers Become Directors</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-09-28T19:00:01+00:00",
       "fetched": "2026-09-29T00:43:32.012045+00:00"
-    },
-    {
-      "id": "23cbe7b5-b4b2-4096-974c-4543a4374c8b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "CallRail Makes ChatGPT Ads Measurable For SMBs And Marketing Agencies via @sejournal, @CallRail",
-      "link": "https://www.searchenginejournal.com/callrail-makes-chatgpt-ads-measurable-for-smbs-and-marketing-agencies-spn/589843/",
-      "summary": "CallRail's ChatGPT ads integration lets SMBs and agencies attribute calls, texts, and forms to campaigns, send conversion data to OpenAI, and compare performance across channels.\n\nThe post <a href=\"https://www.searchenginejournal.com/callrail-makes-chatgpt-ads-measurable-for-smbs-and-marketing-agencies-spn/589843/\">CallRail Makes ChatGPT Ads Measurable For SMBs And Marketing Agencies</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-28T15:46:48+00:00",
-      "fetched": "2026-09-29T00:43:32.012068+00:00"
-    },
-    {
-      "id": "c6f3e6cd-534a-46bf-b5d7-ccda9680979a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Generative AI Report Sucks \u2013 Let\u2019s Make It Brilliant",
-      "link": "https://www.searchenginejournal.com/the-generative-ai-report-sucks-lets-make-it-brilliant/590679/",
-      "summary": "Google's Generative AI report shows visibility and nothing else. Layer commercial data and traffic dependency on top and you get real exposure.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-generative-ai-report-sucks-lets-make-it-brilliant/590679/\">The Generative AI Report Sucks \u2013 Let\u2019s Make It Brilliant</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-28T14:30:29+00:00",
-      "fetched": "2026-09-29T00:43:32.012087+00:00"
-    },
-    {
-      "id": "ece46851-5b7c-47ff-a226-e74f6db8afef",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Plans To Adopt UCP Draft Spec For AI Mode Hotel Booking via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-plans-to-adopt-ucp-draft-spec-for-ai-mode-hotel-booking/591235/",
-      "summary": "UCP has published a draft hotel booking specification, Google says it will adopt the open standard for AI Mode hotel booking over the coming months.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-plans-to-adopt-ucp-draft-spec-for-ai-mode-hotel-booking/591235/\">Google Plans To Adopt UCP Draft Spec For AI Mode Hotel Booking</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-28T13:44:16+00:00",
-      "fetched": "2026-09-29T00:43:32.012104+00:00"
-    },
-    {
-      "id": "85a8c70d-540b-42d8-a8e8-488ee94a055c",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Workflows Outscored Human Translators In 4 Of 6 Content Types \u2013\u00a0China Benchmark Study via @sejournal, @MPentzek",
-      "link": "https://www.searchenginejournal.com/humans-lost-4-of-6-content-types-in-our-localization-benchmark/589294/",
-      "summary": "Stop evaluating \"Chinese LLMs\" as a category. A 774-output localization benchmark shows why model choice beats post-editing, and what to test yourself.\n\nThe post <a href=\"https://www.searchenginejournal.com/humans-lost-4-of-6-content-types-in-our-localization-benchmark/589294/\">AI Workflows Outscored Human Translators In 4 Of 6 Content Types \u2013\u00a0China Benchmark Study</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-28T12:00:01+00:00",
-      "fetched": "2026-09-29T00:43:32.012122+00:00"
-    },
-    {
-      "id": "b629d101-8d6e-4acf-9ee6-f43cbd42ada2",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Automattic & Matt Mullenweg Fail To Dismiss WP Engine Antitrust Claims via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/automattic-matt-mullenweg-fail-to-dismiss-wp-engine-antitrust-claims/591210/",
-      "summary": "WP Engine is gratified by the judge's antitrust ruling, but Automattic also scores seven victories.\n\nThe post <a href=\"https://www.searchenginejournal.com/automattic-matt-mullenweg-fail-to-dismiss-wp-engine-antitrust-claims/591210/\">Automattic &#038; Matt Mullenweg Fail To Dismiss WP Engine Antitrust Claims</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-28T11:46:33+00:00",
-      "fetched": "2026-09-29T00:43:32.012148+00:00"
-    },
-    {
-      "id": "7b77d104-e484-410b-9814-216c48f56a4a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Spam Update, Image Search Data In GSC \u2013 SEO Pulse via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-google-spam-update-image-search-data/590882/",
-      "summary": "Google's September spam update may take up to two weeks, Search Console adds image-based search data, reports look at traffic from Search and AI Mode.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-google-spam-update-image-search-data/590882/\">Google Spam Update, Image Search Data In GSC \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-26T12:00:46+00:00",
-      "fetched": "2026-09-26T23:13:58.772685+00:00"
-    },
-    {
-      "id": "287ac95e-ef9d-49da-83f1-cc3e1119974e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Text-Only Version Of Your Website Strips Out The Wrong Layer via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/the-text-only-version-of-your-website-strips-out-the-wrong-layer/590088/",
-      "summary": "Strip the visual layer and a machine can still use a website. Strip the structure, as markdown does, and it can only read about it.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-text-only-version-of-your-website-strips-out-the-wrong-layer/590088/\">The Text-Only Version Of Your Website Strips Out The Wrong Layer</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-25T19:00:09+00:00",
-      "fetched": "2026-09-25T23:40:58.014515+00:00"
     }
   ],
-  "last_updated": "2026-09-29T23:59:43.997029+00:00"
+  "last_updated": "2026-10-01T00:14:39.076181+00:00"
 }
