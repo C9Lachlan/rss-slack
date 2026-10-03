@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": "d3349cbe-a8a6-4982-aec7-c93e54394256",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Wants AI Content Fact-Checked, Gemini UTM Tags \u2013 SEO Pulse via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/seo-pulse-google-ai-content-fact-check-gemini-utm-tags/591787/",
+      "summary": "Google adds fact-checking to its AI content guidance, Gemini links show UTM tags, desktop CTR fell in Q2, and a judge dismisses two AI suits.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-google-ai-content-fact-check-gemini-utm-tags/591787/\">Google Wants AI Content Fact-Checked, Gemini UTM Tags \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-03T12:00:26+00:00",
+      "fetched": "2026-10-03T23:25:40.290192+00:00"
+    },
+    {
       "id": "f4def721-7dbc-448e-9107-7a96925149de",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -208,18 +219,7 @@
       "summary": "Your PR team's Wikipedia, podcast, and Reddit expertise can help you build the third-party signals that support AI visibility.\n\nThe post <a href=\"https://www.searchenginejournal.com/wikipedia-podcasts-reddit-now-drive-ai-citations-ask-your-pr-team-how-they-did-it/590994/\">Wikipedia, Podcasts &#038; Reddit Now Drive AI Citations, Ask Your PR Team How They Did It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-09-30T14:30:05+00:00",
       "fetched": "2026-10-01T00:14:36.267506+00:00"
-    },
-    {
-      "id": "b15aca28-98cd-4102-969b-7e25c048b53c",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Analytics Adds App Conversions To Cross-Channel Reports via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-analytics-app-conversions-cross-channel-reports/591558/",
-      "summary": "Google Analytics now supports app conversions in its performance and attribution reports.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-analytics-app-conversions-cross-channel-reports/591558/\">Google Analytics Adds App Conversions To Cross-Channel Reports</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-30T14:23:27+00:00",
-      "fetched": "2026-10-01T00:14:36.267529+00:00"
     }
   ],
-  "last_updated": "2026-10-03T00:03:05.366317+00:00"
+  "last_updated": "2026-10-03T23:25:41.806814+00:00"
 }
