@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "f4def721-7dbc-448e-9107-7a96925149de",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Shopify Now Enrolls Your Store In Every New AI Shopping Channel via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/shopify-now-enrolls-your-store-in-every-new-ai-shopping-channel/591049/",
+      "summary": "Shopify merchants: your agentic storefronts setting now shares products with Meta and unnamed startups. Leave it on, and watch what Shopify adds.\n\nThe post <a href=\"https://www.searchenginejournal.com/shopify-now-enrolls-your-store-in-every-new-ai-shopping-channel/591049/\">Shopify Now Enrolls Your Store In Every New AI Shopping Channel</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-02T19:00:52+00:00",
+      "fetched": "2026-10-03T00:03:01.435678+00:00"
+    },
+    {
+      "id": "ffa3f18d-9c0e-455f-aa7c-2b694078f93f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "OpenAI Founding Member: Make LLMs Write Like An Aircraft Manual via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/karpathy-llm-aircraft-manual-writing/591813/",
+      "summary": "Andrej Karpathy suggests asking LLMs to explain topics in an aerospace writing standard, or to answer with diagrams, HTML pages, or custom explainer videos.\n\nThe post <a href=\"https://www.searchenginejournal.com/karpathy-llm-aircraft-manual-writing/591813/\">OpenAI Founding Member: Make LLMs Write Like An Aircraft Manual</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-02T15:49:43+00:00",
+      "fetched": "2026-10-03T00:03:01.435703+00:00"
+    },
+    {
+      "id": "30191af2-48de-49e8-a58f-4bcae5a5e9e7",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Adds Fake Author Warning To Helpful Content Guidance via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-fake-author-warning-site-owner-guidance/591806/",
+      "summary": "Google's people-first content guidance now warns site owners against fabricated author profiles, a form of deception its rater guidelines already described.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-fake-author-warning-site-owner-guidance/591806/\">Google Adds Fake Author Warning To Helpful Content Guidance</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-02T15:03:06+00:00",
+      "fetched": "2026-10-03T00:03:01.435713+00:00"
+    },
+    {
+      "id": "b99aa3c2-3a8b-4dcc-a143-5a76446ace48",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How We Build An SEO Content Roadmap For The AI Search Era (Step-By-Step) via @sejournal, @coreydmorris",
+      "link": "https://www.searchenginejournal.com/how-we-build-an-seo-content-roadmap-for-the-ai-search-era-step-by-step/589944/",
+      "summary": "A step-by-step process for building an SEO content roadmap that accounts for AI Overviews, from keyword gaps to a prioritized, citation-ready plan.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-we-build-an-seo-content-roadmap-for-the-ai-search-era-step-by-step/589944/\">How We Build An SEO Content Roadmap For The AI Search Era (Step-By-Step)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-02T14:30:46+00:00",
+      "fetched": "2026-10-03T00:03:01.435727+00:00"
+    },
+    {
+      "id": "a7734948-782e-4442-a92b-fde3b86e07c9",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "When A Search Query Becomes A Standing Instruction via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/when-a-search-query-becomes-a-standing-instruction/591690/",
+      "summary": "Google's AI Mode monitoring and OpenAI's dots keep requests active, with different tasks, sources, controls, and questions about site visibility.\n\nThe post <a href=\"https://www.searchenginejournal.com/when-a-search-query-becomes-a-standing-instruction/591690/\">When A Search Query Becomes A Standing Instruction</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-02T12:00:09+00:00",
+      "fetched": "2026-10-03T00:03:01.435737+00:00"
+    },
+    {
       "id": "ed623e55-12d7-469c-85a7-dbdc76a54725",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -164,62 +219,7 @@
       "summary": "Google Analytics now supports app conversions in its performance and attribution reports.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-analytics-app-conversions-cross-channel-reports/591558/\">Google Analytics Adds App Conversions To Cross-Channel Reports</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-09-30T14:23:27+00:00",
       "fetched": "2026-10-01T00:14:36.267529+00:00"
-    },
-    {
-      "id": "2c914322-54c7-4298-bbbc-1d65cd4e38cf",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The AI Search Metrics I Use To Track Client Pipelines",
-      "link": "https://www.searchenginejournal.com/the-ai-search-metrics-i-use-to-track-client-pipelines/589123/",
-      "summary": "See whether AI search reaches buyers and creates qualified opportunities with five measures covering brand presence, answer accuracy, and attribution.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-ai-search-metrics-i-use-to-track-client-pipelines/589123/\">The AI Search Metrics I Use To Track Client Pipelines</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-30T12:00:13+00:00",
-      "fetched": "2026-10-01T00:14:36.267546+00:00"
-    },
-    {
-      "id": "594f9e65-7415-4588-b807-7415254041e2",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "OuterBox Launches OBxFrontier to Kill Busywork With Custom AI",
-      "link": "https://www.searchenginejournal.com/outerbox-launches-obxfrontier-to-kill-busywork-with-custom-ai-spn/591288/",
-      "summary": "OuterBox launches OBxFrontier, a custom AI development service that maps client workflow problems and builds AI agents around their existing systems.\n\nThe post <a href=\"https://www.searchenginejournal.com/outerbox-launches-obxfrontier-to-kill-busywork-with-custom-ai-spn/591288/\">OuterBox Launches OBxFrontier to Kill Busywork With Custom AI</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-30T11:00:00+00:00",
-      "fetched": "2026-10-01T00:14:36.267563+00:00"
-    },
-    {
-      "id": "1d25b830-9ec5-4ac0-a840-638d25c0747f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How Are Enterprise SEO Pros Measuring AI Overviews & LLMs? [Webinar] via @sejournal, @lorenbaker",
-      "link": "https://www.searchenginejournal.com/how-are-enterprise-seo-pros-measuring-ai-overviews-llms-webinar/590971/",
-      "summary": "Tom Capper of STAT walks through the biggest AI search measurement challenges and a tactical solution for each one: October 14 at 2 p.m. ET.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-are-enterprise-seo-pros-measuring-ai-overviews-llms-webinar/590971/\">How Are Enterprise SEO Pros Measuring AI Overviews &#038; LLMs? [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-30T07:45:08+00:00",
-      "fetched": "2026-10-01T00:14:36.267584+00:00"
-    },
-    {
-      "id": "fa1c675e-caa4-4e6d-a315-e529018ab8f4",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Yes, You Can Change AI\u2019s Opinion. Here\u2019s How.",
-      "link": "https://www.searchenginejournal.com/ai-crawlers-machine-layer-answershare-spa/590837/",
-      "summary": "AnswerShare reports more recommendations in a client test after publishing sourced brand context. Here is how its machine-layer works & what it cannot fix.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-crawlers-machine-layer-answershare-spa/590837/\">Yes, You Can Change AI&#8217;s Opinion. Here&#8217;s How.</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-29T20:40:41+00:00",
-      "fetched": "2026-09-29T23:59:43.337526+00:00"
-    },
-    {
-      "id": "a5e0e0d8-7bd5-4864-af6a-4337a91b1144",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Trust As A Conversion Lever: How To Test Credibility In A Regulated Industry",
-      "link": "https://www.searchenginejournal.com/trust-as-a-conversion-lever-how-to-test-credibility-in-a-regulated-industry/589232/",
-      "summary": "Test whether honest expectations and money-back guarantees build trust in health marketing, then judge results beyond the first conversion.\n\nThe post <a href=\"https://www.searchenginejournal.com/trust-as-a-conversion-lever-how-to-test-credibility-in-a-regulated-industry/589232/\">Trust As A Conversion Lever: How To Test Credibility In A Regulated Industry</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-29T19:00:11+00:00",
-      "fetched": "2026-09-29T23:59:43.337552+00:00"
     }
   ],
-  "last_updated": "2026-10-02T00:19:06.773704+00:00"
+  "last_updated": "2026-10-03T00:03:05.366317+00:00"
 }
