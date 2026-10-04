@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": "c1acc3dc-ef38-4a9d-b3d8-03a550641561",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Shows How Long Crawling, Indexing & Recovery Can Take via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-crawling-indexing-recovery-timing-ranges/591829/",
+      "summary": "Google's Gary Illyes showed timing ranges for crawling, indexing, site moves, and core update recovery at Search Central Live Deep Dive Europe in Barcelona.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-crawling-indexing-recovery-timing-ranges/591829/\">Google Shows How Long Crawling, Indexing &#038; Recovery Can Take</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-04T20:41:36+00:00",
+      "fetched": "2026-10-04T23:41:56.102625+00:00"
+    },
+    {
       "id": "d3349cbe-a8a6-4982-aec7-c93e54394256",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -208,18 +219,7 @@
       "summary": "OpenAI's Dots can review connected apps and run scheduled checks between conversations, with read-only limits on proactive research.\n\nThe post <a href=\"https://www.searchenginejournal.com/openai-dots-read-only-proactive-research/591565/\">OpenAI Dots Run Read-Only Research When Nobody Is Asking</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-09-30T14:44:15+00:00",
       "fetched": "2026-10-01T00:14:36.267485+00:00"
-    },
-    {
-      "id": "15c889a8-28fa-42ee-9ce1-194f67eea646",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Wikipedia, Podcasts & Reddit Now Drive AI Citations, Ask Your PR Team How They Did It via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/wikipedia-podcasts-reddit-now-drive-ai-citations-ask-your-pr-team-how-they-did-it/590994/",
-      "summary": "Your PR team's Wikipedia, podcast, and Reddit expertise can help you build the third-party signals that support AI visibility.\n\nThe post <a href=\"https://www.searchenginejournal.com/wikipedia-podcasts-reddit-now-drive-ai-citations-ask-your-pr-team-how-they-did-it/590994/\">Wikipedia, Podcasts &#038; Reddit Now Drive AI Citations, Ask Your PR Team How They Did It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-30T14:30:05+00:00",
-      "fetched": "2026-10-01T00:14:36.267506+00:00"
     }
   ],
-  "last_updated": "2026-10-03T23:25:41.806814+00:00"
+  "last_updated": "2026-10-04T23:41:57.697209+00:00"
 }
