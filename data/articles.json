@@ -1,6 +1,83 @@
 {
   "articles": [
     {
+      "id": "e16c06d8-fd66-4e36-9cd1-c711f09ee95c",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "OpenAI To Watermark ChatGPT Text In The EU, Opens API Opt-In via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/openai-to-watermark-chatgpt-text-in-the-eu-opens-api-opt-in/592014/",
+      "summary": "OpenAI will add an invisible watermark to ChatGPT and Codex text in the EU. Its tests show editing can weaken it. \n\nThe post <a href=\"https://www.searchenginejournal.com/openai-to-watermark-chatgpt-text-in-the-eu-opens-api-opt-in/592014/\">OpenAI To Watermark ChatGPT Text In The EU, Opens API Opt-In</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-06T01:07:32+00:00",
+      "fetched": "2026-10-06T01:35:30.524589+00:00"
+    },
+    {
+      "id": "4305b1c8-d03d-4c3d-8fbe-dcfe2783ce0d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Mueller Says AI Crawlers Access Sitemaps & RSS In His Logs via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/googles-mueller-says-ai-crawlers-access-sitemaps-rss-in-his-logs/592012/",
+      "summary": "Google's John Mueller says AI training crawlers usually don't offer sitemap submission and suggests default sitemap names or RSS feeds to help them find sites.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-mueller-says-ai-crawlers-access-sitemaps-rss-in-his-logs/592012/\">Google&#8217;s Mueller Says AI Crawlers Access Sitemaps &#038; RSS In His Logs</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-05T22:47:18+00:00",
+      "fetched": "2026-10-06T01:35:30.524606+00:00"
+    },
+    {
+      "id": "9e067533-8c62-4035-b934-b1eaab21a108",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Is Fighting SERP Tracking. AI Agents May Make It Worse via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-is-fighting-serp-tracking-ai-agents-may-make-it-worse/592000/",
+      "summary": "Google is fighting back against SERP tracking. The explosion of AI agents may cause it to clamp down harder.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-is-fighting-serp-tracking-ai-agents-may-make-it-worse/592000/\">Google Is Fighting SERP Tracking. AI Agents May Make It Worse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-05T21:03:08+00:00",
+      "fetched": "2026-10-06T01:35:30.524617+00:00"
+    },
+    {
+      "id": "5e017447-50e3-4b9f-9182-1ba237e37409",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Cites Your Brand: How to Choose Your Next Move via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/ai-cites-your-brand-how-to-choose-your-next-move/589990/",
+      "summary": "AI visibility gaps call for different fixes. Constance Tan shows how to decide between correcting information, earning mentions, creating content, and checking bot access.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-cites-your-brand-how-to-choose-your-next-move/589990/\">AI Cites Your Brand: How to Choose Your Next Move</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-05T16:16:34+00:00",
+      "fetched": "2026-10-06T01:35:30.524630+00:00"
+    },
+    {
+      "id": "9d38692b-3de6-44d1-8644-a2b40ab14ed8",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Hidden Data Layer: What Is It And What To Do About It via @sejournal, @demirie",
+      "link": "https://www.searchenginejournal.com/googles-hidden-data-layer-what-is-it-and-what-to-do-about-it/590234/",
+      "summary": "Trace misleading sale badges and outdated product images to Google's hidden data layer, with checks that go beyond your current feed.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-hidden-data-layer-what-is-it-and-what-to-do-about-it/590234/\">Google&#8217;s Hidden Data Layer: What Is It And What To Do About It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-05T14:30:56+00:00",
+      "fetched": "2026-10-06T01:35:30.524640+00:00"
+    },
+    {
+      "id": "6f2b47b4-0b4e-46b0-b67e-ee87d04b0282",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Build A Content Distribution System That Compounds",
+      "link": "https://www.searchenginejournal.com/how-to-build-a-content-distribution-system-that-compounds/590545/",
+      "summary": "Keep content working long after launch with a distribution owner, a repeatable checklist, and a 90-day plan to earn backlinks and AI citations.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-build-a-content-distribution-system-that-compounds/590545/\">How To Build A Content Distribution System That Compounds</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-05T12:00:27+00:00",
+      "fetched": "2026-10-06T01:35:30.524649+00:00"
+    },
+    {
+      "id": "84575a05-19a9-4ae3-8b79-3e963197761c",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "What To Expect From Google\u2019s Next Search Ranking Update via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/what-to-expect-from-googles-next-search-ranking-update/591928/",
+      "summary": "Google's recent changes provide strong clues about major changes from the next core algorithm update.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-to-expect-from-googles-next-search-ranking-update/591928/\">What To Expect From Google&#8217;s Next Search Ranking Update</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-05T09:42:03+00:00",
+      "fetched": "2026-10-06T01:35:30.524659+00:00"
+    },
+    {
       "id": "c1acc3dc-ef38-4a9d-b3d8-03a550641561",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -142,84 +219,7 @@
       "summary": "Understand the most common structured data mistakes that hurt AI visibility and how to avoid them\n\nThe post <a href=\"https://www.searchenginejournal.com/what-are-common-structured-data-mistakes-that-hurt-ai-visibility-ask-an-seo/589924/\">What Are Common Structured Data Mistakes That Hurt AI Visibility? \u2013 Ask An SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-10-01T12:00:54+00:00",
       "fetched": "2026-10-02T00:19:05.044134+00:00"
-    },
-    {
-      "id": "21b1c6f1-c0ca-4369-b8ec-df14814b4455",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Judge Acknowledges Publisher Harm But Dismisses Google Antitrust Claims via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/judge-acknowledges-publisher-harm-but-dismisses-google-antitrust-claims/591748/",
-      "summary": "Google antitrust ruling shows how publishers can allege real harm yet still fail in a federal court.\n\nThe post <a href=\"https://www.searchenginejournal.com/judge-acknowledges-publisher-harm-but-dismisses-google-antitrust-claims/591748/\">Judge Acknowledges Publisher Harm But Dismisses Google Antitrust Claims</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-01T11:49:28+00:00",
-      "fetched": "2026-10-02T00:19:05.044151+00:00"
-    },
-    {
-      "id": "66aa57c2-b595-40c5-bfb3-d14c3342de1e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Where to Find the Exact Phrases That Get Your Content Cited in AI Search via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/where-to-find-the-exact-phrases-that-get-your-content-cited-in-ai-search/591562/",
-      "summary": "Join CTM on October 13 to learn how first-party customer data can earn AI citations, improve FAQ content, and reveal which clicks become leads.\n\nThe post <a href=\"https://www.searchenginejournal.com/where-to-find-the-exact-phrases-that-get-your-content-cited-in-ai-search/591562/\">Where to Find the Exact Phrases That Get Your Content Cited in AI Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-01T10:15:00+00:00",
-      "fetched": "2026-10-02T00:19:05.044176+00:00"
-    },
-    {
-      "id": "ed57b9f1-4acf-4e12-9a2f-8f7909f41094",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Cloudflare Moves Monetization Gateway & Pay Per Use Into Beta via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/cloudflare-moves-monetization-gateway-pay-per-use-into-beta/591719/",
-      "summary": "Cloudflare's Monetization Gateway charges AI agents per request in a closed beta, and Pay Per Use pays publishers for the AI uses that buyers report.\n\nThe post <a href=\"https://www.searchenginejournal.com/cloudflare-moves-monetization-gateway-pay-per-use-into-beta/591719/\">Cloudflare Moves Monetization Gateway &#038; Pay Per Use Into Beta</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-01T08:30:55+00:00",
-      "fetched": "2026-10-02T00:19:05.044195+00:00"
-    },
-    {
-      "id": "78b68f45-cb34-483f-87d0-9aa9e455b1d2",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google AI Pilot Pays Some Sites Under 0.1% Of Ad Revenue via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-ai-pilot-pays-some-sites-under-0-1-of-ad-revenue/591717/",
-      "summary": "A new report says Google's AI contribution pilot pays publishers widely different amounts, and some participants still can't tell how payouts are calculated.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ai-pilot-pays-some-sites-under-0-1-of-ad-revenue/591717/\">Google AI Pilot Pays Some Sites Under 0.1% Of Ad Revenue</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-01T07:00:15+00:00",
-      "fetched": "2026-10-02T00:19:05.044211+00:00"
-    },
-    {
-      "id": "e17aacd2-915a-4e35-b6a1-ea3d2e590a65",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "LiveRamp Expands OpenAI Deal With First-Party Data Targeting via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/liveramp-expands-openai-partnership-chatgpt-ads/591510/",
-      "summary": "LiveRamp expands its OpenAI partnership, bringing RampID first-party audiences to ChatGPT Ads as advertisers gain more targeting and bidding options.\n\nThe post <a href=\"https://www.searchenginejournal.com/liveramp-expands-openai-partnership-chatgpt-ads/591510/\">LiveRamp Expands OpenAI Deal With First-Party Data Targeting</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-01T03:05:53+00:00",
-      "fetched": "2026-10-02T00:19:05.044228+00:00"
-    },
-    {
-      "id": "e6afecbf-b52e-4f7e-9f6b-3426ac519ff7",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Using Local (AI) Compute To Reduce Reliance On Frontier Models via @sejournal, @chrisgreenseo",
-      "link": "https://www.searchenginejournal.com/using-local-ai-compute-to-reduce-reliance-on-frontier-models/591047/",
-      "summary": "How much SEO work can you move off the cloud and onto the user's machine? A Chrome extension experiment with Gemini Nano has answers.\n\nThe post <a href=\"https://www.searchenginejournal.com/using-local-ai-compute-to-reduce-reliance-on-frontier-models/591047/\">Using Local (AI) Compute To Reduce Reliance On Frontier Models</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-30T19:00:04+00:00",
-      "fetched": "2026-10-01T00:14:36.267458+00:00"
-    },
-    {
-      "id": "996d6ee8-51b0-4067-9198-2d12227108a6",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "OpenAI Dots Run Read-Only Research When Nobody Is Asking via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/openai-dots-read-only-proactive-research/591565/",
-      "summary": "OpenAI's Dots can review connected apps and run scheduled checks between conversations, with read-only limits on proactive research.\n\nThe post <a href=\"https://www.searchenginejournal.com/openai-dots-read-only-proactive-research/591565/\">OpenAI Dots Run Read-Only Research When Nobody Is Asking</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-09-30T14:44:15+00:00",
-      "fetched": "2026-10-01T00:14:36.267485+00:00"
     }
   ],
-  "last_updated": "2026-10-04T23:41:57.697209+00:00"
+  "last_updated": "2026-10-06T01:35:37.166553+00:00"
 }
