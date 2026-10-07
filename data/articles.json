@@ -1,6 +1,105 @@
 {
   "articles": [
     {
+      "id": "45f749cb-7beb-43ff-92f0-b8eea309e6df",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "WordPress 7.1.3 Fixes 7 Vulnerabilities And 1 Critical Flaw via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/wordpress-7-1-3-fixes-7-vulnerabilities-and-1-critical-flaw/592109/",
+      "summary": "WordPress 7.1.3 fixes seven security vulnerabilities and a critical bug affecting image uploads that can result in a fatal error.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-7-1-3-fixes-7-vulnerabilities-and-1-critical-flaw/592109/\">WordPress 7.1.3 Fixes 7 Vulnerabilities And 1 Critical Flaw</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-06T20:05:17+00:00",
+      "fetched": "2026-10-07T00:13:14.745620+00:00"
+    },
+    {
+      "id": "4bf4d792-b7ce-4285-b810-8a1ee49524f1",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Using AI To Assist With SEO Work, Not Replace The Worker via @sejournal, @chrisgreenseo",
+      "link": "https://www.searchenginejournal.com/using-ai-to-assist-with-seo-work-not-replace-the-worker/591045/",
+      "summary": "Here's how one technical SEO splits audit work: deterministic checks for facts, a local LLM to explain them, and a human to judge.\n\nThe post <a href=\"https://www.searchenginejournal.com/using-ai-to-assist-with-seo-work-not-replace-the-worker/591045/\">Using AI To Assist With SEO Work, Not Replace The Worker</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-06T19:00:47+00:00",
+      "fetched": "2026-10-07T00:13:14.745645+00:00"
+    },
+    {
+      "id": "b172d5e7-3162-4aae-869f-9664fffd7f2c",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "OpenAI To Test Visual Ads In ChatGPT Image Generation via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/openai-chatgpt-image-generation-visual-ads-test/591981/",
+      "summary": "OpenAI plans a limited U.S. test of visual ads during image generation, alongside measurement updates that give advertisers more ways to assess results.\n\nThe post <a href=\"https://www.searchenginejournal.com/openai-chatgpt-image-generation-visual-ads-test/591981/\">OpenAI To Test Visual Ads In ChatGPT Image Generation</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-06T17:21:56+00:00",
+      "fetched": "2026-10-07T00:13:14.745665+00:00"
+    },
+    {
+      "id": "6583955c-8028-46a7-9c87-73afa6862ea2",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Opens Search Profiles In India & Canada, Brazil Next via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-search-profiles-india-canada-brazil/592092/",
+      "summary": "Google is opening Search profiles to creators and publishers in India and Canada, with Brazil to follow soon.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-search-profiles-india-canada-brazil/592092/\">Google Opens Search Profiles In India &#038; Canada, Brazil Next</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-06T17:12:37+00:00",
+      "fetched": "2026-10-07T00:13:14.745687+00:00"
+    },
+    {
+      "id": "abf0a452-1bd0-4436-8d3d-64d49c9fd198",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Data Shows Which Negative Search Results Can Actually Be Removed via @sejournal, @EraseDotCom",
+      "link": "https://www.searchenginejournal.com/negative-search-result-removal-erase-spa/590856/",
+      "summary": "Learn how to address negative search results and identify which links can be removed or hidden effectively.\n\nThe post <a href=\"https://www.searchenginejournal.com/negative-search-result-removal-erase-spa/590856/\">Data Shows Which Negative Search Results Can Actually Be Removed</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-06T17:00:45+00:00",
+      "fetched": "2026-10-07T00:13:14.745704+00:00"
+    },
+    {
+      "id": "2178b290-b924-41aa-bc5b-31d58c64956a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Search Console Lets You Filter By Multiple Countries via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-search-console-multiple-countries-filter/592065/",
+      "summary": "Google is updating Search Console's Performance report filters so you can view combined Google Search traffic for several countries in a single filtered view.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-search-console-multiple-countries-filter/592065/\">Google Search Console Lets You Filter By Multiple Countries</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-06T15:53:04+00:00",
+      "fetched": "2026-10-07T00:13:14.745721+00:00"
+    },
+    {
+      "id": "fdea2fc5-2fcc-4d05-898c-10d498afd017",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Changed Its Helpful Content Guidelines To Emphasize Good \u2018Main Content\u2019 via @sejournal, @marie_haynes",
+      "link": "https://www.searchenginejournal.com/google-changed-its-helpful-content-guidelines-to-emphasize-good-main-content/591943/",
+      "summary": "Why don't SEOs talk more about Google's helpful content documentation? Its latest update shows exactly what the ranking systems are being trained to reward. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-changed-its-helpful-content-guidelines-to-emphasize-good-main-content/591943/\">Google Changed Its Helpful Content Guidelines To Emphasize Good &#8216;Main Content&#8217;</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-06T14:30:10+00:00",
+      "fetched": "2026-10-07T00:13:14.745737+00:00"
+    },
+    {
+      "id": "7706f91f-1b10-4de0-bdd7-0b6e3632cb2b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Structure A Full-Funnel Ecommerce Account For Q4 via @sejournal, @tonyadam",
+      "link": "https://www.searchenginejournal.com/how-to-structure-a-full-funnel-ecommerce-account-for-q4/589145/",
+      "summary": "Keep Google and Meta from exhausting your ecommerce budget on existing demand by funding prospecting and rebuilding customer exclusions before Q4.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-structure-a-full-funnel-ecommerce-account-for-q4/589145/\">How To Structure A Full-Funnel Ecommerce Account For Q4</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-06T12:00:36+00:00",
+      "fetched": "2026-10-07T00:13:14.745761+00:00"
+    },
+    {
+      "id": "bb801e83-934a-417e-8fd4-b6ccec62c3a3",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Explains The \u201cCouldn\u2019t Fetch\u201d Sitemap Errors via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-explains-couldnt-fetch-sitemap-errors/592040/",
+      "summary": "Google admits a \"couldn't fetch\" sitemap error may have nothing to do with whether Google can actually fetch it.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-explains-couldnt-fetch-sitemap-errors/592040/\">Google Explains The &#8220;Couldn&#8217;t Fetch&#8221; Sitemap Errors</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-06T09:52:43+00:00",
+      "fetched": "2026-10-07T00:13:14.745780+00:00"
+    },
+    {
       "id": "e16c06d8-fd66-4e36-9cd1-c711f09ee95c",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -120,106 +219,7 @@
       "summary": "Andrej Karpathy suggests asking LLMs to explain topics in an aerospace writing standard, or to answer with diagrams, HTML pages, or custom explainer videos.\n\nThe post <a href=\"https://www.searchenginejournal.com/karpathy-llm-aircraft-manual-writing/591813/\">OpenAI Founding Member: Make LLMs Write Like An Aircraft Manual</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-10-02T15:49:43+00:00",
       "fetched": "2026-10-03T00:03:01.435703+00:00"
-    },
-    {
-      "id": "30191af2-48de-49e8-a58f-4bcae5a5e9e7",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Adds Fake Author Warning To Helpful Content Guidance via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-fake-author-warning-site-owner-guidance/591806/",
-      "summary": "Google's people-first content guidance now warns site owners against fabricated author profiles, a form of deception its rater guidelines already described.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-fake-author-warning-site-owner-guidance/591806/\">Google Adds Fake Author Warning To Helpful Content Guidance</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-02T15:03:06+00:00",
-      "fetched": "2026-10-03T00:03:01.435713+00:00"
-    },
-    {
-      "id": "b99aa3c2-3a8b-4dcc-a143-5a76446ace48",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How We Build An SEO Content Roadmap For The AI Search Era (Step-By-Step) via @sejournal, @coreydmorris",
-      "link": "https://www.searchenginejournal.com/how-we-build-an-seo-content-roadmap-for-the-ai-search-era-step-by-step/589944/",
-      "summary": "A step-by-step process for building an SEO content roadmap that accounts for AI Overviews, from keyword gaps to a prioritized, citation-ready plan.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-we-build-an-seo-content-roadmap-for-the-ai-search-era-step-by-step/589944/\">How We Build An SEO Content Roadmap For The AI Search Era (Step-By-Step)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-02T14:30:46+00:00",
-      "fetched": "2026-10-03T00:03:01.435727+00:00"
-    },
-    {
-      "id": "a7734948-782e-4442-a92b-fde3b86e07c9",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "When A Search Query Becomes A Standing Instruction via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/when-a-search-query-becomes-a-standing-instruction/591690/",
-      "summary": "Google's AI Mode monitoring and OpenAI's dots keep requests active, with different tasks, sources, controls, and questions about site visibility.\n\nThe post <a href=\"https://www.searchenginejournal.com/when-a-search-query-becomes-a-standing-instruction/591690/\">When A Search Query Becomes A Standing Instruction</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-02T12:00:09+00:00",
-      "fetched": "2026-10-03T00:03:01.435737+00:00"
-    },
-    {
-      "id": "ed623e55-12d7-469c-85a7-dbdc76a54725",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Tells Sites To Fact-Check AI Content Before Publishing via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-fact-check-ai-content-before-publishing/591782/",
-      "summary": "Google's guidance on AI-generated content now says to fact-check it by hand before publishing, and the review extends to titles, alt text, and other metadata.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-fact-check-ai-content-before-publishing/591782/\">Google Tells Sites To Fact-Check AI Content Before Publishing</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-02T00:03:36+00:00",
-      "fetched": "2026-10-02T00:19:05.044025+00:00"
-    },
-    {
-      "id": "697b0761-f498-416f-b47e-e2517efde1d2",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "YouTube To Cut Reach Of Channels Reposting Barely Changed Clips via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/youtube-original-shorts-reposted-clips-reach/591774/",
-      "summary": "YouTube is updating recommendations to favor original Shorts and reduce reach for channels that mainly re-upload others' clips without significant changes.\n\nThe post <a href=\"https://www.searchenginejournal.com/youtube-original-shorts-reposted-clips-reach/591774/\">YouTube To Cut Reach Of Channels Reposting Barely Changed Clips</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-01T20:44:41+00:00",
-      "fetched": "2026-10-02T00:19:05.044052+00:00"
-    },
-    {
-      "id": "70b7640f-d217-48eb-b9b7-e1a1df9a7068",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Changed Your Buyer Faster Than Your Business Can Adapt via @sejournal, @DuaneForrester",
-      "link": "https://www.searchenginejournal.com/ai-changed-your-buyer-faster-than-your-business-can-adapt/591043/",
-      "summary": "AI changed the buyer in 18 months. Most businesses still run on 12-month plans. Here's where the gap shows up and why it keeps widening.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-changed-your-buyer-faster-than-your-business-can-adapt/591043/\">AI Changed Your Buyer Faster Than Your Business Can Adapt</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-01T14:00:52+00:00",
-      "fetched": "2026-10-02T00:19:05.044072+00:00"
-    },
-    {
-      "id": "fc19d7cb-28ee-4db4-a930-a3324014c6d7",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Nothing Is On Fire At Google via @sejournal, @pedrodias",
-      "link": "https://www.searchenginejournal.com/nothing-is-on-fire-at-google/591422/",
-      "summary": "Google has data, chips and cash to lead in AI. The real question is whether it will disrupt the Search business that pays for everything.\n\nThe post <a href=\"https://www.searchenginejournal.com/nothing-is-on-fire-at-google/591422/\">Nothing Is On Fire At Google</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-01T13:00:47+00:00",
-      "fetched": "2026-10-02T00:19:05.044098+00:00"
-    },
-    {
-      "id": "6486a328-e708-4ccc-9ace-7ad17b251f22",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Gemini Adds UTM Parameters For Referral Attribution via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-gemini-adds-utm-parameters-for-referral-attribution/591754/",
-      "summary": "Gemini's new UTM parameters give site owners clearer attribution for traffic coming from Google's AI platform.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-gemini-adds-utm-parameters-for-referral-attribution/591754/\">Google Gemini Adds UTM Parameters For Referral Attribution</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-01T12:15:03+00:00",
-      "fetched": "2026-10-02T00:19:05.044115+00:00"
-    },
-    {
-      "id": "348e4c0c-0112-4a56-997a-a5ddd9b93702",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "What Are Common Structured Data Mistakes That Hurt AI Visibility? \u2013 Ask An SEO via @sejournal, @HelenPollitt1",
-      "link": "https://www.searchenginejournal.com/what-are-common-structured-data-mistakes-that-hurt-ai-visibility-ask-an-seo/589924/",
-      "summary": "Understand the most common structured data mistakes that hurt AI visibility and how to avoid them\n\nThe post <a href=\"https://www.searchenginejournal.com/what-are-common-structured-data-mistakes-that-hurt-ai-visibility-ask-an-seo/589924/\">What Are Common Structured Data Mistakes That Hurt AI Visibility? \u2013 Ask An SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-01T12:00:54+00:00",
-      "fetched": "2026-10-02T00:19:05.044134+00:00"
     }
   ],
-  "last_updated": "2026-10-06T01:35:37.166553+00:00"
+  "last_updated": "2026-10-07T00:13:16.081493+00:00"
 }
