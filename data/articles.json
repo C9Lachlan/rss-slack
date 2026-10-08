@@ -1,6 +1,94 @@
 {
   "articles": [
     {
+      "id": "be094b68-675c-4352-9cf2-4779e9740611",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "ChatGPT Gets GPT-6 And Intelligent UI For Interactive Answers via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/chatgpt-gpt-6-intelligent-ui/592249/",
+      "summary": "OpenAI is rolling out GPT-6 in ChatGPT with Intelligent UI, which can add visuals and interactive tools to answers.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-gpt-6-intelligent-ui/592249/\">ChatGPT Gets GPT-6 And Intelligent UI For Interactive Answers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-07T21:42:12+00:00",
+      "fetched": "2026-10-08T00:33:05.316937+00:00"
+    },
+    {
+      "id": "dd615130-3457-4bcf-a912-b582f3b209d2",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Opens Its SynthID Watermark Detector To The Public via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-opens-synthid-watermark-detector-to-public/592226/",
+      "summary": "Google opened its SynthID Detector to everyone, allowing users to check images, video, and audio for watermarks from Google and partner AI tools.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-opens-synthid-watermark-detector-to-public/592226/\">Google Opens Its SynthID Watermark Detector To The Public</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-07T19:38:35+00:00",
+      "fetched": "2026-10-08T00:33:05.316963+00:00"
+    },
+    {
+      "id": "ab78c26b-0b8d-4df0-bd56-d3bc0640842f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why Legacy PPC Account Structures Are Sabotaging Your Smart Bidding Strategy",
+      "link": "https://www.searchenginejournal.com/why-legacy-ppc-account-structures-are-sabotaging-your-smart-bidding-strategy/588832/",
+      "summary": "Consolidate redundant PPC campaigns to give Smart Bidding stronger signals without erasing the business distinctions that keep your account profitable.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-legacy-ppc-account-structures-are-sabotaging-your-smart-bidding-strategy/588832/\">Why Legacy PPC Account Structures Are Sabotaging Your Smart Bidding Strategy</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-07T19:00:23+00:00",
+      "fetched": "2026-10-08T00:33:05.316983+00:00"
+    },
+    {
+      "id": "33281a0a-6c9d-4f26-9f88-1d84af89a6cb",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Prediction: The Next Massive Google Update Is Around The Corner via @sejournal, @lilyraynyc",
+      "link": "https://www.searchenginejournal.com/prediction-the-next-massive-google-update-is-around-the-corner/591952/",
+      "summary": "Is another major Google update coming? The documentation changes, spam update pace, and Google's own statements all point the same way.\n\nThe post <a href=\"https://www.searchenginejournal.com/prediction-the-next-massive-google-update-is-around-the-corner/591952/\">Prediction: The Next Massive Google Update Is Around The Corner</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-07T17:30:46+00:00",
+      "fetched": "2026-10-08T00:33:05.317005+00:00"
+    },
+    {
+      "id": "9abd7754-418f-46dd-a455-4843e15c12b3",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Search Is Changing Your Website\u2019s Job, Here\u2019s How To Adapt via @sejournal, @lorenbaker",
+      "link": "https://www.searchenginejournal.com/ai-search-is-changing-the-websites-job-not-replacing-it/592134/",
+      "summary": "Sachin Puri explains why AI discovery makes accurate business information, customer trust, and measurement beyond clicks more important for small businesses.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-search-is-changing-the-websites-job-not-replacing-it/592134/\">AI Search Is Changing Your Website\u2019s Job, Here\u2019s How To Adapt</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-07T13:30:50+00:00",
+      "fetched": "2026-10-08T00:33:05.317024+00:00"
+    },
+    {
+      "id": "063c6dd0-5e09-43d7-8560-78c644432f04",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Business Case For SEO Is Changing; Budget Justifications Should Too via @sejournal, @cshel",
+      "link": "https://www.searchenginejournal.com/the-business-case-for-seo-is-changing-budget-justifications-should-too/590358/",
+      "summary": "Learn how to justify SEO budgets in the AI era by aligning investments with revenue generation, risk reduction, infrastructure, and business value.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-business-case-for-seo-is-changing-budget-justifications-should-too/590358/\">The Business Case For SEO Is Changing; Budget Justifications Should Too</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-07T12:00:32+00:00",
+      "fetched": "2026-10-08T00:33:05.317046+00:00"
+    },
+    {
+      "id": "33463297-9ba0-45b8-8b4b-7686e4cecd7c",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "WordPress Releases Canonical MCP Adapter Plugin via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/wordpress-releases-canonical-mcp-adapter-plugin/592159/",
+      "summary": "WordPress released a canonical MCP Adapter that connects AI with sites while maintaining compatibility across MCP versions.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-releases-canonical-mcp-adapter-plugin/592159/\">WordPress Releases Canonical MCP Adapter Plugin</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-07T10:48:53+00:00",
+      "fetched": "2026-10-08T00:33:05.317062+00:00"
+    },
+    {
+      "id": "2e21b653-8170-4d9a-9ca8-cf6852a0de13",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Search Antitrust Ruling: What Advertisers Should Check Next",
+      "link": "https://www.searchenginejournal.com/google-search-antitrust-ruling-silverarbitration-spa/591591/",
+      "summary": "Federal rulings in 2024 and 2025 examined how Google runs its advertising business.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-search-antitrust-ruling-silverarbitration-spa/591591/\">Google\u2019s Search Antitrust Ruling: What Advertisers Should Check Next</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-07T05:00:12+00:00",
+      "fetched": "2026-10-08T00:33:05.317087+00:00"
+    },
+    {
       "id": "45f749cb-7beb-43ff-92f0-b8eea309e6df",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -131,95 +219,7 @@
       "summary": "Google is fighting back against SERP tracking. The explosion of AI agents may cause it to clamp down harder.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-is-fighting-serp-tracking-ai-agents-may-make-it-worse/592000/\">Google Is Fighting SERP Tracking. AI Agents May Make It Worse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-10-05T21:03:08+00:00",
       "fetched": "2026-10-06T01:35:30.524617+00:00"
-    },
-    {
-      "id": "5e017447-50e3-4b9f-9182-1ba237e37409",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Cites Your Brand: How to Choose Your Next Move via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/ai-cites-your-brand-how-to-choose-your-next-move/589990/",
-      "summary": "AI visibility gaps call for different fixes. Constance Tan shows how to decide between correcting information, earning mentions, creating content, and checking bot access.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-cites-your-brand-how-to-choose-your-next-move/589990/\">AI Cites Your Brand: How to Choose Your Next Move</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-05T16:16:34+00:00",
-      "fetched": "2026-10-06T01:35:30.524630+00:00"
-    },
-    {
-      "id": "9d38692b-3de6-44d1-8644-a2b40ab14ed8",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Hidden Data Layer: What Is It And What To Do About It via @sejournal, @demirie",
-      "link": "https://www.searchenginejournal.com/googles-hidden-data-layer-what-is-it-and-what-to-do-about-it/590234/",
-      "summary": "Trace misleading sale badges and outdated product images to Google's hidden data layer, with checks that go beyond your current feed.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-hidden-data-layer-what-is-it-and-what-to-do-about-it/590234/\">Google&#8217;s Hidden Data Layer: What Is It And What To Do About It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-05T14:30:56+00:00",
-      "fetched": "2026-10-06T01:35:30.524640+00:00"
-    },
-    {
-      "id": "6f2b47b4-0b4e-46b0-b67e-ee87d04b0282",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Build A Content Distribution System That Compounds",
-      "link": "https://www.searchenginejournal.com/how-to-build-a-content-distribution-system-that-compounds/590545/",
-      "summary": "Keep content working long after launch with a distribution owner, a repeatable checklist, and a 90-day plan to earn backlinks and AI citations.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-build-a-content-distribution-system-that-compounds/590545/\">How To Build A Content Distribution System That Compounds</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-05T12:00:27+00:00",
-      "fetched": "2026-10-06T01:35:30.524649+00:00"
-    },
-    {
-      "id": "84575a05-19a9-4ae3-8b79-3e963197761c",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "What To Expect From Google\u2019s Next Search Ranking Update via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/what-to-expect-from-googles-next-search-ranking-update/591928/",
-      "summary": "Google's recent changes provide strong clues about major changes from the next core algorithm update.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-to-expect-from-googles-next-search-ranking-update/591928/\">What To Expect From Google&#8217;s Next Search Ranking Update</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-05T09:42:03+00:00",
-      "fetched": "2026-10-06T01:35:30.524659+00:00"
-    },
-    {
-      "id": "c1acc3dc-ef38-4a9d-b3d8-03a550641561",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Shows How Long Crawling, Indexing & Recovery Can Take via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-crawling-indexing-recovery-timing-ranges/591829/",
-      "summary": "Google's Gary Illyes showed timing ranges for crawling, indexing, site moves, and core update recovery at Search Central Live Deep Dive Europe in Barcelona.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-crawling-indexing-recovery-timing-ranges/591829/\">Google Shows How Long Crawling, Indexing &#038; Recovery Can Take</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-04T20:41:36+00:00",
-      "fetched": "2026-10-04T23:41:56.102625+00:00"
-    },
-    {
-      "id": "d3349cbe-a8a6-4982-aec7-c93e54394256",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Wants AI Content Fact-Checked, Gemini UTM Tags \u2013 SEO Pulse via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-google-ai-content-fact-check-gemini-utm-tags/591787/",
-      "summary": "Google adds fact-checking to its AI content guidance, Gemini links show UTM tags, desktop CTR fell in Q2, and a judge dismisses two AI suits.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-google-ai-content-fact-check-gemini-utm-tags/591787/\">Google Wants AI Content Fact-Checked, Gemini UTM Tags \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-03T12:00:26+00:00",
-      "fetched": "2026-10-03T23:25:40.290192+00:00"
-    },
-    {
-      "id": "f4def721-7dbc-448e-9107-7a96925149de",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Shopify Now Enrolls Your Store In Every New AI Shopping Channel via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/shopify-now-enrolls-your-store-in-every-new-ai-shopping-channel/591049/",
-      "summary": "Shopify merchants: your agentic storefronts setting now shares products with Meta and unnamed startups. Leave it on, and watch what Shopify adds.\n\nThe post <a href=\"https://www.searchenginejournal.com/shopify-now-enrolls-your-store-in-every-new-ai-shopping-channel/591049/\">Shopify Now Enrolls Your Store In Every New AI Shopping Channel</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-02T19:00:52+00:00",
-      "fetched": "2026-10-03T00:03:01.435678+00:00"
-    },
-    {
-      "id": "ffa3f18d-9c0e-455f-aa7c-2b694078f93f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "OpenAI Founding Member: Make LLMs Write Like An Aircraft Manual via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/karpathy-llm-aircraft-manual-writing/591813/",
-      "summary": "Andrej Karpathy suggests asking LLMs to explain topics in an aerospace writing standard, or to answer with diagrams, HTML pages, or custom explainer videos.\n\nThe post <a href=\"https://www.searchenginejournal.com/karpathy-llm-aircraft-manual-writing/591813/\">OpenAI Founding Member: Make LLMs Write Like An Aircraft Manual</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-02T15:49:43+00:00",
-      "fetched": "2026-10-03T00:03:01.435703+00:00"
     }
   ],
-  "last_updated": "2026-10-07T00:13:16.081493+00:00"
+  "last_updated": "2026-10-08T00:33:07.674815+00:00"
 }
