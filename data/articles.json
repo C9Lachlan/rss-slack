@@ -1,6 +1,72 @@
 {
   "articles": [
     {
+      "id": "59f960f9-c4a6-499a-aef3-e011efb3a8dd",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI In Regulated Paid Media: The Default Settings That Put Compliance At Risk via @sejournal, @timothyjjensen",
+      "link": "https://www.searchenginejournal.com/ai-in-regulated-paid-media-the-default-settings-that-put-compliance-at-risk/589188/",
+      "summary": "Understand how to address both ad platform and organizational AI concerns for paid media advertisers in regulated industries\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-in-regulated-paid-media-the-default-settings-that-put-compliance-at-risk/589188/\">AI In Regulated Paid Media: The Default Settings That Put Compliance At Risk</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-08T19:00:44+00:00",
+      "fetched": "2026-10-09T00:48:12.128362+00:00"
+    },
+    {
+      "id": "6cf74787-213a-469b-8512-c55d2630255e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Now Has The Math To Rank Without An Index, And The Results Page Does Not Survive It via @sejournal, @DuaneForrester",
+      "link": "https://www.searchenginejournal.com/google-now-has-the-math-to-rank-without-an-index-and-the-results-page-does-not-survive-it/591945/",
+      "summary": "Google DeepMind proved one model can theoretically rank without a separate index. If it ships, visibility stops being a position and becomes inclusion or absence.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-now-has-the-math-to-rank-without-an-index-and-the-results-page-does-not-survive-it/591945/\">Google Now Has The Math To Rank Without An Index, And The Results Page Does Not Survive It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a",
+      "published": "2026-10-08T14:30:43+00:00",
+      "fetched": "2026-10-09T00:48:12.128390+00:00"
+    },
+    {
+      "id": "3e316aa9-5fc7-46ed-8451-aca48784104f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Scale AI Video Ads For Small Business Clients: One Storyline For TikTok, Reels & AI Search",
+      "link": "https://www.searchenginejournal.com/scale-ai-video-tiktok-leadzai-spa/591522/",
+      "summary": "Explore how to scale AI video ads with a single storyline for TikTok, Reels, and AI search to maximize impact.\n\nThe post <a href=\"https://www.searchenginejournal.com/scale-ai-video-tiktok-leadzai-spa/591522/\">How To Scale AI Video Ads For Small Business Clients: One Storyline For TikTok, Reels &amp; AI Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-08T13:49:33+00:00",
+      "fetched": "2026-10-09T00:48:12.128411+00:00"
+    },
+    {
+      "id": "74132a3a-6761-47d4-950b-5c57200b73d6",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Completes September 2026 Spam Update After Nearly 14 Days via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-september-2026-spam-update-complete/592283/",
+      "summary": "Google's latest spam update has finished rolling out after nearly two weeks, taking longer than any of the three earlier spam updates it ran this year.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-september-2026-spam-update-complete/592283/\">Google Completes September 2026 Spam Update After Nearly 14 Days</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-08T12:58:07+00:00",
+      "fetched": "2026-10-09T00:48:12.128433+00:00"
+    },
+    {
+      "id": "128ccd58-5848-45e5-95e6-37d76a1e4923",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why Google Search Updates Cannot Be Judged During Early Rollout via @sejournal, @TaylorDanRW",
+      "link": "https://www.searchenginejournal.com/why-google-search-updates-cannot-be-judged-during-early-rollout/591345/",
+      "summary": "Avoid costly site changes during a Google spam update by separating early ranking volatility from lasting losses and setting clear milestones for leadership.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-google-search-updates-cannot-be-judged-during-early-rollout/591345/\">Why Google Search Updates Cannot Be Judged During Early Rollout</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-08T12:00:19+00:00",
+      "fetched": "2026-10-09T00:48:12.128451+00:00"
+    },
+    {
+      "id": "2b156a63-5358-496e-b5a9-06fb766a3548",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Link Building Strategies for 2027: What to Keep and Cut via @sejournal, @lorenbaker",
+      "link": "https://www.searchenginejournal.com/link-building-strategies-for-2027-what-to-keep-and-cut/592119/",
+      "summary": "Decide which link building tactics to keep or cut for 2027. Join Resolve for a free webinar on off-page SEO, rankings, and AI visibility.\n\nThe post <a href=\"https://www.searchenginejournal.com/link-building-strategies-for-2027-what-to-keep-and-cut/592119/\">Link Building Strategies for 2027: What to Keep and Cut</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-08T07:45:34+00:00",
+      "fetched": "2026-10-09T00:48:12.128468+00:00"
+    },
+    {
       "id": "be094b68-675c-4352-9cf2-4779e9740611",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -153,73 +219,7 @@
       "summary": "Google is updating Search Console's Performance report filters so you can view combined Google Search traffic for several countries in a single filtered view.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-search-console-multiple-countries-filter/592065/\">Google Search Console Lets You Filter By Multiple Countries</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-10-06T15:53:04+00:00",
       "fetched": "2026-10-07T00:13:14.745721+00:00"
-    },
-    {
-      "id": "fdea2fc5-2fcc-4d05-898c-10d498afd017",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Changed Its Helpful Content Guidelines To Emphasize Good \u2018Main Content\u2019 via @sejournal, @marie_haynes",
-      "link": "https://www.searchenginejournal.com/google-changed-its-helpful-content-guidelines-to-emphasize-good-main-content/591943/",
-      "summary": "Why don't SEOs talk more about Google's helpful content documentation? Its latest update shows exactly what the ranking systems are being trained to reward. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-changed-its-helpful-content-guidelines-to-emphasize-good-main-content/591943/\">Google Changed Its Helpful Content Guidelines To Emphasize Good &#8216;Main Content&#8217;</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-06T14:30:10+00:00",
-      "fetched": "2026-10-07T00:13:14.745737+00:00"
-    },
-    {
-      "id": "7706f91f-1b10-4de0-bdd7-0b6e3632cb2b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Structure A Full-Funnel Ecommerce Account For Q4 via @sejournal, @tonyadam",
-      "link": "https://www.searchenginejournal.com/how-to-structure-a-full-funnel-ecommerce-account-for-q4/589145/",
-      "summary": "Keep Google and Meta from exhausting your ecommerce budget on existing demand by funding prospecting and rebuilding customer exclusions before Q4.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-structure-a-full-funnel-ecommerce-account-for-q4/589145/\">How To Structure A Full-Funnel Ecommerce Account For Q4</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-06T12:00:36+00:00",
-      "fetched": "2026-10-07T00:13:14.745761+00:00"
-    },
-    {
-      "id": "bb801e83-934a-417e-8fd4-b6ccec62c3a3",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Explains The \u201cCouldn\u2019t Fetch\u201d Sitemap Errors via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-explains-couldnt-fetch-sitemap-errors/592040/",
-      "summary": "Google admits a \"couldn't fetch\" sitemap error may have nothing to do with whether Google can actually fetch it.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-explains-couldnt-fetch-sitemap-errors/592040/\">Google Explains The &#8220;Couldn&#8217;t Fetch&#8221; Sitemap Errors</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-06T09:52:43+00:00",
-      "fetched": "2026-10-07T00:13:14.745780+00:00"
-    },
-    {
-      "id": "e16c06d8-fd66-4e36-9cd1-c711f09ee95c",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "OpenAI To Watermark ChatGPT Text In The EU, Opens API Opt-In via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/openai-to-watermark-chatgpt-text-in-the-eu-opens-api-opt-in/592014/",
-      "summary": "OpenAI will add an invisible watermark to ChatGPT and Codex text in the EU. Its tests show editing can weaken it. \n\nThe post <a href=\"https://www.searchenginejournal.com/openai-to-watermark-chatgpt-text-in-the-eu-opens-api-opt-in/592014/\">OpenAI To Watermark ChatGPT Text In The EU, Opens API Opt-In</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-06T01:07:32+00:00",
-      "fetched": "2026-10-06T01:35:30.524589+00:00"
-    },
-    {
-      "id": "4305b1c8-d03d-4c3d-8fbe-dcfe2783ce0d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Mueller Says AI Crawlers Access Sitemaps & RSS In His Logs via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/googles-mueller-says-ai-crawlers-access-sitemaps-rss-in-his-logs/592012/",
-      "summary": "Google's John Mueller says AI training crawlers usually don't offer sitemap submission and suggests default sitemap names or RSS feeds to help them find sites.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-mueller-says-ai-crawlers-access-sitemaps-rss-in-his-logs/592012/\">Google&#8217;s Mueller Says AI Crawlers Access Sitemaps &#038; RSS In His Logs</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-05T22:47:18+00:00",
-      "fetched": "2026-10-06T01:35:30.524606+00:00"
-    },
-    {
-      "id": "9e067533-8c62-4035-b934-b1eaab21a108",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Is Fighting SERP Tracking. AI Agents May Make It Worse via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-is-fighting-serp-tracking-ai-agents-may-make-it-worse/592000/",
-      "summary": "Google is fighting back against SERP tracking. The explosion of AI agents may cause it to clamp down harder.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-is-fighting-serp-tracking-ai-agents-may-make-it-worse/592000/\">Google Is Fighting SERP Tracking. AI Agents May Make It Worse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-05T21:03:08+00:00",
-      "fetched": "2026-10-06T01:35:30.524617+00:00"
     }
   ],
-  "last_updated": "2026-10-08T00:33:07.674815+00:00"
+  "last_updated": "2026-10-09T00:48:13.178065+00:00"
 }
