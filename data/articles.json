@@ -1,6 +1,50 @@
 {
   "articles": [
     {
+      "id": "a9d45231-2e63-4458-b890-3fae3aa6fe5d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Explains How To Use HTML Sitemaps For SEO via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-explains-how-to-use-html-sitemaps-for-seo/592508/",
+      "summary": "Google explains why HTML sitemaps may still be useful even though the XML standard has largely replaced it.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-explains-how-to-use-html-sitemaps-for-seo/592508/\">Google Explains How To Use HTML Sitemaps For SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-09T21:31:30+00:00",
+      "fetched": "2026-10-10T00:22:37.043103+00:00"
+    },
+    {
+      "id": "d65b1c98-38ff-4774-bc04-08fed917d80d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Overviews Have Spread To Most Big-Brand Searches via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/ai-overviews-big-brand-searches/592280/",
+      "summary": "Recent tracking data found AI Overviews on most brand-name searches it checked.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-overviews-big-brand-searches/592280/\">AI Overviews Have Spread To Most Big-Brand Searches</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-09T12:00:00+00:00",
+      "fetched": "2026-10-10T00:22:37.043124+00:00"
+    },
+    {
+      "id": "8a4a0b72-8545-4b5f-9645-6b134707acf9",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Claude\u2019s New Rules Target Fake Sources Built To Sway AI Answers via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/claude-rules-fake-sources-ai-answers/592456/",
+      "summary": "Anthropic's updated usage policy names seeding search and AI answer sources with misleading content, and drops automated publishing from its high-risk list.\n\nThe post <a href=\"https://www.searchenginejournal.com/claude-rules-fake-sources-ai-answers/592456/\">Claude&#8217;s New Rules Target Fake Sources Built To Sway AI Answers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-09T08:00:16+00:00",
+      "fetched": "2026-10-10T00:22:37.043138+00:00"
+    },
+    {
+      "id": "fa6cf61f-bf9e-4447-afa6-dc6dbd06517e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Jetpack 16.3 WordPress Plugin Update Is A Winner via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/jetpack-16-3-wordpress-plugin-update-is-a-winner/592452/",
+      "summary": "Jetpack announced the release of version 16.3, a major update that adds three new blocks, expands existing features, improves accessibility and security, and reorganizes settings to bring related controls together in the user interface. Three New Blocks That Add Useful Functionalities Jetpack 16.3 introduces three new blocks that make it easier to showcase video content, help visitors discover videos, and schedule appointments directly on a website. 1. Latest Videos Playlist Block Automatically ",
+      "published": "2026-10-09T05:06:52+00:00",
+      "fetched": "2026-10-10T00:22:37.043181+00:00"
+    },
+    {
       "id": "59f960f9-c4a6-499a-aef3-e011efb3a8dd",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -175,51 +219,7 @@
       "summary": "Here's how one technical SEO splits audit work: deterministic checks for facts, a local LLM to explain them, and a human to judge.\n\nThe post <a href=\"https://www.searchenginejournal.com/using-ai-to-assist-with-seo-work-not-replace-the-worker/591045/\">Using AI To Assist With SEO Work, Not Replace The Worker</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-10-06T19:00:47+00:00",
       "fetched": "2026-10-07T00:13:14.745645+00:00"
-    },
-    {
-      "id": "b172d5e7-3162-4aae-869f-9664fffd7f2c",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "OpenAI To Test Visual Ads In ChatGPT Image Generation via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/openai-chatgpt-image-generation-visual-ads-test/591981/",
-      "summary": "OpenAI plans a limited U.S. test of visual ads during image generation, alongside measurement updates that give advertisers more ways to assess results.\n\nThe post <a href=\"https://www.searchenginejournal.com/openai-chatgpt-image-generation-visual-ads-test/591981/\">OpenAI To Test Visual Ads In ChatGPT Image Generation</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-06T17:21:56+00:00",
-      "fetched": "2026-10-07T00:13:14.745665+00:00"
-    },
-    {
-      "id": "6583955c-8028-46a7-9c87-73afa6862ea2",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Opens Search Profiles In India & Canada, Brazil Next via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-search-profiles-india-canada-brazil/592092/",
-      "summary": "Google is opening Search profiles to creators and publishers in India and Canada, with Brazil to follow soon.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-search-profiles-india-canada-brazil/592092/\">Google Opens Search Profiles In India &#038; Canada, Brazil Next</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-06T17:12:37+00:00",
-      "fetched": "2026-10-07T00:13:14.745687+00:00"
-    },
-    {
-      "id": "abf0a452-1bd0-4436-8d3d-64d49c9fd198",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Data Shows Which Negative Search Results Can Actually Be Removed via @sejournal, @EraseDotCom",
-      "link": "https://www.searchenginejournal.com/negative-search-result-removal-erase-spa/590856/",
-      "summary": "Learn how to address negative search results and identify which links can be removed or hidden effectively.\n\nThe post <a href=\"https://www.searchenginejournal.com/negative-search-result-removal-erase-spa/590856/\">Data Shows Which Negative Search Results Can Actually Be Removed</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-06T17:00:45+00:00",
-      "fetched": "2026-10-07T00:13:14.745704+00:00"
-    },
-    {
-      "id": "2178b290-b924-41aa-bc5b-31d58c64956a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Search Console Lets You Filter By Multiple Countries via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-search-console-multiple-countries-filter/592065/",
-      "summary": "Google is updating Search Console's Performance report filters so you can view combined Google Search traffic for several countries in a single filtered view.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-search-console-multiple-countries-filter/592065/\">Google Search Console Lets You Filter By Multiple Countries</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-06T15:53:04+00:00",
-      "fetched": "2026-10-07T00:13:14.745721+00:00"
     }
   ],
-  "last_updated": "2026-10-09T00:48:13.178065+00:00"
+  "last_updated": "2026-10-10T00:22:38.606083+00:00"
 }
