@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": "24080f2a-959b-476d-84fa-b9ccd5562870",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Ends Spam Update, Shares Crawl Timing Ranges \u2013 SEO Pulse via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/seo-pulse-google-spam-update-crawl-timing-ranges/592469/",
+      "summary": "Google's spam update finishes, a talk recap puts site moves in months, Search Console combines countries, and new guidance targets fake author profiles.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-google-spam-update-crawl-timing-ranges/592469/\">Google Ends Spam Update, Shares Crawl Timing Ranges \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-10T12:00:00+00:00",
+      "fetched": "2026-10-10T23:57:18.952754+00:00"
+    },
+    {
       "id": "a9d45231-2e63-4458-b890-3fae3aa6fe5d",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -208,18 +219,7 @@
       "summary": "WordPress 7.1.3 fixes seven security vulnerabilities and a critical bug affecting image uploads that can result in a fatal error.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-7-1-3-fixes-7-vulnerabilities-and-1-critical-flaw/592109/\">WordPress 7.1.3 Fixes 7 Vulnerabilities And 1 Critical Flaw</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-10-06T20:05:17+00:00",
       "fetched": "2026-10-07T00:13:14.745620+00:00"
-    },
-    {
-      "id": "4bf4d792-b7ce-4285-b810-8a1ee49524f1",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Using AI To Assist With SEO Work, Not Replace The Worker via @sejournal, @chrisgreenseo",
-      "link": "https://www.searchenginejournal.com/using-ai-to-assist-with-seo-work-not-replace-the-worker/591045/",
-      "summary": "Here's how one technical SEO splits audit work: deterministic checks for facts, a local LLM to explain them, and a human to judge.\n\nThe post <a href=\"https://www.searchenginejournal.com/using-ai-to-assist-with-seo-work-not-replace-the-worker/591045/\">Using AI To Assist With SEO Work, Not Replace The Worker</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-06T19:00:47+00:00",
-      "fetched": "2026-10-07T00:13:14.745645+00:00"
     }
   ],
-  "last_updated": "2026-10-10T00:22:38.606083+00:00"
+  "last_updated": "2026-10-10T23:57:20.287962+00:00"
 }
