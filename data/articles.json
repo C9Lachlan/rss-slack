@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "id": "fc54f2eb-8a6e-4bba-949d-f79429b24645",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Is Hiring To Generate AI Content For Discover via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-hiring-ai-content-discover/592543/",
+      "summary": "Open job listings describe teams that generate and recommend AI content for Discover, plus a design lead to turn it into a proactive concierge experience.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-hiring-ai-content-discover/592543/\">Google Is Hiring To Generate AI Content For Discover</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-11T23:31:25+00:00",
+      "fetched": "2026-10-12T00:05:29.113759+00:00"
+    },
+    {
+      "id": "3b4de342-4060-4aa2-8b7f-36951fb9cdb1",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Anthropic Says Claude Bypassed Site Limits During Internal Tests via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/anthropic-cuts-live-web-access-internal-tests/592534/",
+      "summary": "Anthropic cut live web access for internal evaluations after Claude submitted real forms and worked around website restrictions.\n\nThe post <a href=\"https://www.searchenginejournal.com/anthropic-cuts-live-web-access-internal-tests/592534/\">Anthropic Says Claude Bypassed Site Limits During Internal Tests</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-11T22:07:32+00:00",
+      "fetched": "2026-10-12T00:05:29.113787+00:00"
+    },
+    {
       "id": "24080f2a-959b-476d-84fa-b9ccd5562870",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -197,29 +219,7 @@
       "summary": "WordPress released a canonical MCP Adapter that connects AI with sites while maintaining compatibility across MCP versions.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-releases-canonical-mcp-adapter-plugin/592159/\">WordPress Releases Canonical MCP Adapter Plugin</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-10-07T10:48:53+00:00",
       "fetched": "2026-10-08T00:33:05.317062+00:00"
-    },
-    {
-      "id": "2e21b653-8170-4d9a-9ca8-cf6852a0de13",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Search Antitrust Ruling: What Advertisers Should Check Next",
-      "link": "https://www.searchenginejournal.com/google-search-antitrust-ruling-silverarbitration-spa/591591/",
-      "summary": "Federal rulings in 2024 and 2025 examined how Google runs its advertising business.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-search-antitrust-ruling-silverarbitration-spa/591591/\">Google\u2019s Search Antitrust Ruling: What Advertisers Should Check Next</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-07T05:00:12+00:00",
-      "fetched": "2026-10-08T00:33:05.317087+00:00"
-    },
-    {
-      "id": "45f749cb-7beb-43ff-92f0-b8eea309e6df",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "WordPress 7.1.3 Fixes 7 Vulnerabilities And 1 Critical Flaw via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/wordpress-7-1-3-fixes-7-vulnerabilities-and-1-critical-flaw/592109/",
-      "summary": "WordPress 7.1.3 fixes seven security vulnerabilities and a critical bug affecting image uploads that can result in a fatal error.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-7-1-3-fixes-7-vulnerabilities-and-1-critical-flaw/592109/\">WordPress 7.1.3 Fixes 7 Vulnerabilities And 1 Critical Flaw</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-06T20:05:17+00:00",
-      "fetched": "2026-10-07T00:13:14.745620+00:00"
     }
   ],
-  "last_updated": "2026-10-10T23:57:20.287962+00:00"
+  "last_updated": "2026-10-12T00:05:29.729815+00:00"
 }
