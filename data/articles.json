@@ -1,6 +1,83 @@
 {
   "articles": [
     {
+      "id": "89579216-905b-498a-a7ef-3d06eb3a9128",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "YouTube To Test Ask YouTube Inside The Shorts Player via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/youtube-test-ask-youtube-shorts-player/592723/",
+      "summary": "YouTube is planning a limited, English-only test of Ask YouTube on select Shorts and says the watch-page feature will soon reach Shorts and live streams.\n\nThe post <a href=\"https://www.searchenginejournal.com/youtube-test-ask-youtube-shorts-player/592723/\">YouTube To Test Ask YouTube Inside The Shorts Player</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-12T22:16:40+00:00",
+      "fetched": "2026-10-13T02:18:16.527172+00:00"
+    },
+    {
+      "id": "5eb6eb93-a8de-40ba-9584-856ee38a69ae",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "All In One SEO WordPress Plugin Vulnerable To Two Exploits via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/all-in-one-seo-wordpress-plugin-vulnerable-to-two-exploits/592719/",
+      "summary": "AIOSEO WordPress Plugin has two medium-severity security flaws that enable unauthenticated attackers to compromise affected websites.\n\nThe post <a href=\"https://www.searchenginejournal.com/all-in-one-seo-wordpress-plugin-vulnerable-to-two-exploits/592719/\">All In One SEO WordPress Plugin Vulnerable To Two Exploits</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-12T21:51:53+00:00",
+      "fetched": "2026-10-13T02:18:16.527192+00:00"
+    },
+    {
+      "id": "c625eb1a-37b2-4d55-a484-f81838566bc3",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "ChatGPT\u2019s Most-Cited Sites Tilt Toward Primary Sources, Data Shows via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/chatgpt-most-cited-sites-primary-sources-ahrefs/592682/",
+      "summary": "Government health, research, and regulator sites climbed ChatGPT's U.S. citation ranks while explainers fell.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-most-cited-sites-primary-sources-ahrefs/592682/\">ChatGPT&#8217;s Most-Cited Sites Tilt Toward Primary Sources, Data Shows</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-12T18:41:59+00:00",
+      "fetched": "2026-10-13T02:18:16.527208+00:00"
+    },
+    {
+      "id": "931aebc3-9b85-42d1-abc8-10fe9af0664b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Negative Signals, Positive Intent: PPC Leads Hiding In \u2018Cancel\u2019 Searches",
+      "link": "https://www.searchenginejournal.com/negative-signals-positive-intent-ppc-leads-hiding-in-cancel-searches/590734/",
+      "summary": "Turn competitor complaints and cancellation searches into PPC leads with tailored offers that address customer frustrations and make switching easier.\n\nThe post <a href=\"https://www.searchenginejournal.com/negative-signals-positive-intent-ppc-leads-hiding-in-cancel-searches/590734/\">Negative Signals, Positive Intent: PPC Leads Hiding In &#8216;Cancel&#8217; Searches</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-12T14:30:17+00:00",
+      "fetched": "2026-10-13T02:18:16.527225+00:00"
+    },
+    {
+      "id": "5d6d9be8-e78c-4749-a44e-86af5852f6c7",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Your First 30 Days As A Growth Leader \u2013 The Challenge From Day One",
+      "link": "https://www.searchenginejournal.com/your-first-30-days-as-a-growth-leader-the-challenge-from-day-one/591036/",
+      "summary": "Use your first 30 days as a growth leader to identify where B2B buyers lose trust and rethink the channels meant to engage them.\n\nThe post <a href=\"https://www.searchenginejournal.com/your-first-30-days-as-a-growth-leader-the-challenge-from-day-one/591036/\">Your First 30 Days As A Growth Leader \u2013 The Challenge From Day One</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-12T12:00:07+00:00",
+      "fetched": "2026-10-13T02:18:16.527240+00:00"
+    },
+    {
+      "id": "6f91ee8c-fe84-46b1-b63e-c57db5d2c436",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Discover To Undergo Dramatic Changes via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-discover-to-undergo-dramatic-changes/592626/",
+      "summary": "Google is planning to reinvent Discover to become an AI Concierge with a tighter integration with YouTube.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-discover-to-undergo-dramatic-changes/592626/\">Google Discover To Undergo Dramatic Changes</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-12T11:13:13+00:00",
+      "fetched": "2026-10-13T02:18:16.527253+00:00"
+    },
+    {
+      "id": "a3c60abf-7fbb-475e-9792-2030b55cfd2d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Anthropic\u2019s Thariq Shihipar Recommends Using Artifacts via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/anthropics-thariq-shihipar-recommends-using-artifacts/592550/",
+      "summary": "Anthropic's Thariq Shihipar says Artifacts brings project information and agent activity into one interface, giving users more oversight.\n\nThe post <a href=\"https://www.searchenginejournal.com/anthropics-thariq-shihipar-recommends-using-artifacts/592550/\">Anthropic&#8217;s Thariq Shihipar Recommends Using Artifacts</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-12T09:31:25+00:00",
+      "fetched": "2026-10-13T02:18:16.527265+00:00"
+    },
+    {
       "id": "fc54f2eb-8a6e-4bba-949d-f79429b24645",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -142,84 +219,7 @@
       "summary": "Decide which link building tactics to keep or cut for 2027. Join Resolve for a free webinar on off-page SEO, rankings, and AI visibility.\n\nThe post <a href=\"https://www.searchenginejournal.com/link-building-strategies-for-2027-what-to-keep-and-cut/592119/\">Link Building Strategies for 2027: What to Keep and Cut</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-10-08T07:45:34+00:00",
       "fetched": "2026-10-09T00:48:12.128468+00:00"
-    },
-    {
-      "id": "be094b68-675c-4352-9cf2-4779e9740611",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "ChatGPT Gets GPT-6 And Intelligent UI For Interactive Answers via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/chatgpt-gpt-6-intelligent-ui/592249/",
-      "summary": "OpenAI is rolling out GPT-6 in ChatGPT with Intelligent UI, which can add visuals and interactive tools to answers.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-gpt-6-intelligent-ui/592249/\">ChatGPT Gets GPT-6 And Intelligent UI For Interactive Answers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-07T21:42:12+00:00",
-      "fetched": "2026-10-08T00:33:05.316937+00:00"
-    },
-    {
-      "id": "dd615130-3457-4bcf-a912-b582f3b209d2",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Opens Its SynthID Watermark Detector To The Public via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-opens-synthid-watermark-detector-to-public/592226/",
-      "summary": "Google opened its SynthID Detector to everyone, allowing users to check images, video, and audio for watermarks from Google and partner AI tools.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-opens-synthid-watermark-detector-to-public/592226/\">Google Opens Its SynthID Watermark Detector To The Public</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-07T19:38:35+00:00",
-      "fetched": "2026-10-08T00:33:05.316963+00:00"
-    },
-    {
-      "id": "ab78c26b-0b8d-4df0-bd56-d3bc0640842f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why Legacy PPC Account Structures Are Sabotaging Your Smart Bidding Strategy",
-      "link": "https://www.searchenginejournal.com/why-legacy-ppc-account-structures-are-sabotaging-your-smart-bidding-strategy/588832/",
-      "summary": "Consolidate redundant PPC campaigns to give Smart Bidding stronger signals without erasing the business distinctions that keep your account profitable.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-legacy-ppc-account-structures-are-sabotaging-your-smart-bidding-strategy/588832/\">Why Legacy PPC Account Structures Are Sabotaging Your Smart Bidding Strategy</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-07T19:00:23+00:00",
-      "fetched": "2026-10-08T00:33:05.316983+00:00"
-    },
-    {
-      "id": "33281a0a-6c9d-4f26-9f88-1d84af89a6cb",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Prediction: The Next Massive Google Update Is Around The Corner via @sejournal, @lilyraynyc",
-      "link": "https://www.searchenginejournal.com/prediction-the-next-massive-google-update-is-around-the-corner/591952/",
-      "summary": "Is another major Google update coming? The documentation changes, spam update pace, and Google's own statements all point the same way.\n\nThe post <a href=\"https://www.searchenginejournal.com/prediction-the-next-massive-google-update-is-around-the-corner/591952/\">Prediction: The Next Massive Google Update Is Around The Corner</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-07T17:30:46+00:00",
-      "fetched": "2026-10-08T00:33:05.317005+00:00"
-    },
-    {
-      "id": "9abd7754-418f-46dd-a455-4843e15c12b3",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Search Is Changing Your Website\u2019s Job, Here\u2019s How To Adapt via @sejournal, @lorenbaker",
-      "link": "https://www.searchenginejournal.com/ai-search-is-changing-the-websites-job-not-replacing-it/592134/",
-      "summary": "Sachin Puri explains why AI discovery makes accurate business information, customer trust, and measurement beyond clicks more important for small businesses.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-search-is-changing-the-websites-job-not-replacing-it/592134/\">AI Search Is Changing Your Website\u2019s Job, Here\u2019s How To Adapt</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-07T13:30:50+00:00",
-      "fetched": "2026-10-08T00:33:05.317024+00:00"
-    },
-    {
-      "id": "063c6dd0-5e09-43d7-8560-78c644432f04",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Business Case For SEO Is Changing; Budget Justifications Should Too via @sejournal, @cshel",
-      "link": "https://www.searchenginejournal.com/the-business-case-for-seo-is-changing-budget-justifications-should-too/590358/",
-      "summary": "Learn how to justify SEO budgets in the AI era by aligning investments with revenue generation, risk reduction, infrastructure, and business value.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-business-case-for-seo-is-changing-budget-justifications-should-too/590358/\">The Business Case For SEO Is Changing; Budget Justifications Should Too</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-07T12:00:32+00:00",
-      "fetched": "2026-10-08T00:33:05.317046+00:00"
-    },
-    {
-      "id": "33463297-9ba0-45b8-8b4b-7686e4cecd7c",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "WordPress Releases Canonical MCP Adapter Plugin via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/wordpress-releases-canonical-mcp-adapter-plugin/592159/",
-      "summary": "WordPress released a canonical MCP Adapter that connects AI with sites while maintaining compatibility across MCP versions.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-releases-canonical-mcp-adapter-plugin/592159/\">WordPress Releases Canonical MCP Adapter Plugin</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-07T10:48:53+00:00",
-      "fetched": "2026-10-08T00:33:05.317062+00:00"
     }
   ],
-  "last_updated": "2026-10-12T00:05:29.729815+00:00"
+  "last_updated": "2026-10-13T02:18:18.754390+00:00"
 }
