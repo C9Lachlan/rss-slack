@@ -1,6 +1,105 @@
 {
   "articles": [
     {
+      "id": "6114fad2-76ea-4c6f-af01-fea02bbd0f04",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Launches A Video Series For Odd Technical SEO Questions via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-launches-a-video-series-for-odd-technical-seo-questions/592952/",
+      "summary": "Google's new Search Central video series tackles unusual technical SEO questions, starting with emoji, non-English characters, and keywords in your URLs.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-launches-a-video-series-for-odd-technical-seo-questions/592952/\">Google Launches A Video Series For Odd Technical SEO Questions</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-14T18:51:41+00:00",
+      "fetched": "2026-10-14T23:31:59.688386+00:00"
+    },
+    {
+      "id": "6824dae6-905c-4cde-a76e-31dff4b3b9de",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Ads Introduces Channel Prioritization And Budget Allocation via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/google-ads-introduces-channel-prioritization-and-budget-allocation/592833/",
+      "summary": "Google Ads introduces channel prioritization and budget allocation controls, giving advertisers more flexibility over spending across Search, Performance Max, and other campaigns.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ads-introduces-channel-prioritization-and-budget-allocation/592833/\">Google Ads Introduces Channel Prioritization And Budget Allocation</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-14T15:00:33+00:00",
+      "fetched": "2026-10-14T23:31:59.688404+00:00"
+    },
+    {
+      "id": "cbb5be16-3020-4da0-8ab3-1dd1992983eb",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why SEO Isn\u2019t Enough Anymore \u2013 And Why That\u2019s A Good Thing",
+      "link": "https://www.searchenginejournal.com/why-seo-isnt-enough-anymore-and-why-thats-a-good-thing/592601/",
+      "summary": "If search is your only presence, you\u2019re exposed. Google has been purging SEO-first sites since the Helpful Content Update. Here\u2019s what replaces them.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-seo-isnt-enough-anymore-and-why-thats-a-good-thing/592601/\">Why SEO Isn\u2019t Enough Anymore \u2013 And Why That\u2019s A Good Thing</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-14T14:00:20+00:00",
+      "fetched": "2026-10-14T23:31:59.688417+00:00"
+    },
+    {
+      "id": "65dc4c5d-d7b7-4d96-9ffa-2e29ef2d9886",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Remove Negative Search Results: What 22,620 Links Reveal via @sejournal, @EraseDotCom",
+      "link": "https://www.searchenginejournal.com/negative-search-result-removal-erase-spa/590856/",
+      "summary": "Learn how to address negative search results and identify which links can be removed or hidden effectively.\n\nThe post <a href=\"https://www.searchenginejournal.com/negative-search-result-removal-erase-spa/590856/\">How To Remove Negative Search Results: What 22,620 Links Reveal</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-14T13:50:53+00:00",
+      "fetched": "2026-10-14T23:31:59.688432+00:00"
+    },
+    {
+      "id": "9a521037-6f6e-4ad1-b471-6099281fe411",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Your Store Is \u2018Agent-Ready\u2019 By Default, We Tested 122 Shopify Stores To See What That Actually Means via @sejournal, @billhunt",
+      "link": "https://www.searchenginejournal.com/your-store-is-agent-ready-by-default-we-tested-122-shopify-stores/591767/",
+      "summary": "A store can look agent-ready by default and still fail the moment a buyer asks about shipping, pickup, or cancellation. Here's what to verify.\n\nThe post <a href=\"https://www.searchenginejournal.com/your-store-is-agent-ready-by-default-we-tested-122-shopify-stores/591767/\">Your Store Is &#8216;Agent-Ready&#8217; By Default, We Tested 122 Shopify Stores To See What That Actually Means</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-14T12:00:06+00:00",
+      "fetched": "2026-10-14T23:31:59.688442+00:00"
+    },
+    {
+      "id": "61809551-7d93-4a6d-a644-05afff79da91",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Explains How They Rank PDFs And What It Means For SEO/GEO via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-explains-how-they-rank-pdfs-and-what-it-means-for-seo-geo/592902/",
+      "summary": "Google explains how it ranks PDFs in Search and AI Mode and how to check if a PDF is SEO friendly.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-explains-how-they-rank-pdfs-and-what-it-means-for-seo-geo/592902/\">Google Explains How They Rank PDFs And What It Means For SEO/GEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-14T09:50:10+00:00",
+      "fetched": "2026-10-14T23:31:59.688452+00:00"
+    },
+    {
+      "id": "1e8a1cb1-08d5-4883-a0e4-c43d3b000edd",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Analysis: Google Is Poisoning Search Results For Rank Trackers via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/analysis-google-is-poisoning-search-results-for-rank-trackers/592873/",
+      "summary": "Google\u2019s reported search results poisoning undermines confidence in SEO data that businesses use to make decisions.\n\nThe post <a href=\"https://www.searchenginejournal.com/analysis-google-is-poisoning-search-results-for-rank-trackers/592873/\">Analysis: Google Is Poisoning Search Results For Rank Trackers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-14T09:17:05+00:00",
+      "fetched": "2026-10-14T23:31:59.688462+00:00"
+    },
+    {
+      "id": "2c40191a-2e4b-4566-bd49-7e2a932e2a1c",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Help AI Shopping Agents Find Your Products [Webinar] via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/how-to-help-ai-shopping-agents-find-your-products/592677/",
+      "summary": "Join seoClarity on October 28 at 2 p.m. ET to learn how product-page language, competitor recommendations, and readable product data affect AI shopping discovery.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-help-ai-shopping-agents-find-your-products/592677/\">How To Help AI Shopping Agents Find Your Products [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-14T07:45:07+00:00",
+      "fetched": "2026-10-14T23:31:59.688478+00:00"
+    },
+    {
+      "id": "e8446b73-e4a9-45e2-a105-6194bc9495f2",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Bing Webmaster Tools Sorts AI Search Queries Into Topics via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/bing-webmaster-tools-topics-portfolio-ai-performance/592874/",
+      "summary": "Bing's AI Performance report adds a view that sorts cited queries into topics and lists queries where other sites are cited but your site isn't.\n\nThe post <a href=\"https://www.searchenginejournal.com/bing-webmaster-tools-topics-portfolio-ai-performance/592874/\">Bing Webmaster Tools Sorts AI Search Queries Into Topics</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-14T00:19:30+00:00",
+      "fetched": "2026-10-14T23:31:59.688489+00:00"
+    },
+    {
       "id": "8045d62f-2f57-4d80-9c3f-2a2e04aebda5",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -120,106 +219,7 @@
       "summary": "Google is planning to reinvent Discover to become an AI Concierge with a tighter integration with YouTube.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-discover-to-undergo-dramatic-changes/592626/\">Google Discover To Undergo Dramatic Changes</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-10-12T11:13:13+00:00",
       "fetched": "2026-10-13T02:18:16.527253+00:00"
-    },
-    {
-      "id": "a3c60abf-7fbb-475e-9792-2030b55cfd2d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Anthropic\u2019s Thariq Shihipar Recommends Using Artifacts via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/anthropics-thariq-shihipar-recommends-using-artifacts/592550/",
-      "summary": "Anthropic's Thariq Shihipar says Artifacts brings project information and agent activity into one interface, giving users more oversight.\n\nThe post <a href=\"https://www.searchenginejournal.com/anthropics-thariq-shihipar-recommends-using-artifacts/592550/\">Anthropic&#8217;s Thariq Shihipar Recommends Using Artifacts</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-12T09:31:25+00:00",
-      "fetched": "2026-10-13T02:18:16.527265+00:00"
-    },
-    {
-      "id": "fc54f2eb-8a6e-4bba-949d-f79429b24645",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Is Hiring To Generate AI Content For Discover via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-hiring-ai-content-discover/592543/",
-      "summary": "Open job listings describe teams that generate and recommend AI content for Discover, plus a design lead to turn it into a proactive concierge experience.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-hiring-ai-content-discover/592543/\">Google Is Hiring To Generate AI Content For Discover</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-11T23:31:25+00:00",
-      "fetched": "2026-10-12T00:05:29.113759+00:00"
-    },
-    {
-      "id": "3b4de342-4060-4aa2-8b7f-36951fb9cdb1",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Anthropic Says Claude Bypassed Site Limits During Internal Tests via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/anthropic-cuts-live-web-access-internal-tests/592534/",
-      "summary": "Anthropic cut live web access for internal evaluations after Claude submitted real forms and worked around website restrictions.\n\nThe post <a href=\"https://www.searchenginejournal.com/anthropic-cuts-live-web-access-internal-tests/592534/\">Anthropic Says Claude Bypassed Site Limits During Internal Tests</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-11T22:07:32+00:00",
-      "fetched": "2026-10-12T00:05:29.113787+00:00"
-    },
-    {
-      "id": "24080f2a-959b-476d-84fa-b9ccd5562870",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Ends Spam Update, Shares Crawl Timing Ranges \u2013 SEO Pulse via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-google-spam-update-crawl-timing-ranges/592469/",
-      "summary": "Google's spam update finishes, a talk recap puts site moves in months, Search Console combines countries, and new guidance targets fake author profiles.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-google-spam-update-crawl-timing-ranges/592469/\">Google Ends Spam Update, Shares Crawl Timing Ranges \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-10T12:00:00+00:00",
-      "fetched": "2026-10-10T23:57:18.952754+00:00"
-    },
-    {
-      "id": "a9d45231-2e63-4458-b890-3fae3aa6fe5d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Explains How To Use HTML Sitemaps For SEO via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-explains-how-to-use-html-sitemaps-for-seo/592508/",
-      "summary": "Google explains why HTML sitemaps may still be useful even though the XML standard has largely replaced it.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-explains-how-to-use-html-sitemaps-for-seo/592508/\">Google Explains How To Use HTML Sitemaps For SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-09T21:31:30+00:00",
-      "fetched": "2026-10-10T00:22:37.043103+00:00"
-    },
-    {
-      "id": "d65b1c98-38ff-4774-bc04-08fed917d80d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Overviews Have Spread To Most Big-Brand Searches via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/ai-overviews-big-brand-searches/592280/",
-      "summary": "Recent tracking data found AI Overviews on most brand-name searches it checked.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-overviews-big-brand-searches/592280/\">AI Overviews Have Spread To Most Big-Brand Searches</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-09T12:00:00+00:00",
-      "fetched": "2026-10-10T00:22:37.043124+00:00"
-    },
-    {
-      "id": "8a4a0b72-8545-4b5f-9645-6b134707acf9",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Claude\u2019s New Rules Target Fake Sources Built To Sway AI Answers via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/claude-rules-fake-sources-ai-answers/592456/",
-      "summary": "Anthropic's updated usage policy names seeding search and AI answer sources with misleading content, and drops automated publishing from its high-risk list.\n\nThe post <a href=\"https://www.searchenginejournal.com/claude-rules-fake-sources-ai-answers/592456/\">Claude&#8217;s New Rules Target Fake Sources Built To Sway AI Answers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-09T08:00:16+00:00",
-      "fetched": "2026-10-10T00:22:37.043138+00:00"
-    },
-    {
-      "id": "fa6cf61f-bf9e-4447-afa6-dc6dbd06517e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Jetpack 16.3 WordPress Plugin Update Is A Winner via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/jetpack-16-3-wordpress-plugin-update-is-a-winner/592452/",
-      "summary": "Jetpack announced the release of version 16.3, a major update that adds three new blocks, expands existing features, improves accessibility and security, and reorganizes settings to bring related controls together in the user interface. Three New Blocks That Add Useful Functionalities Jetpack 16.3 introduces three new blocks that make it easier to showcase video content, help visitors discover videos, and schedule appointments directly on a website. 1. Latest Videos Playlist Block Automatically ",
-      "published": "2026-10-09T05:06:52+00:00",
-      "fetched": "2026-10-10T00:22:37.043181+00:00"
-    },
-    {
-      "id": "59f960f9-c4a6-499a-aef3-e011efb3a8dd",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI In Regulated Paid Media: The Default Settings That Put Compliance At Risk via @sejournal, @timothyjjensen",
-      "link": "https://www.searchenginejournal.com/ai-in-regulated-paid-media-the-default-settings-that-put-compliance-at-risk/589188/",
-      "summary": "Understand how to address both ad platform and organizational AI concerns for paid media advertisers in regulated industries\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-in-regulated-paid-media-the-default-settings-that-put-compliance-at-risk/589188/\">AI In Regulated Paid Media: The Default Settings That Put Compliance At Risk</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-08T19:00:44+00:00",
-      "fetched": "2026-10-09T00:48:12.128362+00:00"
     }
   ],
-  "last_updated": "2026-10-14T00:00:53.687590+00:00"
+  "last_updated": "2026-10-14T23:32:00.773859+00:00"
 }
