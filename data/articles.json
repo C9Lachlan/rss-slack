@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "8045d62f-2f57-4d80-9c3f-2a2e04aebda5",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Adds Experimental Soft Navigation Metrics To CrUX via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-experimental-soft-navigation-metrics-crux/592820/",
+      "summary": "Experimental Core Web Vitals that count in-app page changes are now in the Chrome UX Report, with Search Console set to follow.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-experimental-soft-navigation-metrics-crux/592820/\">Google Adds Experimental Soft Navigation Metrics To CrUX</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-13T21:31:39+00:00",
+      "fetched": "2026-10-14T00:00:52.896993+00:00"
+    },
+    {
+      "id": "755a64b0-7541-49f8-be47-588c5add2576",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Adds Gemini 4 Argon To AI Mode For Pro & Ultra Subscribers via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-gemini-4-argon-ai-mode/592806/",
+      "summary": "Google added Gemini 4 Argon to AI Mode for paid subscribers and opened the model to developers, enterprises, and the Gemini app.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-gemini-4-argon-ai-mode/592806/\">Google Adds Gemini 4 Argon To AI Mode For Pro &#038; Ultra Subscribers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-13T17:18:44+00:00",
+      "fetched": "2026-10-14T00:00:52.897017+00:00"
+    },
+    {
+      "id": "3b033eb9-76cb-4d7f-bebf-6c6ad14504ad",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Test Like A Scientist: 6 Mistakes That Undermine Your SEO Experiments via @sejournal, @SequinsNsearch",
+      "link": "https://www.searchenginejournal.com/test-like-a-scientist-mistakes-that-undermine-your-seo-experiments/591411/",
+      "summary": "Learn six common SEO testing mistakes and how scientific thinking can help you design better experiments, interpret results, and make more reliable decisions.\n\nThe post <a href=\"https://www.searchenginejournal.com/test-like-a-scientist-mistakes-that-undermine-your-seo-experiments/591411/\">Test Like A Scientist: 6 Mistakes That Undermine Your SEO Experiments</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-13T14:00:21+00:00",
+      "fetched": "2026-10-14T00:00:52.897034+00:00"
+    },
+    {
+      "id": "1a018c5d-fd72-47eb-a8a9-a7056ffad752",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Lost In Translation: How Language Changes Which Brand AI Recommends",
+      "link": "https://www.searchenginejournal.com/lost-in-translation-how-language-changes-which-brand-ai-recommends/591585/",
+      "summary": "Your AI visibility check was probably in English. However, new research across 1,650 responses shows AI recommends different brands in different languages.\n\nThe post <a href=\"https://www.searchenginejournal.com/lost-in-translation-how-language-changes-which-brand-ai-recommends/591585/\">Lost In Translation: How Language Changes Which Brand AI Recommends</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-13T12:00:05+00:00",
+      "fetched": "2026-10-14T00:00:52.897054+00:00"
+    },
+    {
+      "id": "a657c54b-e8c9-40ae-9a7b-767d00534336",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Says Why Site Migrations Can Exceed 4 Months via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-says-why-site-migrations-can-exceed-4-months/592757/",
+      "summary": "Google may process a site migration for months, then blow it and rank the old URLs anyway. Mueller says what to focus on.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-says-why-site-migrations-can-exceed-4-months/592757/\">Google Says Why Site Migrations Can Exceed 4 Months</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-13T11:23:58+00:00",
+      "fetched": "2026-10-14T00:00:52.897070+00:00"
+    },
+    {
       "id": "89579216-905b-498a-a7ef-3d06eb3a9128",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -164,62 +219,7 @@
       "summary": "Understand how to address both ad platform and organizational AI concerns for paid media advertisers in regulated industries\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-in-regulated-paid-media-the-default-settings-that-put-compliance-at-risk/589188/\">AI In Regulated Paid Media: The Default Settings That Put Compliance At Risk</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-10-08T19:00:44+00:00",
       "fetched": "2026-10-09T00:48:12.128362+00:00"
-    },
-    {
-      "id": "6cf74787-213a-469b-8512-c55d2630255e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Now Has The Math To Rank Without An Index, And The Results Page Does Not Survive It via @sejournal, @DuaneForrester",
-      "link": "https://www.searchenginejournal.com/google-now-has-the-math-to-rank-without-an-index-and-the-results-page-does-not-survive-it/591945/",
-      "summary": "Google DeepMind proved one model can theoretically rank without a separate index. If it ships, visibility stops being a position and becomes inclusion or absence.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-now-has-the-math-to-rank-without-an-index-and-the-results-page-does-not-survive-it/591945/\">Google Now Has The Math To Rank Without An Index, And The Results Page Does Not Survive It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a",
-      "published": "2026-10-08T14:30:43+00:00",
-      "fetched": "2026-10-09T00:48:12.128390+00:00"
-    },
-    {
-      "id": "3e316aa9-5fc7-46ed-8451-aca48784104f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Scale AI Video Ads For Small Business Clients: One Storyline For TikTok, Reels & AI Search",
-      "link": "https://www.searchenginejournal.com/scale-ai-video-tiktok-leadzai-spa/591522/",
-      "summary": "Explore how to scale AI video ads with a single storyline for TikTok, Reels, and AI search to maximize impact.\n\nThe post <a href=\"https://www.searchenginejournal.com/scale-ai-video-tiktok-leadzai-spa/591522/\">How To Scale AI Video Ads For Small Business Clients: One Storyline For TikTok, Reels &amp; AI Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-08T13:49:33+00:00",
-      "fetched": "2026-10-09T00:48:12.128411+00:00"
-    },
-    {
-      "id": "74132a3a-6761-47d4-950b-5c57200b73d6",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Completes September 2026 Spam Update After Nearly 14 Days via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-september-2026-spam-update-complete/592283/",
-      "summary": "Google's latest spam update has finished rolling out after nearly two weeks, taking longer than any of the three earlier spam updates it ran this year.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-september-2026-spam-update-complete/592283/\">Google Completes September 2026 Spam Update After Nearly 14 Days</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-08T12:58:07+00:00",
-      "fetched": "2026-10-09T00:48:12.128433+00:00"
-    },
-    {
-      "id": "128ccd58-5848-45e5-95e6-37d76a1e4923",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why Google Search Updates Cannot Be Judged During Early Rollout via @sejournal, @TaylorDanRW",
-      "link": "https://www.searchenginejournal.com/why-google-search-updates-cannot-be-judged-during-early-rollout/591345/",
-      "summary": "Avoid costly site changes during a Google spam update by separating early ranking volatility from lasting losses and setting clear milestones for leadership.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-google-search-updates-cannot-be-judged-during-early-rollout/591345/\">Why Google Search Updates Cannot Be Judged During Early Rollout</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-08T12:00:19+00:00",
-      "fetched": "2026-10-09T00:48:12.128451+00:00"
-    },
-    {
-      "id": "2b156a63-5358-496e-b5a9-06fb766a3548",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Link Building Strategies for 2027: What to Keep and Cut via @sejournal, @lorenbaker",
-      "link": "https://www.searchenginejournal.com/link-building-strategies-for-2027-what-to-keep-and-cut/592119/",
-      "summary": "Decide which link building tactics to keep or cut for 2027. Join Resolve for a free webinar on off-page SEO, rankings, and AI visibility.\n\nThe post <a href=\"https://www.searchenginejournal.com/link-building-strategies-for-2027-what-to-keep-and-cut/592119/\">Link Building Strategies for 2027: What to Keep and Cut</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-08T07:45:34+00:00",
-      "fetched": "2026-10-09T00:48:12.128468+00:00"
     }
   ],
-  "last_updated": "2026-10-13T02:18:18.754390+00:00"
+  "last_updated": "2026-10-14T00:00:53.687590+00:00"
 }
