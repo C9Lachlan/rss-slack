@@ -1,6 +1,83 @@
 {
   "articles": [
     {
+      "id": "920bf87e-3676-45ab-afd4-7159ebbce5aa",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "ChatGPT Traffic Drop Appears To Be A Tracking Problem via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/chatgpt-traffic-drop-appears-to-be-a-tracking-problem/593157/",
+      "summary": "ChatGPT-attributed traffic fell sharply in several analytics datasets this month, and analysts tie the drop to ChatGPT links that open without tracking tags.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-traffic-drop-appears-to-be-a-tracking-problem/593157/\">ChatGPT Traffic Drop Appears To Be A Tracking Problem</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-15T21:48:30+00:00",
+      "fetched": "2026-10-15T23:24:07.865331+00:00"
+    },
+    {
+      "id": "8befedcb-13c5-419d-9378-5ee72c66d9cf",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Universal Cart Is Live: How Carts Get To Your Store via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-universal-cart-store-handoff/593145/",
+      "summary": "Universal Cart is rolling out across Search and the Gemini app, with checkout inside the cart or a one-way handoff to the store's own site.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-universal-cart-store-handoff/593145/\">Google&#8217;s Universal Cart Is Live: How Carts Get To Your Store</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-15T20:43:38+00:00",
+      "fetched": "2026-10-15T23:24:07.865350+00:00"
+    },
+    {
+      "id": "65f65408-6d55-4207-861b-57b0ddda610d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How Do I Measure And Attribute When Clicks Only Tell Part Of The Story? \u2013 Ask A PPC via @sejournal, @navahf",
+      "link": "https://www.searchenginejournal.com/ask-a-ppc-how-do-i-measure-and-attribute-when-clicks-are-no-longer-the-whole-story/591521/",
+      "summary": "Measure PPC value beyond clicks with conversion tracking, impression signals, and business records that help validate attribution as buying journeys move into AI.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-a-ppc-how-do-i-measure-and-attribute-when-clicks-are-no-longer-the-whole-story/591521/\">How Do I Measure And Attribute When Clicks Only Tell Part Of The Story? \u2013 Ask A PPC</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-15T19:00:58+00:00",
+      "fetched": "2026-10-15T23:24:07.865381+00:00"
+    },
+    {
+      "id": "43a7df43-0325-4d77-ba3c-e8b30f2744fe",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Puts Inline Links Higher In More AI Search Responses via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-inline-links-higher-ai-search-responses/593089/",
+      "summary": "Google is changing how links appear in AI Mode and AI Overviews, moving inline links higher and expanding the carousels that highlight Preferred Sources.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-inline-links-higher-ai-search-responses/593089/\">Google Puts Inline Links Higher In More AI Search Responses</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-15T16:00:00+00:00",
+      "fetched": "2026-10-15T23:24:07.865400+00:00"
+    },
+    {
+      "id": "58ab788a-8b30-4ae2-bb58-da063346633e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "SERPs Stop Being The Default Between 2028 & 2030 via @sejournal, @DuaneForrester",
+      "link": "https://www.searchenginejournal.com/serps-stop-being-the-default-between-2028-2030/592619/",
+      "summary": "Google flips its default from ranked results to AI answers when answer-layer ad yield matches the SERP. That crossover lands between 2028 and 2030.\n\nThe post <a href=\"https://www.searchenginejournal.com/serps-stop-being-the-default-between-2028-2030/592619/\">SERPs Stop Being The Default Between 2028 &#038; 2030</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-15T14:00:33+00:00",
+      "fetched": "2026-10-15T23:24:07.865411+00:00"
+    },
+    {
+      "id": "1a22328d-9ec4-4349-91dd-4de4a54ca781",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "96.8% Chance Of A Panda-Style Update Within A Month According To Prediction Model Signals via @sejournal, @TaylorDanRW",
+      "link": "https://www.searchenginejournal.com/a-panda-style-update-within-a-month-according-to-prediction-model-signals/591955/",
+      "summary": "Prepare for a potential Panda-style Google update by addressing scaled AI content and fake authors that could threaten rankings across your site.\n\nThe post <a href=\"https://www.searchenginejournal.com/a-panda-style-update-within-a-month-according-to-prediction-model-signals/591955/\">96.8% Chance Of A Panda-Style Update Within A Month According To Prediction Model Signals</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-15T12:00:21+00:00",
+      "fetched": "2026-10-15T23:24:07.865421+00:00"
+    },
+    {
+      "id": "55205274-c742-4c49-b359-48a8c23ecdb4",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Coywolf Pack EmDash SEO Plugin Makes Sites Absurdly Fast via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/coywolf-pack-emdash-seo-plugin-makes-sites-absurdly-fast/593026/",
+      "summary": "Coywolf Pack makes EmDash-based websites absurdly fast, adds more SEO functionality, and improves WordPress to EmDash migrations.\n\nThe post <a href=\"https://www.searchenginejournal.com/coywolf-pack-emdash-seo-plugin-makes-sites-absurdly-fast/593026/\">Coywolf Pack EmDash SEO Plugin Makes Sites Absurdly Fast</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-15T10:32:28+00:00",
+      "fetched": "2026-10-15T23:24:07.865431+00:00"
+    },
+    {
       "id": "6114fad2-76ea-4c6f-af01-fea02bbd0f04",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -142,84 +219,7 @@
       "summary": "Your AI visibility check was probably in English. However, new research across 1,650 responses shows AI recommends different brands in different languages.\n\nThe post <a href=\"https://www.searchenginejournal.com/lost-in-translation-how-language-changes-which-brand-ai-recommends/591585/\">Lost In Translation: How Language Changes Which Brand AI Recommends</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-10-13T12:00:05+00:00",
       "fetched": "2026-10-14T00:00:52.897054+00:00"
-    },
-    {
-      "id": "a657c54b-e8c9-40ae-9a7b-767d00534336",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Says Why Site Migrations Can Exceed 4 Months via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-says-why-site-migrations-can-exceed-4-months/592757/",
-      "summary": "Google may process a site migration for months, then blow it and rank the old URLs anyway. Mueller says what to focus on.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-says-why-site-migrations-can-exceed-4-months/592757/\">Google Says Why Site Migrations Can Exceed 4 Months</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-13T11:23:58+00:00",
-      "fetched": "2026-10-14T00:00:52.897070+00:00"
-    },
-    {
-      "id": "89579216-905b-498a-a7ef-3d06eb3a9128",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "YouTube To Test Ask YouTube Inside The Shorts Player via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/youtube-test-ask-youtube-shorts-player/592723/",
-      "summary": "YouTube is planning a limited, English-only test of Ask YouTube on select Shorts and says the watch-page feature will soon reach Shorts and live streams.\n\nThe post <a href=\"https://www.searchenginejournal.com/youtube-test-ask-youtube-shorts-player/592723/\">YouTube To Test Ask YouTube Inside The Shorts Player</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-12T22:16:40+00:00",
-      "fetched": "2026-10-13T02:18:16.527172+00:00"
-    },
-    {
-      "id": "5eb6eb93-a8de-40ba-9584-856ee38a69ae",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "All In One SEO WordPress Plugin Vulnerable To Two Exploits via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/all-in-one-seo-wordpress-plugin-vulnerable-to-two-exploits/592719/",
-      "summary": "AIOSEO WordPress Plugin has two medium-severity security flaws that enable unauthenticated attackers to compromise affected websites.\n\nThe post <a href=\"https://www.searchenginejournal.com/all-in-one-seo-wordpress-plugin-vulnerable-to-two-exploits/592719/\">All In One SEO WordPress Plugin Vulnerable To Two Exploits</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-12T21:51:53+00:00",
-      "fetched": "2026-10-13T02:18:16.527192+00:00"
-    },
-    {
-      "id": "c625eb1a-37b2-4d55-a484-f81838566bc3",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "ChatGPT\u2019s Most-Cited Sites Tilt Toward Primary Sources, Data Shows via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/chatgpt-most-cited-sites-primary-sources-ahrefs/592682/",
-      "summary": "Government health, research, and regulator sites climbed ChatGPT's U.S. citation ranks while explainers fell.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-most-cited-sites-primary-sources-ahrefs/592682/\">ChatGPT&#8217;s Most-Cited Sites Tilt Toward Primary Sources, Data Shows</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-12T18:41:59+00:00",
-      "fetched": "2026-10-13T02:18:16.527208+00:00"
-    },
-    {
-      "id": "931aebc3-9b85-42d1-abc8-10fe9af0664b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Negative Signals, Positive Intent: PPC Leads Hiding In \u2018Cancel\u2019 Searches",
-      "link": "https://www.searchenginejournal.com/negative-signals-positive-intent-ppc-leads-hiding-in-cancel-searches/590734/",
-      "summary": "Turn competitor complaints and cancellation searches into PPC leads with tailored offers that address customer frustrations and make switching easier.\n\nThe post <a href=\"https://www.searchenginejournal.com/negative-signals-positive-intent-ppc-leads-hiding-in-cancel-searches/590734/\">Negative Signals, Positive Intent: PPC Leads Hiding In &#8216;Cancel&#8217; Searches</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-12T14:30:17+00:00",
-      "fetched": "2026-10-13T02:18:16.527225+00:00"
-    },
-    {
-      "id": "5d6d9be8-e78c-4749-a44e-86af5852f6c7",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Your First 30 Days As A Growth Leader \u2013 The Challenge From Day One",
-      "link": "https://www.searchenginejournal.com/your-first-30-days-as-a-growth-leader-the-challenge-from-day-one/591036/",
-      "summary": "Use your first 30 days as a growth leader to identify where B2B buyers lose trust and rethink the channels meant to engage them.\n\nThe post <a href=\"https://www.searchenginejournal.com/your-first-30-days-as-a-growth-leader-the-challenge-from-day-one/591036/\">Your First 30 Days As A Growth Leader \u2013 The Challenge From Day One</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-12T12:00:07+00:00",
-      "fetched": "2026-10-13T02:18:16.527240+00:00"
-    },
-    {
-      "id": "6f91ee8c-fe84-46b1-b63e-c57db5d2c436",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Discover To Undergo Dramatic Changes via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-discover-to-undergo-dramatic-changes/592626/",
-      "summary": "Google is planning to reinvent Discover to become an AI Concierge with a tighter integration with YouTube.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-discover-to-undergo-dramatic-changes/592626/\">Google Discover To Undergo Dramatic Changes</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-12T11:13:13+00:00",
-      "fetched": "2026-10-13T02:18:16.527253+00:00"
     }
   ],
-  "last_updated": "2026-10-14T23:32:00.773859+00:00"
+  "last_updated": "2026-10-15T23:24:08.792065+00:00"
 }
