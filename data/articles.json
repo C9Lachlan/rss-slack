@@ -1,6 +1,50 @@
 {
   "articles": [
     {
+      "id": "c9bec9f7-02fe-421a-93c0-37da46b1e129",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Meta\u2019s New Terms Expand Crawling Rights Beyond Advertisers via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/metas-new-terms-expand-crawling-rights-beyond-advertisers/593217/",
+      "summary": "New terms let Meta crawl sites tied to business users and use the content to train its products, widening rights ad buyers had already granted.\n\nThe post <a href=\"https://www.searchenginejournal.com/metas-new-terms-expand-crawling-rights-beyond-advertisers/593217/\">Meta&#8217;s New Terms Expand Crawling Rights Beyond Advertisers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-16T21:38:49+00:00",
+      "fetched": "2026-10-16T23:06:39.929499+00:00"
+    },
+    {
+      "id": "16dfc97e-b9c6-44e4-ab85-0b2694d0dd1e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why The New York Times Puts Free Content First",
+      "link": "https://www.searchenginejournal.com/why-the-new-york-times-puts-free-content-first/593021/",
+      "summary": "The New York Times gives prime homepage space to free articles and tells readers they\u2019re free. Here\u2019s why that works.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-the-new-york-times-puts-free-content-first/593021/\">Why The New York Times Puts Free Content First</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-16T19:00:23+00:00",
+      "fetched": "2026-10-16T23:06:39.929521+00:00"
+    },
+    {
+      "id": "c3e74e12-f579-44ca-9b59-1310f721990a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "It\u2019s Possible Your Migration Issues May Be Due To Site Quality via @sejournal, @marie_haynes",
+      "link": "https://www.searchenginejournal.com/its-possible-your-migration-issues-may-be-due-to-site-quality/592899/",
+      "summary": "If your new domain won\u2019t index and there\u2019s no technical fix, the problem may be originality. Read Marie Haynes\u2019 theory and what to do next.\n\nThe post <a href=\"https://www.searchenginejournal.com/its-possible-your-migration-issues-may-be-due-to-site-quality/592899/\">It&#8217;s Possible Your Migration Issues May Be Due To Site Quality</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-16T14:00:20+00:00",
+      "fetched": "2026-10-16T23:06:39.929536+00:00"
+    },
+    {
+      "id": "58716582-bd5a-4df3-8946-d08cb605dab8",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Takes Applications For A UGC Pipeline Separate From Crawling via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-ugc-fresh-data-program-applications/593113/",
+      "summary": "Google is accepting applications from forums and social platforms for a UGC pipeline separate from crawling.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ugc-fresh-data-program-applications/593113/\">Google Takes Applications For A UGC Pipeline Separate From Crawling</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-16T12:00:00+00:00",
+      "fetched": "2026-10-16T23:06:39.929553+00:00"
+    },
+    {
       "id": "920bf87e-3676-45ab-afd4-7159ebbce5aa",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -175,51 +219,7 @@
       "summary": "Bing's AI Performance report adds a view that sorts cited queries into topics and lists queries where other sites are cited but your site isn't.\n\nThe post <a href=\"https://www.searchenginejournal.com/bing-webmaster-tools-topics-portfolio-ai-performance/592874/\">Bing Webmaster Tools Sorts AI Search Queries Into Topics</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-10-14T00:19:30+00:00",
       "fetched": "2026-10-14T23:31:59.688489+00:00"
-    },
-    {
-      "id": "8045d62f-2f57-4d80-9c3f-2a2e04aebda5",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Adds Experimental Soft Navigation Metrics To CrUX via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-experimental-soft-navigation-metrics-crux/592820/",
-      "summary": "Experimental Core Web Vitals that count in-app page changes are now in the Chrome UX Report, with Search Console set to follow.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-experimental-soft-navigation-metrics-crux/592820/\">Google Adds Experimental Soft Navigation Metrics To CrUX</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-13T21:31:39+00:00",
-      "fetched": "2026-10-14T00:00:52.896993+00:00"
-    },
-    {
-      "id": "755a64b0-7541-49f8-be47-588c5add2576",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Adds Gemini 4 Argon To AI Mode For Pro & Ultra Subscribers via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-gemini-4-argon-ai-mode/592806/",
-      "summary": "Google added Gemini 4 Argon to AI Mode for paid subscribers and opened the model to developers, enterprises, and the Gemini app.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-gemini-4-argon-ai-mode/592806/\">Google Adds Gemini 4 Argon To AI Mode For Pro &#038; Ultra Subscribers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-13T17:18:44+00:00",
-      "fetched": "2026-10-14T00:00:52.897017+00:00"
-    },
-    {
-      "id": "3b033eb9-76cb-4d7f-bebf-6c6ad14504ad",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Test Like A Scientist: 6 Mistakes That Undermine Your SEO Experiments via @sejournal, @SequinsNsearch",
-      "link": "https://www.searchenginejournal.com/test-like-a-scientist-mistakes-that-undermine-your-seo-experiments/591411/",
-      "summary": "Learn six common SEO testing mistakes and how scientific thinking can help you design better experiments, interpret results, and make more reliable decisions.\n\nThe post <a href=\"https://www.searchenginejournal.com/test-like-a-scientist-mistakes-that-undermine-your-seo-experiments/591411/\">Test Like A Scientist: 6 Mistakes That Undermine Your SEO Experiments</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-13T14:00:21+00:00",
-      "fetched": "2026-10-14T00:00:52.897034+00:00"
-    },
-    {
-      "id": "1a018c5d-fd72-47eb-a8a9-a7056ffad752",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Lost In Translation: How Language Changes Which Brand AI Recommends",
-      "link": "https://www.searchenginejournal.com/lost-in-translation-how-language-changes-which-brand-ai-recommends/591585/",
-      "summary": "Your AI visibility check was probably in English. However, new research across 1,650 responses shows AI recommends different brands in different languages.\n\nThe post <a href=\"https://www.searchenginejournal.com/lost-in-translation-how-language-changes-which-brand-ai-recommends/591585/\">Lost In Translation: How Language Changes Which Brand AI Recommends</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-13T12:00:05+00:00",
-      "fetched": "2026-10-14T00:00:52.897054+00:00"
     }
   ],
-  "last_updated": "2026-10-15T23:24:08.792065+00:00"
+  "last_updated": "2026-10-16T23:06:40.708571+00:00"
 }
