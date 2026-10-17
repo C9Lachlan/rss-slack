@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "id": "609e5463-6172-4e0c-9144-ee8a40fe20c9",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Indexing API Docs No Longer Explain How To Get Approval via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-indexing-api-docs-approval-form-removed/593292/",
+      "summary": "Google removed the Indexing API approval form and steps from its docs. Default quotas are listed, but the pages don't say how to request more.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-indexing-api-docs-approval-form-removed/593292/\">Google&#8217;s Indexing API Docs No Longer Explain How To Get Approval</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-17T18:15:44+00:00",
+      "fetched": "2026-10-17T22:45:13.104661+00:00"
+    },
+    {
+      "id": "3c69d443-048f-4b18-982f-544280d53992",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Rank Tracker Data, ChatGPT Tags & AI Search Links \u2013 SEO Pulse via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/seo-pulse-rank-tracker-data-chatgpt-tags-ai-search-links/593171/",
+      "summary": "A rank tracker logged Google pages missing their usual sites, some ChatGPT links lost tracking tags, and Google and Bing changed AI search links.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-rank-tracker-data-chatgpt-tags-ai-search-links/593171/\">Rank Tracker Data, ChatGPT Tags &#038; AI Search Links \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-17T12:00:00+00:00",
+      "fetched": "2026-10-17T22:45:13.104689+00:00"
+    },
+    {
       "id": "c9bec9f7-02fe-421a-93c0-37da46b1e129",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -197,29 +219,7 @@
       "summary": "Google\u2019s reported search results poisoning undermines confidence in SEO data that businesses use to make decisions.\n\nThe post <a href=\"https://www.searchenginejournal.com/analysis-google-is-poisoning-search-results-for-rank-trackers/592873/\">Analysis: Google Is Poisoning Search Results For Rank Trackers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-10-14T09:17:05+00:00",
       "fetched": "2026-10-14T23:31:59.688462+00:00"
-    },
-    {
-      "id": "2c40191a-2e4b-4566-bd49-7e2a932e2a1c",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Help AI Shopping Agents Find Your Products [Webinar] via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/how-to-help-ai-shopping-agents-find-your-products/592677/",
-      "summary": "Join seoClarity on October 28 at 2 p.m. ET to learn how product-page language, competitor recommendations, and readable product data affect AI shopping discovery.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-help-ai-shopping-agents-find-your-products/592677/\">How To Help AI Shopping Agents Find Your Products [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-14T07:45:07+00:00",
-      "fetched": "2026-10-14T23:31:59.688478+00:00"
-    },
-    {
-      "id": "e8446b73-e4a9-45e2-a105-6194bc9495f2",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Bing Webmaster Tools Sorts AI Search Queries Into Topics via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/bing-webmaster-tools-topics-portfolio-ai-performance/592874/",
-      "summary": "Bing's AI Performance report adds a view that sorts cited queries into topics and lists queries where other sites are cited but your site isn't.\n\nThe post <a href=\"https://www.searchenginejournal.com/bing-webmaster-tools-topics-portfolio-ai-performance/592874/\">Bing Webmaster Tools Sorts AI Search Queries Into Topics</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-14T00:19:30+00:00",
-      "fetched": "2026-10-14T23:31:59.688489+00:00"
     }
   ],
-  "last_updated": "2026-10-16T23:06:40.708571+00:00"
+  "last_updated": "2026-10-17T22:45:13.999341+00:00"
 }
