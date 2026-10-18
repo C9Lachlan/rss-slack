@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": "16eb8cbd-803f-48a6-93e3-f52f4038d582",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "OpenAI\u2019s API Only Partly Matched ChatGPT\u2019s Citations, Paper Finds via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/openais-api-only-partly-matched-chatgpts-citations-paper-finds/593304/",
+      "summary": "A paper tested whether Google results and OpenAI's API can stand in for ChatGPT's citations. They matched cited sites more often than the exact pages.\n\nThe post <a href=\"https://www.searchenginejournal.com/openais-api-only-partly-matched-chatgpts-citations-paper-finds/593304/\">OpenAI&#8217;s API Only Partly Matched ChatGPT&#8217;s Citations, Paper Finds</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-18T08:00:00+00:00",
+      "fetched": "2026-10-18T22:40:07.542057+00:00"
+    },
+    {
       "id": "609e5463-6172-4e0c-9144-ee8a40fe20c9",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -208,18 +219,7 @@
       "summary": "Google explains how it ranks PDFs in Search and AI Mode and how to check if a PDF is SEO friendly.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-explains-how-they-rank-pdfs-and-what-it-means-for-seo-geo/592902/\">Google Explains How They Rank PDFs And What It Means For SEO/GEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-10-14T09:50:10+00:00",
       "fetched": "2026-10-14T23:31:59.688452+00:00"
-    },
-    {
-      "id": "1e8a1cb1-08d5-4883-a0e4-c43d3b000edd",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Analysis: Google Is Poisoning Search Results For Rank Trackers via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/analysis-google-is-poisoning-search-results-for-rank-trackers/592873/",
-      "summary": "Google\u2019s reported search results poisoning undermines confidence in SEO data that businesses use to make decisions.\n\nThe post <a href=\"https://www.searchenginejournal.com/analysis-google-is-poisoning-search-results-for-rank-trackers/592873/\">Analysis: Google Is Poisoning Search Results For Rank Trackers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-14T09:17:05+00:00",
-      "fetched": "2026-10-14T23:31:59.688462+00:00"
     }
   ],
-  "last_updated": "2026-10-17T22:45:13.999341+00:00"
+  "last_updated": "2026-10-18T22:40:08.134242+00:00"
 }
