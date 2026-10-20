@@ -1,6 +1,83 @@
 {
   "articles": [
     {
+      "id": "af8b201c-e251-4ceb-919d-f5eb40e363ae",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Your Audience Uses AI But Doesn\u2019t Trust It \u2013 Build Content For The Gap via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/your-audience-uses-ai-but-doesnt-trust-it-build-content-for-the-gap/592818/",
+      "summary": "Build an SEO and content strategy for audiences who use AI but distrust it, with clearer sourcing, audience segmentation, and honest product limits.\n\nThe post <a href=\"https://www.searchenginejournal.com/your-audience-uses-ai-but-doesnt-trust-it-build-content-for-the-gap/592818/\">Your Audience Uses AI But Doesn\u2019t Trust It \u2013 Build Content For The Gap</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-20T19:00:30+00:00",
+      "fetched": "2026-10-20T23:31:36.835427+00:00"
+    },
+    {
+      "id": "8132f55f-105f-4395-b365-94e99bac8052",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "ChatGPT Search Can Draw On More Pages After A Cloudflare Pilot via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/chatgpt-search-can-draw-on-more-pages-after-a-cloudflare-pilot/593720/",
+      "summary": "Cloudflare says its network signals helped OpenAI index hundreds of millions of new pages for ChatGPT search.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-search-can-draw-on-more-pages-after-a-cloudflare-pilot/593720/\">ChatGPT Search Can Draw On More Pages After A Cloudflare Pilot</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-20T15:00:36+00:00",
+      "fetched": "2026-10-20T23:31:36.835466+00:00"
+    },
+    {
+      "id": "1ef0651d-12b3-4924-b35b-896f166f171c",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Regain Control Of Google Ads: Better Tracking, Clearer Proof Of ROI via @sejournal, @CallRail",
+      "link": "https://www.searchenginejournal.com/rundowns/regain-control-of-google-ads-better-tracking-clearer-proof-of-roi/",
+      "summary": "Regain control of Google Ads with a curated article stack on lead quality, Local Services Ads migration, Smart Bidding goals, and proving PPC business value.\n\nThe post <a href=\"https://www.searchenginejournal.com/rundowns/regain-control-of-google-ads-better-tracking-clearer-proof-of-roi/\">Regain Control Of Google Ads: Better Tracking, Clearer Proof Of ROI</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-20T14:17:07+00:00",
+      "fetched": "2026-10-20T23:31:36.835488+00:00"
+    },
+    {
+      "id": "5b695b34-36b9-4f73-86be-01139d37577f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "I Tested DeepSeek\u2019s New Search Api, Here\u2019s How It Ranks And Scores Websites via @sejournal, @suganthan",
+      "link": "https://www.searchenginejournal.com/i-tested-deepseeks-new-search-api-heres-how-it-ranks-and-scores-websites/593408/",
+      "summary": "DeepSeek\u2019s date filters dropped every undated page, 11% of results. Six practical checks for SEOs testing the new Search API, from localization to logs.\n\nThe post <a href=\"https://www.searchenginejournal.com/i-tested-deepseeks-new-search-api-heres-how-it-ranks-and-scores-websites/593408/\">I Tested DeepSeek\u2019s New Search Api, Here\u2019s How It Ranks And Scores Websites</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-20T14:00:13+00:00",
+      "fetched": "2026-10-20T23:31:36.835513+00:00"
+    },
+    {
+      "id": "47a4b607-267c-4cda-b27d-fe93f351652c",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "What Personal AI Agents Like Meta Muse And OpenAI Dots Mean For SEO via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/personal-ai-agents-meta-muse-openai-dots-seo/592530/",
+      "summary": "Meta's Muse and OpenAI's dots reach websites through connectors or cloud browsers, changing what robots.txt, on-page SEO, and analytics can tell you.\n\nThe post <a href=\"https://www.searchenginejournal.com/personal-ai-agents-meta-muse-openai-dots-seo/592530/\">What Personal AI Agents Like Meta Muse And OpenAI Dots Mean For SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-20T12:00:04+00:00",
+      "fetched": "2026-10-20T23:31:36.835546+00:00"
+    },
+    {
+      "id": "23fea70f-1dce-406c-b69b-9ad27241a4b8",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Search Share Fell To 12% For North American Publishers: Chartbeat via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/chartbeat-search-share-north-american-publishers-q3-2026/593673/",
+      "summary": "Search's share of North American publisher pageviews fell to 12%, but a lower share alone doesn't show fewer search pageviews.\n\nThe post <a href=\"https://www.searchenginejournal.com/chartbeat-search-share-north-american-publishers-q3-2026/593673/\">Search Share Fell To 12% For North American Publishers: Chartbeat</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-20T08:00:00+00:00",
+      "fetched": "2026-10-20T23:31:36.835565+00:00"
+    },
+    {
+      "id": "4bb91908-604d-43be-8eaf-a14d7353d03a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "A New Place To Look: Where Your Next AI Citations & Clicks Come From via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/where-your-next-ai-citations-clicks-come-from/592892/",
+      "summary": "CTM\u2019s Lisa Salvatore and Brian Barranger show how to mine customer conversations for useful content, qualified-lead criteria, conversion feedback, and product-demand signals.\n\nThe post <a href=\"https://www.searchenginejournal.com/where-your-next-ai-citations-clicks-come-from/592892/\">A New Place To Look: Where Your Next AI Citations &#038; Clicks Come From</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-20T07:45:18+00:00",
+      "fetched": "2026-10-20T23:31:36.835584+00:00"
+    },
+    {
       "id": "410b8962-5f85-48a8-9999-ba1b70979578",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -142,84 +219,7 @@
       "summary": "Google is accepting applications from forums and social platforms for a UGC pipeline separate from crawling.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ugc-fresh-data-program-applications/593113/\">Google Takes Applications For A UGC Pipeline Separate From Crawling</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-10-16T12:00:00+00:00",
       "fetched": "2026-10-16T23:06:39.929553+00:00"
-    },
-    {
-      "id": "920bf87e-3676-45ab-afd4-7159ebbce5aa",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "ChatGPT Traffic Drop Appears To Be A Tracking Problem via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/chatgpt-traffic-drop-appears-to-be-a-tracking-problem/593157/",
-      "summary": "ChatGPT-attributed traffic fell sharply in several analytics datasets this month, and analysts tie the drop to ChatGPT links that open without tracking tags.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-traffic-drop-appears-to-be-a-tracking-problem/593157/\">ChatGPT Traffic Drop Appears To Be A Tracking Problem</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-15T21:48:30+00:00",
-      "fetched": "2026-10-15T23:24:07.865331+00:00"
-    },
-    {
-      "id": "8befedcb-13c5-419d-9378-5ee72c66d9cf",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Universal Cart Is Live: How Carts Get To Your Store via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-universal-cart-store-handoff/593145/",
-      "summary": "Universal Cart is rolling out across Search and the Gemini app, with checkout inside the cart or a one-way handoff to the store's own site.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-universal-cart-store-handoff/593145/\">Google&#8217;s Universal Cart Is Live: How Carts Get To Your Store</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-15T20:43:38+00:00",
-      "fetched": "2026-10-15T23:24:07.865350+00:00"
-    },
-    {
-      "id": "65f65408-6d55-4207-861b-57b0ddda610d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How Do I Measure And Attribute When Clicks Only Tell Part Of The Story? \u2013 Ask A PPC via @sejournal, @navahf",
-      "link": "https://www.searchenginejournal.com/ask-a-ppc-how-do-i-measure-and-attribute-when-clicks-are-no-longer-the-whole-story/591521/",
-      "summary": "Measure PPC value beyond clicks with conversion tracking, impression signals, and business records that help validate attribution as buying journeys move into AI.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-a-ppc-how-do-i-measure-and-attribute-when-clicks-are-no-longer-the-whole-story/591521/\">How Do I Measure And Attribute When Clicks Only Tell Part Of The Story? \u2013 Ask A PPC</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-15T19:00:58+00:00",
-      "fetched": "2026-10-15T23:24:07.865381+00:00"
-    },
-    {
-      "id": "43a7df43-0325-4d77-ba3c-e8b30f2744fe",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Puts Inline Links Higher In More AI Search Responses via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-inline-links-higher-ai-search-responses/593089/",
-      "summary": "Google is changing how links appear in AI Mode and AI Overviews, moving inline links higher and expanding the carousels that highlight Preferred Sources.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-inline-links-higher-ai-search-responses/593089/\">Google Puts Inline Links Higher In More AI Search Responses</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-15T16:00:00+00:00",
-      "fetched": "2026-10-15T23:24:07.865400+00:00"
-    },
-    {
-      "id": "58ab788a-8b30-4ae2-bb58-da063346633e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "SERPs Stop Being The Default Between 2028 & 2030 via @sejournal, @DuaneForrester",
-      "link": "https://www.searchenginejournal.com/serps-stop-being-the-default-between-2028-2030/592619/",
-      "summary": "Google flips its default from ranked results to AI answers when answer-layer ad yield matches the SERP. That crossover lands between 2028 and 2030.\n\nThe post <a href=\"https://www.searchenginejournal.com/serps-stop-being-the-default-between-2028-2030/592619/\">SERPs Stop Being The Default Between 2028 &#038; 2030</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-15T14:00:33+00:00",
-      "fetched": "2026-10-15T23:24:07.865411+00:00"
-    },
-    {
-      "id": "1a22328d-9ec4-4349-91dd-4de4a54ca781",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "96.8% Chance Of A Panda-Style Update Within A Month According To Prediction Model Signals via @sejournal, @TaylorDanRW",
-      "link": "https://www.searchenginejournal.com/a-panda-style-update-within-a-month-according-to-prediction-model-signals/591955/",
-      "summary": "Prepare for a potential Panda-style Google update by addressing scaled AI content and fake authors that could threaten rankings across your site.\n\nThe post <a href=\"https://www.searchenginejournal.com/a-panda-style-update-within-a-month-according-to-prediction-model-signals/591955/\">96.8% Chance Of A Panda-Style Update Within A Month According To Prediction Model Signals</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-15T12:00:21+00:00",
-      "fetched": "2026-10-15T23:24:07.865421+00:00"
-    },
-    {
-      "id": "55205274-c742-4c49-b359-48a8c23ecdb4",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Coywolf Pack EmDash SEO Plugin Makes Sites Absurdly Fast via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/coywolf-pack-emdash-seo-plugin-makes-sites-absurdly-fast/593026/",
-      "summary": "Coywolf Pack makes EmDash-based websites absurdly fast, adds more SEO functionality, and improves WordPress to EmDash migrations.\n\nThe post <a href=\"https://www.searchenginejournal.com/coywolf-pack-emdash-seo-plugin-makes-sites-absurdly-fast/593026/\">Coywolf Pack EmDash SEO Plugin Makes Sites Absurdly Fast</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-15T10:32:28+00:00",
-      "fetched": "2026-10-15T23:24:07.865431+00:00"
     }
   ],
-  "last_updated": "2026-10-20T00:01:38.773889+00:00"
+  "last_updated": "2026-10-20T23:31:37.479998+00:00"
 }
