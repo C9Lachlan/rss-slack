@@ -1,6 +1,72 @@
 {
   "articles": [
     {
+      "id": "410b8962-5f85-48a8-9999-ba1b70979578",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Meta Drops Training From Its Crawl Clause And Keeps The Crawl via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/meta-removes-training-crawl-clause-commercial-terms/593584/",
+      "summary": "Meta removed training from the crawling clause in its upcoming Commercial Terms. The permission to crawl sites tied to business users is still in place.\n\nThe post <a href=\"https://www.searchenginejournal.com/meta-removes-training-crawl-clause-commercial-terms/593584/\">Meta Drops Training From Its Crawl Clause And Keeps The Crawl</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-19T18:30:50+00:00",
+      "fetched": "2026-10-20T00:01:27.035261+00:00"
+    },
+    {
+      "id": "dbc94f72-d692-420c-b2ae-5e0940d319ed",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "B2B Lead Generation: How To Choose Your 2027 Marketing Channels [Webinar] via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/b2b-lead-generation-how-to-choose-your-2027-marketing-channels-webinar/593589/",
+      "summary": "Learn how to choose B2B marketing channels, fund a trial campaign and measure results with CallRail and Matter Made on October 29.\n\nThe post <a href=\"https://www.searchenginejournal.com/b2b-lead-generation-how-to-choose-your-2027-marketing-channels-webinar/593589/\">B2B Lead Generation: How To Choose Your 2027 Marketing Channels [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-19T18:28:32+00:00",
+      "fetched": "2026-10-20T00:01:27.035278+00:00"
+    },
+    {
+      "id": "344ec19d-dd5f-4b63-b5d4-21121f9d6099",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "DeepSeek Opens Its In-House Search Engine To Developers via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/deepseek-opens-its-in-house-search-engine-to-developers/593526/",
+      "summary": "A Chinese AI lab opened its search engine to developers. Each result carries a page-level authority tier, and DeepSeek says it filters GEO manipulation.\n\nThe post <a href=\"https://www.searchenginejournal.com/deepseek-opens-its-in-house-search-engine-to-developers/593526/\">DeepSeek Opens Its In-House Search Engine To Developers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-19T15:02:15+00:00",
+      "fetched": "2026-10-20T00:01:27.035293+00:00"
+    },
+    {
+      "id": "c7e12334-f8d5-4e47-a516-f46a961ab56e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "It Knew Every Word via @sejournal, @pedrodias",
+      "link": "https://www.searchenginejournal.com/it-knew-every-word/592680/",
+      "summary": "A model can recite your brand\u2019s description and still fail the buyer\u2019s question. Research on training data shows why \u201cknowing\u201d is the hard part.\n\nThe post <a href=\"https://www.searchenginejournal.com/it-knew-every-word/592680/\">It Knew Every Word</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-19T14:00:20+00:00",
+      "fetched": "2026-10-20T00:01:27.035309+00:00"
+    },
+    {
+      "id": "1fa5b911-2fb8-4ada-b294-d344977de634",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Search Tools Cited A Made-Up Concept Within A Week, Paper Finds via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/ai-search-tools-cited-a-made-up-concept-within-a-week-paper-finds/593472/",
+      "summary": "Researchers posted about a made-up concept on sites AI search tools cite. Four English-web tools cited it within a week. Other topics mostly didn't land.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-search-tools-cited-a-made-up-concept-within-a-week-paper-finds/593472/\">AI Search Tools Cited A Made-Up Concept Within A Week, Paper Finds</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-19T13:34:28+00:00",
+      "fetched": "2026-10-20T00:01:27.035319+00:00"
+    },
+    {
+      "id": "7f0670ee-6607-4bf7-b4f3-3ec0c905c792",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The New Rules Of Journalist Outreach, Based On Millions Of Emails",
+      "link": "https://www.searchenginejournal.com/the-new-rules-of-journalist-outreach-based-on-millions-of-emails/592060/",
+      "summary": "Get journalist outreach pitches seen and understood with relevant targeting, authenticated domains, concrete subject lines, and clear openings that shape AI inbox summaries.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-new-rules-of-journalist-outreach-based-on-millions-of-emails/592060/\">The New Rules Of Journalist Outreach, Based On Millions Of Emails</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-19T12:00:45+00:00",
+      "fetched": "2026-10-20T00:01:27.035329+00:00"
+    },
+    {
       "id": "16eb8cbd-803f-48a6-93e3-f52f4038d582",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -153,73 +219,7 @@
       "summary": "Coywolf Pack makes EmDash-based websites absurdly fast, adds more SEO functionality, and improves WordPress to EmDash migrations.\n\nThe post <a href=\"https://www.searchenginejournal.com/coywolf-pack-emdash-seo-plugin-makes-sites-absurdly-fast/593026/\">Coywolf Pack EmDash SEO Plugin Makes Sites Absurdly Fast</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-10-15T10:32:28+00:00",
       "fetched": "2026-10-15T23:24:07.865431+00:00"
-    },
-    {
-      "id": "6114fad2-76ea-4c6f-af01-fea02bbd0f04",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Launches A Video Series For Odd Technical SEO Questions via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-launches-a-video-series-for-odd-technical-seo-questions/592952/",
-      "summary": "Google's new Search Central video series tackles unusual technical SEO questions, starting with emoji, non-English characters, and keywords in your URLs.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-launches-a-video-series-for-odd-technical-seo-questions/592952/\">Google Launches A Video Series For Odd Technical SEO Questions</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-14T18:51:41+00:00",
-      "fetched": "2026-10-14T23:31:59.688386+00:00"
-    },
-    {
-      "id": "6824dae6-905c-4cde-a76e-31dff4b3b9de",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Ads Introduces Channel Prioritization And Budget Allocation via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/google-ads-introduces-channel-prioritization-and-budget-allocation/592833/",
-      "summary": "Google Ads introduces channel prioritization and budget allocation controls, giving advertisers more flexibility over spending across Search, Performance Max, and other campaigns.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ads-introduces-channel-prioritization-and-budget-allocation/592833/\">Google Ads Introduces Channel Prioritization And Budget Allocation</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-14T15:00:33+00:00",
-      "fetched": "2026-10-14T23:31:59.688404+00:00"
-    },
-    {
-      "id": "cbb5be16-3020-4da0-8ab3-1dd1992983eb",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why SEO Isn\u2019t Enough Anymore \u2013 And Why That\u2019s A Good Thing",
-      "link": "https://www.searchenginejournal.com/why-seo-isnt-enough-anymore-and-why-thats-a-good-thing/592601/",
-      "summary": "If search is your only presence, you\u2019re exposed. Google has been purging SEO-first sites since the Helpful Content Update. Here\u2019s what replaces them.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-seo-isnt-enough-anymore-and-why-thats-a-good-thing/592601/\">Why SEO Isn\u2019t Enough Anymore \u2013 And Why That\u2019s A Good Thing</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-14T14:00:20+00:00",
-      "fetched": "2026-10-14T23:31:59.688417+00:00"
-    },
-    {
-      "id": "65dc4c5d-d7b7-4d96-9ffa-2e29ef2d9886",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Remove Negative Search Results: What 22,620 Links Reveal via @sejournal, @EraseDotCom",
-      "link": "https://www.searchenginejournal.com/negative-search-result-removal-erase-spa/590856/",
-      "summary": "Learn how to address negative search results and identify which links can be removed or hidden effectively.\n\nThe post <a href=\"https://www.searchenginejournal.com/negative-search-result-removal-erase-spa/590856/\">How To Remove Negative Search Results: What 22,620 Links Reveal</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-14T13:50:53+00:00",
-      "fetched": "2026-10-14T23:31:59.688432+00:00"
-    },
-    {
-      "id": "9a521037-6f6e-4ad1-b471-6099281fe411",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Your Store Is \u2018Agent-Ready\u2019 By Default, We Tested 122 Shopify Stores To See What That Actually Means via @sejournal, @billhunt",
-      "link": "https://www.searchenginejournal.com/your-store-is-agent-ready-by-default-we-tested-122-shopify-stores/591767/",
-      "summary": "A store can look agent-ready by default and still fail the moment a buyer asks about shipping, pickup, or cancellation. Here's what to verify.\n\nThe post <a href=\"https://www.searchenginejournal.com/your-store-is-agent-ready-by-default-we-tested-122-shopify-stores/591767/\">Your Store Is &#8216;Agent-Ready&#8217; By Default, We Tested 122 Shopify Stores To See What That Actually Means</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-14T12:00:06+00:00",
-      "fetched": "2026-10-14T23:31:59.688442+00:00"
-    },
-    {
-      "id": "61809551-7d93-4a6d-a644-05afff79da91",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Explains How They Rank PDFs And What It Means For SEO/GEO via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-explains-how-they-rank-pdfs-and-what-it-means-for-seo-geo/592902/",
-      "summary": "Google explains how it ranks PDFs in Search and AI Mode and how to check if a PDF is SEO friendly.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-explains-how-they-rank-pdfs-and-what-it-means-for-seo-geo/592902/\">Google Explains How They Rank PDFs And What It Means For SEO/GEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-14T09:50:10+00:00",
-      "fetched": "2026-10-14T23:31:59.688452+00:00"
     }
   ],
-  "last_updated": "2026-10-18T22:40:08.134242+00:00"
+  "last_updated": "2026-10-20T00:01:38.773889+00:00"
 }
