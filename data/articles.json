@@ -1,6 +1,105 @@
 {
   "articles": [
     {
+      "id": "fb7dc7db-c2f5-40ad-acb9-efad28787d53",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "UpdraftPlus WordPress Plugin Security Breach Enables Backdoor Attacks via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/updraftplus-wordpress-plugin-security-breach-enables-backdoor-attacks/593909/",
+      "summary": "Hackers installed backdoors on WordPress sites using UpdraftPlus, putting over 3 million active installations at risk.\n\nThe post <a href=\"https://www.searchenginejournal.com/updraftplus-wordpress-plugin-security-breach-enables-backdoor-attacks/593909/\">UpdraftPlus WordPress Plugin Security Breach Enables Backdoor Attacks</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-21T22:03:33+00:00",
+      "fetched": "2026-10-21T23:47:03.493654+00:00"
+    },
+    {
+      "id": "932478d2-56c3-4d12-8b1b-ca00beed9c00",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Reminds Sites To Serve A 503 During PHP Patch Downtime via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-reminds-sites-to-serve-503s-during-server-downtime/593873/",
+      "summary": "Taking a site offline to patch PHP? Serve a 503 from outside PHP and keep robots.txt reachable. Days of server errors may get URLs dropped.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-reminds-sites-to-serve-503s-during-server-downtime/593873/\">Google Reminds Sites To Serve A 503 During PHP Patch Downtime</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-21T20:19:40+00:00",
+      "fetched": "2026-10-21T23:47:03.493688+00:00"
+    },
+    {
+      "id": "46bdcf05-71ad-4ba9-a06b-2eb768cf0ef0",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Rank Tracking Broke In September \u2013 The Future Is Measured By Brand & Revenue via @sejournal, @TaylorDanRW",
+      "link": "https://www.searchenginejournal.com/rank-tracking-broke-in-september-the-future-is-measured-by-brand-revenue/592783/",
+      "summary": "Measure SEO beyond keyword positions with brand visibility, AI citations, and revenue as rank tracking outages expose gaps in traditional reporting.\n\nThe post <a href=\"https://www.searchenginejournal.com/rank-tracking-broke-in-september-the-future-is-measured-by-brand-revenue/592783/\">Rank Tracking Broke In September \u2013 The Future Is Measured By Brand &#038; Revenue</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-21T19:00:57+00:00",
+      "fetched": "2026-10-21T23:47:03.493705+00:00"
+    },
+    {
+      "id": "33448357-5b4e-4cdf-8ee2-0f26933b91af",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Wiretapping The SERP: Reverse Engineering Network Data",
+      "link": "https://www.searchenginejournal.com/wiretapping-the-serp-reverse-engineering-network-data/593419/",
+      "summary": "A beginner\u2019s guide to exploring browser network data, how it uncovered a $13,337 Google exploit, and what it reveals about Google and ChatGPT.\n\nThe post <a href=\"https://www.searchenginejournal.com/wiretapping-the-serp-reverse-engineering-network-data/593419/\">Wiretapping The SERP: Reverse Engineering Network Data</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-21T14:00:14+00:00",
+      "fetched": "2026-10-21T23:47:03.493723+00:00"
+    },
+    {
+      "id": "c2b40715-8011-48ed-99c0-ee1c4e71ba10",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Critical PHP Core Security Flaws Affect Websites, Including WordPress via @sejournal, @vahandev",
+      "link": "https://www.searchenginejournal.com/critical-php-core-security-flaws-affect-websites-including-wordpress/593812/",
+      "summary": "PHP's emergency security fixes are available today, October 21, and website owners should ask their hosts to install them immediately.\n\nThe post <a href=\"https://www.searchenginejournal.com/critical-php-core-security-flaws-affect-websites-including-wordpress/593812/\">Critical PHP Core Security Flaws Affect Websites, Including WordPress</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-21T13:46:10+00:00",
+      "fetched": "2026-10-21T23:47:03.493737+00:00"
+    },
+    {
+      "id": "9627d743-fd54-41d1-b4d6-f7502b301b00",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Images & Discover Previews Don\u2019t Support JPEG XL via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-images-discover-previews-dont-support-jpeg-xl/593816/",
+      "summary": "Chrome and Firefox now display JPEG XL, but Google says it isn't currently supported in Google Images or Discover previews.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-images-discover-previews-dont-support-jpeg-xl/593816/\">Google Images &#038; Discover Previews Don&#8217;t Support JPEG XL</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-21T13:00:00+00:00",
+      "fetched": "2026-10-21T23:47:03.493750+00:00"
+    },
+    {
+      "id": "459f77a2-c49a-4524-b559-caae71fcc1c6",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Crawls Raw And Encoded Bracket URLs Separately via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-crawls-raw-and-encoded-bracket-urls-separately/593765/",
+      "summary": "Google's John Mueller says raw and percent-encoded brackets are different URLs and recommends using one form across links, canonical tags, and sitemaps.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-crawls-raw-and-encoded-bracket-urls-separately/593765/\">Google Crawls Raw And Encoded Bracket URLs Separately</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-21T12:06:29+00:00",
+      "fetched": "2026-10-21T23:47:03.493761+00:00"
+    },
+    {
+      "id": "f0f8fba0-6f4b-49d5-8614-2e085527c5ce",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "China Wrote The First GEO Rulebook After A TV Scandal \u2013 Western SEOs Should Take Notes via @sejournal, @MPentzek",
+      "link": "https://www.searchenginejournal.com/china-wrote-the-first-geo-rulebook-after-a-tv-scandal-western-seos-should-take-notes/593199/",
+      "summary": "China's five-part GEO standard offers Western SEOs a practical framework for measuring AI visibility, evaluating vendors, and separating optimization from manipulation.\n\nThe post <a href=\"https://www.searchenginejournal.com/china-wrote-the-first-geo-rulebook-after-a-tv-scandal-western-seos-should-take-notes/593199/\">China Wrote The First GEO Rulebook After A TV Scandal \u2013 Western SEOs Should Take Notes</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-21T12:00:37+00:00",
+      "fetched": "2026-10-21T23:47:03.493782+00:00"
+    },
+    {
+      "id": "e294d72f-0682-4980-841f-8ae38253da79",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Details Emerge About Google Discover\u2019s SDF Freshness Algorithm via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/details-emerge-about-google-discovers-sdf-freshness-algorithm/593774/",
+      "summary": "New details on Google Discover's SDF gives publishers insights into planning the right mix of content that will rank better.\n\nThe post <a href=\"https://www.searchenginejournal.com/details-emerge-about-google-discovers-sdf-freshness-algorithm/593774/\">Details Emerge About Google Discover&#8217;s SDF Freshness Algorithm</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-21T10:38:54+00:00",
+      "fetched": "2026-10-21T23:47:03.493795+00:00"
+    },
+    {
       "id": "af8b201c-e251-4ceb-919d-f5eb40e363ae",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -120,106 +219,7 @@
       "summary": "A model can recite your brand\u2019s description and still fail the buyer\u2019s question. Research on training data shows why \u201cknowing\u201d is the hard part.\n\nThe post <a href=\"https://www.searchenginejournal.com/it-knew-every-word/592680/\">It Knew Every Word</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-10-19T14:00:20+00:00",
       "fetched": "2026-10-20T00:01:27.035309+00:00"
-    },
-    {
-      "id": "1fa5b911-2fb8-4ada-b294-d344977de634",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Search Tools Cited A Made-Up Concept Within A Week, Paper Finds via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/ai-search-tools-cited-a-made-up-concept-within-a-week-paper-finds/593472/",
-      "summary": "Researchers posted about a made-up concept on sites AI search tools cite. Four English-web tools cited it within a week. Other topics mostly didn't land.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-search-tools-cited-a-made-up-concept-within-a-week-paper-finds/593472/\">AI Search Tools Cited A Made-Up Concept Within A Week, Paper Finds</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-19T13:34:28+00:00",
-      "fetched": "2026-10-20T00:01:27.035319+00:00"
-    },
-    {
-      "id": "7f0670ee-6607-4bf7-b4f3-3ec0c905c792",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The New Rules Of Journalist Outreach, Based On Millions Of Emails",
-      "link": "https://www.searchenginejournal.com/the-new-rules-of-journalist-outreach-based-on-millions-of-emails/592060/",
-      "summary": "Get journalist outreach pitches seen and understood with relevant targeting, authenticated domains, concrete subject lines, and clear openings that shape AI inbox summaries.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-new-rules-of-journalist-outreach-based-on-millions-of-emails/592060/\">The New Rules Of Journalist Outreach, Based On Millions Of Emails</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-19T12:00:45+00:00",
-      "fetched": "2026-10-20T00:01:27.035329+00:00"
-    },
-    {
-      "id": "16eb8cbd-803f-48a6-93e3-f52f4038d582",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "OpenAI\u2019s API Only Partly Matched ChatGPT\u2019s Citations, Paper Finds via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/openais-api-only-partly-matched-chatgpts-citations-paper-finds/593304/",
-      "summary": "A paper tested whether Google results and OpenAI's API can stand in for ChatGPT's citations. They matched cited sites more often than the exact pages.\n\nThe post <a href=\"https://www.searchenginejournal.com/openais-api-only-partly-matched-chatgpts-citations-paper-finds/593304/\">OpenAI&#8217;s API Only Partly Matched ChatGPT&#8217;s Citations, Paper Finds</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-18T08:00:00+00:00",
-      "fetched": "2026-10-18T22:40:07.542057+00:00"
-    },
-    {
-      "id": "609e5463-6172-4e0c-9144-ee8a40fe20c9",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Indexing API Docs No Longer Explain How To Get Approval via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-indexing-api-docs-approval-form-removed/593292/",
-      "summary": "Google removed the Indexing API approval form and steps from its docs. Default quotas are listed, but the pages don't say how to request more.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-indexing-api-docs-approval-form-removed/593292/\">Google&#8217;s Indexing API Docs No Longer Explain How To Get Approval</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-17T18:15:44+00:00",
-      "fetched": "2026-10-17T22:45:13.104661+00:00"
-    },
-    {
-      "id": "3c69d443-048f-4b18-982f-544280d53992",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Rank Tracker Data, ChatGPT Tags & AI Search Links \u2013 SEO Pulse via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-rank-tracker-data-chatgpt-tags-ai-search-links/593171/",
-      "summary": "A rank tracker logged Google pages missing their usual sites, some ChatGPT links lost tracking tags, and Google and Bing changed AI search links.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-rank-tracker-data-chatgpt-tags-ai-search-links/593171/\">Rank Tracker Data, ChatGPT Tags &#038; AI Search Links \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-17T12:00:00+00:00",
-      "fetched": "2026-10-17T22:45:13.104689+00:00"
-    },
-    {
-      "id": "c9bec9f7-02fe-421a-93c0-37da46b1e129",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Meta\u2019s New Terms Expand Crawling Rights Beyond Advertisers via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/metas-new-terms-expand-crawling-rights-beyond-advertisers/593217/",
-      "summary": "New terms let Meta crawl sites tied to business users and use the content to train its products, widening rights ad buyers had already granted.\n\nThe post <a href=\"https://www.searchenginejournal.com/metas-new-terms-expand-crawling-rights-beyond-advertisers/593217/\">Meta&#8217;s New Terms Expand Crawling Rights Beyond Advertisers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-16T21:38:49+00:00",
-      "fetched": "2026-10-16T23:06:39.929499+00:00"
-    },
-    {
-      "id": "16dfc97e-b9c6-44e4-ab85-0b2694d0dd1e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why The New York Times Puts Free Content First",
-      "link": "https://www.searchenginejournal.com/why-the-new-york-times-puts-free-content-first/593021/",
-      "summary": "The New York Times gives prime homepage space to free articles and tells readers they\u2019re free. Here\u2019s why that works.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-the-new-york-times-puts-free-content-first/593021/\">Why The New York Times Puts Free Content First</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-16T19:00:23+00:00",
-      "fetched": "2026-10-16T23:06:39.929521+00:00"
-    },
-    {
-      "id": "c3e74e12-f579-44ca-9b59-1310f721990a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "It\u2019s Possible Your Migration Issues May Be Due To Site Quality via @sejournal, @marie_haynes",
-      "link": "https://www.searchenginejournal.com/its-possible-your-migration-issues-may-be-due-to-site-quality/592899/",
-      "summary": "If your new domain won\u2019t index and there\u2019s no technical fix, the problem may be originality. Read Marie Haynes\u2019 theory and what to do next.\n\nThe post <a href=\"https://www.searchenginejournal.com/its-possible-your-migration-issues-may-be-due-to-site-quality/592899/\">It&#8217;s Possible Your Migration Issues May Be Due To Site Quality</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-16T14:00:20+00:00",
-      "fetched": "2026-10-16T23:06:39.929536+00:00"
-    },
-    {
-      "id": "58716582-bd5a-4df3-8946-d08cb605dab8",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Takes Applications For A UGC Pipeline Separate From Crawling via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-ugc-fresh-data-program-applications/593113/",
-      "summary": "Google is accepting applications from forums and social platforms for a UGC pipeline separate from crawling.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ugc-fresh-data-program-applications/593113/\">Google Takes Applications For A UGC Pipeline Separate From Crawling</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-16T12:00:00+00:00",
-      "fetched": "2026-10-16T23:06:39.929553+00:00"
     }
   ],
-  "last_updated": "2026-10-20T23:31:37.479998+00:00"
+  "last_updated": "2026-10-21T23:47:04.080731+00:00"
 }
