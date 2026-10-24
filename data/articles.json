@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": "98aa6b90-92a3-4b73-b82c-3ea003d25ad5",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Explains 503s, Robots.txt Limits & Bracket URLs \u2013 SEO Pulse via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/seo-pulse-google-explains-503s-robots-txt-limits-bracket-urls/594085/",
+      "summary": "Google reminds sites to use 503s during PHP patch downtime. Other updates cover robots.txt controls, bracket URLs, and JPEG XL in Google Images and Discover.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-google-explains-503s-robots-txt-limits-bracket-urls/594085/\">Google Explains 503s, Robots.txt Limits &#038; Bracket URLs \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-24T12:00:00+00:00",
+      "fetched": "2026-10-24T22:46:40.840756+00:00"
+    },
+    {
       "id": "870e7abb-722f-4c1a-b0bf-db69a1de1b6e",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -208,18 +219,7 @@
       "summary": "New details on Google Discover's SDF gives publishers insights into planning the right mix of content that will rank better.\n\nThe post <a href=\"https://www.searchenginejournal.com/details-emerge-about-google-discovers-sdf-freshness-algorithm/593774/\">Details Emerge About Google Discover&#8217;s SDF Freshness Algorithm</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-10-21T10:38:54+00:00",
       "fetched": "2026-10-21T23:47:03.493795+00:00"
-    },
-    {
-      "id": "af8b201c-e251-4ceb-919d-f5eb40e363ae",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Your Audience Uses AI But Doesn\u2019t Trust It \u2013 Build Content For The Gap via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/your-audience-uses-ai-but-doesnt-trust-it-build-content-for-the-gap/592818/",
-      "summary": "Build an SEO and content strategy for audiences who use AI but distrust it, with clearer sourcing, audience segmentation, and honest product limits.\n\nThe post <a href=\"https://www.searchenginejournal.com/your-audience-uses-ai-but-doesnt-trust-it-build-content-for-the-gap/592818/\">Your Audience Uses AI But Doesn\u2019t Trust It \u2013 Build Content For The Gap</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-20T19:00:30+00:00",
-      "fetched": "2026-10-20T23:31:36.835427+00:00"
     }
   ],
-  "last_updated": "2026-10-23T23:39:03.864025+00:00"
+  "last_updated": "2026-10-24T22:46:41.627425+00:00"
 }
