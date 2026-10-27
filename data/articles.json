@@ -1,6 +1,105 @@
 {
   "articles": [
     {
+      "id": "c7dca874-ee46-4d3e-a364-a9c33a1d9d89",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Ads Expands Customer Lifecycle Goals In Search And Shopping via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/google-ads-expands-customer-lifecycle-goals-in-search-and-shopping/594458/",
+      "summary": "Google Ads expands customer lifecycle goals with High Value acquisition for Shopping and retention modes across Search, Shopping, and Performance Max.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ads-expands-customer-lifecycle-goals-in-search-and-shopping/594458/\">Google Ads Expands Customer Lifecycle Goals In Search And Shopping</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-26T21:24:39+00:00",
+      "fetched": "2026-10-27T00:07:32.300399+00:00"
+    },
+    {
+      "id": "da554168-79c9-4db7-8312-8e97e613ab80",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Adds Indexing Advice For Shareable Pages To Spam Guide via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-indexing-advice-shareable-pages-spam-guide/594451/",
+      "summary": "New spam guidance says to noindex or block crawling on pages made for sharing. Google's docs say a URL blocked in robots.txt can be indexed.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-indexing-advice-shareable-pages-spam-guide/594451/\">Google Adds Indexing Advice For Shareable Pages To Spam Guide</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-26T20:57:22+00:00",
+      "fetched": "2026-10-27T00:07:32.300426+00:00"
+    },
+    {
+      "id": "4804d2cc-b952-42a5-95a8-da1761cf7b38",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Generative UI Could Turn Google Into Your Booking.com via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/generative-ui-could-turn-google-into-your-booking-com/593414/",
+      "summary": "Wait for Google to send the booking, or build channels you own. That choice does not need to wait for generative UI.\n\nThe post <a href=\"https://www.searchenginejournal.com/generative-ui-could-turn-google-into-your-booking-com/593414/\">Generative UI Could Turn Google Into Your Booking.com</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-26T19:00:54+00:00",
+      "fetched": "2026-10-27T00:07:32.300445+00:00"
+    },
+    {
+      "id": "a96d08fa-13ea-46cb-8d02-1a310c418315",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Your Google Ads Account Is Hitting Its Targets, So Why Isn\u2019t The Business Growing?",
+      "link": "https://www.searchenginejournal.com/your-google-ads-account-is-hitting-its-targets-so-why-isnt-the-business-growing/592942/",
+      "summary": "Spot the gaps between Google Ads targets and business growth, from outdated margins and repeat buyers to weak leads and capped reach.\n\nThe post <a href=\"https://www.searchenginejournal.com/your-google-ads-account-is-hitting-its-targets-so-why-isnt-the-business-growing/592942/\">Your Google Ads Account Is Hitting Its Targets, So Why Isn\u2019t The Business Growing?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-26T15:30:04+00:00",
+      "fetched": "2026-10-27T00:07:32.300469+00:00"
+    },
+    {
+      "id": "59ebc763-70dd-44ea-b735-553ca1626a89",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Gets The Thank-You via @sejournal, @pedrodias",
+      "link": "https://www.searchenginejournal.com/google-gets-the-thank-you/594108/",
+      "summary": "Referral reports show who sent the visit, not who shaped the decision. Why GEO\u2019s real job is what a model learns, not what it retrieves.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-gets-the-thank-you/594108/\">Google Gets The Thank-You</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-26T14:00:54+00:00",
+      "fetched": "2026-10-27T00:07:32.300486+00:00"
+    },
+    {
+      "id": "528343c4-1be0-4085-97a6-8c5197c35380",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Meta Delays The Terms That Let It Crawl Business Sites via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/meta-delays-business-terms-crawling/594388/",
+      "summary": "Meta delayed its updated business terms amid complaints to EU and UK regulators. The permission to crawl sites tied to its business users hasn't changed.\n\nThe post <a href=\"https://www.searchenginejournal.com/meta-delays-business-terms-crawling/594388/\">Meta Delays The Terms That Let It Crawl Business Sites</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-26T13:00:00+00:00",
+      "fetched": "2026-10-27T00:07:32.300502+00:00"
+    },
+    {
+      "id": "b6424215-eccc-46e4-b5a5-353becfbd4af",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "ChatGPT Rarely Named Some Brands Even When Sources Mentioned Them via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/chatgpt-brand-mentions-cited-pages-graphite/594379/",
+      "summary": "Brands logged-out ChatGPT rarely named without search also showed up less when it searched, even with cited-page coverage, in new comparison-prompt data.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-brand-mentions-cited-pages-graphite/594379/\">ChatGPT Rarely Named Some Brands Even When Sources Mentioned Them</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-26T12:24:23+00:00",
+      "fetched": "2026-10-27T00:07:32.300518+00:00"
+    },
+    {
+      "id": "2175a221-136e-464d-b864-e0413e5c9b84",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "At Mod World, Reddit\u2019s CEO Just Gave Brands More Reasons To Build Their Own Communities via @sejournal, @brentcsutoras",
+      "link": "https://www.searchenginejournal.com/at-mod-world-reddits-ceo-gave-brands-more-reasons-to-build-communities/594247/",
+      "summary": "Reddit's community-first plans strengthen the case for brand subreddits built around useful answers and relationships that bring people back.\n\nThe post <a href=\"https://www.searchenginejournal.com/at-mod-world-reddits-ceo-gave-brands-more-reasons-to-build-communities/594247/\">At Mod World, Reddit\u2019s CEO Just Gave Brands More Reasons To Build Their Own Communities</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-26T12:00:17+00:00",
+      "fetched": "2026-10-27T00:07:32.300544+00:00"
+    },
+    {
+      "id": "15214898-2a5c-43b1-afba-6ac79903924f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Tactical Solutions For The Biggest AI Search Measurement Challenges via @sejournal, @lorenbaker",
+      "link": "https://www.searchenginejournal.com/tactical-solutions-for-the-biggest-ai-search-measurement-challenges-recap/593023/",
+      "summary": "Measure AI search beyond clicks with STAT\u2019s Tom Capper: track brand presence, investigate citations, and improve your attribution story.\n\nThe post <a href=\"https://www.searchenginejournal.com/tactical-solutions-for-the-biggest-ai-search-measurement-challenges-recap/593023/\">Tactical Solutions For The Biggest AI Search Measurement Challenges</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-26T07:45:18+00:00",
+      "fetched": "2026-10-27T00:07:32.300561+00:00"
+    },
+    {
       "id": "98aa6b90-92a3-4b73-b82c-3ea003d25ad5",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -120,106 +219,7 @@
       "summary": "Google CEO Sundar Pichai says the future of Search is an agentic layer that unifies Google's Search and AI experiences.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ceo-sundar-pichai-views-search-absorbed-into-agentic-layer/593923/\">Google CEO Sundar Pichai Views Search Absorbed Into Agentic Layer</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-10-22T09:17:18+00:00",
       "fetched": "2026-10-22T23:45:35.989144+00:00"
-    },
-    {
-      "id": "fb7dc7db-c2f5-40ad-acb9-efad28787d53",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "UpdraftPlus WordPress Plugin Security Breach Enables Backdoor Attacks via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/updraftplus-wordpress-plugin-security-breach-enables-backdoor-attacks/593909/",
-      "summary": "Hackers installed backdoors on WordPress sites using UpdraftPlus, putting over 3 million active installations at risk.\n\nThe post <a href=\"https://www.searchenginejournal.com/updraftplus-wordpress-plugin-security-breach-enables-backdoor-attacks/593909/\">UpdraftPlus WordPress Plugin Security Breach Enables Backdoor Attacks</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-21T22:03:33+00:00",
-      "fetched": "2026-10-21T23:47:03.493654+00:00"
-    },
-    {
-      "id": "932478d2-56c3-4d12-8b1b-ca00beed9c00",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Reminds Sites To Serve A 503 During PHP Patch Downtime via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-reminds-sites-to-serve-503s-during-server-downtime/593873/",
-      "summary": "Taking a site offline to patch PHP? Serve a 503 from outside PHP and keep robots.txt reachable. Days of server errors may get URLs dropped.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-reminds-sites-to-serve-503s-during-server-downtime/593873/\">Google Reminds Sites To Serve A 503 During PHP Patch Downtime</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-21T20:19:40+00:00",
-      "fetched": "2026-10-21T23:47:03.493688+00:00"
-    },
-    {
-      "id": "46bdcf05-71ad-4ba9-a06b-2eb768cf0ef0",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Rank Tracking Broke In September \u2013 The Future Is Measured By Brand & Revenue via @sejournal, @TaylorDanRW",
-      "link": "https://www.searchenginejournal.com/rank-tracking-broke-in-september-the-future-is-measured-by-brand-revenue/592783/",
-      "summary": "Measure SEO beyond keyword positions with brand visibility, AI citations, and revenue as rank tracking outages expose gaps in traditional reporting.\n\nThe post <a href=\"https://www.searchenginejournal.com/rank-tracking-broke-in-september-the-future-is-measured-by-brand-revenue/592783/\">Rank Tracking Broke In September \u2013 The Future Is Measured By Brand &#038; Revenue</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-21T19:00:57+00:00",
-      "fetched": "2026-10-21T23:47:03.493705+00:00"
-    },
-    {
-      "id": "33448357-5b4e-4cdf-8ee2-0f26933b91af",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Wiretapping The SERP: Reverse Engineering Network Data",
-      "link": "https://www.searchenginejournal.com/wiretapping-the-serp-reverse-engineering-network-data/593419/",
-      "summary": "A beginner\u2019s guide to exploring browser network data, how it uncovered a $13,337 Google exploit, and what it reveals about Google and ChatGPT.\n\nThe post <a href=\"https://www.searchenginejournal.com/wiretapping-the-serp-reverse-engineering-network-data/593419/\">Wiretapping The SERP: Reverse Engineering Network Data</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-21T14:00:14+00:00",
-      "fetched": "2026-10-21T23:47:03.493723+00:00"
-    },
-    {
-      "id": "c2b40715-8011-48ed-99c0-ee1c4e71ba10",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Critical PHP Core Security Flaws Affect Websites, Including WordPress via @sejournal, @vahandev",
-      "link": "https://www.searchenginejournal.com/critical-php-core-security-flaws-affect-websites-including-wordpress/593812/",
-      "summary": "PHP's emergency security fixes are available today, October 21, and website owners should ask their hosts to install them immediately.\n\nThe post <a href=\"https://www.searchenginejournal.com/critical-php-core-security-flaws-affect-websites-including-wordpress/593812/\">Critical PHP Core Security Flaws Affect Websites, Including WordPress</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-21T13:46:10+00:00",
-      "fetched": "2026-10-21T23:47:03.493737+00:00"
-    },
-    {
-      "id": "9627d743-fd54-41d1-b4d6-f7502b301b00",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Images & Discover Previews Don\u2019t Support JPEG XL via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-images-discover-previews-dont-support-jpeg-xl/593816/",
-      "summary": "Chrome and Firefox now display JPEG XL, but Google says it isn't currently supported in Google Images or Discover previews.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-images-discover-previews-dont-support-jpeg-xl/593816/\">Google Images &#038; Discover Previews Don&#8217;t Support JPEG XL</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-21T13:00:00+00:00",
-      "fetched": "2026-10-21T23:47:03.493750+00:00"
-    },
-    {
-      "id": "459f77a2-c49a-4524-b559-caae71fcc1c6",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Crawls Raw And Encoded Bracket URLs Separately via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-crawls-raw-and-encoded-bracket-urls-separately/593765/",
-      "summary": "Google's John Mueller says raw and percent-encoded brackets are different URLs and recommends using one form across links, canonical tags, and sitemaps.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-crawls-raw-and-encoded-bracket-urls-separately/593765/\">Google Crawls Raw And Encoded Bracket URLs Separately</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-21T12:06:29+00:00",
-      "fetched": "2026-10-21T23:47:03.493761+00:00"
-    },
-    {
-      "id": "f0f8fba0-6f4b-49d5-8614-2e085527c5ce",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "China Wrote The First GEO Rulebook After A TV Scandal \u2013 Western SEOs Should Take Notes via @sejournal, @MPentzek",
-      "link": "https://www.searchenginejournal.com/china-wrote-the-first-geo-rulebook-after-a-tv-scandal-western-seos-should-take-notes/593199/",
-      "summary": "China's five-part GEO standard offers Western SEOs a practical framework for measuring AI visibility, evaluating vendors, and separating optimization from manipulation.\n\nThe post <a href=\"https://www.searchenginejournal.com/china-wrote-the-first-geo-rulebook-after-a-tv-scandal-western-seos-should-take-notes/593199/\">China Wrote The First GEO Rulebook After A TV Scandal \u2013 Western SEOs Should Take Notes</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-21T12:00:37+00:00",
-      "fetched": "2026-10-21T23:47:03.493782+00:00"
-    },
-    {
-      "id": "e294d72f-0682-4980-841f-8ae38253da79",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Details Emerge About Google Discover\u2019s SDF Freshness Algorithm via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/details-emerge-about-google-discovers-sdf-freshness-algorithm/593774/",
-      "summary": "New details on Google Discover's SDF gives publishers insights into planning the right mix of content that will rank better.\n\nThe post <a href=\"https://www.searchenginejournal.com/details-emerge-about-google-discovers-sdf-freshness-algorithm/593774/\">Details Emerge About Google Discover&#8217;s SDF Freshness Algorithm</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-21T10:38:54+00:00",
-      "fetched": "2026-10-21T23:47:03.493795+00:00"
     }
   ],
-  "last_updated": "2026-10-25T22:54:29.665675+00:00"
+  "last_updated": "2026-10-27T00:07:33.367043+00:00"
 }
