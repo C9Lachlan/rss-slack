@@ -1,6 +1,105 @@
 {
   "articles": [
     {
+      "id": "f251f117-328e-4240-b67d-16853c859f2d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Says Lower AI Mode Monetization Weighed On Search Growth via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-search-growth-slows-again-ai-mode/594862/",
+      "summary": "Google Search revenue growth slowed for a second straight quarter, and lower AI Mode monetization was one reason given.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-search-growth-slows-again-ai-mode/594862/\">Google Says Lower AI Mode Monetization Weighed On Search Growth</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-28T23:12:24+00:00",
+      "fetched": "2026-10-29T00:30:41.216162+00:00"
+    },
+    {
+      "id": "fbac6120-1502-4bf8-a3b6-aa89e4036227",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "WordPress Announces Another Security Release: Version 7.1.4 via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/wordpress-announces-another-security-release-version-7-1-4/594798/",
+      "summary": "WordPress announced security release version 7.1.4 that fixes 22 vulnerabilities, including one that affects its updater.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-announces-another-security-release-version-7-1-4/594798/\">WordPress Announces Another Security Release: Version 7.1.4</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-28T22:14:34+00:00",
+      "fetched": "2026-10-29T00:30:41.216185+00:00"
+    },
+    {
+      "id": "90160029-10e4-4b1a-a7ae-3106e5bca7af",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Lets Restaurants Directly Opt Out Of Ordering Providers via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-restaurants-opt-out-ordering-providers/594794/",
+      "summary": "Restaurants can now turn off specific third-party ordering providers in the Business Profile dashboard instead of waiting on each provider to remove them.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-restaurants-opt-out-ordering-providers/594794/\">Google Lets Restaurants Directly Opt Out Of Ordering Providers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-28T22:11:43+00:00",
+      "fetched": "2026-10-29T00:30:41.216203+00:00"
+    },
+    {
+      "id": "69433021-776d-4b7a-adbb-d43c37c6798e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI-Cited Pages More Often Got Straight To The Answer via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/ai-cited-pages-more-often-got-straight-to-the-answer/594781/",
+      "summary": "Pages cited by AI often answered a question in their first lines, though the gap was smaller against pages AI pulled up but didn\u2019t cite.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-cited-pages-more-often-got-straight-to-the-answer/594781/\">AI-Cited Pages More Often Got Straight To The Answer</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-28T20:42:47+00:00",
+      "fetched": "2026-10-29T00:30:41.216226+00:00"
+    },
+    {
+      "id": "5c88dff2-ef57-4805-a9cb-b56b92a6c64e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Bitly\u2019s New Data Says SEOs Are Half Right About Short Links via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/bitlys-new-data-says-seos-are-half-right-about-short-links/593983/",
+      "summary": "Bitly's survey shows why SEOs should look beyond short links to fix mismatched landing pages and rethink what click-through rates reveal.\n\nThe post <a href=\"https://www.searchenginejournal.com/bitlys-new-data-says-seos-are-half-right-about-short-links/593983/\">Bitly&#8217;s New Data Says SEOs Are Half Right About Short Links</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-28T19:00:59+00:00",
+      "fetched": "2026-10-29T00:30:41.216242+00:00"
+    },
+    {
+      "id": "b4c6b5d8-4477-4bf0-946a-4b00ba30470f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Hreflang Magic Trick \u2013 It Routes, It Doesn\u2019t Rank via @sejournal, @billhunt",
+      "link": "https://www.searchenginejournal.com/the-hreflang-magic-trick-it-routes-it-doesnt-rank/591979/",
+      "summary": "Understand why Google can serve unindexed hreflang URLs and why market pages need unique local value to stand out in AI search.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-hreflang-magic-trick-it-routes-it-doesnt-rank/591979/\">The Hreflang Magic Trick \u2013 It Routes, It Doesn\u2019t Rank</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-28T14:00:59+00:00",
+      "fetched": "2026-10-29T00:30:41.216258+00:00"
+    },
+    {
+      "id": "a65ab90c-fbad-4d73-948e-c98a338f3187",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Decodo Launches Web Data API To Give AI Agents Web Access",
+      "link": "https://www.searchenginejournal.com/decodo-launches-web-data-api-to-give-ai-agents-web-access-spn/594415/",
+      "summary": "Decodo has introduced Web Data API, combining scraping, searching, mapping, and crawling under one key for AI agents and retrieval pipelines.\n\nThe post <a href=\"https://www.searchenginejournal.com/decodo-launches-web-data-api-to-give-ai-agents-web-access-spn/594415/\">Decodo Launches Web Data API To Give AI Agents Web Access</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-28T13:00:00+00:00",
+      "fetched": "2026-10-29T00:30:41.216273+00:00"
+    },
+    {
+      "id": "e41a1c0a-3b41-460f-b893-7343409b837d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "GA4 Missed 66% Of One Retailer\u2019s Holiday Orders: Check Yours Before Peak Season",
+      "link": "https://www.searchenginejournal.com/ga4-missed-two-thirds-retailers-holiday-orders-check-yours-before-peak-saeson/593007/",
+      "summary": "GA4 missed two-thirds of one retailer's holiday orders. What an audit of eight ecommerce brands found, and the check to run before peak season.\n\nThe post <a href=\"https://www.searchenginejournal.com/ga4-missed-two-thirds-retailers-holiday-orders-check-yours-before-peak-saeson/593007/\">GA4 Missed 66% Of One Retailer&#8217;s Holiday Orders: Check Yours Before Peak Season</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-28T12:00:45+00:00",
+      "fetched": "2026-10-29T00:30:41.216296+00:00"
+    },
+    {
+      "id": "8917c459-9b57-424e-be40-5bb305aa77eb",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Signals A Wider Crackdown On SEO Spam via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-signals-a-wider-crackdown-on-ugc-seo-spam/594679/",
+      "summary": "Google signals that its fight against SEO spam is expanding to new kinds of platforms, tools, and services.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-signals-a-wider-crackdown-on-ugc-seo-spam/594679/\">Google Signals A Wider Crackdown On SEO Spam</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-28T11:04:02+00:00",
+      "fetched": "2026-10-29T00:30:41.216311+00:00"
+    },
+    {
       "id": "809a85ca-f0f4-4d63-b15d-ff3c390a4190",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -120,106 +219,7 @@
       "summary": "Wait for Google to send the booking, or build channels you own. That choice does not need to wait for generative UI.\n\nThe post <a href=\"https://www.searchenginejournal.com/generative-ui-could-turn-google-into-your-booking-com/593414/\">Generative UI Could Turn Google Into Your Booking.com</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-10-26T19:00:54+00:00",
       "fetched": "2026-10-27T00:07:32.300445+00:00"
-    },
-    {
-      "id": "a96d08fa-13ea-46cb-8d02-1a310c418315",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Your Google Ads Account Is Hitting Its Targets, So Why Isn\u2019t The Business Growing?",
-      "link": "https://www.searchenginejournal.com/your-google-ads-account-is-hitting-its-targets-so-why-isnt-the-business-growing/592942/",
-      "summary": "Spot the gaps between Google Ads targets and business growth, from outdated margins and repeat buyers to weak leads and capped reach.\n\nThe post <a href=\"https://www.searchenginejournal.com/your-google-ads-account-is-hitting-its-targets-so-why-isnt-the-business-growing/592942/\">Your Google Ads Account Is Hitting Its Targets, So Why Isn\u2019t The Business Growing?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-26T15:30:04+00:00",
-      "fetched": "2026-10-27T00:07:32.300469+00:00"
-    },
-    {
-      "id": "59ebc763-70dd-44ea-b735-553ca1626a89",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Gets The Thank-You via @sejournal, @pedrodias",
-      "link": "https://www.searchenginejournal.com/google-gets-the-thank-you/594108/",
-      "summary": "Referral reports show who sent the visit, not who shaped the decision. Why GEO\u2019s real job is what a model learns, not what it retrieves.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-gets-the-thank-you/594108/\">Google Gets The Thank-You</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-26T14:00:54+00:00",
-      "fetched": "2026-10-27T00:07:32.300486+00:00"
-    },
-    {
-      "id": "528343c4-1be0-4085-97a6-8c5197c35380",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Meta Delays The Terms That Let It Crawl Business Sites via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/meta-delays-business-terms-crawling/594388/",
-      "summary": "Meta delayed its updated business terms amid complaints to EU and UK regulators. The permission to crawl sites tied to its business users hasn't changed.\n\nThe post <a href=\"https://www.searchenginejournal.com/meta-delays-business-terms-crawling/594388/\">Meta Delays The Terms That Let It Crawl Business Sites</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-26T13:00:00+00:00",
-      "fetched": "2026-10-27T00:07:32.300502+00:00"
-    },
-    {
-      "id": "b6424215-eccc-46e4-b5a5-353becfbd4af",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "ChatGPT Rarely Named Some Brands Even When Sources Mentioned Them via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/chatgpt-brand-mentions-cited-pages-graphite/594379/",
-      "summary": "Brands logged-out ChatGPT rarely named without search also showed up less when it searched, even with cited-page coverage, in new comparison-prompt data.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-brand-mentions-cited-pages-graphite/594379/\">ChatGPT Rarely Named Some Brands Even When Sources Mentioned Them</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-26T12:24:23+00:00",
-      "fetched": "2026-10-27T00:07:32.300518+00:00"
-    },
-    {
-      "id": "2175a221-136e-464d-b864-e0413e5c9b84",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "At Mod World, Reddit\u2019s CEO Just Gave Brands More Reasons To Build Their Own Communities via @sejournal, @brentcsutoras",
-      "link": "https://www.searchenginejournal.com/at-mod-world-reddits-ceo-gave-brands-more-reasons-to-build-communities/594247/",
-      "summary": "Reddit's community-first plans strengthen the case for brand subreddits built around useful answers and relationships that bring people back.\n\nThe post <a href=\"https://www.searchenginejournal.com/at-mod-world-reddits-ceo-gave-brands-more-reasons-to-build-communities/594247/\">At Mod World, Reddit\u2019s CEO Just Gave Brands More Reasons To Build Their Own Communities</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-26T12:00:17+00:00",
-      "fetched": "2026-10-27T00:07:32.300544+00:00"
-    },
-    {
-      "id": "15214898-2a5c-43b1-afba-6ac79903924f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Tactical Solutions For The Biggest AI Search Measurement Challenges via @sejournal, @lorenbaker",
-      "link": "https://www.searchenginejournal.com/tactical-solutions-for-the-biggest-ai-search-measurement-challenges-recap/593023/",
-      "summary": "Measure AI search beyond clicks with STAT\u2019s Tom Capper: track brand presence, investigate citations, and improve your attribution story.\n\nThe post <a href=\"https://www.searchenginejournal.com/tactical-solutions-for-the-biggest-ai-search-measurement-challenges-recap/593023/\">Tactical Solutions For The Biggest AI Search Measurement Challenges</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-26T07:45:18+00:00",
-      "fetched": "2026-10-27T00:07:32.300561+00:00"
-    },
-    {
-      "id": "98aa6b90-92a3-4b73-b82c-3ea003d25ad5",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Explains 503s, Robots.txt Limits & Bracket URLs \u2013 SEO Pulse via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-google-explains-503s-robots-txt-limits-bracket-urls/594085/",
-      "summary": "Google reminds sites to use 503s during PHP patch downtime. Other updates cover robots.txt controls, bracket URLs, and JPEG XL in Google Images and Discover.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-google-explains-503s-robots-txt-limits-bracket-urls/594085/\">Google Explains 503s, Robots.txt Limits &#038; Bracket URLs \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-24T12:00:00+00:00",
-      "fetched": "2026-10-24T22:46:40.840756+00:00"
-    },
-    {
-      "id": "870e7abb-722f-4c1a-b0bf-db69a1de1b6e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "GEO Is A Distraction: Here\u2019s Where The Real Opportunity Is via @sejournal, @marie_haynes",
-      "link": "https://www.searchenginejournal.com/geo-is-a-distraction-heres-where-the-real-opportunity-is/593870/",
-      "summary": "Universal Cart, UCP, WebMCP, intelligent eyewear: the agentic web is arriving. Marie Haynes maps the opportunities most businesses are ignoring.\n\nThe post <a href=\"https://www.searchenginejournal.com/geo-is-a-distraction-heres-where-the-real-opportunity-is/593870/\">GEO Is A Distraction: Here\u2019s Where The Real Opportunity Is</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-23T19:00:43+00:00",
-      "fetched": "2026-10-23T23:39:03.101275+00:00"
-    },
-    {
-      "id": "8f69fea2-1e35-4926-9d17-a01583578a8d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Junior Hiring Gap Your 2027 Marketing Budget Should Name via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/the-junior-hiring-gap-your-2027-marketing-budget-should-name/592944/",
-      "summary": "Make junior hiring an explicit part of your 2027 SEO budget, with defined learning roles and a scorecard that tracks unfilled seats.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-junior-hiring-gap-your-2027-marketing-budget-should-name/592944/\">The Junior Hiring Gap Your 2027 Marketing Budget Should Name</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-23T14:00:53+00:00",
-      "fetched": "2026-10-23T23:39:03.101302+00:00"
     }
   ],
-  "last_updated": "2026-10-28T00:08:16.324252+00:00"
+  "last_updated": "2026-10-29T00:30:42.103094+00:00"
 }
