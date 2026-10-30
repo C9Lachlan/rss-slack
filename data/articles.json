@@ -1,6 +1,94 @@
 {
   "articles": [
     {
+      "id": "2fb3b8b2-065f-4239-a1e3-e4fe6b54fd9a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Ads Decoded Explores How AI Is Changing Search Behavior via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/google-search-behavior-shifts-2027-ads-strategy/594971/",
+      "summary": "Google\u2019s Ads Decoded explores longer AI Mode queries, earlier discovery, and demand for human perspectives. Here\u2019s what advertisers can consider for 2027.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-search-behavior-shifts-2027-ads-strategy/594971/\">Google\u2019s Ads Decoded Explores How AI Is Changing Search Behavior</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-29T20:24:25+00:00",
+      "fetched": "2026-10-30T00:29:10.923885+00:00"
+    },
+    {
+      "id": "6d4338ba-7336-4da5-aae3-6a8c700921e1",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Q3 Selloff Raises Advertiser Concerns About AI Search via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/googles-q3-selloff-raises-advertiser-concerns-about-ai-search/595005/",
+      "summary": "Google\u2019s Q3 stock plunge puts AI spending and Search ad revenue under scrutiny. Here\u2019s what the earnings reveal for PPC advertisers.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-q3-selloff-raises-advertiser-concerns-about-ai-search/595005/\">Google\u2019s Q3 Selloff Raises Advertiser Concerns About AI Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-29T19:47:55+00:00",
+      "fetched": "2026-10-30T00:29:10.923912+00:00"
+    },
+    {
+      "id": "dfb93c2b-b7d4-4b09-a6a5-d4bd7b8b1821",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Accurate Facts Can Still Produce A False AI Answer, And Courts Are Starting To Hold The Platform Responsible via @sejournal, @DuaneForrester",
+      "link": "https://www.searchenginejournal.com/accurate-facts-can-still-produce-a-false-ai-answer-and-courts-are-starting-to-hold-the-platform-responsible/594296/",
+      "summary": "AI search merges businesses with their lookalikes, and courts are holding platforms liable. Here\u2019s how conflation happens and how to make your entity unmistakable.\n\nThe post <a href=\"https://www.searchenginejournal.com/accurate-facts-can-still-produce-a-false-ai-answer-and-courts-are-starting-to-hold-the-platform-responsible/594296/\">Accurate Facts Can Still Produce A False AI Answer, And Courts Are Starting To Hold The Platform Responsible</a> appeared first on <a href=\"https://www.searchengine",
+      "published": "2026-10-29T19:00:31+00:00",
+      "fetched": "2026-10-30T00:29:10.923934+00:00"
+    },
+    {
+      "id": "e341be1b-d632-47d1-b6c4-aef74cc27a2a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How Can I Tell If My Images Are Optimized For Multimodal Search? \u2013 Ask an SEO via @sejournal, @HelenPollitt1",
+      "link": "https://www.searchenginejournal.com/ask-an-seo-how-can-i-tell-if-my-images-are-optimised-for-multimodal-search/593861/",
+      "summary": "Check whether search engines can find and understand your images, and spot technical issues that limit their visibility in multimodal search.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-an-seo-how-can-i-tell-if-my-images-are-optimised-for-multimodal-search/593861/\">How Can I Tell If My Images Are Optimized For Multimodal Search? \u2013 Ask an SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-29T15:30:40+00:00",
+      "fetched": "2026-10-30T00:29:10.923957+00:00"
+    },
+    {
+      "id": "8fc79cf0-ec36-4a7d-9ebc-f3b0d22a51ed",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "OpenAI\u2019s Aura Safety Check Can Block Your Site From ChatGPT Browsing via @sejournal, @TaylorDanRW",
+      "link": "https://www.searchenginejournal.com/openais-aura-safety-check-can-block-your-site-from-chatgpt-browsing/594322/",
+      "summary": "Identify OpenAI Aura blocks that stop agents from opening your site, and gather evidence to request a review.\n\nThe post <a href=\"https://www.searchenginejournal.com/openais-aura-safety-check-can-block-your-site-from-chatgpt-browsing/594322/\">OpenAI&#8217;s Aura Safety Check Can Block Your Site From ChatGPT Browsing</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-29T14:00:06+00:00",
+      "fetched": "2026-10-30T00:29:10.923975+00:00"
+    },
+    {
+      "id": "964ab80d-8df9-4adf-8ea7-71364778e13d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "HubSpot Lost 80% Of Its Traffic \u2013 CMO Kipp Bodnar Explains Why Revenue Kept Growing via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/hubspot-lost-80-of-its-traffic-cmo-kipp-bodnar-explains-why-revenue-kept-growing/594004/",
+      "summary": "HubSpot's traffic collapse shows why SEOs need to measure revenue per visit, track AI referral conversions, and build audiences beyond Google.\n\nThe post <a href=\"https://www.searchenginejournal.com/hubspot-lost-80-of-its-traffic-cmo-kipp-bodnar-explains-why-revenue-kept-growing/594004/\">HubSpot Lost 80% Of Its Traffic \u2013 CMO Kipp Bodnar Explains Why Revenue Kept Growing</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-29T12:00:46+00:00",
+      "fetched": "2026-10-30T00:29:10.923993+00:00"
+    },
+    {
+      "id": "2733e228-a491-4d62-bea4-7c2a579c1f04",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Recommends Using Custom 404 Error Pages via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-recommends-using-custom-404-error-pages/594908/",
+      "summary": "Google says missing pages aren't a ranking threat, but what visitors encounter after a 404 can matter to a business.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-recommends-using-custom-404-error-pages/594908/\">Google Recommends Using Custom 404 Error Pages</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-29T11:07:37+00:00",
+      "fetched": "2026-10-30T00:29:10.924010+00:00"
+    },
+    {
+      "id": "36f1ee27-a988-4c3c-a2ea-873b2f1eca50",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Technical SEO Audit For AI Search: Watch Us Do It Live [Webinar] via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/technical-seo-audit-for-ai-search-watch-us-do-it-live/594766/",
+      "summary": "Watch our team audit a real website live with Loren Baker and Vahan Petrosyan, and learn which technical SEO & AI-readiness checks your audit needs.\n\nThe post <a href=\"https://www.searchenginejournal.com/technical-seo-audit-for-ai-search-watch-us-do-it-live/594766/\">Technical SEO Audit For AI Search: Watch Us Do It Live [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-29T07:45:03+00:00",
+      "fetched": "2026-10-30T00:29:10.924041+00:00"
+    },
+    {
       "id": "f251f117-328e-4240-b67d-16853c859f2d",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -78,15 +166,15 @@
       "fetched": "2026-10-29T00:30:41.216273+00:00"
     },
     {
-      "id": "e41a1c0a-3b41-460f-b893-7343409b837d",
+      "id": "7892d4ec-3b06-4d21-9f28-2f742d9b01d7",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
       "feed_url": "https://www.searchenginejournal.com",
       "title": "GA4 Missed 66% Of One Retailer\u2019s Holiday Orders: Check Yours Before Peak Season",
-      "link": "https://www.searchenginejournal.com/ga4-missed-two-thirds-retailers-holiday-orders-check-yours-before-peak-saeson/593007/",
-      "summary": "GA4 missed two-thirds of one retailer's holiday orders. What an audit of eight ecommerce brands found, and the check to run before peak season.\n\nThe post <a href=\"https://www.searchenginejournal.com/ga4-missed-two-thirds-retailers-holiday-orders-check-yours-before-peak-saeson/593007/\">GA4 Missed 66% Of One Retailer&#8217;s Holiday Orders: Check Yours Before Peak Season</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "link": "https://www.searchenginejournal.com/ga4-missed-two-thirds-retailers-holiday-orders-check-yours-before-peak-season/593007/",
+      "summary": "GA4 missed two-thirds of one retailer's holiday orders. What an audit of eight ecommerce brands found, and the check to run before peak season.\n\nThe post <a href=\"https://www.searchenginejournal.com/ga4-missed-two-thirds-retailers-holiday-orders-check-yours-before-peak-season/593007/\">GA4 Missed 66% Of One Retailer&#8217;s Holiday Orders: Check Yours Before Peak Season</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-10-28T12:00:45+00:00",
-      "fetched": "2026-10-29T00:30:41.216296+00:00"
+      "fetched": "2026-10-30T00:29:10.924072+00:00"
     },
     {
       "id": "8917c459-9b57-424e-be40-5bb305aa77eb",
@@ -131,95 +219,7 @@
       "summary": "Google is testing AI Mode ads informed by connected Gmail and Photos data, as its privacy policy adds an exception for ad personalization.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-privacy-policy-connected-apps-ai-mode-ads/594546/\">Google Privacy Update Lets Connected Apps Shape AI Mode Ads</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-10-27T17:11:52+00:00",
       "fetched": "2026-10-28T00:08:13.422160+00:00"
-    },
-    {
-      "id": "12c6f693-2774-4539-b53d-f0a0890af16d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Shopify Moves AI Agent Knowledge Base Into Merchant Admin via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/shopify-ai-agent-knowledge-base-admin/594551/",
-      "summary": "Shopify's AI agent knowledge base now lives in the admin. Policies and contact details publish by default. Some app users need to re-add their facts.\n\nThe post <a href=\"https://www.searchenginejournal.com/shopify-ai-agent-knowledge-base-admin/594551/\">Shopify Moves AI Agent Knowledge Base Into Merchant Admin</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-27T15:39:22+00:00",
-      "fetched": "2026-10-28T00:08:13.422182+00:00"
-    },
-    {
-      "id": "497058c3-a388-4a02-9cfd-f50fdcff2808",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "ChatGPT Data: 1 In 5 Consumer Messages Now Seek Information via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/chatgpt-signals-consumer-messages-information-seeking/594527/",
-      "summary": "Looking things up now makes up about as large a share of consumer ChatGPT messages as writing, though the increase is smaller than earlier data.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-signals-consumer-messages-information-seeking/594527/\">ChatGPT Data: 1 In 5 Consumer Messages Now Seek Information</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-27T14:13:30+00:00",
-      "fetched": "2026-10-28T00:08:13.422200+00:00"
-    },
-    {
-      "id": "ea8798d3-cb3d-46fa-9d04-71ded0dbd15b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How I Decide Where The Next $100,000 Of Marketing Budget Should Go",
-      "link": "https://www.searchenginejournal.com/how-i-decide-where-the-next-100000-of-marketing-budget-should-go/593211/",
-      "summary": "Allocate your next marketing budget increase by weighing retention and conversion fixes against more paid search, then fund the bottleneck with evidence.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-i-decide-where-the-next-100000-of-marketing-budget-should-go/593211/\">How I Decide Where The Next $100,000 Of Marketing Budget Should Go</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-27T14:00:18+00:00",
-      "fetched": "2026-10-28T00:08:13.422217+00:00"
-    },
-    {
-      "id": "e3d08ac5-ebfb-41d5-a920-04b59eef5773",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Flat Traffic, No Budget: What Ziff Davis\u2019 Jonathan Berthold Tests First",
-      "link": "https://www.searchenginejournal.com/flat-traffic-no-budget-what-ziff-davis-jonathan-berthold-tests-first/593483/",
-      "summary": "Jonathan Berthold explains why bottom-of-funnel content is the lowest-lift experiment and how to sell leadership on a test you can't promise will win.\n\nThe post <a href=\"https://www.searchenginejournal.com/flat-traffic-no-budget-what-ziff-davis-jonathan-berthold-tests-first/593483/\">Flat Traffic, No Budget: What Ziff Davis&#8217; Jonathan Berthold Tests First</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-27T12:00:41+00:00",
-      "fetched": "2026-10-28T00:08:13.422233+00:00"
-    },
-    {
-      "id": "f8cdabda-25d1-4421-991c-ed4d6ab9e47d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Responds To Concern Over Search Console Indexing Reports via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-responds-to-concern-over-search-console-indexing-reports/594494/",
-      "summary": "John Mueller's responded to a stalled indexing report and explained why SEOs may need to relax about indexing report freshness.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-responds-to-concern-over-search-console-indexing-reports/594494/\">Google Responds To Concern Over Search Console Indexing Reports</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-27T11:17:59+00:00",
-      "fetched": "2026-10-28T00:08:13.422257+00:00"
-    },
-    {
-      "id": "c7dca874-ee46-4d3e-a364-a9c33a1d9d89",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Ads Expands Customer Lifecycle Goals In Search And Shopping via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/google-ads-expands-customer-lifecycle-goals-in-search-and-shopping/594458/",
-      "summary": "Google Ads expands customer lifecycle goals with High Value acquisition for Shopping and retention modes across Search, Shopping, and Performance Max.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ads-expands-customer-lifecycle-goals-in-search-and-shopping/594458/\">Google Ads Expands Customer Lifecycle Goals In Search And Shopping</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-26T21:24:39+00:00",
-      "fetched": "2026-10-27T00:07:32.300399+00:00"
-    },
-    {
-      "id": "da554168-79c9-4db7-8312-8e97e613ab80",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Adds Indexing Advice For Shareable Pages To Spam Guide via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-indexing-advice-shareable-pages-spam-guide/594451/",
-      "summary": "New spam guidance says to noindex or block crawling on pages made for sharing. Google's docs say a URL blocked in robots.txt can be indexed.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-indexing-advice-shareable-pages-spam-guide/594451/\">Google Adds Indexing Advice For Shareable Pages To Spam Guide</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-26T20:57:22+00:00",
-      "fetched": "2026-10-27T00:07:32.300426+00:00"
-    },
-    {
-      "id": "4804d2cc-b952-42a5-95a8-da1761cf7b38",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Generative UI Could Turn Google Into Your Booking.com via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/generative-ui-could-turn-google-into-your-booking-com/593414/",
-      "summary": "Wait for Google to send the booking, or build channels you own. That choice does not need to wait for generative UI.\n\nThe post <a href=\"https://www.searchenginejournal.com/generative-ui-could-turn-google-into-your-booking-com/593414/\">Generative UI Could Turn Google Into Your Booking.com</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-26T19:00:54+00:00",
-      "fetched": "2026-10-27T00:07:32.300445+00:00"
     }
   ],
-  "last_updated": "2026-10-29T00:30:42.103094+00:00"
+  "last_updated": "2026-10-30T00:29:11.624728+00:00"
 }
