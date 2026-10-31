@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "fd410c6d-1fcd-4dd9-8778-a6b32d022baf",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Hackers Hijacked DebugBear\u2019s DNS To Serve Malicious JavaScript via @sejournal, @vahandev",
+      "link": "https://www.searchenginejournal.com/debugbear-rum-attack-seo-site-owner-actions/595412/",
+      "summary": "DebugBear told customers to remove its Core Web Vitals monitoring script. Site owners should also check exposed accounts and unauthorized changes.\n\nThe post <a href=\"https://www.searchenginejournal.com/debugbear-rum-attack-seo-site-owner-actions/595412/\">Hackers Hijacked DebugBear&#8217;s DNS To Serve Malicious JavaScript</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-31T21:11:41+00:00",
+      "fetched": "2026-10-31T23:50:45.481283+00:00"
+    },
+    {
+      "id": "29fb6238-36cd-4b49-97ec-537269c6a943",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Spam Guide Update, Restaurant Controls & AI Mode Revenue \u2013 SEO Pulse via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/seo-pulse-spam-guide-restaurant-controls-ai-mode-revenue/595031/",
+      "summary": "Google's spam guide adds indexing advice for pages made for sharing. Other updates cover restaurant ordering controls, report dates and AI Mode revenue.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-spam-guide-restaurant-controls-ai-mode-revenue/595031/\">Spam Guide Update, Restaurant Controls &#038; AI Mode Revenue \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-31T12:00:00+00:00",
+      "fetched": "2026-10-31T23:50:45.481309+00:00"
+    },
+    {
+      "id": "236f46c5-8280-486b-aad1-76307ce55904",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Shopify CEO: Peer Ratings On AI Use \u2018Didn\u2019t Matter\u2019 via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/shopify-ceo-ai-peer-review-ratings/595379/",
+      "summary": "Shopify's performance reviews asked how staff used AI. Its CEO says the answers didn't matter, and the question can give a company a reputation.\n\nThe post <a href=\"https://www.searchenginejournal.com/shopify-ceo-ai-peer-review-ratings/595379/\">Shopify CEO: Peer Ratings On AI Use &#8216;Didn&#8217;t Matter&#8217;</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-31T09:00:00+00:00",
+      "fetched": "2026-10-31T23:50:45.481326+00:00"
+    },
+    {
+      "id": "a3e3fabb-1b2f-407d-9910-470a11de0a19",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Big Brands Dominate AI Search But Leave Openings For Smaller Sites via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/big-brands-dominate-ai-search-but-leave-openings-for-smaller-sites/595397/",
+      "summary": "New research identifies a potential weakness in big-brand visibility that smaller publishers may be able to exploit.\n\nThe post <a href=\"https://www.searchenginejournal.com/big-brands-dominate-ai-search-but-leave-openings-for-smaller-sites/595397/\">Big Brands Dominate AI Search But Leave Openings For Smaller Sites</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-31T08:15:08+00:00",
+      "fetched": "2026-10-31T23:50:45.481348+00:00"
+    },
+    {
+      "id": "13b225eb-5aab-4990-80cc-b183f5958cb7",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Opens Connected Apps Preview For AI Mode & Gemini via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-connected-apps-preview-ai-mode-gemini/595268/",
+      "summary": "Developers can apply to bring apps into AI Mode and the Gemini app, and Google's policy bars misleading descriptions meant to get an app picked.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-connected-apps-preview-ai-mode-gemini/595268/\">Google Opens Connected Apps Preview For AI Mode &#038; Gemini</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-31T07:00:00+00:00",
+      "fetched": "2026-10-31T23:50:45.481365+00:00"
+    },
+    {
       "id": "a2634fdf-59e3-483b-ae25-b3110958cb3e",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -164,62 +219,7 @@
       "summary": "HubSpot's traffic collapse shows why SEOs need to measure revenue per visit, track AI referral conversions, and build audiences beyond Google.\n\nThe post <a href=\"https://www.searchenginejournal.com/hubspot-lost-80-of-its-traffic-cmo-kipp-bodnar-explains-why-revenue-kept-growing/594004/\">HubSpot Lost 80% Of Its Traffic \u2013 CMO Kipp Bodnar Explains Why Revenue Kept Growing</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-10-29T12:00:46+00:00",
       "fetched": "2026-10-30T00:29:10.923993+00:00"
-    },
-    {
-      "id": "2733e228-a491-4d62-bea4-7c2a579c1f04",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Recommends Using Custom 404 Error Pages via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-recommends-using-custom-404-error-pages/594908/",
-      "summary": "Google says missing pages aren't a ranking threat, but what visitors encounter after a 404 can matter to a business.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-recommends-using-custom-404-error-pages/594908/\">Google Recommends Using Custom 404 Error Pages</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-29T11:07:37+00:00",
-      "fetched": "2026-10-30T00:29:10.924010+00:00"
-    },
-    {
-      "id": "36f1ee27-a988-4c3c-a2ea-873b2f1eca50",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Technical SEO Audit For AI Search: Watch Us Do It Live [Webinar] via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/technical-seo-audit-for-ai-search-watch-us-do-it-live/594766/",
-      "summary": "Watch our team audit a real website live with Loren Baker and Vahan Petrosyan, and learn which technical SEO & AI-readiness checks your audit needs.\n\nThe post <a href=\"https://www.searchenginejournal.com/technical-seo-audit-for-ai-search-watch-us-do-it-live/594766/\">Technical SEO Audit For AI Search: Watch Us Do It Live [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-29T07:45:03+00:00",
-      "fetched": "2026-10-30T00:29:10.924041+00:00"
-    },
-    {
-      "id": "f251f117-328e-4240-b67d-16853c859f2d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Says Lower AI Mode Monetization Weighed On Search Growth via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-search-growth-slows-again-ai-mode/594862/",
-      "summary": "Google Search revenue growth slowed for a second straight quarter, and lower AI Mode monetization was one reason given.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-search-growth-slows-again-ai-mode/594862/\">Google Says Lower AI Mode Monetization Weighed On Search Growth</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-28T23:12:24+00:00",
-      "fetched": "2026-10-29T00:30:41.216162+00:00"
-    },
-    {
-      "id": "fbac6120-1502-4bf8-a3b6-aa89e4036227",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "WordPress Announces Another Security Release: Version 7.1.4 via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/wordpress-announces-another-security-release-version-7-1-4/594798/",
-      "summary": "WordPress announced security release version 7.1.4 that fixes 22 vulnerabilities, including one that affects its updater.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-announces-another-security-release-version-7-1-4/594798/\">WordPress Announces Another Security Release: Version 7.1.4</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-28T22:14:34+00:00",
-      "fetched": "2026-10-29T00:30:41.216185+00:00"
-    },
-    {
-      "id": "90160029-10e4-4b1a-a7ae-3106e5bca7af",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Lets Restaurants Directly Opt Out Of Ordering Providers via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-restaurants-opt-out-ordering-providers/594794/",
-      "summary": "Restaurants can now turn off specific third-party ordering providers in the Business Profile dashboard instead of waiting on each provider to remove them.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-restaurants-opt-out-ordering-providers/594794/\">Google Lets Restaurants Directly Opt Out Of Ordering Providers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-28T22:11:43+00:00",
-      "fetched": "2026-10-29T00:30:41.216203+00:00"
     }
   ],
-  "last_updated": "2026-10-31T00:14:01.543020+00:00"
+  "last_updated": "2026-10-31T23:50:46.517116+00:00"
 }
