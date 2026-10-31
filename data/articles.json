@@ -1,6 +1,105 @@
 {
   "articles": [
     {
+      "id": "a2634fdf-59e3-483b-ae25-b3110958cb3e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Reddit CEO Says Google\u2019s AI Mode \u2018Does Not Drive Traffic\u2019 via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/reddit-to-test-login-only-mode-as-google-search-traffic-drops/595270/",
+      "summary": "Reddit says search referrals are falling and its CEO points to Google's AI Overviews and AI Mode. Here's what its login test means.\n\nThe post <a href=\"https://www.searchenginejournal.com/reddit-to-test-login-only-mode-as-google-search-traffic-drops/595270/\">Reddit CEO Says Google&#8217;s AI Mode &#8216;Does Not Drive Traffic&#8217;</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-30T19:47:37+00:00",
+      "fetched": "2026-10-31T00:14:00.411213+00:00"
+    },
+    {
+      "id": "7cfa4675-c5fd-46a0-9592-ccdb65a847ba",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The AI Search Measurement Gap Brands Must Close In 2027 And Beyond via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/the-ai-search-measurement-gap-brands-must-close-in-2027-and-beyond/593881/",
+      "summary": "Measure whether AI recommends your brand to buyers, fix outdated sources, and turn shortlist visibility into customer relationships your CFO can value.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-ai-search-measurement-gap-brands-must-close-in-2027-and-beyond/593881/\">The AI Search Measurement Gap Brands Must Close In 2027 And Beyond</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-30T19:00:00+00:00",
+      "fetched": "2026-10-31T00:14:00.411242+00:00"
+    },
+    {
+      "id": "b7e0b452-dcd3-4000-b790-844f474effe3",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Discord To Put Public Chats On Pages Search Engines Can Show via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/discord-public-server-chats-search-engines/595224/",
+      "summary": "Discord's most public servers will each have a web page that may carry AI summaries and some messages search engines can show.\n\nThe post <a href=\"https://www.searchenginejournal.com/discord-public-server-chats-search-engines/595224/\">Discord To Put Public Chats On Pages Search Engines Can Show</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-30T16:38:30+00:00",
+      "fetched": "2026-10-31T00:14:00.411263+00:00"
+    },
+    {
+      "id": "9015327d-096d-4596-840c-a7b78ccef75b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Shopify Now Lets Stores Pay The Company Behind Your AI Shopping Agent via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/shopify-now-lets-stores-pay-the-company-behind-your-ai-shopping-agent/594544/",
+      "summary": "Shopify\u2019s catalog returns a commission next to each promoted product\u2019s price and reviews. What an AI agent does with that number depends on its developer.\n\nThe post <a href=\"https://www.searchenginejournal.com/shopify-now-lets-stores-pay-the-company-behind-your-ai-shopping-agent/594544/\">Shopify Now Lets Stores Pay The Company Behind Your AI Shopping Agent</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-30T15:30:24+00:00",
+      "fetched": "2026-10-31T00:14:00.411287+00:00"
+    },
+    {
+      "id": "a06fe9c8-dcbf-4553-953f-45d535066ab8",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Link Building Graveyard: What To Bury & What Still Wins via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/the-link-building-graveyard-what-to-bury-what-still-wins-recap/593932/",
+      "summary": "Resolve's Michael Johnson outlined a keep-or-cut approach to link building, from qualifying publishers and earning roundup placements to creating linkable assets and a 90-day execution plan.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-link-building-graveyard-what-to-bury-what-still-wins-recap/593932/\">The Link Building Graveyard: What To Bury &#038; What Still Wins</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-30T15:11:43+00:00",
+      "fetched": "2026-10-31T00:14:00.411307+00:00"
+    },
+    {
+      "id": "5fd1e63e-4ecd-4163-94c4-c4fc8020ff9c",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "ChatGPT Ads Turns On Automatic Ad Changes By Default via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/chatgpt-ads-turns-on-automatic-ad-changes-by-default/595117/",
+      "summary": "Creative enhancements are now on by default in ChatGPT Ads. Here's what they can change, how to opt out, and the tracking questions still open.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-ads-turns-on-automatic-ad-changes-by-default/595117/\">ChatGPT Ads Turns On Automatic Ad Changes By Default</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-30T14:17:57+00:00",
+      "fetched": "2026-10-31T00:14:00.411324+00:00"
+    },
+    {
+      "id": "53854969-1c19-49c7-b249-7ac17a329fd0",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "What Search Console Can Still Tell You When Indexing Data Lags via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/what-search-console-can-still-tell-you-when-indexing-data-lags/595016/",
+      "summary": "Search Console's Page indexing report has fallen behind before. Here's what Google has said and what each remaining check can show while the data lags.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-search-console-can-still-tell-you-when-indexing-data-lags/595016/\">What Search Console Can Still Tell You When Indexing Data Lags</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-30T14:00:00+00:00",
+      "fetched": "2026-10-31T00:14:00.411347+00:00"
+    },
+    {
+      "id": "5d42e58e-a967-4fd2-b610-544a011e4d16",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Q3 Earnings Call Casts Shadow Over Classic Search via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/googles-q3-earnings-call-casts-shadow-over-classic-search/595082/",
+      "summary": "Google's Q3 earnings call outlined a vision in which traditional Search may no longer be the central experience.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-q3-earnings-call-casts-shadow-over-classic-search/595082/\">Google&#8217;s Q3 Earnings Call Casts Shadow Over Classic Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-30T13:02:09+00:00",
+      "fetched": "2026-10-31T00:14:00.411374+00:00"
+    },
+    {
+      "id": "9284f8e9-a8be-4a9f-a561-09b1f9ad4594",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Says Target Changes Don\u2019t Reset Learning \u2013 6 PPC Takeaways For BFCM via @sejournal, @siliconvallaeys",
+      "link": "https://www.searchenginejournal.com/google-ads-product-manager-revealed-details-that-matter-before-black-friday/594102/",
+      "summary": "Six Google Ads details on Smart Bidding, seasonality adjustments, channel controls and budgeting that PPC teams should check before BFCM.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ads-product-manager-revealed-details-that-matter-before-black-friday/594102/\">Google Says Target Changes Don\u2019t Reset Learning \u2013 6 PPC Takeaways For BFCM</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-10-30T12:02:22+00:00",
+      "fetched": "2026-10-31T00:14:00.411394+00:00"
+    },
+    {
       "id": "2fb3b8b2-065f-4239-a1e3-e4fe6b54fd9a",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -120,106 +219,7 @@
       "summary": "Restaurants can now turn off specific third-party ordering providers in the Business Profile dashboard instead of waiting on each provider to remove them.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-restaurants-opt-out-ordering-providers/594794/\">Google Lets Restaurants Directly Opt Out Of Ordering Providers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-10-28T22:11:43+00:00",
       "fetched": "2026-10-29T00:30:41.216203+00:00"
-    },
-    {
-      "id": "69433021-776d-4b7a-adbb-d43c37c6798e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI-Cited Pages More Often Got Straight To The Answer via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/ai-cited-pages-more-often-got-straight-to-the-answer/594781/",
-      "summary": "Pages cited by AI often answered a question in their first lines, though the gap was smaller against pages AI pulled up but didn\u2019t cite.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-cited-pages-more-often-got-straight-to-the-answer/594781/\">AI-Cited Pages More Often Got Straight To The Answer</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-28T20:42:47+00:00",
-      "fetched": "2026-10-29T00:30:41.216226+00:00"
-    },
-    {
-      "id": "5c88dff2-ef57-4805-a9cb-b56b92a6c64e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Bitly\u2019s New Data Says SEOs Are Half Right About Short Links via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/bitlys-new-data-says-seos-are-half-right-about-short-links/593983/",
-      "summary": "Bitly's survey shows why SEOs should look beyond short links to fix mismatched landing pages and rethink what click-through rates reveal.\n\nThe post <a href=\"https://www.searchenginejournal.com/bitlys-new-data-says-seos-are-half-right-about-short-links/593983/\">Bitly&#8217;s New Data Says SEOs Are Half Right About Short Links</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-28T19:00:59+00:00",
-      "fetched": "2026-10-29T00:30:41.216242+00:00"
-    },
-    {
-      "id": "b4c6b5d8-4477-4bf0-946a-4b00ba30470f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Hreflang Magic Trick \u2013 It Routes, It Doesn\u2019t Rank via @sejournal, @billhunt",
-      "link": "https://www.searchenginejournal.com/the-hreflang-magic-trick-it-routes-it-doesnt-rank/591979/",
-      "summary": "Understand why Google can serve unindexed hreflang URLs and why market pages need unique local value to stand out in AI search.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-hreflang-magic-trick-it-routes-it-doesnt-rank/591979/\">The Hreflang Magic Trick \u2013 It Routes, It Doesn\u2019t Rank</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-28T14:00:59+00:00",
-      "fetched": "2026-10-29T00:30:41.216258+00:00"
-    },
-    {
-      "id": "a65ab90c-fbad-4d73-948e-c98a338f3187",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Decodo Launches Web Data API To Give AI Agents Web Access",
-      "link": "https://www.searchenginejournal.com/decodo-launches-web-data-api-to-give-ai-agents-web-access-spn/594415/",
-      "summary": "Decodo has introduced Web Data API, combining scraping, searching, mapping, and crawling under one key for AI agents and retrieval pipelines.\n\nThe post <a href=\"https://www.searchenginejournal.com/decodo-launches-web-data-api-to-give-ai-agents-web-access-spn/594415/\">Decodo Launches Web Data API To Give AI Agents Web Access</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-28T13:00:00+00:00",
-      "fetched": "2026-10-29T00:30:41.216273+00:00"
-    },
-    {
-      "id": "7892d4ec-3b06-4d21-9f28-2f742d9b01d7",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "GA4 Missed 66% Of One Retailer\u2019s Holiday Orders: Check Yours Before Peak Season",
-      "link": "https://www.searchenginejournal.com/ga4-missed-two-thirds-retailers-holiday-orders-check-yours-before-peak-season/593007/",
-      "summary": "GA4 missed two-thirds of one retailer's holiday orders. What an audit of eight ecommerce brands found, and the check to run before peak season.\n\nThe post <a href=\"https://www.searchenginejournal.com/ga4-missed-two-thirds-retailers-holiday-orders-check-yours-before-peak-season/593007/\">GA4 Missed 66% Of One Retailer&#8217;s Holiday Orders: Check Yours Before Peak Season</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-28T12:00:45+00:00",
-      "fetched": "2026-10-30T00:29:10.924072+00:00"
-    },
-    {
-      "id": "8917c459-9b57-424e-be40-5bb305aa77eb",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Signals A Wider Crackdown On SEO Spam via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-signals-a-wider-crackdown-on-ugc-seo-spam/594679/",
-      "summary": "Google signals that its fight against SEO spam is expanding to new kinds of platforms, tools, and services.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-signals-a-wider-crackdown-on-ugc-seo-spam/594679/\">Google Signals A Wider Crackdown On SEO Spam</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-28T11:04:02+00:00",
-      "fetched": "2026-10-29T00:30:41.216311+00:00"
-    },
-    {
-      "id": "809a85ca-f0f4-4d63-b15d-ff3c390a4190",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google: Disabled Discover Clicks Were A Bug In An Experiment via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/rajan-patel-disabled-discover-source-clicks-bug/594579/",
-      "summary": "Rajan Patel wrote on X that disabled source clicks on Google Discover AI summaries were a bug in an experiment that has been turned off.\n\nThe post <a href=\"https://www.searchenginejournal.com/rajan-patel-disabled-discover-source-clicks-bug/594579/\">Google: Disabled Discover Clicks Were A Bug In An Experiment</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-27T20:06:27+00:00",
-      "fetched": "2026-10-28T00:08:13.422113+00:00"
-    },
-    {
-      "id": "6fe7498b-b030-4416-9e8a-4f8c7892e397",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why We Should Fear The Shadow Web We\u2019re Building For AI via @sejournal, @chrisgreenseo",
-      "link": "https://www.searchenginejournal.com/why-we-should-fear-the-shadow-web-were-building-for-ai/593930/",
-      "summary": "Why would an AI search provider keep trusting information a brand hides from its own website? The parallels with cloaking are too close to ignore.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-we-should-fear-the-shadow-web-were-building-for-ai/593930/\">Why We Should Fear The Shadow Web We\u2019re Building For AI</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-27T19:00:25+00:00",
-      "fetched": "2026-10-28T00:08:13.422140+00:00"
-    },
-    {
-      "id": "c84e4fc6-be1b-44c6-918b-caee07b55599",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Privacy Update Lets Connected Apps Shape AI Mode Ads via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/google-privacy-policy-connected-apps-ai-mode-ads/594546/",
-      "summary": "Google is testing AI Mode ads informed by connected Gmail and Photos data, as its privacy policy adds an exception for ad personalization.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-privacy-policy-connected-apps-ai-mode-ads/594546/\">Google Privacy Update Lets Connected Apps Shape AI Mode Ads</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-27T17:11:52+00:00",
-      "fetched": "2026-10-28T00:08:13.422160+00:00"
     }
   ],
-  "last_updated": "2026-10-30T00:29:11.624728+00:00"
+  "last_updated": "2026-10-31T00:14:01.543020+00:00"
 }
