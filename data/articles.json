@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": "b4304163-9d32-4072-92c0-12127a7b3fba",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google, Microsoft & OpenAI Plan To Honor Shared AI Training Opt-Out via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-microsoft-openai-shared-ai-training-opt-out/595387/",
+      "summary": "A shared robots.txt line could let sites opt out of AI training with several providers at once, but companies involved are handling it differently. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-microsoft-openai-shared-ai-training-opt-out/595387/\">Google, Microsoft &#038; OpenAI Plan To Honor Shared AI Training Opt-Out</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-01T08:00:00+00:00",
+      "fetched": "2026-11-02T00:01:12.184902+00:00"
+    },
+    {
       "id": "fd410c6d-1fcd-4dd9-8778-a6b32d022baf",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -208,18 +219,7 @@
       "summary": "Identify OpenAI Aura blocks that stop agents from opening your site, and gather evidence to request a review.\n\nThe post <a href=\"https://www.searchenginejournal.com/openais-aura-safety-check-can-block-your-site-from-chatgpt-browsing/594322/\">OpenAI&#8217;s Aura Safety Check Can Block Your Site From ChatGPT Browsing</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-10-29T14:00:06+00:00",
       "fetched": "2026-10-30T00:29:10.923975+00:00"
-    },
-    {
-      "id": "964ab80d-8df9-4adf-8ea7-71364778e13d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "HubSpot Lost 80% Of Its Traffic \u2013 CMO Kipp Bodnar Explains Why Revenue Kept Growing via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/hubspot-lost-80-of-its-traffic-cmo-kipp-bodnar-explains-why-revenue-kept-growing/594004/",
-      "summary": "HubSpot's traffic collapse shows why SEOs need to measure revenue per visit, track AI referral conversions, and build audiences beyond Google.\n\nThe post <a href=\"https://www.searchenginejournal.com/hubspot-lost-80-of-its-traffic-cmo-kipp-bodnar-explains-why-revenue-kept-growing/594004/\">HubSpot Lost 80% Of Its Traffic \u2013 CMO Kipp Bodnar Explains Why Revenue Kept Growing</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-29T12:00:46+00:00",
-      "fetched": "2026-10-30T00:29:10.923993+00:00"
     }
   ],
-  "last_updated": "2026-10-31T23:50:46.517116+00:00"
+  "last_updated": "2026-11-02T00:01:13.380859+00:00"
 }
