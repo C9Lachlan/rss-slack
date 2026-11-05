@@ -1,6 +1,72 @@
 {
   "articles": [
     {
+      "id": "72c458ac-b7e0-4be2-8549-78c8ae9d301c",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Reddit Begins Testing Ads In Its Own Search Results via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/reddit-begins-testing-ads-in-its-own-search-results/595935/",
+      "summary": "Reddit is testing ads in its own search results with select advertisers and may match ads to what people search for.\n\nThe post <a href=\"https://www.searchenginejournal.com/reddit-begins-testing-ads-in-its-own-search-results/595935/\">Reddit Begins Testing Ads In Its Own Search Results</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-04T21:00:39+00:00",
+      "fetched": "2026-11-05T01:08:30.385125+00:00"
+    },
+    {
+      "id": "9f72323b-3f84-43bb-bcb3-3d8cfd48addb",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Businesses Treat Your AI Agent 3 Different Ways via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/businesses-treat-your-ai-agent-3-different-ways/595483/",
+      "summary": "If a website cannot tell an AI agent from the customer, it cannot treat the agent differently. Three steps to fix that before agents arrive.\n\nThe post <a href=\"https://www.searchenginejournal.com/businesses-treat-your-ai-agent-3-different-ways/595483/\">Businesses Treat Your AI Agent 3 Different Ways</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-04T20:00:33+00:00",
+      "fetched": "2026-11-05T01:08:30.385148+00:00"
+    },
+    {
+      "id": "1a78b94a-69dc-4b50-b840-726c3d0c0582",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google AI Mode Adds Booking & Quote Links For Home Services via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-ai-mode-home-services-booking-quote-links/595871/",
+      "summary": "AI Mode now links home service searches to booking and quote pages. Here's how businesses reach those pages and what partners say about lead fees.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ai-mode-home-services-booking-quote-links/595871/\">Google AI Mode Adds Booking &#038; Quote Links For Home Services</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-04T19:34:49+00:00",
+      "fetched": "2026-11-05T01:08:30.385163+00:00"
+    },
+    {
+      "id": "bc4736d4-1449-44c9-b24f-d41568b06ba0",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Reach Is Losing As A Paid Media KPI: 4 Signals From Jupiter Festival Miami For 2027 via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/reach-is-losing-as-a-paid-media-kpi-4-signals-from-jupiter-festival-miami-for-2027/595221/",
+      "summary": "Build your 2027 paid media plan around attention, creators, and streaming, while testing whether new metrics drive incremental sales.\n\nThe post <a href=\"https://www.searchenginejournal.com/reach-is-losing-as-a-paid-media-kpi-4-signals-from-jupiter-festival-miami-for-2027/595221/\">Reach Is Losing As A Paid Media KPI: 4 Signals From Jupiter Festival Miami For 2027</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-04T18:00:49+00:00",
+      "fetched": "2026-11-05T01:08:30.385182+00:00"
+    },
+    {
+      "id": "5ee4076c-7414-4b08-9f96-af7bf2940087",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The 11 SEO Features Every CMS Should Ship With (Most Still Don\u2019t) via @sejournal, @sallymills",
+      "link": "https://www.searchenginejournal.com/the-11-seo-features-every-cms-should-ship-with-most-still-dont/594074/",
+      "summary": "Cut recurring developer tickets with essential CMS SEO controls, smarter automation, and safeguards against indexing and redirect mistakes.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-11-seo-features-every-cms-should-ship-with-most-still-dont/594074/\">The 11 SEO Features Every CMS Should Ship With (Most Still Don&#8217;t)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-04T15:00:12+00:00",
+      "fetched": "2026-11-05T01:08:30.385197+00:00"
+    },
+    {
+      "id": "d10199ae-2fa3-47a7-85fa-de2b01dea115",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Reddit Is Going Logged-In Only \u2013 Brands Still Need To Be In The Conversation via @sejournal, @brentcsutoras",
+      "link": "https://www.searchenginejournal.com/reddit-is-going-logged-in-only-brands-still-need-to-be-in-the-conversation/595765/",
+      "summary": "Reddit conversations help shoppers validate purchases, giving brands a reason to stay engaged as login tests raise questions about search and AI access.\n\nThe post <a href=\"https://www.searchenginejournal.com/reddit-is-going-logged-in-only-brands-still-need-to-be-in-the-conversation/595765/\">Reddit Is Going Logged-In Only \u2013 Brands Still Need To Be In The Conversation</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-04T13:00:52+00:00",
+      "fetched": "2026-11-05T01:08:30.385213+00:00"
+    },
+    {
       "id": "9feb5871-2aa5-44bb-9e3a-b15e8c973980",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -153,73 +219,7 @@
       "summary": "Google says it has nothing to announce on adding more AI search data to Search Console, ahead of a UK compliance date.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ai-click-reporting-uk-deadline/595663/\">Google Says No AI Click Reporting News Yet, Ahead Of UK Deadline</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-11-02T19:21:56+00:00",
       "fetched": "2026-11-03T02:42:30.692066+00:00"
-    },
-    {
-      "id": "8362b073-b1c6-43fe-878c-e9c34e6e573a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Run A Full-Funnel Ecommerce Account Through BFCM Week via @sejournal, @tonyadam",
-      "link": "https://www.searchenginejournal.com/how-to-run-a-full-funnel-ecommerce-account-through-bfcm-week/594047/",
-      "summary": "Build demand before BFCM, give Google room to capture peak sales, and turn holiday visitors into December buyers with a phased ad strategy.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-run-a-full-funnel-ecommerce-account-through-bfcm-week/594047/\">How To Run A Full-Funnel Ecommerce Account Through BFCM Week</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-02T15:00:59+00:00",
-      "fetched": "2026-11-03T02:42:30.692076+00:00"
-    },
-    {
-      "id": "9f6e2980-7d54-4d6b-a4fc-698fb764e5c4",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Search Ad Visits Out-Earned ChatGPT Ads In U.S. via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-search-chatgpt-ad-revenue-per-visit/595596/",
-      "summary": "Data finds ChatGPT ad visits brought advertisers a fraction of paid search's revenue per visit in U.S. traffic, and most saw no sales from them.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-search-chatgpt-ad-revenue-per-visit/595596/\">Google Search Ad Visits Out-Earned ChatGPT Ads In U.S.</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-02T14:41:23+00:00",
-      "fetched": "2026-11-03T02:42:30.692096+00:00"
-    },
-    {
-      "id": "0949c6f4-7c6f-4370-9309-1e4a98c483f3",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "3 AI Models Shopped Shopify\u2019s Catalog \u2013 Each Picked A Different Winner via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/3-ai-models-shopped-shopifys-catalog-each-picked-a-different-winner/594298/",
-      "summary": "Google rankings are a black box a store can still watch. The AI shopping decision layer is a black box with nothing to monitor.\n\nThe post <a href=\"https://www.searchenginejournal.com/3-ai-models-shopped-shopifys-catalog-each-picked-a-different-winner/594298/\">3 AI Models Shopped Shopify\u2019s Catalog \u2013 Each Picked A Different Winner</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-02T13:00:14+00:00",
-      "fetched": "2026-11-03T02:42:30.692110+00:00"
-    },
-    {
-      "id": "8656f5eb-6780-44c6-afa5-660f2fd5d34c",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Says Technical SEO Remains Key For AI SEO via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-says-technical-seo-remains-key-for-ai-seo/595550/",
-      "summary": "Google's John Mueller cautioned against relying on short-term AI SEO tactics and explained why traditional technical SEO remains relevant.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-says-technical-seo-remains-key-for-ai-seo/595550/\">Google Says Technical SEO Remains Key For AI SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-02T10:55:11+00:00",
-      "fetched": "2026-11-03T02:42:30.692121+00:00"
-    },
-    {
-      "id": "b4304163-9d32-4072-92c0-12127a7b3fba",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google, Microsoft & OpenAI Plan To Honor Shared AI Training Opt-Out via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-microsoft-openai-shared-ai-training-opt-out/595387/",
-      "summary": "A shared robots.txt line could let sites opt out of AI training with several providers at once, but companies involved are handling it differently. \n\nThe post <a href=\"https://www.searchenginejournal.com/google-microsoft-openai-shared-ai-training-opt-out/595387/\">Google, Microsoft &#038; OpenAI Plan To Honor Shared AI Training Opt-Out</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-01T08:00:00+00:00",
-      "fetched": "2026-11-02T00:01:12.184902+00:00"
-    },
-    {
-      "id": "fd410c6d-1fcd-4dd9-8778-a6b32d022baf",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Hackers Hijacked DebugBear\u2019s DNS To Serve Malicious JavaScript via @sejournal, @vahandev",
-      "link": "https://www.searchenginejournal.com/debugbear-rum-attack-seo-site-owner-actions/595412/",
-      "summary": "DebugBear told customers to remove its Core Web Vitals monitoring script. Site owners should also check exposed accounts and unauthorized changes.\n\nThe post <a href=\"https://www.searchenginejournal.com/debugbear-rum-attack-seo-site-owner-actions/595412/\">Hackers Hijacked DebugBear&#8217;s DNS To Serve Malicious JavaScript</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-10-31T21:11:41+00:00",
-      "fetched": "2026-10-31T23:50:45.481283+00:00"
     }
   ],
-  "last_updated": "2026-11-04T00:57:45.062352+00:00"
+  "last_updated": "2026-11-05T01:08:32.488049+00:00"
 }
