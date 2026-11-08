@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": "7428b157-c6c0-4751-857a-1bead4524497",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Rank Data Problems, PageSpeed Scores & AI Training Opt-Out \u2013 SEO Pulse via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/seo-pulse-rank-data-problems-pagespeed-scores-ai-training-opt-out/596104/",
+      "summary": "Rank data may carry one-word results and redirect URLs. Other updates cover PageSpeed lab scores, a shared AI training opt-out, technical SEO and AI search.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-rank-data-problems-pagespeed-scores-ai-training-opt-out/596104/\">Rank Data Problems, PageSpeed Scores &#038; AI Training Opt-Out \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-07T13:00:00+00:00",
+      "fetched": "2026-11-08T00:03:31.134761+00:00"
+    },
+    {
       "id": "47c9877d-9cc9-4f0b-8117-0416367d2dee",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -208,18 +219,7 @@
       "summary": "Cut recurring developer tickets with essential CMS SEO controls, smarter automation, and safeguards against indexing and redirect mistakes.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-11-seo-features-every-cms-should-ship-with-most-still-dont/594074/\">The 11 SEO Features Every CMS Should Ship With (Most Still Don&#8217;t)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-11-04T15:00:12+00:00",
       "fetched": "2026-11-05T01:08:30.385197+00:00"
-    },
-    {
-      "id": "d10199ae-2fa3-47a7-85fa-de2b01dea115",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Reddit Is Going Logged-In Only \u2013 Brands Still Need To Be In The Conversation via @sejournal, @brentcsutoras",
-      "link": "https://www.searchenginejournal.com/reddit-is-going-logged-in-only-brands-still-need-to-be-in-the-conversation/595765/",
-      "summary": "Reddit conversations help shoppers validate purchases, giving brands a reason to stay engaged as login tests raise questions about search and AI access.\n\nThe post <a href=\"https://www.searchenginejournal.com/reddit-is-going-logged-in-only-brands-still-need-to-be-in-the-conversation/595765/\">Reddit Is Going Logged-In Only \u2013 Brands Still Need To Be In The Conversation</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-04T13:00:52+00:00",
-      "fetched": "2026-11-05T01:08:30.385213+00:00"
     }
   ],
-  "last_updated": "2026-11-07T00:29:29.967409+00:00"
+  "last_updated": "2026-11-08T00:03:32.655292+00:00"
 }
