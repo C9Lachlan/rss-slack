@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "id": "5ab4d574-31d8-4bdc-8ca9-0e25375a62b2",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Tripadvisor Says SEO Will Still Weigh On Growth In 2027 via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/tripadvisor-says-seo-will-still-weigh-on-growth-in-2027/596257/",
+      "summary": "Tripadvisor tied a writedown largely to search changes, expects SEO to weigh on growth next year, and says marketing takes more of its revenue.\n\nThe post <a href=\"https://www.searchenginejournal.com/tripadvisor-says-seo-will-still-weigh-on-growth-in-2027/596257/\">Tripadvisor Says SEO Will Still Weigh On Growth In 2027</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-08T19:09:13+00:00",
+      "fetched": "2026-11-09T00:16:31.554781+00:00"
+    },
+    {
+      "id": "7d11b86f-210c-4942-a143-299bcac29ee9",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Cloudflare CEO Likens AI Agent Optimization To A New Version Of SEO via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/cloudflare-ai-agent-optimization-new-seo/596248/",
+      "summary": "Cloudflare's CEO says OpenAI pays for hints that tell its crawler when pages change, and sites may charge agents less when they explain their visits.\n\nThe post <a href=\"https://www.searchenginejournal.com/cloudflare-ai-agent-optimization-new-seo/596248/\">Cloudflare CEO Likens AI Agent Optimization To A New Version Of SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-08T18:07:49+00:00",
+      "fetched": "2026-11-09T00:16:31.554805+00:00"
+    },
+    {
       "id": "7428b157-c6c0-4751-857a-1bead4524497",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -197,29 +219,7 @@
       "summary": "AI Mode now links home service searches to booking and quote pages. Here's how businesses reach those pages and what partners say about lead fees.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ai-mode-home-services-booking-quote-links/595871/\">Google AI Mode Adds Booking &#038; Quote Links For Home Services</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-11-04T19:34:49+00:00",
       "fetched": "2026-11-05T01:08:30.385163+00:00"
-    },
-    {
-      "id": "bc4736d4-1449-44c9-b24f-d41568b06ba0",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Reach Is Losing As A Paid Media KPI: 4 Signals From Jupiter Festival Miami For 2027 via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/reach-is-losing-as-a-paid-media-kpi-4-signals-from-jupiter-festival-miami-for-2027/595221/",
-      "summary": "Build your 2027 paid media plan around attention, creators, and streaming, while testing whether new metrics drive incremental sales.\n\nThe post <a href=\"https://www.searchenginejournal.com/reach-is-losing-as-a-paid-media-kpi-4-signals-from-jupiter-festival-miami-for-2027/595221/\">Reach Is Losing As A Paid Media KPI: 4 Signals From Jupiter Festival Miami For 2027</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-04T18:00:49+00:00",
-      "fetched": "2026-11-05T01:08:30.385182+00:00"
-    },
-    {
-      "id": "5ee4076c-7414-4b08-9f96-af7bf2940087",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The 11 SEO Features Every CMS Should Ship With (Most Still Don\u2019t) via @sejournal, @sallymills",
-      "link": "https://www.searchenginejournal.com/the-11-seo-features-every-cms-should-ship-with-most-still-dont/594074/",
-      "summary": "Cut recurring developer tickets with essential CMS SEO controls, smarter automation, and safeguards against indexing and redirect mistakes.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-11-seo-features-every-cms-should-ship-with-most-still-dont/594074/\">The 11 SEO Features Every CMS Should Ship With (Most Still Don&#8217;t)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-04T15:00:12+00:00",
-      "fetched": "2026-11-05T01:08:30.385197+00:00"
     }
   ],
-  "last_updated": "2026-11-08T00:03:32.655292+00:00"
+  "last_updated": "2026-11-09T00:16:32.832266+00:00"
 }
