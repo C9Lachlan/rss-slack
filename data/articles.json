@@ -1,6 +1,94 @@
 {
   "articles": [
     {
+      "id": "c3244bc5-47ae-4f77-a9f9-c42b42a1bb52",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Paid Search Is Moving Up The Funnel \u2013 Google Admits AI Mode Pays Less via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/paid-search-is-moving-up-the-funnel-google-admits-ai-mode-pays-less/595875/",
+      "summary": "Protect PPC budgets as Google's AI Mode pushes search earlier in the buying journey, with four account changes to test whether discovery pays.\n\nThe post <a href=\"https://www.searchenginejournal.com/paid-search-is-moving-up-the-funnel-google-admits-ai-mode-pays-less/595875/\">Paid Search Is Moving Up The Funnel \u2013 Google Admits AI Mode Pays Less</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-09T20:00:13+00:00",
+      "fetched": "2026-11-10T03:02:39.882563+00:00"
+    },
+    {
+      "id": "9bb2c7f7-f44c-4d50-9e5a-79fe4253cce0",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Ads Tests Asset Activity Page With Weekly AI Insights via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-ads-tests-asset-activity-page-with-weekly-ai-insights/596442/",
+      "summary": "Some Google Ads accounts show an Asset activity page that uses AI to deliver weekly insight cards on ad creative, including headline ideas to test.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ads-tests-asset-activity-page-with-weekly-ai-insights/596442/\">Google Ads Tests Asset Activity Page With Weekly AI Insights</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-09T16:30:00+00:00",
+      "fetched": "2026-11-10T03:02:39.882579+00:00"
+    },
+    {
+      "id": "064a12a5-fc20-44d6-a962-499f1208f227",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "SEO Split Testing In 2027: How To Prove A Change Actually Worked",
+      "link": "https://www.searchenginejournal.com/seo-split-testing-prove-change-worked/594529/",
+      "summary": "Separate real SEO gains from Google's shifts with fair controls, clear decision rules, and results stakeholders can tie to revenue.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-split-testing-prove-change-worked/594529/\">SEO Split Testing In 2027: How To Prove A Change Actually Worked</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-09T15:00:42+00:00",
+      "fetched": "2026-11-10T03:02:39.882590+00:00"
+    },
+    {
+      "id": "c8691def-c6eb-424e-af88-75c925b3f998",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why An AI Usage Report Stopped Comparing AI With Search Engines via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/ai-76-billion-monthly-sessions-search-comparison/596389/",
+      "summary": "Graphite estimates AI assistants reached 76 billion monthly sessions worldwide and says it can no longer reliably compare AI search use with search engines.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-76-billion-monthly-sessions-search-comparison/596389/\">Why An AI Usage Report Stopped Comparing AI With Search Engines</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-09T15:00:00+00:00",
+      "fetched": "2026-11-10T03:02:39.882603+00:00"
+    },
+    {
+      "id": "b5556b1b-aea0-448c-81a9-52e6a1636f01",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The New Organic Growth Stack: Search, Social, Communities & AI",
+      "link": "https://www.searchenginejournal.com/new-organic-growth-stack-search-social-communities-ai/594542/",
+      "summary": "Build an organic growth stack around the sources Google's AI answers and standalone chatbots cite most in your category.\n\nThe post <a href=\"https://www.searchenginejournal.com/new-organic-growth-stack-search-social-communities-ai/594542/\">The New Organic Growth Stack: Search, Social, Communities &#038; AI</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-09T13:00:04+00:00",
+      "fetched": "2026-11-10T03:02:39.882613+00:00"
+    },
+    {
+      "id": "0c1eee57-022f-4e83-9d54-f2563b3d3932",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Ziff Davis Says Organic Google Referrals Fell About 37% via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/ziff-davis-organic-google-referrals-decline/596279/",
+      "summary": "A large publisher says organic Google referrals fell again and pointed to Search Console's AI report. Here's what its AI impressions comparison measures.\n\nThe post <a href=\"https://www.searchenginejournal.com/ziff-davis-organic-google-referrals-decline/596279/\">Ziff Davis Says Organic Google Referrals Fell About 37%</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-09T11:00:00+00:00",
+      "fetched": "2026-11-10T03:02:39.882621+00:00"
+    },
+    {
+      "id": "d11ad971-ab88-4196-a583-e6b3cb75e674",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s AI Features Sent One Site An Estimated 21% Of Its Clicks via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/googles-ai-features-sent-one-site-an-estimated-21-of-its-clicks/596267/",
+      "summary": "One site opted out of Google\u2019s AI features to estimate its clicks from AI Overviews and AI Mode, plus a possible lift on regular listings.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-ai-features-sent-one-site-an-estimated-21-of-its-clicks/596267/\">Google&#8217;s AI Features Sent One Site An Estimated 21% Of Its Clicks</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-09T09:00:00+00:00",
+      "fetched": "2026-11-10T03:02:39.882630+00:00"
+    },
+    {
+      "id": "62871275-1fd4-4ef4-b80e-60b50ee349a0",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Create More Helpful Content For AI Search With 9 Practical Workflows [Webinar] via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/create-more-helpful-content-for-ai-search-with-9-practical-workflows-webinar/596241/",
+      "summary": "Use AI workflows to turn customer insights into helpful content for AI search and reduce manual publishing and reporting. Join us November 18 at 2 PM ET.\n\nThe post <a href=\"https://www.searchenginejournal.com/create-more-helpful-content-for-ai-search-with-9-practical-workflows-webinar/596241/\">Create More Helpful Content For AI Search With 9 Practical Workflows [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-09T06:03:22+00:00",
+      "fetched": "2026-11-10T03:02:39.882646+00:00"
+    },
+    {
       "id": "5ab4d574-31d8-4bdc-8ca9-0e25375a62b2",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -131,95 +219,7 @@
       "summary": "Improve lead quality by teaching ad platforms which conversions become qualified opportunities and revenue.\n\nThe post <a href=\"https://www.searchenginejournal.com/ask-a-ppc-how-to-optimize-for-better-outcomes-not-just-conversions/594569/\">How To Optimize For Better Campaign Leads, Not Just Conversions \u2013 Ask A PPC</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-11-05T15:00:32+00:00",
       "fetched": "2026-11-06T01:15:50.946857+00:00"
-    },
-    {
-      "id": "982d2116-d1d9-4f44-a546-281209c0136c",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "GEO Isn\u2019t A Distraction \u2013 Referral Data Misses Where AI Shapes Buying Decisions via @sejournal, @TaylorDanRW",
-      "link": "https://www.searchenginejournal.com/geo-isnt-a-distraction-referral-data-misses-where-ai-shapes-buying-decisions/595730/",
-      "summary": "GEO's low referral traffic can hide its influence on buying decisions, while cited research shows ChatGPT visitors convert nearly five times better than search visitors.\n\nThe post <a href=\"https://www.searchenginejournal.com/geo-isnt-a-distraction-referral-data-misses-where-ai-shapes-buying-decisions/595730/\">GEO Isn\u2019t A Distraction \u2013 Referral Data Misses Where AI Shapes Buying Decisions</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-05T13:00:43+00:00",
-      "fetched": "2026-11-06T01:15:50.946869+00:00"
-    },
-    {
-      "id": "87ed902f-9ded-48f3-8d0f-984a070ff481",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Explains How Redirects Affect Ranking Signals via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-explains-how-redirects-affect-ranking-signals/595967/",
-      "summary": "Google clarifies how server-side redirects influence ranking signals and canonicalization.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-explains-how-redirects-affect-ranking-signals/595967/\">Google Explains How Redirects Affect Ranking Signals</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-05T12:23:47+00:00",
-      "fetched": "2026-11-06T01:15:50.946884+00:00"
-    },
-    {
-      "id": "a497d529-f220-4e90-9114-aba8f50365ce",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "SERP Data Providers Say Google Is Throttling Goto Result Links via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-goto-result-links-throttling/595959/",
-      "summary": "SERP data providers say Google throttles goto links per results page, so some rank data may store Google redirect links in place of page URLs.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-goto-result-links-throttling/595959/\">SERP Data Providers Say Google Is Throttling Goto Result Links</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-05T11:48:21+00:00",
-      "fetched": "2026-11-06T01:15:50.946902+00:00"
-    },
-    {
-      "id": "91af83e7-1a78-4999-9411-a8a4e2e12c91",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Visibility vs. Search Rankings: Is Your Agency Measuring the Wrong Thing For 2027?",
-      "link": "https://www.searchenginejournal.com/ai-visibility-vs-search-rankings-is-your-agency-measuring-the-wrong-thing-for-2027-spa/594163/",
-      "summary": "Measure AI visibility beyond rankings and citations. Use inclusion, framing, and endorsement to show clients what changed and what to do next.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-visibility-vs-search-rankings-is-your-agency-measuring-the-wrong-thing-for-2027-spa/594163/\">AI Visibility vs. Search Rankings: Is Your Agency Measuring the Wrong Thing For 2027?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-05T06:03:53+00:00",
-      "fetched": "2026-11-06T01:15:50.946914+00:00"
-    },
-    {
-      "id": "2f201e8e-7a1a-45d1-a639-fa60b34a13a6",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Brings UCP Direct Checkout To AI Mode In Canada via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/google-brings-ucp-direct-checkout-to-ai-mode-in-canada/595882/",
-      "summary": "Google is expanding UCP-powered direct checkout in AI Mode and the Gemini app to Canadian shoppers, with a Merchant Center integration planned for next year.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-brings-ucp-direct-checkout-to-ai-mode-in-canada/595882/\">Google Brings UCP Direct Checkout To AI Mode In Canada</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-05T03:38:11+00:00",
-      "fetched": "2026-11-06T01:15:50.946939+00:00"
-    },
-    {
-      "id": "72c458ac-b7e0-4be2-8549-78c8ae9d301c",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Reddit Begins Testing Ads In Its Own Search Results via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/reddit-begins-testing-ads-in-its-own-search-results/595935/",
-      "summary": "Reddit is testing ads in its own search results with select advertisers and may match ads to what people search for.\n\nThe post <a href=\"https://www.searchenginejournal.com/reddit-begins-testing-ads-in-its-own-search-results/595935/\">Reddit Begins Testing Ads In Its Own Search Results</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-04T21:00:39+00:00",
-      "fetched": "2026-11-05T01:08:30.385125+00:00"
-    },
-    {
-      "id": "9f72323b-3f84-43bb-bcb3-3d8cfd48addb",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Businesses Treat Your AI Agent 3 Different Ways via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/businesses-treat-your-ai-agent-3-different-ways/595483/",
-      "summary": "If a website cannot tell an AI agent from the customer, it cannot treat the agent differently. Three steps to fix that before agents arrive.\n\nThe post <a href=\"https://www.searchenginejournal.com/businesses-treat-your-ai-agent-3-different-ways/595483/\">Businesses Treat Your AI Agent 3 Different Ways</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-04T20:00:33+00:00",
-      "fetched": "2026-11-05T01:08:30.385148+00:00"
-    },
-    {
-      "id": "1a78b94a-69dc-4b50-b840-726c3d0c0582",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google AI Mode Adds Booking & Quote Links For Home Services via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-ai-mode-home-services-booking-quote-links/595871/",
-      "summary": "AI Mode now links home service searches to booking and quote pages. Here's how businesses reach those pages and what partners say about lead fees.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ai-mode-home-services-booking-quote-links/595871/\">Google AI Mode Adds Booking &#038; Quote Links For Home Services</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-04T19:34:49+00:00",
-      "fetched": "2026-11-05T01:08:30.385163+00:00"
     }
   ],
-  "last_updated": "2026-11-09T00:16:32.832266+00:00"
+  "last_updated": "2026-11-10T03:02:41.441738+00:00"
 }
