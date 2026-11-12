@@ -1,6 +1,39 @@
 {
   "articles": [
     {
+      "id": "1dbf549d-70e7-4f7b-974b-9edd9c9dc209",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Visibility Gets You On The List, Evidence Helps You Stay There via @sejournal, @billhunt",
+      "link": "https://www.searchenginejournal.com/visibility-gets-you-on-the-list-evidence-helps-you-stay-there/592127/",
+      "summary": "AI visibility can hide evidence gaps that weaken recommendations as buyers evaluate integrations, workflows, and outcomes.\n\nThe post <a href=\"https://www.searchenginejournal.com/visibility-gets-you-on-the-list-evidence-helps-you-stay-there/592127/\">Visibility Gets You On The List, Evidence Helps You Stay There</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-11T15:00:59+00:00",
+      "fetched": "2026-11-12T02:02:50.929198+00:00"
+    },
+    {
+      "id": "99998b10-ead3-49d4-87bd-bd4d1986afc9",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Discovers Unexpected Patterns In AI Image Generation via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-discovers-unexpected-patterns-in-ai-image-generation/596745/",
+      "summary": "Google analyzed millions of Nano Banana prompts and found how businesses are using it for marketing.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-discovers-unexpected-patterns-in-ai-image-generation/596745/\">Google Discovers Unexpected Patterns In AI Image Generation</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-11T14:18:51+00:00",
+      "fetched": "2026-11-12T02:02:50.929224+00:00"
+    },
+    {
+      "id": "29f20eb9-1525-47e0-9744-23fe4b2001c0",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Ads Gives You More Channel Control \u2013 But Not As Much As You Think via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/google-ads-gives-you-more-channel-control-but-not-as-much-as-you-think/596266/",
+      "summary": "Curb unwanted Google Ads spending without losing valuable conversions by understanding where channel priorities and budget allocation limits give you control.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ads-gives-you-more-channel-control-but-not-as-much-as-you-think/596266/\">Google Ads Gives You More Channel Control \u2013 But Not As Much As You Think</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-11T13:00:37+00:00",
+      "fetched": "2026-11-12T02:02:50.929245+00:00"
+    },
+    {
       "id": "0d69b39b-2ed4-424c-9d00-d5cd8a725f8f",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -186,40 +219,7 @@
       "summary": "Use AI workflows to turn customer insights into helpful content for AI search and reduce manual publishing and reporting. Join us November 18 at 2 PM ET.\n\nThe post <a href=\"https://www.searchenginejournal.com/create-more-helpful-content-for-ai-search-with-9-practical-workflows-webinar/596241/\">Create More Helpful Content For AI Search With 9 Practical Workflows [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-11-09T06:03:22+00:00",
       "fetched": "2026-11-10T03:02:39.882646+00:00"
-    },
-    {
-      "id": "5ab4d574-31d8-4bdc-8ca9-0e25375a62b2",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Tripadvisor Says SEO Will Still Weigh On Growth In 2027 via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/tripadvisor-says-seo-will-still-weigh-on-growth-in-2027/596257/",
-      "summary": "Tripadvisor tied a writedown largely to search changes, expects SEO to weigh on growth next year, and says marketing takes more of its revenue.\n\nThe post <a href=\"https://www.searchenginejournal.com/tripadvisor-says-seo-will-still-weigh-on-growth-in-2027/596257/\">Tripadvisor Says SEO Will Still Weigh On Growth In 2027</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-08T19:09:13+00:00",
-      "fetched": "2026-11-09T00:16:31.554781+00:00"
-    },
-    {
-      "id": "7d11b86f-210c-4942-a143-299bcac29ee9",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Cloudflare CEO Likens AI Agent Optimization To A New Version Of SEO via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/cloudflare-ai-agent-optimization-new-seo/596248/",
-      "summary": "Cloudflare's CEO says OpenAI pays for hints that tell its crawler when pages change, and sites may charge agents less when they explain their visits.\n\nThe post <a href=\"https://www.searchenginejournal.com/cloudflare-ai-agent-optimization-new-seo/596248/\">Cloudflare CEO Likens AI Agent Optimization To A New Version Of SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-08T18:07:49+00:00",
-      "fetched": "2026-11-09T00:16:31.554805+00:00"
-    },
-    {
-      "id": "7428b157-c6c0-4751-857a-1bead4524497",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Rank Data Problems, PageSpeed Scores & AI Training Opt-Out \u2013 SEO Pulse via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-rank-data-problems-pagespeed-scores-ai-training-opt-out/596104/",
-      "summary": "Rank data may carry one-word results and redirect URLs. Other updates cover PageSpeed lab scores, a shared AI training opt-out, technical SEO and AI search.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-rank-data-problems-pagespeed-scores-ai-training-opt-out/596104/\">Rank Data Problems, PageSpeed Scores &#038; AI Training Opt-Out \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-07T13:00:00+00:00",
-      "fetched": "2026-11-08T00:03:31.134761+00:00"
     }
   ],
-  "last_updated": "2026-11-11T00:56:40.775833+00:00"
+  "last_updated": "2026-11-12T02:02:52.303297+00:00"
 }
