@@ -1,6 +1,105 @@
 {
   "articles": [
     {
+      "id": "7d0e8710-50ca-49f0-b86f-f92f7247435c",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Ads Rolls Out New Invalid Traffic Overview Card via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/google-ads-rolls-out-new-invalid-traffic-overview-card/597098/",
+      "summary": "Google Ads introduces an Invalid Traffic Overview Card showing estimated savings, post-billing credits, and campaign-level reports. Here's what advertisers need to know.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ads-rolls-out-new-invalid-traffic-overview-card/597098/\">Google Ads Rolls Out New Invalid Traffic Overview Card</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-12T21:01:44+00:00",
+      "fetched": "2026-11-13T01:33:15.795935+00:00"
+    },
+    {
+      "id": "1dc1abc7-b607-4456-87db-33cb6185ff14",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Makes Gemini 4 Hydrogen The Default Model In AI Mode via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-gemini-4-hydrogen-default-ai-mode/597096/",
+      "summary": "Google made Gemini 4 Hydrogen the default model in AI Mode worldwide and is using it for the hardest AI Overview questions.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-gemini-4-hydrogen-default-ai-mode/597096/\">Google Makes Gemini 4 Hydrogen The Default Model In AI Mode</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-12T20:09:18+00:00",
+      "fetched": "2026-11-13T01:33:15.795960+00:00"
+    },
+    {
+      "id": "0086df30-f8c9-4634-91a6-5184f0290cc3",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Does The Affiliate Model Survive Checkout Inside AI Mode And Gemini? \u2013 Ask An SEO via @sejournal, @rollerblader",
+      "link": "https://www.searchenginejournal.com/does-the-affiliate-model-survive-checkout-inside-ai-mode-and-gemini-ask-an-seo/585080/",
+      "summary": "Affiliate links still help protect your commissions as AI checkout grows, but stronger tracking and better program choices add crucial layers of protection.\n\nThe post <a href=\"https://www.searchenginejournal.com/does-the-affiliate-model-survive-checkout-inside-ai-mode-and-gemini-ask-an-seo/585080/\">Does The Affiliate Model Survive Checkout Inside AI Mode And Gemini? \u2013 Ask An SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-12T20:00:07+00:00",
+      "fetched": "2026-11-13T01:33:15.795980+00:00"
+    },
+    {
+      "id": "9b4e5d18-7e5e-4129-b0e2-03285ba56ba7",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Visits To The Top Million Websites Fell 12%, Data Shows via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/visits-to-the-top-million-websites-fell-12-data-shows/597085/",
+      "summary": "Data shows visits to the world's top million websites declined from an earlier peak, visits going to sites outside the top 100 barely changed.\n\nThe post <a href=\"https://www.searchenginejournal.com/visits-to-the-top-million-websites-fell-12-data-shows/597085/\">Visits To The Top Million Websites Fell 12%, Data Shows</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-12T18:43:03+00:00",
+      "fetched": "2026-11-13T01:33:15.795999+00:00"
+    },
+    {
+      "id": "50cbdba2-f5d2-40d9-80cb-9b9b88e96260",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Microsoft Advertising Updates UI Following Advertiser Feedback via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/microsoft-advertising-updates-ui-following-advertiser-feedback/597078/",
+      "summary": "Microsoft Advertising announces UI improvements addressing advertiser feedback, including easier navigation, expanded reporting, sign-in troubleshooting, and account access management.\n\nThe post <a href=\"https://www.searchenginejournal.com/microsoft-advertising-updates-ui-following-advertiser-feedback/597078/\">Microsoft Advertising Updates UI Following Advertiser Feedback</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-12T17:45:26+00:00",
+      "fetched": "2026-11-13T01:33:15.796015+00:00"
+    },
+    {
+      "id": "1ce2caac-2d9b-4ee5-9e75-ca8e82e44288",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Traffic Pool Is Shrinking, And Which Channel Fills It Matters Less Than We Think via @sejournal, @DuaneForrester",
+      "link": "https://www.searchenginejournal.com/the-traffic-pool-is-shrinking-and-which-channel-fills-it-matters-less-than-we-think/596346/",
+      "summary": "For traffic-dependent businesses, the visit was only a step toward the sale. Agents now finish that job, and the work starts with the offer.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-traffic-pool-is-shrinking-and-which-channel-fills-it-matters-less-than-we-think/596346/\">The Traffic Pool Is Shrinking, And Which Channel Fills It Matters Less Than We Think</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-12T15:00:53+00:00",
+      "fetched": "2026-11-13T01:33:15.796029+00:00"
+    },
+    {
+      "id": "3f7914be-cdfd-40ee-82dc-7f8f6e8cd2dc",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How to Submit Your Website to ChatGPT Business Hub via @sejournal, @vahandev",
+      "link": "https://www.searchenginejournal.com/submit-website-chatgpt/596785/",
+      "summary": "Learn how to claim your business in ChatGPT, verify your website and identity, and interpret Business Hub insights.\n\nThe post <a href=\"https://www.searchenginejournal.com/submit-website-chatgpt/596785/\">How to Submit Your Website to ChatGPT Business Hub</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-12T13:10:15+00:00",
+      "fetched": "2026-11-13T01:33:15.796041+00:00"
+    },
+    {
+      "id": "40ab9396-9f33-416c-b85c-6339efdaf925",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Don\u2019t Let A Tool Lead Your AI Search Strategy \u2013 Own Your Data Instead via @sejournal, @TaylorDanRW",
+      "link": "https://www.searchenginejournal.com/dont-let-a-tool-lead-your-ai-search-strategy-own-your-data-instead/596538/",
+      "summary": "Keep your AI search strategy independent of unstable tools by owning your prompts, raw data, and measures of brand visibility.\n\nThe post <a href=\"https://www.searchenginejournal.com/dont-let-a-tool-lead-your-ai-search-strategy-own-your-data-instead/596538/\">Don\u2019t Let A Tool Lead Your AI Search Strategy \u2013 Own Your Data Instead</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-12T13:00:43+00:00",
+      "fetched": "2026-11-13T01:33:15.796064+00:00"
+    },
+    {
+      "id": "f972ac6e-d21d-4c53-870d-e4ce3791d578",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Shopping Errors: What To Fix To Help Shoppers Choose Your Products",
+      "link": "https://www.searchenginejournal.com/fix-ai-shopping-errors-writesonic-spa/595790/",
+      "summary": "Explore the future of retail with AI shopping. Understand how AI affects product visibility and decision-making for consumers.\n\nThe post <a href=\"https://www.searchenginejournal.com/fix-ai-shopping-errors-writesonic-spa/595790/\">AI Shopping Errors: What To Fix To Help Shoppers Choose Your Products</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-12T06:00:23+00:00",
+      "fetched": "2026-11-13T01:33:15.796079+00:00"
+    },
+    {
       "id": "1dbf549d-70e7-4f7b-974b-9edd9c9dc209",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -120,106 +219,7 @@
       "summary": "Meta paused its updated business and ad terms, leaving existing crawl rights in place for advertisers.\n\nThe post <a href=\"https://www.searchenginejournal.com/meta-pauses-updated-business-ad-terms/596493/\">Meta Pauses Its Updated Business And Ad Terms Due Nov. 20</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-11-10T11:30:00+00:00",
       "fetched": "2026-11-11T00:56:39.851313+00:00"
-    },
-    {
-      "id": "28b8dab6-d270-4b0a-99ab-853ecc4217c2",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "ChatGPT Ads Is Replacing Max Bid & Max CPC With Cost Targets via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/chatgpt-ads-is-replacing-max-bid-max-cpc-with-cost-targets/596491/",
-      "summary": "ChatGPT Ads is replacing manual bid caps with average cost targets, with separate dates for new campaigns, existing campaigns and API partners.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-ads-is-replacing-max-bid-max-cpc-with-cost-targets/596491/\">ChatGPT Ads Is Replacing Max Bid &#038; Max CPC With Cost Targets</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-10T10:09:01+00:00",
-      "fetched": "2026-11-11T00:56:39.851323+00:00"
-    },
-    {
-      "id": "c3244bc5-47ae-4f77-a9f9-c42b42a1bb52",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Paid Search Is Moving Up The Funnel \u2013 Google Admits AI Mode Pays Less via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/paid-search-is-moving-up-the-funnel-google-admits-ai-mode-pays-less/595875/",
-      "summary": "Protect PPC budgets as Google's AI Mode pushes search earlier in the buying journey, with four account changes to test whether discovery pays.\n\nThe post <a href=\"https://www.searchenginejournal.com/paid-search-is-moving-up-the-funnel-google-admits-ai-mode-pays-less/595875/\">Paid Search Is Moving Up The Funnel \u2013 Google Admits AI Mode Pays Less</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-09T20:00:13+00:00",
-      "fetched": "2026-11-10T03:02:39.882563+00:00"
-    },
-    {
-      "id": "9bb2c7f7-f44c-4d50-9e5a-79fe4253cce0",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Ads Tests Asset Activity Page With Weekly AI Insights via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-ads-tests-asset-activity-page-with-weekly-ai-insights/596442/",
-      "summary": "Some Google Ads accounts show an Asset activity page that uses AI to deliver weekly insight cards on ad creative, including headline ideas to test.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ads-tests-asset-activity-page-with-weekly-ai-insights/596442/\">Google Ads Tests Asset Activity Page With Weekly AI Insights</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-09T16:30:00+00:00",
-      "fetched": "2026-11-10T03:02:39.882579+00:00"
-    },
-    {
-      "id": "064a12a5-fc20-44d6-a962-499f1208f227",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "SEO Split Testing In 2027: How To Prove A Change Actually Worked",
-      "link": "https://www.searchenginejournal.com/seo-split-testing-prove-change-worked/594529/",
-      "summary": "Separate real SEO gains from Google's shifts with fair controls, clear decision rules, and results stakeholders can tie to revenue.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-split-testing-prove-change-worked/594529/\">SEO Split Testing In 2027: How To Prove A Change Actually Worked</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-09T15:00:42+00:00",
-      "fetched": "2026-11-10T03:02:39.882590+00:00"
-    },
-    {
-      "id": "c8691def-c6eb-424e-af88-75c925b3f998",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why An AI Usage Report Stopped Comparing AI With Search Engines via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/ai-76-billion-monthly-sessions-search-comparison/596389/",
-      "summary": "Graphite estimates AI assistants reached 76 billion monthly sessions worldwide and says it can no longer reliably compare AI search use with search engines.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-76-billion-monthly-sessions-search-comparison/596389/\">Why An AI Usage Report Stopped Comparing AI With Search Engines</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-09T15:00:00+00:00",
-      "fetched": "2026-11-10T03:02:39.882603+00:00"
-    },
-    {
-      "id": "b5556b1b-aea0-448c-81a9-52e6a1636f01",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The New Organic Growth Stack: Search, Social, Communities & AI",
-      "link": "https://www.searchenginejournal.com/new-organic-growth-stack-search-social-communities-ai/594542/",
-      "summary": "Build an organic growth stack around the sources Google's AI answers and standalone chatbots cite most in your category.\n\nThe post <a href=\"https://www.searchenginejournal.com/new-organic-growth-stack-search-social-communities-ai/594542/\">The New Organic Growth Stack: Search, Social, Communities &#038; AI</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-09T13:00:04+00:00",
-      "fetched": "2026-11-10T03:02:39.882613+00:00"
-    },
-    {
-      "id": "0c1eee57-022f-4e83-9d54-f2563b3d3932",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Ziff Davis Says Organic Google Referrals Fell About 37% via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/ziff-davis-organic-google-referrals-decline/596279/",
-      "summary": "A large publisher says organic Google referrals fell again and pointed to Search Console's AI report. Here's what its AI impressions comparison measures.\n\nThe post <a href=\"https://www.searchenginejournal.com/ziff-davis-organic-google-referrals-decline/596279/\">Ziff Davis Says Organic Google Referrals Fell About 37%</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-09T11:00:00+00:00",
-      "fetched": "2026-11-10T03:02:39.882621+00:00"
-    },
-    {
-      "id": "d11ad971-ab88-4196-a583-e6b3cb75e674",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s AI Features Sent One Site An Estimated 21% Of Its Clicks via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/googles-ai-features-sent-one-site-an-estimated-21-of-its-clicks/596267/",
-      "summary": "One site opted out of Google\u2019s AI features to estimate its clicks from AI Overviews and AI Mode, plus a possible lift on regular listings.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-ai-features-sent-one-site-an-estimated-21-of-its-clicks/596267/\">Google&#8217;s AI Features Sent One Site An Estimated 21% Of Its Clicks</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-09T09:00:00+00:00",
-      "fetched": "2026-11-10T03:02:39.882630+00:00"
-    },
-    {
-      "id": "62871275-1fd4-4ef4-b80e-60b50ee349a0",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Create More Helpful Content For AI Search With 9 Practical Workflows [Webinar] via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/create-more-helpful-content-for-ai-search-with-9-practical-workflows-webinar/596241/",
-      "summary": "Use AI workflows to turn customer insights into helpful content for AI search and reduce manual publishing and reporting. Join us November 18 at 2 PM ET.\n\nThe post <a href=\"https://www.searchenginejournal.com/create-more-helpful-content-for-ai-search-with-9-practical-workflows-webinar/596241/\">Create More Helpful Content For AI Search With 9 Practical Workflows [Webinar]</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-09T06:03:22+00:00",
-      "fetched": "2026-11-10T03:02:39.882646+00:00"
     }
   ],
-  "last_updated": "2026-11-12T02:02:52.303297+00:00"
+  "last_updated": "2026-11-13T01:33:16.516578+00:00"
 }
