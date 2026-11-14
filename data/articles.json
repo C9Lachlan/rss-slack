@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "a6629eaa-d8a3-4255-976b-ae777b354a4e",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Explains How To Find Search Traffic In Analytics & Logs via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-search-traffic-analytics-logs/597382/",
+      "summary": "A Google Search help page lists the referrer values Search traffic sends, why some visits arrive with none, and why counts differ from Search Console.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-search-traffic-analytics-logs/597382/\">Google Explains How To Find Search Traffic In Analytics &#038; Logs</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-14T00:02:10+00:00",
+      "fetched": "2026-11-14T01:06:38.577169+00:00"
+    },
+    {
+      "id": "06a1319a-f48a-4470-86f7-49fcc50c3d4d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Bot Management: Why SEOs Need More Than Block Lists via @sejournal, @chrisgreenseo",
+      "link": "https://www.searchenginejournal.com/ai-bot-management-why-seos-need-more-than-block-lists/597148/",
+      "summary": "Blocking an AI training crawler isn\u2019t the same as blocking a retrieval bot. Here\u2019s why SEO needs deliberate bot policies, not block lists.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-bot-management-why-seos-need-more-than-block-lists/597148/\">AI Bot Management: Why SEOs Need More Than Block Lists</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-13T20:00:48+00:00",
+      "fetched": "2026-11-14T01:06:38.577190+00:00"
+    },
+    {
+      "id": "8a169c90-b269-4c23-96fd-3ec8ab240717",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Says Target Frequency Can Mix Non-Skippable Ads & Shorts via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-target-frequency-non-skippable-shorts/597333/",
+      "summary": "Target frequency campaigns can pair non-skippable ads with Shorts and in-feed ads, an updated help page says. Here's what changed and where the limits are.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-target-frequency-non-skippable-shorts/597333/\">Google Says Target Frequency Can Mix Non-Skippable Ads &#038; Shorts</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-13T18:26:51+00:00",
+      "fetched": "2026-11-14T01:06:38.577205+00:00"
+    },
+    {
+      "id": "eb0d20dc-c8c7-458f-8517-3dc0ba7a0168",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "72% Of Worker\u2019s Say Their AI Skills Are Untested \u2013 Here\u2019s How PPC Managers Prove Theirs via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/72-of-workers-say-their-ai-skills-are-untested-heres-how-ppc-managers-prove-theirs/596205/",
+      "summary": "Turn Google Ads automation decisions into proof of your AI skills, with a practical record of overrides, checks, and campaign results.\n\nThe post <a href=\"https://www.searchenginejournal.com/72-of-workers-say-their-ai-skills-are-untested-heres-how-ppc-managers-prove-theirs/596205/\">72% Of Worker&#8217;s Say Their AI Skills Are Untested \u2013 Here&#8217;s How PPC Managers Prove Theirs</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-13T18:00:02+00:00",
+      "fetched": "2026-11-14T01:06:38.577222+00:00"
+    },
+    {
+      "id": "caaaf395-3c38-4bbd-91ba-97d8e9dd3345",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "What Reddit Reviews Reveals About Your Products via @sejournal, @brentcsutoras",
+      "link": "https://www.searchenginejournal.com/what-reddit-reviews-reveals-about-your-products/596963/",
+      "summary": "Spot recurring product complaints and competitor comparisons with Reddit Reviews, then check source comments for the context behind the summaries.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-reddit-reviews-reveals-about-your-products/596963/\">What Reddit Reviews Reveals About Your Products</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-13T13:00:09+00:00",
+      "fetched": "2026-11-14T01:06:38.577235+00:00"
+    },
+    {
       "id": "7d0e8710-50ca-49f0-b86f-f92f7247435c",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -164,62 +219,7 @@
       "summary": "Google is rolling out English-language ads in AI Mode to more than 10 new countries and launching multiturn ads for follow-up queries in the U.S.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-expands-ads-in-ai-mode-multiturn-ads/596540/\">Google Expands Ads In AI Mode To 10+ Countries, Adds Multiturn Ads</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-11-10T19:08:34+00:00",
       "fetched": "2026-11-11T00:56:39.851252+00:00"
-    },
-    {
-      "id": "249a8106-4e3c-41b0-b2e8-846c23b3d21d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "\u201cF*** Keywords\u201d \u2013 Well, What Are You Replacing Them With? via @sejournal, @chrisgreenseo",
-      "link": "https://www.searchenginejournal.com/forget-keywords-well-what-are-you-replacing-them-with/596349/",
-      "summary": "Declaring keywords dead is easy. Explaining what you\u2019ll track, how you\u2019ll govern content, and what stakeholders buy into is the harder part.\n\nThe post <a href=\"https://www.searchenginejournal.com/forget-keywords-well-what-are-you-replacing-them-with/596349/\">&#8220;F*** Keywords&#8221; \u2013 Well, What Are You Replacing Them With?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-10T18:00:42+00:00",
-      "fetched": "2026-11-11T00:56:39.851268+00:00"
-    },
-    {
-      "id": "7827e010-6c40-4570-b21a-c93cef5563d9",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Releases Modern Web Guidance 1.0 For AI Coding Agents via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-releases-modern-web-guidance-1-0-for-ai-coding-agents/596495/",
-      "summary": "Google\u2019s Modern Web Guidance 1.0 adds a codebase audit to its free skill set for AI coding agents.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-releases-modern-web-guidance-1-0-for-ai-coding-agents/596495/\">Google Releases Modern Web Guidance 1.0 For AI Coding Agents</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-10T17:00:00+00:00",
-      "fetched": "2026-11-11T00:56:39.851279+00:00"
-    },
-    {
-      "id": "7e7920e4-0770-4f6b-800e-ffc376dcedba",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Good Vs. Bad pSEO: Learnings From A Decade Of Building Scalable Content Engines via @sejournal, @_nitman",
-      "link": "https://www.searchenginejournal.com/good-vs-bad-pseo-learnings-from-a-decade-of-building-scalable-content-engines/594204/",
-      "summary": "Build programmatic SEO pages that earn their place with unique data, clear publishing standards, and pruning rules that keep scale from becoming spam.\n\nThe post <a href=\"https://www.searchenginejournal.com/good-vs-bad-pseo-learnings-from-a-decade-of-building-scalable-content-engines/594204/\">Good Vs. Bad pSEO: Learnings From A Decade Of Building Scalable Content Engines</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-10T15:00:54+00:00",
-      "fetched": "2026-11-11T00:56:39.851288+00:00"
-    },
-    {
-      "id": "f8fb0c2d-0dec-4e48-8cbd-d6ab96a75222",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Jon Miller On AI And The Future Of Marketing Automation via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/jon-miller-ai-marketing-automation/596446/",
-      "summary": "Jon Miller joins Heather Campbell to discuss how AI could reshape marketing automation, buying groups, and the decisions marketers face before renewing legacy platforms.\n\nThe post <a href=\"https://www.searchenginejournal.com/jon-miller-ai-marketing-automation/596446/\">Jon Miller On AI And The Future Of Marketing Automation</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-10T13:00:26+00:00",
-      "fetched": "2026-11-11T00:56:39.851297+00:00"
-    },
-    {
-      "id": "6ee7fa23-5e2b-4807-b77e-be697a7a3ed7",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Meta Pauses Its Updated Business And Ad Terms Due Nov. 20 via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/meta-pauses-updated-business-ad-terms/596493/",
-      "summary": "Meta paused its updated business and ad terms, leaving existing crawl rights in place for advertisers.\n\nThe post <a href=\"https://www.searchenginejournal.com/meta-pauses-updated-business-ad-terms/596493/\">Meta Pauses Its Updated Business And Ad Terms Due Nov. 20</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-10T11:30:00+00:00",
-      "fetched": "2026-11-11T00:56:39.851313+00:00"
     }
   ],
-  "last_updated": "2026-11-13T01:33:16.516578+00:00"
+  "last_updated": "2026-11-14T01:06:40.113290+00:00"
 }
