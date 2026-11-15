@@ -1,6 +1,39 @@
 {
   "articles": [
     {
+      "id": "efc96edd-30ec-4e47-b715-c951160ed110",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Core Update, ChatGPT Business Hub & AI Mode\u2019s New Model \u2013 SEO Pulse via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/seo-pulse-core-update-chatgpt-business-hub-ai-modes-new-model/597135/",
+      "summary": "A core update rolls out, AI search gets a new default model, ChatGPT shares mention and click counts, and sites plan for less search traffic.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-core-update-chatgpt-business-hub-ai-modes-new-model/597135/\">Core Update, ChatGPT Business Hub &#038; AI Mode&#8217;s New Model &#8211; SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-14T13:00:00+00:00",
+      "fetched": "2026-11-15T00:29:33.967398+00:00"
+    },
+    {
+      "id": "0728e988-2efe-4ddf-9bc6-e06adf490916",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "United Lets Search Engines Index Its Site, Makes AI Agents Ask First via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/united-ai-agents-permission-search-indexing/597418/",
+      "summary": "An airline's updated terms let search engines index public pages but require written permission for AI agents and bar AI grounding on its data.\n\nThe post <a href=\"https://www.searchenginejournal.com/united-ai-agents-permission-search-indexing/597418/\">United Lets Search Engines Index Its Site, Makes AI Agents Ask First</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-14T10:00:14+00:00",
+      "fetched": "2026-11-15T00:29:33.967424+00:00"
+    },
+    {
+      "id": "c8a04eed-a914-4011-a43a-c540f1ad660b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Meta\u2019s Muse Now Sends Most AI Agent Requests One Security Firm Sees via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/meta-muse-ai-agent-requests-human-security/597388/",
+      "summary": "Two companies' AI agents made most of the requests observed in one month, and most went to product and search pages rather than checkout.\n\nThe post <a href=\"https://www.searchenginejournal.com/meta-muse-ai-agent-requests-human-security/597388/\">Meta&#8217;s Muse Now Sends Most AI Agent Requests One Security Firm Sees</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-14T08:00:52+00:00",
+      "fetched": "2026-11-15T00:29:33.967443+00:00"
+    },
+    {
       "id": "a6629eaa-d8a3-4255-976b-ae777b354a4e",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -186,40 +219,7 @@
       "summary": "Curb unwanted Google Ads spending without losing valuable conversions by understanding where channel priorities and budget allocation limits give you control.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ads-gives-you-more-channel-control-but-not-as-much-as-you-think/596266/\">Google Ads Gives You More Channel Control \u2013 But Not As Much As You Think</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-11-11T13:00:37+00:00",
       "fetched": "2026-11-12T02:02:50.929245+00:00"
-    },
-    {
-      "id": "0d69b39b-2ed4-424c-9d00-d5cd8a725f8f",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Meta Paused Its New Business Terms, And Businesses Should Plan As If It Never Gets Better via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/meta-paused-its-new-business-terms-and-businesses-should-plan-as-if-it-never-gets-better/596343/",
-      "summary": "A business that gets its customers through Meta should plan as if Meta will never get better for it. Start building other channels.\n\nThe post <a href=\"https://www.searchenginejournal.com/meta-paused-its-new-business-terms-and-businesses-should-plan-as-if-it-never-gets-better/596343/\">Meta Paused Its New Business Terms, And Businesses Should Plan As If It Never Gets Better</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-10T20:00:25+00:00",
-      "fetched": "2026-11-11T00:56:39.851194+00:00"
-    },
-    {
-      "id": "a5d3b0f2-4f5f-4feb-8d8c-7206c9a00004",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s November 2026 Core Update Starts Rolling Out via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-november-2026-core-update/596614/",
-      "summary": "Google has begun rolling out its November 2026 core update globally and says it may take up to two weeks to complete.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-november-2026-core-update/596614/\">Google&#8217;s November 2026 Core Update Starts Rolling Out</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-10T19:55:01+00:00",
-      "fetched": "2026-11-11T00:56:39.851216+00:00"
-    },
-    {
-      "id": "9cba94c1-bddb-4d65-a5d1-d359d7b80bab",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Expands Ads In AI Mode To 10+ Countries, Adds Multiturn Ads via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/google-expands-ads-in-ai-mode-multiturn-ads/596540/",
-      "summary": "Google is rolling out English-language ads in AI Mode to more than 10 new countries and launching multiturn ads for follow-up queries in the U.S.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-expands-ads-in-ai-mode-multiturn-ads/596540/\">Google Expands Ads In AI Mode To 10+ Countries, Adds Multiturn Ads</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-10T19:08:34+00:00",
-      "fetched": "2026-11-11T00:56:39.851252+00:00"
     }
   ],
-  "last_updated": "2026-11-14T01:06:40.113290+00:00"
+  "last_updated": "2026-11-15T00:29:34.697905+00:00"
 }
