@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "id": "5aac2276-0010-4051-be13-6e8d36c34e91",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Higher Spend Came With Pricier Clicks For 14 B2B Google Advertisers via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/b2b-google-ads-keywords-cost-more-agency-data/597426/",
+      "summary": "One agency's data on 14 B2B advertisers finds the same non-brand Google Ads keywords cost more per click, even after controlling for their own spending.\n\nThe post <a href=\"https://www.searchenginejournal.com/b2b-google-ads-keywords-cost-more-agency-data/597426/\">Higher Spend Came With Pricier Clicks For 14 B2B Google Advertisers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-15T11:30:33+00:00",
+      "fetched": "2026-11-16T00:30:59.763038+00:00"
+    },
+    {
+      "id": "feab45cf-e1dc-4c68-840e-f61f513d48b2",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "YouTube\u2019s Clips Tool Turns Podcast Episodes Into Shorts via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/youtube-studio-clips-podcast-episodes-shorts/597408/",
+      "summary": "YouTube expanded its Studio video clips tool to Shorts, letting creators turn segments of long-form videos, like podcast episodes, into vertical Shorts.\n\nThe post <a href=\"https://www.searchenginejournal.com/youtube-studio-clips-podcast-episodes-shorts/597408/\">YouTube&#8217;s Clips Tool Turns Podcast Episodes Into Shorts</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-15T10:00:48+00:00",
+      "fetched": "2026-11-16T00:30:59.763055+00:00"
+    },
+    {
       "id": "efc96edd-30ec-4e47-b715-c951160ed110",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -197,29 +219,7 @@
       "summary": "AI visibility can hide evidence gaps that weaken recommendations as buyers evaluate integrations, workflows, and outcomes.\n\nThe post <a href=\"https://www.searchenginejournal.com/visibility-gets-you-on-the-list-evidence-helps-you-stay-there/592127/\">Visibility Gets You On The List, Evidence Helps You Stay There</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-11-11T15:00:59+00:00",
       "fetched": "2026-11-12T02:02:50.929198+00:00"
-    },
-    {
-      "id": "99998b10-ead3-49d4-87bd-bd4d1986afc9",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Discovers Unexpected Patterns In AI Image Generation via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-discovers-unexpected-patterns-in-ai-image-generation/596745/",
-      "summary": "Google analyzed millions of Nano Banana prompts and found how businesses are using it for marketing.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-discovers-unexpected-patterns-in-ai-image-generation/596745/\">Google Discovers Unexpected Patterns In AI Image Generation</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-11T14:18:51+00:00",
-      "fetched": "2026-11-12T02:02:50.929224+00:00"
-    },
-    {
-      "id": "29f20eb9-1525-47e0-9744-23fe4b2001c0",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Ads Gives You More Channel Control \u2013 But Not As Much As You Think via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/google-ads-gives-you-more-channel-control-but-not-as-much-as-you-think/596266/",
-      "summary": "Curb unwanted Google Ads spending without losing valuable conversions by understanding where channel priorities and budget allocation limits give you control.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ads-gives-you-more-channel-control-but-not-as-much-as-you-think/596266/\">Google Ads Gives You More Channel Control \u2013 But Not As Much As You Think</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-11T13:00:37+00:00",
-      "fetched": "2026-11-12T02:02:50.929245+00:00"
     }
   ],
-  "last_updated": "2026-11-15T00:29:34.697905+00:00"
+  "last_updated": "2026-11-16T00:31:00.779065+00:00"
 }
