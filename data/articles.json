@@ -1,6 +1,50 @@
 {
   "articles": [
     {
+      "id": "736c3c45-6ae6-402a-a473-0dafa95654cd",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Ask Maps Starts Finding Appointments & Calling Businesses via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-ask-maps-appointments-business-calls/597678/",
+      "summary": "Ask Maps is starting to find appointments online and call local businesses for customers. Here's what Business Profile says about Google's automated calls.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ask-maps-appointments-business-calls/597678/\">Google&#8217;s Ask Maps Starts Finding Appointments &#038; Calling Businesses</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-17T01:13:51+00:00",
+      "fetched": "2026-11-17T03:17:30.725507+00:00"
+    },
+    {
+      "id": "ccc1d6f1-7f1a-4b2c-914d-9447b242d24c",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "CMS Market Share Trends: Top Content Management Systems (Nov 2026) via @sejournal, @theshelleywalsh",
+      "link": "https://www.searchenginejournal.com/cms-market-share-trends-top-content-management-systems-nov-2026/596729/",
+      "summary": "The CMS market is fragmenting, and platform choice now carries direct implications for scalability, SEO, and revenue growth.\n\nThe post <a href=\"https://www.searchenginejournal.com/cms-market-share-trends-top-content-management-systems-nov-2026/596729/\">CMS Market Share Trends: Top Content Management Systems (Nov 2026)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-16T20:00:27+00:00",
+      "fetched": "2026-11-17T03:17:30.725532+00:00"
+    },
+    {
+      "id": "c1ddc8ee-de53-494d-80ff-310e1a7ff27d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "When The WordPress Plugin Update Is The Security Risk: Why SEOs Should Pay Attention via @sejournal, @cshel",
+      "link": "https://www.searchenginejournal.com/when-the-wordpress-plugin-update-is-the-security-risk-why-seos-should-pay-attention/595622/",
+      "summary": "Compromised WordPress plugins can introduce security threats and SEO problems. Recent supply-chain attacks reveal why software updates, vendor trust, and verification deserve closer scrutiny.\n\nThe post <a href=\"https://www.searchenginejournal.com/when-the-wordpress-plugin-update-is-the-security-risk-why-seos-should-pay-attention/595622/\">When The WordPress Plugin Update Is The Security Risk: Why SEOs Should Pay Attention</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search ",
+      "published": "2026-11-16T15:00:34+00:00",
+      "fetched": "2026-11-17T03:17:30.725550+00:00"
+    },
+    {
+      "id": "9b251a99-74d7-4541-8911-49fa39372b86",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "ChatGPT Ads Vs. Google Search Ads: What Early Data Shows via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/chatgpt-ads-vs-google-search-ads-early-data/597125/",
+      "summary": "Early ChatGPT Ads data shows competition for ad budgets, while performance comparisons depend on click prices, attribution and outcomes.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-ads-vs-google-search-ads-early-data/597125/\">ChatGPT Ads Vs. Google Search Ads: What Early Data Shows</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-16T13:00:58+00:00",
+      "fetched": "2026-11-17T03:17:30.725582+00:00"
+    },
+    {
       "id": "5aac2276-0010-4051-be13-6e8d36c34e91",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -175,51 +219,7 @@
       "summary": "For traffic-dependent businesses, the visit was only a step toward the sale. Agents now finish that job, and the work starts with the offer.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-traffic-pool-is-shrinking-and-which-channel-fills-it-matters-less-than-we-think/596346/\">The Traffic Pool Is Shrinking, And Which Channel Fills It Matters Less Than We Think</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-11-12T15:00:53+00:00",
       "fetched": "2026-11-13T01:33:15.796029+00:00"
-    },
-    {
-      "id": "3f7914be-cdfd-40ee-82dc-7f8f6e8cd2dc",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How to Submit Your Website to ChatGPT Business Hub via @sejournal, @vahandev",
-      "link": "https://www.searchenginejournal.com/submit-website-chatgpt/596785/",
-      "summary": "Learn how to claim your business in ChatGPT, verify your website and identity, and interpret Business Hub insights.\n\nThe post <a href=\"https://www.searchenginejournal.com/submit-website-chatgpt/596785/\">How to Submit Your Website to ChatGPT Business Hub</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-12T13:10:15+00:00",
-      "fetched": "2026-11-13T01:33:15.796041+00:00"
-    },
-    {
-      "id": "40ab9396-9f33-416c-b85c-6339efdaf925",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Don\u2019t Let A Tool Lead Your AI Search Strategy \u2013 Own Your Data Instead via @sejournal, @TaylorDanRW",
-      "link": "https://www.searchenginejournal.com/dont-let-a-tool-lead-your-ai-search-strategy-own-your-data-instead/596538/",
-      "summary": "Keep your AI search strategy independent of unstable tools by owning your prompts, raw data, and measures of brand visibility.\n\nThe post <a href=\"https://www.searchenginejournal.com/dont-let-a-tool-lead-your-ai-search-strategy-own-your-data-instead/596538/\">Don\u2019t Let A Tool Lead Your AI Search Strategy \u2013 Own Your Data Instead</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-12T13:00:43+00:00",
-      "fetched": "2026-11-13T01:33:15.796064+00:00"
-    },
-    {
-      "id": "f972ac6e-d21d-4c53-870d-e4ce3791d578",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Shopping Errors: What To Fix To Help Shoppers Choose Your Products",
-      "link": "https://www.searchenginejournal.com/fix-ai-shopping-errors-writesonic-spa/595790/",
-      "summary": "Explore the future of retail with AI shopping. Understand how AI affects product visibility and decision-making for consumers.\n\nThe post <a href=\"https://www.searchenginejournal.com/fix-ai-shopping-errors-writesonic-spa/595790/\">AI Shopping Errors: What To Fix To Help Shoppers Choose Your Products</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-12T06:00:23+00:00",
-      "fetched": "2026-11-13T01:33:15.796079+00:00"
-    },
-    {
-      "id": "1dbf549d-70e7-4f7b-974b-9edd9c9dc209",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Visibility Gets You On The List, Evidence Helps You Stay There via @sejournal, @billhunt",
-      "link": "https://www.searchenginejournal.com/visibility-gets-you-on-the-list-evidence-helps-you-stay-there/592127/",
-      "summary": "AI visibility can hide evidence gaps that weaken recommendations as buyers evaluate integrations, workflows, and outcomes.\n\nThe post <a href=\"https://www.searchenginejournal.com/visibility-gets-you-on-the-list-evidence-helps-you-stay-there/592127/\">Visibility Gets You On The List, Evidence Helps You Stay There</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-11T15:00:59+00:00",
-      "fetched": "2026-11-12T02:02:50.929198+00:00"
     }
   ],
-  "last_updated": "2026-11-16T00:31:00.779065+00:00"
+  "last_updated": "2026-11-17T03:17:32.692752+00:00"
 }
