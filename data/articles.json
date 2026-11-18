@@ -1,6 +1,83 @@
 {
   "articles": [
     {
+      "id": "818e55d3-27ce-49a2-9c47-2a23ffd4678b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "6.9% Of ChatGPT Conversations Showed Purchase Intent In U.S. Panel via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/chatgpt-purchase-intent-us-panel/597857/",
+      "summary": "U.S. data finds few ChatGPT conversations show intent to buy and most responses name no brand. New insight for teams weighing ChatGPT visibility and ads.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-purchase-intent-us-panel/597857/\">6.9% Of ChatGPT Conversations Showed Purchase Intent In U.S. Panel</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-17T21:42:30+00:00",
+      "fetched": "2026-11-18T02:39:19.918457+00:00"
+    },
+    {
+      "id": "0a367be1-f3ad-4873-afee-4f88b9a5a0d3",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Ads Surcharges Rise To 3% In France And Italy \u2013 Local US Advertisers Can Be Billed Too via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/google-ads-surcharges-rise-to-3-in-france-and-italy-local-us-advertisers-can-be-billed-too/596938/",
+      "summary": "Check where your Google Ads run: default location settings can expose local campaigns to surcharges in France and Italy.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ads-surcharges-rise-to-3-in-france-and-italy-local-us-advertisers-can-be-billed-too/596938/\">Google Ads Surcharges Rise To 3% In France And Italy \u2013 Local US Advertisers Can Be Billed Too</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-17T20:00:06+00:00",
+      "fetched": "2026-11-18T02:39:19.918476+00:00"
+    },
+    {
+      "id": "25a63a18-58d6-43fb-b9d1-f126ccbca979",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Date: Confirmed, Rating: Meets Expectations, Comments: None via @sejournal, @pedrodias",
+      "link": "https://www.searchenginejournal.com/date-confirmed-rating-meets-expectations-comments-none/597709/",
+      "summary": "What did the core update change for your site? Nobody outside Google can say. Here\u2019s the question worth asking instead.\n\nThe post <a href=\"https://www.searchenginejournal.com/date-confirmed-rating-meets-expectations-comments-none/597709/\">Date: Confirmed, Rating: Meets Expectations, Comments: None</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-17T18:01:21+00:00",
+      "fetched": "2026-11-18T02:39:19.918487+00:00"
+    },
+    {
+      "id": "2338c49b-28cf-4829-ba10-326cf59e1c1c",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Optimizely Says Attacker Used A Signup Flaw To Inject Malware via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/optimizely-signup-flaw-malware/597839/",
+      "summary": "An attacker added harmful code to customer projects in a widely used A/B testing tool. Teams can check code, account access and their security headers.\n\nThe post <a href=\"https://www.searchenginejournal.com/optimizely-signup-flaw-malware/597839/\">Optimizely Says Attacker Used A Signup Flaw To Inject Malware</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-17T17:32:02+00:00",
+      "fetched": "2026-11-18T02:39:19.918502+00:00"
+    },
+    {
+      "id": "75d8521c-6e3c-4fb9-825f-85010fd10f49",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Visibility Data: Avoid 4 Traps & Prioritize The Right Work",
+      "link": "https://www.searchenginejournal.com/ai-visibility-data-traps-transperfectdigital-spa/597627/",
+      "summary": "Navigate the complexities of AI visibility. Learn what to measure and how to leverage data for better AI performance.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-visibility-data-traps-transperfectdigital-spa/597627/\">AI Visibility Data: Avoid 4 Traps &#038; Prioritize The Right Work</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-17T16:11:24+00:00",
+      "fetched": "2026-11-18T02:39:19.918511+00:00"
+    },
+    {
+      "id": "59638518-8ea1-4cc0-9d7f-23e2f12ab121",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Patrick Reinhart On The Golden Metric In AI Search: Brand Recommendations via @sejournal, @lorenbaker",
+      "link": "https://www.searchenginejournal.com/patrick-reinhart-on-the-golden-metric-in-ai-search-brand-recommendations/597056/",
+      "summary": "Your brand got cited, but did AI recommend you? Patrick Reinhart of Conductor shares what enterprise teams should measure and fix first.\n\nThe post <a href=\"https://www.searchenginejournal.com/patrick-reinhart-on-the-golden-metric-in-ai-search-brand-recommendations/597056/\">Patrick Reinhart On The Golden Metric In AI Search: Brand Recommendations</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-17T13:00:47+00:00",
+      "fetched": "2026-11-18T02:39:19.918521+00:00"
+    },
+    {
+      "id": "564ffe0b-8eea-46d2-a505-22f0b02a39c0",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Branded Query Data Is Now In The Google Search Console API via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-branded-multimodal-search-console-api/597693/",
+      "summary": "The Search Analytics API now supports branded query classification, multimodal search data, and filters for several countries or devices in one request.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-branded-multimodal-search-console-api/597693/\">Branded Query Data Is Now In The Google Search Console API</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-17T08:00:55+00:00",
+      "fetched": "2026-11-18T02:39:19.918530+00:00"
+    },
+    {
       "id": "736c3c45-6ae6-402a-a473-0dafa95654cd",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -142,84 +219,7 @@
       "summary": "Turn Google Ads automation decisions into proof of your AI skills, with a practical record of overrides, checks, and campaign results.\n\nThe post <a href=\"https://www.searchenginejournal.com/72-of-workers-say-their-ai-skills-are-untested-heres-how-ppc-managers-prove-theirs/596205/\">72% Of Worker&#8217;s Say Their AI Skills Are Untested \u2013 Here&#8217;s How PPC Managers Prove Theirs</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-11-13T18:00:02+00:00",
       "fetched": "2026-11-14T01:06:38.577222+00:00"
-    },
-    {
-      "id": "caaaf395-3c38-4bbd-91ba-97d8e9dd3345",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "What Reddit Reviews Reveals About Your Products via @sejournal, @brentcsutoras",
-      "link": "https://www.searchenginejournal.com/what-reddit-reviews-reveals-about-your-products/596963/",
-      "summary": "Spot recurring product complaints and competitor comparisons with Reddit Reviews, then check source comments for the context behind the summaries.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-reddit-reviews-reveals-about-your-products/596963/\">What Reddit Reviews Reveals About Your Products</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-13T13:00:09+00:00",
-      "fetched": "2026-11-14T01:06:38.577235+00:00"
-    },
-    {
-      "id": "7d0e8710-50ca-49f0-b86f-f92f7247435c",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Ads Rolls Out New Invalid Traffic Overview Card via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/google-ads-rolls-out-new-invalid-traffic-overview-card/597098/",
-      "summary": "Google Ads introduces an Invalid Traffic Overview Card showing estimated savings, post-billing credits, and campaign-level reports. Here's what advertisers need to know.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ads-rolls-out-new-invalid-traffic-overview-card/597098/\">Google Ads Rolls Out New Invalid Traffic Overview Card</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-12T21:01:44+00:00",
-      "fetched": "2026-11-13T01:33:15.795935+00:00"
-    },
-    {
-      "id": "1dc1abc7-b607-4456-87db-33cb6185ff14",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Makes Gemini 4 Hydrogen The Default Model In AI Mode via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-gemini-4-hydrogen-default-ai-mode/597096/",
-      "summary": "Google made Gemini 4 Hydrogen the default model in AI Mode worldwide and is using it for the hardest AI Overview questions.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-gemini-4-hydrogen-default-ai-mode/597096/\">Google Makes Gemini 4 Hydrogen The Default Model In AI Mode</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-12T20:09:18+00:00",
-      "fetched": "2026-11-13T01:33:15.795960+00:00"
-    },
-    {
-      "id": "0086df30-f8c9-4634-91a6-5184f0290cc3",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Does The Affiliate Model Survive Checkout Inside AI Mode And Gemini? \u2013 Ask An SEO via @sejournal, @rollerblader",
-      "link": "https://www.searchenginejournal.com/does-the-affiliate-model-survive-checkout-inside-ai-mode-and-gemini-ask-an-seo/585080/",
-      "summary": "Affiliate links still help protect your commissions as AI checkout grows, but stronger tracking and better program choices add crucial layers of protection.\n\nThe post <a href=\"https://www.searchenginejournal.com/does-the-affiliate-model-survive-checkout-inside-ai-mode-and-gemini-ask-an-seo/585080/\">Does The Affiliate Model Survive Checkout Inside AI Mode And Gemini? \u2013 Ask An SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-12T20:00:07+00:00",
-      "fetched": "2026-11-13T01:33:15.795980+00:00"
-    },
-    {
-      "id": "9b4e5d18-7e5e-4129-b0e2-03285ba56ba7",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Visits To The Top Million Websites Fell 12%, Data Shows via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/visits-to-the-top-million-websites-fell-12-data-shows/597085/",
-      "summary": "Data shows visits to the world's top million websites declined from an earlier peak, visits going to sites outside the top 100 barely changed.\n\nThe post <a href=\"https://www.searchenginejournal.com/visits-to-the-top-million-websites-fell-12-data-shows/597085/\">Visits To The Top Million Websites Fell 12%, Data Shows</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-12T18:43:03+00:00",
-      "fetched": "2026-11-13T01:33:15.795999+00:00"
-    },
-    {
-      "id": "50cbdba2-f5d2-40d9-80cb-9b9b88e96260",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Microsoft Advertising Updates UI Following Advertiser Feedback via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/microsoft-advertising-updates-ui-following-advertiser-feedback/597078/",
-      "summary": "Microsoft Advertising announces UI improvements addressing advertiser feedback, including easier navigation, expanded reporting, sign-in troubleshooting, and account access management.\n\nThe post <a href=\"https://www.searchenginejournal.com/microsoft-advertising-updates-ui-following-advertiser-feedback/597078/\">Microsoft Advertising Updates UI Following Advertiser Feedback</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-12T17:45:26+00:00",
-      "fetched": "2026-11-13T01:33:15.796015+00:00"
-    },
-    {
-      "id": "1ce2caac-2d9b-4ee5-9e75-ca8e82e44288",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "The Traffic Pool Is Shrinking, And Which Channel Fills It Matters Less Than We Think via @sejournal, @DuaneForrester",
-      "link": "https://www.searchenginejournal.com/the-traffic-pool-is-shrinking-and-which-channel-fills-it-matters-less-than-we-think/596346/",
-      "summary": "For traffic-dependent businesses, the visit was only a step toward the sale. Agents now finish that job, and the work starts with the offer.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-traffic-pool-is-shrinking-and-which-channel-fills-it-matters-less-than-we-think/596346/\">The Traffic Pool Is Shrinking, And Which Channel Fills It Matters Less Than We Think</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-12T15:00:53+00:00",
-      "fetched": "2026-11-13T01:33:15.796029+00:00"
     }
   ],
-  "last_updated": "2026-11-17T03:17:32.692752+00:00"
+  "last_updated": "2026-11-18T02:39:21.587309+00:00"
 }
