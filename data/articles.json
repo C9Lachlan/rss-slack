@@ -1,6 +1,105 @@
 {
   "articles": [
     {
+      "id": "68dee349-0b69-40d0-9a2d-bfad772ad1cd",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "OpenAI Publishes Prompting Guidance For GPT-6.2 Astra via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/openai-gpt-6-2-astra-prompting-guidance/597877/",
+      "summary": "OpenAI's GPT-6.2 guide says Astra writes more concisely by default, suggests revisiting \"be concise\" prompts and flags an API change for edited history.\n\nThe post <a href=\"https://www.searchenginejournal.com/openai-gpt-6-2-astra-prompting-guidance/597877/\">OpenAI Publishes Prompting Guidance For GPT-6.2 Astra</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-18T22:26:21+00:00",
+      "fetched": "2026-11-19T02:06:51.997623+00:00"
+    },
+    {
+      "id": "f25e05c1-6b87-4777-912c-28de03345bed",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Robots.txt Guide \u2013 Best Practices For Search & AI Crawlers via @sejournal, @vahandev",
+      "link": "https://www.searchenginejournal.com/technical-seo/robots-txt-guide-best-practices-for-search-ai-crawlers/",
+      "summary": "Learn how to configure robots.txt, avoid crawl and indexing mistakes, and manage AI training, search crawlers, and user-requested visits separately.\n\nThe post <a href=\"https://www.searchenginejournal.com/technical-seo/robots-txt-guide-best-practices-for-search-ai-crawlers/\">Robots.txt Guide \u2013 Best Practices For Search &#038; AI Crawlers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-18T20:00:31+00:00",
+      "fetched": "2026-11-19T02:06:51.997648+00:00"
+    },
+    {
+      "id": "a752ce1c-ce0a-48ba-9b7e-34f5f7049d10",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Microsoft Rolls Out Its Biggest Bidding Upgrade In A Decade via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/microsoft-rolls-out-its-biggest-bidding-upgrade-in-a-decade/597963/",
+      "summary": "Microsoft Advertising is automatically updating its bidding models, reporting faster target adjustments, smoother budget pacing, and best practices for CPA and ROAS campaigns.\n\nThe post <a href=\"https://www.searchenginejournal.com/microsoft-rolls-out-its-biggest-bidding-upgrade-in-a-decade/597963/\">Microsoft Rolls Out Its Biggest Bidding Upgrade In A Decade</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-18T18:19:49+00:00",
+      "fetched": "2026-11-19T02:06:51.997666+00:00"
+    },
+    {
+      "id": "f04e389e-2481-42f1-90ec-fd25f1e2a2ea",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How I\u2019m Approaching AI Search (And How You Should To)",
+      "link": "https://www.searchenginejournal.com/how-im-approaching-ai-search-and-how-you-should-to/597775/",
+      "summary": "Citation tactics miss the point. Build a brand worth recommending and a business that benefits whether the citation comes or not.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-im-approaching-ai-search-and-how-you-should-to/597775/\">How I\u2019m Approaching AI Search (And How You Should To)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-18T18:00:01+00:00",
+      "fetched": "2026-11-19T02:06:51.997686+00:00"
+    },
+    {
+      "id": "f7fe283f-abd2-439a-920f-61ee8def4303",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "How To Find The Questions Your Customers Ask AI (And Your Keyword Tools Miss)",
+      "link": "https://www.searchenginejournal.com/how-to-find-the-questions-your-customers-ask-ai-and-your-keyword-tools-miss/596522/",
+      "summary": "Turn sales calls, support tickets, and forum threads into a content plan built around the questions your customers ask AI.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-find-the-questions-your-customers-ask-ai-and-your-keyword-tools-miss/596522/\">How To Find The Questions Your Customers Ask AI (And Your Keyword Tools Miss)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-18T15:00:12+00:00",
+      "fetched": "2026-11-19T02:06:51.997701+00:00"
+    },
+    {
+      "id": "e9ae0266-66b4-425a-8f16-2c27e03396bf",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Your Schema Markup Has a New Job. Is It Ready? via @sejournal, @marthavanberkel",
+      "link": "https://www.searchenginejournal.com/schema-markup-ai-search-schemapp/596440/",
+      "summary": "AI is changing how customers discover and evaluate brands. Enterprises need to think beyond rich results and develop the business context they publish for machines.\n\nThe post <a href=\"https://www.searchenginejournal.com/schema-markup-ai-search-schemapp/596440/\">Your Schema Markup Has a New Job. Is It Ready?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-18T14:54:34+00:00",
+      "fetched": "2026-11-19T02:06:51.997716+00:00"
+    },
+    {
+      "id": "efa411db-66cf-4758-a5bc-8ffbe2169622",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Rank Math SEO WordPress Plugin Hit By 16 Vulnerabilities In 2026 via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/rank-math-seo-wordpress-plugin-hit-by-16-vulnerabilities-in-2026/597932/",
+      "summary": "Sixteen Rank Math SEO vulnerabilities in one year raise questions about how so many security exploits made it into a plugin used by millions.\n\nThe post <a href=\"https://www.searchenginejournal.com/rank-math-seo-wordpress-plugin-hit-by-16-vulnerabilities-in-2026/597932/\">Rank Math SEO WordPress Plugin Hit By 16 Vulnerabilities In 2026</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-18T13:55:11+00:00",
+      "fetched": "2026-11-19T02:06:51.997729+00:00"
+    },
+    {
+      "id": "268ec3dc-65aa-4b15-bd33-6a975d5a9018",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Ads AI Max Is Making More Decisions For You \u2013 Here\u2019s What To Audit Now via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/google-ads-ai-max-is-making-more-decisions-for-you-heres-what-to-audit-now/596972/",
+      "summary": "Audit Google Ads AI Max settings to catch unwanted searches, review generated ad copy, and keep landing pages aligned with campaign goals.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ads-ai-max-is-making-more-decisions-for-you-heres-what-to-audit-now/596972/\">Google Ads AI Max Is Making More Decisions For You \u2013 Here&#8217;s What To Audit Now</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-18T13:00:42+00:00",
+      "fetched": "2026-11-19T02:06:51.997752+00:00"
+    },
+    {
+      "id": "55abfb9e-c005-40a2-94a9-1eff8224f9b1",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Explains How To Avoid CDN Migration SEO Problems via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-explains-how-to-avoid-cdn-migration-seo-problems/597888/",
+      "summary": "Google explains how to get the best SEO outcome from a CDN migration and avoid unexpected crawling problems.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-explains-how-to-avoid-cdn-migration-seo-problems/597888/\">Google Explains How To Avoid CDN Migration SEO Problems</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-18T12:16:03+00:00",
+      "fetched": "2026-11-19T02:06:51.997767+00:00"
+    },
+    {
       "id": "818e55d3-27ce-49a2-9c47-2a23ffd4678b",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -120,106 +219,7 @@
       "summary": "Early ChatGPT Ads data shows competition for ad budgets, while performance comparisons depend on click prices, attribution and outcomes.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-ads-vs-google-search-ads-early-data/597125/\">ChatGPT Ads Vs. Google Search Ads: What Early Data Shows</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-11-16T13:00:58+00:00",
       "fetched": "2026-11-17T03:17:30.725582+00:00"
-    },
-    {
-      "id": "5aac2276-0010-4051-be13-6e8d36c34e91",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Higher Spend Came With Pricier Clicks For 14 B2B Google Advertisers via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/b2b-google-ads-keywords-cost-more-agency-data/597426/",
-      "summary": "One agency's data on 14 B2B advertisers finds the same non-brand Google Ads keywords cost more per click, even after controlling for their own spending.\n\nThe post <a href=\"https://www.searchenginejournal.com/b2b-google-ads-keywords-cost-more-agency-data/597426/\">Higher Spend Came With Pricier Clicks For 14 B2B Google Advertisers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-15T11:30:33+00:00",
-      "fetched": "2026-11-16T00:30:59.763038+00:00"
-    },
-    {
-      "id": "feab45cf-e1dc-4c68-840e-f61f513d48b2",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "YouTube\u2019s Clips Tool Turns Podcast Episodes Into Shorts via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/youtube-studio-clips-podcast-episodes-shorts/597408/",
-      "summary": "YouTube expanded its Studio video clips tool to Shorts, letting creators turn segments of long-form videos, like podcast episodes, into vertical Shorts.\n\nThe post <a href=\"https://www.searchenginejournal.com/youtube-studio-clips-podcast-episodes-shorts/597408/\">YouTube&#8217;s Clips Tool Turns Podcast Episodes Into Shorts</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-15T10:00:48+00:00",
-      "fetched": "2026-11-16T00:30:59.763055+00:00"
-    },
-    {
-      "id": "efc96edd-30ec-4e47-b715-c951160ed110",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Core Update, ChatGPT Business Hub & AI Mode\u2019s New Model \u2013 SEO Pulse via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-core-update-chatgpt-business-hub-ai-modes-new-model/597135/",
-      "summary": "A core update rolls out, AI search gets a new default model, ChatGPT shares mention and click counts, and sites plan for less search traffic.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-core-update-chatgpt-business-hub-ai-modes-new-model/597135/\">Core Update, ChatGPT Business Hub &#038; AI Mode&#8217;s New Model &#8211; SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-14T13:00:00+00:00",
-      "fetched": "2026-11-15T00:29:33.967398+00:00"
-    },
-    {
-      "id": "0728e988-2efe-4ddf-9bc6-e06adf490916",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "United Lets Search Engines Index Its Site, Makes AI Agents Ask First via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/united-ai-agents-permission-search-indexing/597418/",
-      "summary": "An airline's updated terms let search engines index public pages but require written permission for AI agents and bar AI grounding on its data.\n\nThe post <a href=\"https://www.searchenginejournal.com/united-ai-agents-permission-search-indexing/597418/\">United Lets Search Engines Index Its Site, Makes AI Agents Ask First</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-14T10:00:14+00:00",
-      "fetched": "2026-11-15T00:29:33.967424+00:00"
-    },
-    {
-      "id": "c8a04eed-a914-4011-a43a-c540f1ad660b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Meta\u2019s Muse Now Sends Most AI Agent Requests One Security Firm Sees via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/meta-muse-ai-agent-requests-human-security/597388/",
-      "summary": "Two companies' AI agents made most of the requests observed in one month, and most went to product and search pages rather than checkout.\n\nThe post <a href=\"https://www.searchenginejournal.com/meta-muse-ai-agent-requests-human-security/597388/\">Meta&#8217;s Muse Now Sends Most AI Agent Requests One Security Firm Sees</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-14T08:00:52+00:00",
-      "fetched": "2026-11-15T00:29:33.967443+00:00"
-    },
-    {
-      "id": "a6629eaa-d8a3-4255-976b-ae777b354a4e",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Explains How To Find Search Traffic In Analytics & Logs via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-search-traffic-analytics-logs/597382/",
-      "summary": "A Google Search help page lists the referrer values Search traffic sends, why some visits arrive with none, and why counts differ from Search Console.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-search-traffic-analytics-logs/597382/\">Google Explains How To Find Search Traffic In Analytics &#038; Logs</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-14T00:02:10+00:00",
-      "fetched": "2026-11-14T01:06:38.577169+00:00"
-    },
-    {
-      "id": "06a1319a-f48a-4470-86f7-49fcc50c3d4d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Bot Management: Why SEOs Need More Than Block Lists via @sejournal, @chrisgreenseo",
-      "link": "https://www.searchenginejournal.com/ai-bot-management-why-seos-need-more-than-block-lists/597148/",
-      "summary": "Blocking an AI training crawler isn\u2019t the same as blocking a retrieval bot. Here\u2019s why SEO needs deliberate bot policies, not block lists.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-bot-management-why-seos-need-more-than-block-lists/597148/\">AI Bot Management: Why SEOs Need More Than Block Lists</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-13T20:00:48+00:00",
-      "fetched": "2026-11-14T01:06:38.577190+00:00"
-    },
-    {
-      "id": "8a169c90-b269-4c23-96fd-3ec8ab240717",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Says Target Frequency Can Mix Non-Skippable Ads & Shorts via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-target-frequency-non-skippable-shorts/597333/",
-      "summary": "Target frequency campaigns can pair non-skippable ads with Shorts and in-feed ads, an updated help page says. Here's what changed and where the limits are.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-target-frequency-non-skippable-shorts/597333/\">Google Says Target Frequency Can Mix Non-Skippable Ads &#038; Shorts</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-13T18:26:51+00:00",
-      "fetched": "2026-11-14T01:06:38.577205+00:00"
-    },
-    {
-      "id": "eb0d20dc-c8c7-458f-8517-3dc0ba7a0168",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "72% Of Worker\u2019s Say Their AI Skills Are Untested \u2013 Here\u2019s How PPC Managers Prove Theirs via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/72-of-workers-say-their-ai-skills-are-untested-heres-how-ppc-managers-prove-theirs/596205/",
-      "summary": "Turn Google Ads automation decisions into proof of your AI skills, with a practical record of overrides, checks, and campaign results.\n\nThe post <a href=\"https://www.searchenginejournal.com/72-of-workers-say-their-ai-skills-are-untested-heres-how-ppc-managers-prove-theirs/596205/\">72% Of Worker&#8217;s Say Their AI Skills Are Untested \u2013 Here&#8217;s How PPC Managers Prove Theirs</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-13T18:00:02+00:00",
-      "fetched": "2026-11-14T01:06:38.577222+00:00"
     }
   ],
-  "last_updated": "2026-11-18T02:39:21.587309+00:00"
+  "last_updated": "2026-11-19T02:06:52.601202+00:00"
 }
