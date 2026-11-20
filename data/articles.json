@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "b01923ef-117d-4bd1-8cd2-b2ebdefb8b3b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "21 Alternative Search Engines You Can Use Instead of Google via @sejournal, @lorenbaker",
+      "link": "https://www.searchenginejournal.com/21-alternative-search-engines-you-can-use-instead-of-google/596605/",
+      "summary": "Compare 21 Google alternatives for everyday search, private search, AI answers, specialist research, and regional results.\n\nThe post <a href=\"https://www.searchenginejournal.com/21-alternative-search-engines-you-can-use-instead-of-google/596605/\">21 Alternative Search Engines You Can Use Instead of Google</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-19T20:00:05+00:00",
+      "fetched": "2026-11-20T01:56:27.394232+00:00"
+    },
+    {
+      "id": "445cce9a-f6cd-4923-8f45-9f93bf2f4400",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Next Update Won\u2019t Touch The Index, And Nobody Will Announce It via @sejournal, @DuaneForrester",
+      "link": "https://www.searchenginejournal.com/googles-next-update-wont-touch-the-index-and-nobody-will-announce-it/597481/",
+      "summary": "Stop matching traffic drops to update dates. Sample what AI assistants say about your company on a schedule and track which facts drift.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-next-update-wont-touch-the-index-and-nobody-will-announce-it/597481/\">Google\u2019s Next Update Won\u2019t Touch The Index, And Nobody Will Announce It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-19T18:00:31+00:00",
+      "fetched": "2026-11-20T01:56:27.394255+00:00"
+    },
+    {
+      "id": "d7e27798-359f-4348-b79b-3b65694513a3",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Your WordPress Sitemap Isn\u2019t Broken \u2013 Chrome 158 Has Dropped XSLT via @sejournal, @TaylorDanRW",
+      "link": "https://www.searchenginejournal.com/your-wordpress-sitemap-isnt-broken-chrome-158-has-dropped-xslt/597549/",
+      "summary": "Chrome dropping XSLT makes WordPress sitemaps display as raw XML. Skip the unnecessary fixes and use Google Search Console to verify crawlers still read them.\n\nThe post <a href=\"https://www.searchenginejournal.com/your-wordpress-sitemap-isnt-broken-chrome-158-has-dropped-xslt/597549/\">Your WordPress Sitemap Isn\u2019t Broken \u2013 Chrome 158 Has Dropped XSLT</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-19T15:00:06+00:00",
+      "fetched": "2026-11-20T01:56:27.394270+00:00"
+    },
+    {
+      "id": "b1e76005-071e-4b9a-ad53-9cca5b6fca36",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "WordPress 7.1.5 Security Release Fixes 18 Vulnerabilities via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/wordpress-7-1-5-security-release-fixes-18-vulnerabilities/598080/",
+      "summary": "WordPress 7.1.5 fixes 18 vulnerabilities and adds two security improvements, including an unauthenticated flaw that could lead to RCE.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-7-1-5-security-release-fixes-18-vulnerabilities/598080/\">WordPress 7.1.5 Security Release Fixes 18 Vulnerabilities</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-19T14:40:05+00:00",
+      "fetched": "2026-11-20T01:56:27.394288+00:00"
+    },
+    {
+      "id": "5c8db105-161a-4d92-9f40-a39d61693c5a",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "WordPress 7.2 Arrives Dec. 8 \u2013 Last-Minute Changes Still Being Made via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/wordpress-7-2-seo-ai-changes/597616/",
+      "summary": "WordPress 7.2 plans a default-on random post redirect with no settings toggle. Here's what changes, what can wait, and what's still undecided before release.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-7-2-seo-ai-changes/597616/\">WordPress 7.2 Arrives Dec. 8 \u2013 Last-Minute Changes Still Being Made</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-19T13:00:50+00:00",
+      "fetched": "2026-11-20T01:56:27.394301+00:00"
+    },
+    {
       "id": "68dee349-0b69-40d0-9a2d-bfad772ad1cd",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -164,62 +219,7 @@
       "summary": "Your brand got cited, but did AI recommend you? Patrick Reinhart of Conductor shares what enterprise teams should measure and fix first.\n\nThe post <a href=\"https://www.searchenginejournal.com/patrick-reinhart-on-the-golden-metric-in-ai-search-brand-recommendations/597056/\">Patrick Reinhart On The Golden Metric In AI Search: Brand Recommendations</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-11-17T13:00:47+00:00",
       "fetched": "2026-11-18T02:39:19.918521+00:00"
-    },
-    {
-      "id": "564ffe0b-8eea-46d2-a505-22f0b02a39c0",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Branded Query Data Is Now In The Google Search Console API via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-branded-multimodal-search-console-api/597693/",
-      "summary": "The Search Analytics API now supports branded query classification, multimodal search data, and filters for several countries or devices in one request.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-branded-multimodal-search-console-api/597693/\">Branded Query Data Is Now In The Google Search Console API</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-17T08:00:55+00:00",
-      "fetched": "2026-11-18T02:39:19.918530+00:00"
-    },
-    {
-      "id": "736c3c45-6ae6-402a-a473-0dafa95654cd",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Ask Maps Starts Finding Appointments & Calling Businesses via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-ask-maps-appointments-business-calls/597678/",
-      "summary": "Ask Maps is starting to find appointments online and call local businesses for customers. Here's what Business Profile says about Google's automated calls.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ask-maps-appointments-business-calls/597678/\">Google&#8217;s Ask Maps Starts Finding Appointments &#038; Calling Businesses</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-17T01:13:51+00:00",
-      "fetched": "2026-11-17T03:17:30.725507+00:00"
-    },
-    {
-      "id": "ccc1d6f1-7f1a-4b2c-914d-9447b242d24c",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "CMS Market Share Trends: Top Content Management Systems (Nov 2026) via @sejournal, @theshelleywalsh",
-      "link": "https://www.searchenginejournal.com/cms-market-share-trends-top-content-management-systems-nov-2026/596729/",
-      "summary": "The CMS market is fragmenting, and platform choice now carries direct implications for scalability, SEO, and revenue growth.\n\nThe post <a href=\"https://www.searchenginejournal.com/cms-market-share-trends-top-content-management-systems-nov-2026/596729/\">CMS Market Share Trends: Top Content Management Systems (Nov 2026)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-16T20:00:27+00:00",
-      "fetched": "2026-11-17T03:17:30.725532+00:00"
-    },
-    {
-      "id": "c1ddc8ee-de53-494d-80ff-310e1a7ff27d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "When The WordPress Plugin Update Is The Security Risk: Why SEOs Should Pay Attention via @sejournal, @cshel",
-      "link": "https://www.searchenginejournal.com/when-the-wordpress-plugin-update-is-the-security-risk-why-seos-should-pay-attention/595622/",
-      "summary": "Compromised WordPress plugins can introduce security threats and SEO problems. Recent supply-chain attacks reveal why software updates, vendor trust, and verification deserve closer scrutiny.\n\nThe post <a href=\"https://www.searchenginejournal.com/when-the-wordpress-plugin-update-is-the-security-risk-why-seos-should-pay-attention/595622/\">When The WordPress Plugin Update Is The Security Risk: Why SEOs Should Pay Attention</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search ",
-      "published": "2026-11-16T15:00:34+00:00",
-      "fetched": "2026-11-17T03:17:30.725550+00:00"
-    },
-    {
-      "id": "9b251a99-74d7-4541-8911-49fa39372b86",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "ChatGPT Ads Vs. Google Search Ads: What Early Data Shows via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/chatgpt-ads-vs-google-search-ads-early-data/597125/",
-      "summary": "Early ChatGPT Ads data shows competition for ad budgets, while performance comparisons depend on click prices, attribution and outcomes.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-ads-vs-google-search-ads-early-data/597125/\">ChatGPT Ads Vs. Google Search Ads: What Early Data Shows</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-16T13:00:58+00:00",
-      "fetched": "2026-11-17T03:17:30.725582+00:00"
     }
   ],
-  "last_updated": "2026-11-19T02:06:52.601202+00:00"
+  "last_updated": "2026-11-20T01:56:28.483187+00:00"
 }
