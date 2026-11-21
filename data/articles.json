@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "49c973df-73a0-4dc0-9f07-847617a5cc84",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Salesforce CEO Says \u2018Goodbye SEO.\u2019 Salesforce\u2019s SEO Guide Disagrees via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/salesforce-ceo-goodbye-seo-salesforce-seo-guide/598343/",
+      "summary": "Marc Benioff promoted Palmata by saying goodbye to SEO, while Salesforce\u2019s own guide says SEO remains the foundation.\n\nThe post <a href=\"https://www.searchenginejournal.com/salesforce-ceo-goodbye-seo-salesforce-seo-guide/598343/\">Salesforce CEO Says &#8216;Goodbye SEO.&#8217; Salesforce&#8217;s SEO Guide Disagrees</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-20T20:20:52+00:00",
+      "fetched": "2026-11-21T01:52:17.598808+00:00"
+    },
+    {
+      "id": "f7a29176-aa79-491a-99e3-58ddc247f622",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Why Building Trust Through Real People Stands The Test Of Time In SEO & AI Search via @sejournal, @lilyraynyc",
+      "link": "https://www.searchenginejournal.com/why-building-trust-through-real-people-stands-the-test-of-time-in-seo-ai-search/598110/",
+      "summary": "Scaled AI content, fake authors, and self-promotional listicles work until they don\u2019t. Here\u2019s why putting real human experts first keeps paying off in search.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-building-trust-through-real-people-stands-the-test-of-time-in-seo-ai-search/598110/\">Why Building Trust Through Real People Stands The Test Of Time In SEO &#038; AI Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-20T20:00:34+00:00",
+      "fetched": "2026-11-21T01:52:17.598835+00:00"
+    },
+    {
+      "id": "a266eaaf-3f44-4b43-9816-2d56e98c6c91",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Told CMOs To Stop \u2018Top 10\u2019 Listicles. Here\u2019s Its Example via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-told-cmos-to-stop-top-10-listicles/598310/",
+      "summary": "Google's marketing account told CMOs to replace generic tips posts with content grounded in first-hand expertise.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-told-cmos-to-stop-top-10-listicles/598310/\">Google Told CMOs To Stop &#8216;Top 10&#8217; Listicles. Here&#8217;s Its Example</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-20T16:17:43+00:00",
+      "fetched": "2026-11-21T01:52:17.598855+00:00"
+    },
+    {
+      "id": "3ac6e836-d112-457c-a6b2-7dc1ce5e3f7d",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "A Charity Rescue Dog Outscored Amazon\u2019s Christmas Ad \u2013 PPC Accounts Need A Story Before Cyber Week via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/a-charity-rescue-dog-outscored-amazons-christmas-ad-ppc-accounts-need-a-story-before-cyber-week/597789/",
+      "summary": "Give holiday Google Ads a stronger story, using DAIVID's ranking of 75 Christmas ads where Dogs Trust outscored Amazon.\n\nThe post <a href=\"https://www.searchenginejournal.com/a-charity-rescue-dog-outscored-amazons-christmas-ad-ppc-accounts-need-a-story-before-cyber-week/597789/\">A Charity Rescue Dog Outscored Amazon&#8217;s Christmas Ad \u2013 PPC Accounts Need A Story Before Cyber Week</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-20T15:00:09+00:00",
+      "fetched": "2026-11-21T01:52:17.598878+00:00"
+    },
+    {
+      "id": "e1bc664b-5e91-45ac-a2fc-12cf23220f66",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Citations: What To Check Before Reacting To A Lost One via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/ai-citations-what-to-check-before-reacting-to-a-lost-one/598166/",
+      "summary": "Most AI citations that disappear later come back. Here are four things to check about a lost citation before you decide to change a page.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-citations-what-to-check-before-reacting-to-a-lost-one/598166/\">AI Citations: What To Check Before Reacting To A Lost One</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-20T13:00:00+00:00",
+      "fetched": "2026-11-21T01:52:17.598896+00:00"
+    },
+    {
       "id": "b01923ef-117d-4bd1-8cd2-b2ebdefb8b3b",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -164,62 +219,7 @@
       "summary": "U.S. data finds few ChatGPT conversations show intent to buy and most responses name no brand. New insight for teams weighing ChatGPT visibility and ads.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-purchase-intent-us-panel/597857/\">6.9% Of ChatGPT Conversations Showed Purchase Intent In U.S. Panel</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-11-17T21:42:30+00:00",
       "fetched": "2026-11-18T02:39:19.918457+00:00"
-    },
-    {
-      "id": "0a367be1-f3ad-4873-afee-4f88b9a5a0d3",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Ads Surcharges Rise To 3% In France And Italy \u2013 Local US Advertisers Can Be Billed Too via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/google-ads-surcharges-rise-to-3-in-france-and-italy-local-us-advertisers-can-be-billed-too/596938/",
-      "summary": "Check where your Google Ads run: default location settings can expose local campaigns to surcharges in France and Italy.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ads-surcharges-rise-to-3-in-france-and-italy-local-us-advertisers-can-be-billed-too/596938/\">Google Ads Surcharges Rise To 3% In France And Italy \u2013 Local US Advertisers Can Be Billed Too</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-17T20:00:06+00:00",
-      "fetched": "2026-11-18T02:39:19.918476+00:00"
-    },
-    {
-      "id": "25a63a18-58d6-43fb-b9d1-f126ccbca979",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Date: Confirmed, Rating: Meets Expectations, Comments: None via @sejournal, @pedrodias",
-      "link": "https://www.searchenginejournal.com/date-confirmed-rating-meets-expectations-comments-none/597709/",
-      "summary": "What did the core update change for your site? Nobody outside Google can say. Here\u2019s the question worth asking instead.\n\nThe post <a href=\"https://www.searchenginejournal.com/date-confirmed-rating-meets-expectations-comments-none/597709/\">Date: Confirmed, Rating: Meets Expectations, Comments: None</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-17T18:01:21+00:00",
-      "fetched": "2026-11-18T02:39:19.918487+00:00"
-    },
-    {
-      "id": "2338c49b-28cf-4829-ba10-326cf59e1c1c",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Optimizely Says Attacker Used A Signup Flaw To Inject Malware via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/optimizely-signup-flaw-malware/597839/",
-      "summary": "An attacker added harmful code to customer projects in a widely used A/B testing tool. Teams can check code, account access and their security headers.\n\nThe post <a href=\"https://www.searchenginejournal.com/optimizely-signup-flaw-malware/597839/\">Optimizely Says Attacker Used A Signup Flaw To Inject Malware</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-17T17:32:02+00:00",
-      "fetched": "2026-11-18T02:39:19.918502+00:00"
-    },
-    {
-      "id": "75d8521c-6e3c-4fb9-825f-85010fd10f49",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Visibility Data: Avoid 4 Traps & Prioritize The Right Work",
-      "link": "https://www.searchenginejournal.com/ai-visibility-data-traps-transperfectdigital-spa/597627/",
-      "summary": "Navigate the complexities of AI visibility. Learn what to measure and how to leverage data for better AI performance.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-visibility-data-traps-transperfectdigital-spa/597627/\">AI Visibility Data: Avoid 4 Traps &#038; Prioritize The Right Work</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-17T16:11:24+00:00",
-      "fetched": "2026-11-18T02:39:19.918511+00:00"
-    },
-    {
-      "id": "59638518-8ea1-4cc0-9d7f-23e2f12ab121",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Patrick Reinhart On The Golden Metric In AI Search: Brand Recommendations via @sejournal, @lorenbaker",
-      "link": "https://www.searchenginejournal.com/patrick-reinhart-on-the-golden-metric-in-ai-search-brand-recommendations/597056/",
-      "summary": "Your brand got cited, but did AI recommend you? Patrick Reinhart of Conductor shares what enterprise teams should measure and fix first.\n\nThe post <a href=\"https://www.searchenginejournal.com/patrick-reinhart-on-the-golden-metric-in-ai-search-brand-recommendations/597056/\">Patrick Reinhart On The Golden Metric In AI Search: Brand Recommendations</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-17T13:00:47+00:00",
-      "fetched": "2026-11-18T02:39:19.918521+00:00"
     }
   ],
-  "last_updated": "2026-11-20T01:56:28.483187+00:00"
+  "last_updated": "2026-11-21T01:52:18.534282+00:00"
 }
