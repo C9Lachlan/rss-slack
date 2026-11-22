@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": "418d8992-685b-4570-a450-da2c7ed6cd22",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "WordPress Random Redirects, Branded API Data & CDN Advice \u2013 SEO Pulse via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/seo-pulse-wordpress-random-redirects-branded-api-data-cdn-advice/598173/",
+      "summary": "This week's SEO Pulse covers WordPress's random redirect, branded data in Search Console API, Google's CDN guidance, and who controls access for bots and agents.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-wordpress-random-redirects-branded-api-data-cdn-advice/598173/\">WordPress Random Redirects, Branded API Data &#038; CDN Advice \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-21T13:00:00+00:00",
+      "fetched": "2026-11-22T00:46:16.382047+00:00"
+    },
+    {
       "id": "49c973df-73a0-4dc0-9f07-847617a5cc84",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -208,18 +219,7 @@
       "summary": "Google explains how to get the best SEO outcome from a CDN migration and avoid unexpected crawling problems.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-explains-how-to-avoid-cdn-migration-seo-problems/597888/\">Google Explains How To Avoid CDN Migration SEO Problems</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-11-18T12:16:03+00:00",
       "fetched": "2026-11-19T02:06:51.997767+00:00"
-    },
-    {
-      "id": "818e55d3-27ce-49a2-9c47-2a23ffd4678b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "6.9% Of ChatGPT Conversations Showed Purchase Intent In U.S. Panel via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/chatgpt-purchase-intent-us-panel/597857/",
-      "summary": "U.S. data finds few ChatGPT conversations show intent to buy and most responses name no brand. New insight for teams weighing ChatGPT visibility and ads.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-purchase-intent-us-panel/597857/\">6.9% Of ChatGPT Conversations Showed Purchase Intent In U.S. Panel</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-17T21:42:30+00:00",
-      "fetched": "2026-11-18T02:39:19.918457+00:00"
     }
   ],
-  "last_updated": "2026-11-21T01:52:18.534282+00:00"
+  "last_updated": "2026-11-22T00:46:17.206415+00:00"
 }
