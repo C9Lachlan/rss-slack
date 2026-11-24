@@ -1,6 +1,83 @@
 {
   "articles": [
     {
+      "id": "59eb448c-f450-4a9f-82de-cf4c13f52f6b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Reddit\u2019s AEO Tool Recommendations Have A Promoter Problem via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/check-whos-posting-before-you-trust-reddit-on-aeo-tools/598641/",
+      "summary": "An analysis of subreddits flagged most users weighing in on AEO tools as likely promoters. Among the rest, accuracy was the top feature complaint.\n\nThe post <a href=\"https://www.searchenginejournal.com/check-whos-posting-before-you-trust-reddit-on-aeo-tools/598641/\">Reddit&#8217;s AEO Tool Recommendations Have A Promoter Problem</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-23T22:52:42+00:00",
+      "fetched": "2026-11-24T05:02:49.292184+00:00"
+    },
+    {
+      "id": "6f5bc406-114c-436e-ae73-971be2de1448",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "I Blind-Tested 3 Gemini Models On Real SEO Questions \u2013 Neon Won 5 Of 6 via @sejournal, @marie_haynes",
+      "link": "https://www.searchenginejournal.com/blind-test-of-gemini-4-neon-vs-hydrogen-vs-3-8-flash-on-real-seo-questions-here-is-what-won-and-what-it-costs/598384/",
+      "summary": "Here's how Marie Haynes blind-tested Gemini 4 Neon, Hydrogen, and 3.8 Flash on six SEO questions, plus what each model really costs per prompt.\n\nThe post <a href=\"https://www.searchenginejournal.com/blind-test-of-gemini-4-neon-vs-hydrogen-vs-3-8-flash-on-real-seo-questions-here-is-what-won-and-what-it-costs/598384/\">I Blind-Tested 3 Gemini Models On Real SEO Questions \u2013 Neon Won 5 Of 6</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-23T20:00:33+00:00",
+      "fetched": "2026-11-24T05:02:49.292211+00:00"
+    },
+    {
+      "id": "144b5902-e6e9-4743-b45d-22c278b2d9ca",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Says Back Button Hijacking Policy Covers Social Visits via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-back-button-hijacking-policy-social-visits/598592/",
+      "summary": "Google says the back button hijacking policy applies to visits from social media and other channels, and that sites can keep using ad platform code.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-back-button-hijacking-policy-social-visits/598592/\">Google Says Back Button Hijacking Policy Covers Social Visits</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-23T18:00:23+00:00",
+      "fetched": "2026-11-24T05:02:49.292231+00:00"
+    },
+    {
+      "id": "e931e295-11bf-4398-aa27-d340fc223640",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Final Ad Checklist Before BFCM \u2013 What To Fix Now & What To Leave via @sejournal, @tonyadam",
+      "link": "https://www.searchenginejournal.com/the-final-ad-checklist-before-bfcm-what-to-fix-now-what-to-leave/597701/",
+      "summary": "Keep Black Friday ads running with final checks on budgets, purchase tracking, billing, and offers before the holiday rush.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-final-ad-checklist-before-bfcm-what-to-fix-now-what-to-leave/597701/\">The Final Ad Checklist Before BFCM \u2013 What To Fix Now &#038; What To Leave</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-23T15:00:32+00:00",
+      "fetched": "2026-11-24T05:02:49.292253+00:00"
+    },
+    {
+      "id": "794e5705-214b-42ee-bb58-369cf2009ee7",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Publishes Guidance For Google-Agent Crawler via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-publishes-guidance-for-google-agent-crawler/598526/",
+      "summary": "Google explains how website owners and SEOs can identify legitimate Google-Agent requests and prevent security systems from blocking them.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-publishes-guidance-for-google-agent-crawler/598526/\">Google Publishes Guidance For Google-Agent Crawler</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-23T13:12:32+00:00",
+      "fetched": "2026-11-24T05:02:49.292271+00:00"
+    },
+    {
+      "id": "38856314-b7fa-4d06-9589-e1313f64ecc9",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "35 AI Prompts & Examples For SEO (Updated November 2026) via @sejournal, @theshelleywalsh",
+      "link": "https://www.searchenginejournal.com/ai-prompts-examples-for-seo-2026/596734/",
+      "summary": "Use these SEO prompts with verified data, native AI tools, and connected sources to get deeper insights from tool data.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-prompts-examples-for-seo-2026/596734/\">35 AI Prompts &#038; Examples For SEO (Updated November 2026)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-23T13:00:17+00:00",
+      "fetched": "2026-11-24T05:02:49.292288+00:00"
+    },
+    {
+      "id": "28f7cd7b-3c6d-4b2b-92ce-c99d5102e8e4",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Check Your Nov. 18 Rank Data Before Blaming The Core Update via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/check-your-nov-18-rank-data-before-blaming-the-core-update/598449/",
+      "summary": "A rank tracker received about a tenth of its usual Google results for hours during the core update, with a sign-in page among the blocks.\n\nThe post <a href=\"https://www.searchenginejournal.com/check-your-nov-18-rank-data-before-blaming-the-core-update/598449/\">Check Your Nov. 18 Rank Data Before Blaming The Core Update</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-23T09:00:04+00:00",
+      "fetched": "2026-11-24T05:02:49.292303+00:00"
+    },
+    {
       "id": "418d8992-685b-4570-a450-da2c7ed6cd22",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -142,84 +219,7 @@
       "summary": "Learn how to configure robots.txt, avoid crawl and indexing mistakes, and manage AI training, search crawlers, and user-requested visits separately.\n\nThe post <a href=\"https://www.searchenginejournal.com/technical-seo/robots-txt-guide-best-practices-for-search-ai-crawlers/\">Robots.txt Guide \u2013 Best Practices For Search &#038; AI Crawlers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-11-18T20:00:31+00:00",
       "fetched": "2026-11-19T02:06:51.997648+00:00"
-    },
-    {
-      "id": "a752ce1c-ce0a-48ba-9b7e-34f5f7049d10",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Microsoft Rolls Out Its Biggest Bidding Upgrade In A Decade via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/microsoft-rolls-out-its-biggest-bidding-upgrade-in-a-decade/597963/",
-      "summary": "Microsoft Advertising is automatically updating its bidding models, reporting faster target adjustments, smoother budget pacing, and best practices for CPA and ROAS campaigns.\n\nThe post <a href=\"https://www.searchenginejournal.com/microsoft-rolls-out-its-biggest-bidding-upgrade-in-a-decade/597963/\">Microsoft Rolls Out Its Biggest Bidding Upgrade In A Decade</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-18T18:19:49+00:00",
-      "fetched": "2026-11-19T02:06:51.997666+00:00"
-    },
-    {
-      "id": "f04e389e-2481-42f1-90ec-fd25f1e2a2ea",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How I\u2019m Approaching AI Search (And How You Should To)",
-      "link": "https://www.searchenginejournal.com/how-im-approaching-ai-search-and-how-you-should-to/597775/",
-      "summary": "Citation tactics miss the point. Build a brand worth recommending and a business that benefits whether the citation comes or not.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-im-approaching-ai-search-and-how-you-should-to/597775/\">How I\u2019m Approaching AI Search (And How You Should To)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-18T18:00:01+00:00",
-      "fetched": "2026-11-19T02:06:51.997686+00:00"
-    },
-    {
-      "id": "f7fe283f-abd2-439a-920f-61ee8def4303",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "How To Find The Questions Your Customers Ask AI (And Your Keyword Tools Miss)",
-      "link": "https://www.searchenginejournal.com/how-to-find-the-questions-your-customers-ask-ai-and-your-keyword-tools-miss/596522/",
-      "summary": "Turn sales calls, support tickets, and forum threads into a content plan built around the questions your customers ask AI.\n\nThe post <a href=\"https://www.searchenginejournal.com/how-to-find-the-questions-your-customers-ask-ai-and-your-keyword-tools-miss/596522/\">How To Find The Questions Your Customers Ask AI (And Your Keyword Tools Miss)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-18T15:00:12+00:00",
-      "fetched": "2026-11-19T02:06:51.997701+00:00"
-    },
-    {
-      "id": "e9ae0266-66b4-425a-8f16-2c27e03396bf",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Your Schema Markup Has a New Job. Is It Ready? via @sejournal, @marthavanberkel",
-      "link": "https://www.searchenginejournal.com/schema-markup-ai-search-schemapp/596440/",
-      "summary": "AI is changing how customers discover and evaluate brands. Enterprises need to think beyond rich results and develop the business context they publish for machines.\n\nThe post <a href=\"https://www.searchenginejournal.com/schema-markup-ai-search-schemapp/596440/\">Your Schema Markup Has a New Job. Is It Ready?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-18T14:54:34+00:00",
-      "fetched": "2026-11-19T02:06:51.997716+00:00"
-    },
-    {
-      "id": "efa411db-66cf-4758-a5bc-8ffbe2169622",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Rank Math SEO WordPress Plugin Hit By 16 Vulnerabilities In 2026 via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/rank-math-seo-wordpress-plugin-hit-by-16-vulnerabilities-in-2026/597932/",
-      "summary": "Sixteen Rank Math SEO vulnerabilities in one year raise questions about how so many security exploits made it into a plugin used by millions.\n\nThe post <a href=\"https://www.searchenginejournal.com/rank-math-seo-wordpress-plugin-hit-by-16-vulnerabilities-in-2026/597932/\">Rank Math SEO WordPress Plugin Hit By 16 Vulnerabilities In 2026</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-18T13:55:11+00:00",
-      "fetched": "2026-11-19T02:06:51.997729+00:00"
-    },
-    {
-      "id": "268ec3dc-65aa-4b15-bd33-6a975d5a9018",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Ads AI Max Is Making More Decisions For You \u2013 Here\u2019s What To Audit Now via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/google-ads-ai-max-is-making-more-decisions-for-you-heres-what-to-audit-now/596972/",
-      "summary": "Audit Google Ads AI Max settings to catch unwanted searches, review generated ad copy, and keep landing pages aligned with campaign goals.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-ads-ai-max-is-making-more-decisions-for-you-heres-what-to-audit-now/596972/\">Google Ads AI Max Is Making More Decisions For You \u2013 Here&#8217;s What To Audit Now</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-18T13:00:42+00:00",
-      "fetched": "2026-11-19T02:06:51.997752+00:00"
-    },
-    {
-      "id": "55abfb9e-c005-40a2-94a9-1eff8224f9b1",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Explains How To Avoid CDN Migration SEO Problems via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-explains-how-to-avoid-cdn-migration-seo-problems/597888/",
-      "summary": "Google explains how to get the best SEO outcome from a CDN migration and avoid unexpected crawling problems.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-explains-how-to-avoid-cdn-migration-seo-problems/597888/\">Google Explains How To Avoid CDN Migration SEO Problems</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-18T12:16:03+00:00",
-      "fetched": "2026-11-19T02:06:51.997767+00:00"
     }
   ],
-  "last_updated": "2026-11-23T01:13:41.453303+00:00"
+  "last_updated": "2026-11-24T05:02:50.161045+00:00"
 }
