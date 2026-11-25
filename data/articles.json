@@ -1,6 +1,83 @@
 {
   "articles": [
     {
+      "id": "55ba4399-f13e-4c93-8e51-b26d6a42841f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Documents Advance Notice For Significant Ranking Updates via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-documents-advance-notice-for-significant-ranking-updates/598773/",
+      "summary": "New Search documentation explains when sites get advance notice of significant ranking updates, how to send feedback on them, and a new UK appeal route.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-documents-advance-notice-for-significant-ranking-updates/598773/\">Google Documents Advance Notice For Significant Ranking Updates</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-24T22:06:57+00:00",
+      "fetched": "2026-11-25T03:51:55.966154+00:00"
+    },
+    {
+      "id": "05de2978-e2af-40b8-b9d6-ead1f901868b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "What A Billboard Network Knows About Measuring Search Ads That PPC Teams Forgot via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/what-a-billboard-network-knows-about-measuring-search-ads-that-ppc-teams-forgot/597854/",
+      "summary": "Billboard advertisers use holdout tests to measure lift. Borrow their playbook to see which Google Ads campaigns drive extra sales before you set budgets.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-a-billboard-network-knows-about-measuring-search-ads-that-ppc-teams-forgot/597854/\">What A Billboard Network Knows About Measuring Search Ads That PPC Teams Forgot</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-24T20:00:04+00:00",
+      "fetched": "2026-11-25T03:51:55.966172+00:00"
+    },
+    {
+      "id": "9356bc38-cf41-4e80-aa52-c2278d9b98f2",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Announces December 2026 Core Update Ahead Of Rollout via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-december-2026-core-update/598760/",
+      "summary": "Google announced a December core update focused on ranking relevant content for longer questions and improving results when personalization is on.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-december-2026-core-update/598760/\">Google Announces December 2026 Core Update Ahead Of Rollout</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-24T15:10:30+00:00",
+      "fetched": "2026-11-25T03:51:55.966183+00:00"
+    },
+    {
+      "id": "aa752125-7c36-41c1-9bd5-228b2ae65e21",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "WordPress Drops To 38.4% Of The Web, Down Nearly 5 Points In A Year via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/wordpress-drops-to-38-5-of-the-web-down-nearly-5-points-in-a-year/598175/",
+      "summary": "WordPress fell to 38.4% of all websites as the share with no detected CMS rose to 33.0%.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-drops-to-38-5-of-the-web-down-nearly-5-points-in-a-year/598175/\">WordPress Drops To 38.4% Of The Web, Down Nearly 5 Points In A Year</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-24T15:00:28+00:00",
+      "fetched": "2026-11-25T03:51:55.966197+00:00"
+    },
+    {
+      "id": "0724763e-38f1-4a35-88d2-6b72ef6b3437",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Confirms November 2026 Core Update Is Complete via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-november-2026-core-update-complete/598751/",
+      "summary": "Google\u2019s November 2026 core update finished Nov. 24, just before a holiday week that could complicate Search Console comparisons for retailers.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-november-2026-core-update-complete/598751/\">Google Confirms November 2026 Core Update Is Complete</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-24T14:48:46+00:00",
+      "fetched": "2026-11-25T03:51:55.966208+00:00"
+    },
+    {
+      "id": "fe451bae-cfe3-4b47-972d-8220d3a1b15b",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "What Bing\u2019s AI Actually Cites: 883,000 Citations Analyzed via @sejournal, @dodgejd",
+      "link": "https://www.searchenginejournal.com/what-bings-ai-actually-cites-883000-citations-analyzed/595708/",
+      "summary": "An analysis of 883,000 Bing AI citations shows overlooked PDFs, app pages, and support content earn citations and deserve a place in content audits.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-bings-ai-actually-cites-883000-citations-analyzed/595708/\">What Bing\u2019s AI Actually Cites: 883,000 Citations Analyzed</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-24T13:00:08+00:00",
+      "fetched": "2026-11-25T03:51:55.966218+00:00"
+    },
+    {
+      "id": "7a6deba9-d8a8-4515-9d24-284cbbd3b2ef",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google\u2019s Expansion Of Personal Intelligence Will Change SEO via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/googles-expansion-of-personal-intelligence-will-change-seo/598724/",
+      "summary": "Google's expanded Personal Intelligence represents a change in the relationship between Search and SEO.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-expansion-of-personal-intelligence-will-change-seo/598724/\">Google&#8217;s Expansion Of Personal Intelligence Will Change SEO</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-24T11:55:13+00:00",
+      "fetched": "2026-11-25T03:51:55.966227+00:00"
+    },
+    {
       "id": "59eb448c-f450-4a9f-82de-cf4c13f52f6b",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -142,84 +219,7 @@
       "summary": "Most AI citations that disappear later come back. Here are four things to check about a lost citation before you decide to change a page.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-citations-what-to-check-before-reacting-to-a-lost-one/598166/\">AI Citations: What To Check Before Reacting To A Lost One</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-11-20T13:00:00+00:00",
       "fetched": "2026-11-21T01:52:17.598896+00:00"
-    },
-    {
-      "id": "b01923ef-117d-4bd1-8cd2-b2ebdefb8b3b",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "21 Alternative Search Engines You Can Use Instead of Google via @sejournal, @lorenbaker",
-      "link": "https://www.searchenginejournal.com/21-alternative-search-engines-you-can-use-instead-of-google/596605/",
-      "summary": "Compare 21 Google alternatives for everyday search, private search, AI answers, specialist research, and regional results.\n\nThe post <a href=\"https://www.searchenginejournal.com/21-alternative-search-engines-you-can-use-instead-of-google/596605/\">21 Alternative Search Engines You Can Use Instead of Google</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-19T20:00:05+00:00",
-      "fetched": "2026-11-20T01:56:27.394232+00:00"
-    },
-    {
-      "id": "445cce9a-f6cd-4923-8f45-9f93bf2f4400",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google\u2019s Next Update Won\u2019t Touch The Index, And Nobody Will Announce It via @sejournal, @DuaneForrester",
-      "link": "https://www.searchenginejournal.com/googles-next-update-wont-touch-the-index-and-nobody-will-announce-it/597481/",
-      "summary": "Stop matching traffic drops to update dates. Sample what AI assistants say about your company on a schedule and track which facts drift.\n\nThe post <a href=\"https://www.searchenginejournal.com/googles-next-update-wont-touch-the-index-and-nobody-will-announce-it/597481/\">Google\u2019s Next Update Won\u2019t Touch The Index, And Nobody Will Announce It</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-19T18:00:31+00:00",
-      "fetched": "2026-11-20T01:56:27.394255+00:00"
-    },
-    {
-      "id": "d7e27798-359f-4348-b79b-3b65694513a3",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Your WordPress Sitemap Isn\u2019t Broken \u2013 Chrome 158 Has Dropped XSLT via @sejournal, @TaylorDanRW",
-      "link": "https://www.searchenginejournal.com/your-wordpress-sitemap-isnt-broken-chrome-158-has-dropped-xslt/597549/",
-      "summary": "Chrome dropping XSLT makes WordPress sitemaps display as raw XML. Skip the unnecessary fixes and use Google Search Console to verify crawlers still read them.\n\nThe post <a href=\"https://www.searchenginejournal.com/your-wordpress-sitemap-isnt-broken-chrome-158-has-dropped-xslt/597549/\">Your WordPress Sitemap Isn\u2019t Broken \u2013 Chrome 158 Has Dropped XSLT</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-19T15:00:06+00:00",
-      "fetched": "2026-11-20T01:56:27.394270+00:00"
-    },
-    {
-      "id": "b1e76005-071e-4b9a-ad53-9cca5b6fca36",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "WordPress 7.1.5 Security Release Fixes 18 Vulnerabilities via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/wordpress-7-1-5-security-release-fixes-18-vulnerabilities/598080/",
-      "summary": "WordPress 7.1.5 fixes 18 vulnerabilities and adds two security improvements, including an unauthenticated flaw that could lead to RCE.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-7-1-5-security-release-fixes-18-vulnerabilities/598080/\">WordPress 7.1.5 Security Release Fixes 18 Vulnerabilities</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-19T14:40:05+00:00",
-      "fetched": "2026-11-20T01:56:27.394288+00:00"
-    },
-    {
-      "id": "5c8db105-161a-4d92-9f40-a39d61693c5a",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "WordPress 7.2 Arrives Dec. 8 \u2013 Last-Minute Changes Still Being Made via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/wordpress-7-2-seo-ai-changes/597616/",
-      "summary": "WordPress 7.2 plans a default-on random post redirect with no settings toggle. Here's what changes, what can wait, and what's still undecided before release.\n\nThe post <a href=\"https://www.searchenginejournal.com/wordpress-7-2-seo-ai-changes/597616/\">WordPress 7.2 Arrives Dec. 8 \u2013 Last-Minute Changes Still Being Made</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-19T13:00:50+00:00",
-      "fetched": "2026-11-20T01:56:27.394301+00:00"
-    },
-    {
-      "id": "68dee349-0b69-40d0-9a2d-bfad772ad1cd",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "OpenAI Publishes Prompting Guidance For GPT-6.2 Astra via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/openai-gpt-6-2-astra-prompting-guidance/597877/",
-      "summary": "OpenAI's GPT-6.2 guide says Astra writes more concisely by default, suggests revisiting \"be concise\" prompts and flags an API change for edited history.\n\nThe post <a href=\"https://www.searchenginejournal.com/openai-gpt-6-2-astra-prompting-guidance/597877/\">OpenAI Publishes Prompting Guidance For GPT-6.2 Astra</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-18T22:26:21+00:00",
-      "fetched": "2026-11-19T02:06:51.997623+00:00"
-    },
-    {
-      "id": "f25e05c1-6b87-4777-912c-28de03345bed",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Robots.txt Guide \u2013 Best Practices For Search & AI Crawlers via @sejournal, @vahandev",
-      "link": "https://www.searchenginejournal.com/technical-seo/robots-txt-guide-best-practices-for-search-ai-crawlers/",
-      "summary": "Learn how to configure robots.txt, avoid crawl and indexing mistakes, and manage AI training, search crawlers, and user-requested visits separately.\n\nThe post <a href=\"https://www.searchenginejournal.com/technical-seo/robots-txt-guide-best-practices-for-search-ai-crawlers/\">Robots.txt Guide \u2013 Best Practices For Search &#038; AI Crawlers</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-18T20:00:31+00:00",
-      "fetched": "2026-11-19T02:06:51.997648+00:00"
     }
   ],
-  "last_updated": "2026-11-24T05:02:50.161045+00:00"
+  "last_updated": "2026-11-25T03:51:57.456224+00:00"
 }
