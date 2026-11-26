@@ -1,6 +1,50 @@
 {
   "articles": [
     {
+      "id": "298e423a-351a-4356-9fcc-2317c9745415",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "AI Shopping Agents Bought A Fake Deal 37% Of The Time \u2013 Claude Opus Never Did via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/ai-shopping-agents-bought-a-fake-deal-37-of-the-time-claude-opus-never-did/598682/",
+      "summary": "AI models flagged a deal as suspicious 315 times, bought the fake anyway 137 times, and never asked the shopper about the deal.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-shopping-agents-bought-a-fake-deal-37-of-the-time-claude-opus-never-did/598682/\">AI Shopping Agents Bought A Fake Deal 37% Of The Time \u2013 Claude Opus Never Did</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-25T20:00:32+00:00",
+      "fetched": "2026-11-26T03:16:34.877567+00:00"
+    },
+    {
+      "id": "879fb598-dbfc-4ff7-be60-f68d83f90735",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Top Publisher League Tables For U.S. & U.K.",
+      "link": "https://www.searchenginejournal.com/top-publisher-league-tables-for-us-uk/598933/",
+      "summary": "Monthly U.K. and U.S. leaderboards rank publishers on engagement, loyalty, and audience scale using Similarweb data.\n\nThe post <a href=\"https://www.searchenginejournal.com/top-publisher-league-tables-for-us-uk/598933/\">Top Publisher League Tables For U.S. &#038; U.K.</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-25T18:00:02+00:00",
+      "fetched": "2026-11-26T03:16:34.877586+00:00"
+    },
+    {
+      "id": "65dbe4a5-a884-4f1a-8199-dd7507115f27",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "ChatGPT Ads Are Growing Fast \u2013 But Are Advertisers Seeing Results? via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/chatgpt-ads-are-growing-fast-but-are-advertisers-seeing-results/598052/",
+      "summary": "Early ChatGPT Ads tests show why following leads through to a sale or qualified opportunity can help you decide whether to keep spending.\n\nThe post <a href=\"https://www.searchenginejournal.com/chatgpt-ads-are-growing-fast-but-are-advertisers-seeing-results/598052/\">ChatGPT Ads Are Growing Fast \u2013 But Are Advertisers Seeing Results?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-25T15:00:31+00:00",
+      "fetched": "2026-11-26T03:16:34.877599+00:00"
+    },
+    {
+      "id": "ff7c6de1-f74a-407c-8880-b02e18761642",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Is GEO Visibility Delivering Business Value, Or Are We Measuring The Wrong Outcome? via @sejournal, @billhunt",
+      "link": "https://www.searchenginejournal.com/is-geo-visibility-delivering-business-value-or-are-we-measuring-the-wrong-outcome/594064/",
+      "summary": "GEO visibility can hide gaps that keep buyers from shortlisting your brand. Decision Coverage shifts measurement toward buyer requirements and supporting evidence.\n\nThe post <a href=\"https://www.searchenginejournal.com/is-geo-visibility-delivering-business-value-or-are-we-measuring-the-wrong-outcome/594064/\">Is GEO Visibility Delivering Business Value, Or Are We Measuring The Wrong Outcome?</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-25T13:00:23+00:00",
+      "fetched": "2026-11-26T03:16:34.877614+00:00"
+    },
+    {
       "id": "55ba4399-f13e-4c93-8e51-b26d6a42841f",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -175,51 +219,7 @@
       "summary": "Marc Benioff promoted Palmata by saying goodbye to SEO, while Salesforce\u2019s own guide says SEO remains the foundation.\n\nThe post <a href=\"https://www.searchenginejournal.com/salesforce-ceo-goodbye-seo-salesforce-seo-guide/598343/\">Salesforce CEO Says &#8216;Goodbye SEO.&#8217; Salesforce&#8217;s SEO Guide Disagrees</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-11-20T20:20:52+00:00",
       "fetched": "2026-11-21T01:52:17.598808+00:00"
-    },
-    {
-      "id": "f7a29176-aa79-491a-99e3-58ddc247f622",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Why Building Trust Through Real People Stands The Test Of Time In SEO & AI Search via @sejournal, @lilyraynyc",
-      "link": "https://www.searchenginejournal.com/why-building-trust-through-real-people-stands-the-test-of-time-in-seo-ai-search/598110/",
-      "summary": "Scaled AI content, fake authors, and self-promotional listicles work until they don\u2019t. Here\u2019s why putting real human experts first keeps paying off in search.\n\nThe post <a href=\"https://www.searchenginejournal.com/why-building-trust-through-real-people-stands-the-test-of-time-in-seo-ai-search/598110/\">Why Building Trust Through Real People Stands The Test Of Time In SEO &#038; AI Search</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-20T20:00:34+00:00",
-      "fetched": "2026-11-21T01:52:17.598835+00:00"
-    },
-    {
-      "id": "a266eaaf-3f44-4b43-9816-2d56e98c6c91",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Google Told CMOs To Stop \u2018Top 10\u2019 Listicles. Here\u2019s Its Example via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-told-cmos-to-stop-top-10-listicles/598310/",
-      "summary": "Google's marketing account told CMOs to replace generic tips posts with content grounded in first-hand expertise.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-told-cmos-to-stop-top-10-listicles/598310/\">Google Told CMOs To Stop &#8216;Top 10&#8217; Listicles. Here&#8217;s Its Example</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-20T16:17:43+00:00",
-      "fetched": "2026-11-21T01:52:17.598855+00:00"
-    },
-    {
-      "id": "3ac6e836-d112-457c-a6b2-7dc1ce5e3f7d",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "A Charity Rescue Dog Outscored Amazon\u2019s Christmas Ad \u2013 PPC Accounts Need A Story Before Cyber Week via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/a-charity-rescue-dog-outscored-amazons-christmas-ad-ppc-accounts-need-a-story-before-cyber-week/597789/",
-      "summary": "Give holiday Google Ads a stronger story, using DAIVID's ranking of 75 Christmas ads where Dogs Trust outscored Amazon.\n\nThe post <a href=\"https://www.searchenginejournal.com/a-charity-rescue-dog-outscored-amazons-christmas-ad-ppc-accounts-need-a-story-before-cyber-week/597789/\">A Charity Rescue Dog Outscored Amazon&#8217;s Christmas Ad \u2013 PPC Accounts Need A Story Before Cyber Week</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-20T15:00:09+00:00",
-      "fetched": "2026-11-21T01:52:17.598878+00:00"
-    },
-    {
-      "id": "e1bc664b-5e91-45ac-a2fc-12cf23220f66",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "AI Citations: What To Check Before Reacting To A Lost One via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/ai-citations-what-to-check-before-reacting-to-a-lost-one/598166/",
-      "summary": "Most AI citations that disappear later come back. Here are four things to check about a lost citation before you decide to change a page.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-citations-what-to-check-before-reacting-to-a-lost-one/598166/\">AI Citations: What To Check Before Reacting To A Lost One</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-20T13:00:00+00:00",
-      "fetched": "2026-11-21T01:52:17.598896+00:00"
     }
   ],
-  "last_updated": "2026-11-25T03:51:57.456224+00:00"
+  "last_updated": "2026-11-26T03:16:35.784597+00:00"
 }
