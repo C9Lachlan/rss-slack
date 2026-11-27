@@ -1,6 +1,50 @@
 {
   "articles": [
     {
+      "id": "9211992e-baee-47b3-9a4c-7b01bcf2d74f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "The Missing Step In Prompt Tracking Was Written Down In 1995 via @sejournal, @DuaneForrester",
+      "link": "https://www.searchenginejournal.com/the-missing-step-in-prompt-tracking-was-written-down-in-1995/598461/",
+      "summary": "Competency questions, a 30-year-old knowledge engineering method, define which questions matter and what a correct answer is.\n\nThe post <a href=\"https://www.searchenginejournal.com/the-missing-step-in-prompt-tracking-was-written-down-in-1995/598461/\">The Missing Step In Prompt Tracking Was Written Down In 1995</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-26T15:00:36+00:00",
+      "fetched": "2026-11-27T03:21:53.152657+00:00"
+    },
+    {
+      "id": "99fab62f-759e-40a5-acea-a156cc007a8f",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "What SEOs Can Be Thankful For: 8 Wins To Celebrate In 2026 via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/what-seos-can-be-thankful-for-2026/598921/",
+      "summary": "A Thanksgiving roundup of eight search changes from this year worth a thank-you, from AI visibility data and social reports to a back button policy.\n\nThe post <a href=\"https://www.searchenginejournal.com/what-seos-can-be-thankful-for-2026/598921/\">What SEOs Can Be Thankful For: 8 Wins To Celebrate In 2026</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-26T13:00:22+00:00",
+      "fetched": "2026-11-27T03:21:53.152679+00:00"
+    },
+    {
+      "id": "6765c577-c880-445b-94c4-4e53ca7c1c69",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "OpenAI Has No Plans For Prompt-Level ChatGPT Ads Reports via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/openai-isnt-planning-prompt-level-reports-for-chatgpt-ads/599126/",
+      "summary": "OpenAI says ChatGPT advertisers can see aggregate results but won\u2019t get reports showing the prompts or intent behind their ads.\n\nThe post <a href=\"https://www.searchenginejournal.com/openai-isnt-planning-prompt-level-reports-for-chatgpt-ads/599126/\">OpenAI Has No Plans For Prompt-Level ChatGPT Ads Reports</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-26T04:15:54+00:00",
+      "fetched": "2026-11-27T03:21:53.152696+00:00"
+    },
+    {
+      "id": "71378d3b-4e76-4132-9bf5-9e080b59b392",
+      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "feed_name": "Search Engine Journal",
+      "feed_url": "https://www.searchenginejournal.com",
+      "title": "Google Adds Pageburst & 11 Other Existing Bots To Its Crawler Docs via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-adds-pageburst-11-other-existing-bots-to-its-crawler-docs/599120/",
+      "summary": "Google's crawler docs now list pageburst, which renders pages for Google Ads and ignores robots.txt, plus more existing user agents to check in server logs.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-adds-pageburst-11-other-existing-bots-to-its-crawler-docs/599120/\">Google Adds Pageburst &#038; 11 Other Existing Bots To Its Crawler Docs</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
+      "published": "2026-11-26T03:22:22+00:00",
+      "fetched": "2026-11-27T03:21:53.152716+00:00"
+    },
+    {
       "id": "298e423a-351a-4356-9fcc-2317c9745415",
       "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "feed_name": "Search Engine Journal",
@@ -175,51 +219,7 @@
       "summary": "Google explains how website owners and SEOs can identify legitimate Google-Agent requests and prevent security systems from blocking them.\n\nThe post <a href=\"https://www.searchenginejournal.com/google-publishes-guidance-for-google-agent-crawler/598526/\">Google Publishes Guidance For Google-Agent Crawler</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
       "published": "2026-11-23T13:12:32+00:00",
       "fetched": "2026-11-24T05:02:49.292271+00:00"
-    },
-    {
-      "id": "38856314-b7fa-4d06-9589-e1313f64ecc9",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "35 AI Prompts & Examples For SEO (Updated November 2026) via @sejournal, @theshelleywalsh",
-      "link": "https://www.searchenginejournal.com/ai-prompts-examples-for-seo-2026/596734/",
-      "summary": "Use these SEO prompts with verified data, native AI tools, and connected sources to get deeper insights from tool data.\n\nThe post <a href=\"https://www.searchenginejournal.com/ai-prompts-examples-for-seo-2026/596734/\">35 AI Prompts &#038; Examples For SEO (Updated November 2026)</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-23T13:00:17+00:00",
-      "fetched": "2026-11-24T05:02:49.292288+00:00"
-    },
-    {
-      "id": "28f7cd7b-3c6d-4b2b-92ce-c99d5102e8e4",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Check Your Nov. 18 Rank Data Before Blaming The Core Update via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/check-your-nov-18-rank-data-before-blaming-the-core-update/598449/",
-      "summary": "A rank tracker received about a tenth of its usual Google results for hours during the core update, with a sign-in page among the blocks.\n\nThe post <a href=\"https://www.searchenginejournal.com/check-your-nov-18-rank-data-before-blaming-the-core-update/598449/\">Check Your Nov. 18 Rank Data Before Blaming The Core Update</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-23T09:00:04+00:00",
-      "fetched": "2026-11-24T05:02:49.292303+00:00"
-    },
-    {
-      "id": "418d8992-685b-4570-a450-da2c7ed6cd22",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "WordPress Random Redirects, Branded API Data & CDN Advice \u2013 SEO Pulse via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-wordpress-random-redirects-branded-api-data-cdn-advice/598173/",
-      "summary": "This week's SEO Pulse covers WordPress's random redirect, branded data in Search Console API, Google's CDN guidance, and who controls access for bots and agents.\n\nThe post <a href=\"https://www.searchenginejournal.com/seo-pulse-wordpress-random-redirects-branded-api-data-cdn-advice/598173/\">WordPress Random Redirects, Branded API Data &#038; CDN Advice \u2013 SEO Pulse</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-21T13:00:00+00:00",
-      "fetched": "2026-11-22T00:46:16.382047+00:00"
-    },
-    {
-      "id": "49c973df-73a0-4dc0-9f07-847617a5cc84",
-      "feed_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "feed_name": "Search Engine Journal",
-      "feed_url": "https://www.searchenginejournal.com",
-      "title": "Salesforce CEO Says \u2018Goodbye SEO.\u2019 Salesforce\u2019s SEO Guide Disagrees via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/salesforce-ceo-goodbye-seo-salesforce-seo-guide/598343/",
-      "summary": "Marc Benioff promoted Palmata by saying goodbye to SEO, while Salesforce\u2019s own guide says SEO remains the foundation.\n\nThe post <a href=\"https://www.searchenginejournal.com/salesforce-ceo-goodbye-seo-salesforce-seo-guide/598343/\">Salesforce CEO Says &#8216;Goodbye SEO.&#8217; Salesforce&#8217;s SEO Guide Disagrees</a> appeared first on <a href=\"https://www.searchenginejournal.com\">Search Engine Journal</a>.\n",
-      "published": "2026-11-20T20:20:52+00:00",
-      "fetched": "2026-11-21T01:52:17.598808+00:00"
     }
   ],
-  "last_updated": "2026-11-26T03:16:35.784597+00:00"
+  "last_updated": "2026-11-27T03:22:06.135334+00:00"
 }
